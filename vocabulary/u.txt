@@ -352,6 +352,8 @@ umherstreichen: to prowl 潛行，逡巡
 umherstreifen: to roam around
   umherstreifen in den Wäldern, in der Gegend etc
 
+umhinkönnen: not to have any choice
+
 umkehren /ˈʊmkeːrən/: to turn back, to reverse, to turn (inside) out
   Auf halber Strecke sind sie umgekehrt und wieder nach Hause gefahren.
   Halfway there they turned back and drove home again.
