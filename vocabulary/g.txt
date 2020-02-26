@@ -1239,7 +1239,7 @@ grau /ɡrau/: grey
 
 *Graupel /ˈɡraupəl/, die: sleet
 
-greifen /ˈɡraifən/: to seize, to grab, to reach, to stop
+greifen /ˈɡraifən/ (nach): to seize, to grab, to reach, to stop
   Ich griff mir die Schlüssel und verschwand.
   I grabbed the keys and disappeared.
   Sie griff in die Tasche und holte ihren Ausweis heraus.
