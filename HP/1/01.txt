@@ -640,7 +640,7 @@ Trying to pull himself together, he let himself into the house.
 
 他試圖讓自己鎮定一下，才進了家門。
 ------------------------------------------------------------------------------
-Immer noch war er entschlossen [determined], nichts von alledem seiner Frau 
+Immer noch war er entschlossen [determined => entschließen], nichts von alledem seiner Frau 
 zu sagen.
 
 He was still determined not to mention anything to his wife.

@@ -962,6 +962,9 @@ Entscheidung /ɛntˈʃaidʊŋ/, die: decision
 
 entschieden => entscheiden
 
+entschließen: to decide
+  Sie haben sich entschlossen, das Boot zu verkaufen.
+
 entschlossen: determined, resolute
   Er ist fest entschlossen, seinen Traum zu verwirklichen.
   He's determined to realize his dream.
