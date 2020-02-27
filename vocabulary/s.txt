@@ -472,6 +472,10 @@ schleichen /ˈʃlaiçən/: to creep, to crawl, to slink
   mit hängendem Kopf nach Hause schleichen
   to crawl home with head hanging
 
+schleifen: to sharpen, to drag
+  die vollen Säcke in den Keller schleifen
+  to drag the full sacks into the cellar
+
 Schleim /ʃlaim/, der, -(e)s|-e: mucus, phlegm, slime, mush, oatmeal, rice pudding
   den Schleim in den Lungen lösen: to get rid of phlegm in the lungs
   einem Kranken einen Haferschleim kochen: to make some oatmeal for a sick person
@@ -501,6 +505,8 @@ schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, s
   jdn/sich in ein Zimmer schließen: to lock sb/yourself in a room
   einen Vertrag mit jdm schließen: to sign a contract with sb
   ... nach zu schließen: judging by ...
+  Aus seinem Verhalten kann man schließen, dass er nervös ist.
+  From his behavior one can conclude that he’s nervous.
 
 schließlich /ˈʃliːslɪç/: finally, at last, in the end, after all
   Schließlich verließen auch die letzten Gäste das Fest.
@@ -2161,6 +2167,8 @@ Streik /ʃtraik/, der, -(e)s|-s: strike
 Streit /ʃtrait/, der: argument, quarrel, dispute
   Ich bekam mit den Nachbarn Streit wegen der Katze.
   I got into an argument with the neighbors over the cat.
+
+streiten: to argue, to quarrel
 
 streitig /ˈʃtraitɪç/: to dispute sb's right to sth
   jdm den Meistertitel streitig machen
