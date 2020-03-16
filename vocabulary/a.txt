@@ -426,6 +426,9 @@ abwählen /ˈapvɛːlən/: to vote out of office, to drop
   In der Oberstufe kann ich Latein endlich abwählen.
   When I'm a senior I can finally drop Latin.
 
+abwärts: down, downwards
+  vom Hals abwärts gelähmt sein
+
 Abwasser /ˈapvasɐ/, das, -s|..: waste water
   Abwasserkanal: gully
 
@@ -1604,7 +1607,7 @@ aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
   Führ dich doch nicht so auf!
   Stop playing up!
 
-Aufgaben /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
+Aufgabe /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
 
 Aufgang /ˈaufɡaŋ/, der, -(e)s|..e: rise, rising
   => aufgehen
@@ -1907,6 +1910,9 @@ Auftritt /ˈauftrɪt/, der, Auftritte: appearance, performance, (theatre) scene
 aufwachen /ˈaufvaxən/: to wake up
   Sie wachte mitten in der Nacht auf.
   She woke up in the middle of the night.
+
+aufwärts: up, upwards
+  Aufwärts gehen wir zu Fuß, abwärts fahren wir mit der Seilbahn.
 
 aufwecken /ˈaufvɛkən/: to wake up
   Kannst du mich morgen bitte um 7 Uhr aufwecken?

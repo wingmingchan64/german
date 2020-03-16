@@ -1122,6 +1122,8 @@ Kurs /kʊrs/, der: course, price, rate
   The airplane went off course.
   steigende/fallende Kurse: rising/falling prices
 
+Kursbuch: Buch, das die Fahrpläne aller Strecken der Eisenbahn eines Landes beinhaltet
+
 kurz /kʊrʦ/, kürzer or kürzeste: short, briefly
   kurze Haare haben: to have short hair
   Sie erzählte kurz, was passiert war.

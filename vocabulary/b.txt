@@ -252,6 +252,15 @@ bedenken /bəˈdɛŋkən/: to consider, to take into account
   Sein Auftritt wurde mit Applaus bedacht.
   His performance was met with applause.
 
+bedeuten: to mean, to involve, to bode, to mean a lot to sb
+  Was bedeutet dieses Symbol / Wort?
+  Der Umzug bedeutet ziemlich viel Arbeit für uns.
+  Es bedeutet mir sehr viel, dass du mir geholfen hast.
+
+bedeutend: von großer Wichtigkeit, hohem Ansehen; wichtig; groß
+  ein bedeutender Schriftsteller
+  sich bedeutend verbessern
+
 Bedeutung: meaning, importance
   an Bedeutung gewinnen/verlieren: to gain/loose in importance
 
@@ -534,6 +543,8 @@ Bein /bain/, das, -(e)s|-e: leg
 
 beinahe /ˈbainaːə/: almost
   beinah(e) in allen Fällen, in beinah(e) allen Fällen: in almost every case
+
+beinhalten: etw. mit zum Inhalt haben
 
 beisammen /baiˈzamən/: together
 
@@ -1279,6 +1290,9 @@ bezahlen /bəˈʦaːlən/: to pay for
   How much do you pay your cleaning lady an hour?
 
 bezaubern: bewitch, charm, enchant
+
+bezeichnen: to describe, to denote, to mean
+  Das Ergebnis kann man nicht als Erfolg / als befriedigend bezeichnen.
 
 Beziehung /bəˈʦiːʊŋ/, die, ~|-en: relationship, connection, respect
   Wir haben eine freundschaftliche Beziehung zueinander.
