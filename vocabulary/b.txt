@@ -715,6 +715,7 @@ benehmen /bəˈneːmən/: to behave
   => betragen
 
 beneiden: to envy
+  jdn um seinen Erfolg beneiden
 
 benötigen /bəˈnøːtɪɡən/: to need, to require
   Ich benötige deine Hilfe.
@@ -752,6 +753,8 @@ Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
   According to my calculations we should be there soon.
   Der Flug wurde ohne Berechnung von Gebühren umgebucht.
   The flight was changed at no additional charge.
+
+beredt: expressive
 
 Bereich /bəˈraiç/, der, -e: area, domain, range, section
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
@@ -1283,6 +1286,9 @@ bewundern /bəˈvʊndɐn/: to admire
 bewusst /bəˈvʊst/: deliberate
   Das war bewusste Irreführung!
   That was deliberate deception!
+
+Bewusstsein, das: consciousness, awareness
+  Pflichtbewusstsein: sense of duty
 
 bezahlen /bəˈʦaːlən/: to pay for
   eine Rechnung bar bezahlen: to pay an invoice in cash

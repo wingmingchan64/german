@@ -141,6 +141,9 @@ Eifer /ˈaifɐ/, der, -s|uncountable: eagerness, enthusiasm
   Im Eifer des Gefechts hätten sie beinahe den Hund im Auto vergessen.
   In the heat of the moment they almost left the dog in the car.
 
+Eifersucht, die: jealousy
+  Der Mord geschah aus Eifersucht.
+
 Eigelb /ˈaiɡɛlp/, das, -: yolk
   => Dotter
   Eigelb und Eiweiß trennen: to separate the yolk from the egg white
@@ -1211,6 +1214,12 @@ erglimmen: to begin to glimmer
 ergreifen /ɛɐˈɡrɪfn/: to seize, to overcome
   das Feuer ergriff den ganzen Wald: the fire engulfed the whole forest
 
+Erhalt, der: receipt, preservation
+  den Erhalt einer Sendung schriftlich bestätigen
+  to confirm receipt of a package in writing
+  öffentliche Gelder für den Erhalt der alten Mühle
+  public funds for the preservation of the old mill
+
 erhalten /ɛɐˈhaltən/: to receive, to get
   Haben Sie meinen Brief erhalten?
   Did you get my letter?
@@ -1378,6 +1387,8 @@ Ermordung /ɛɐˈmɔrdʊŋ/, die, ~|-en: murder, homicide
 
 Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
 
+erneut: renewed, further, again
+
 ernst /ɛrnst/: serious, grave
   Warum machst du denn so ein ernstes Gesicht?
   Why are you looking so serious?
@@ -1458,6 +1469,8 @@ erschaffen /ɛɐˈʃafən/: to create
   God created the world and humankind.
 
 erschallen: to ring out, to sound
+
+erschauern: to shiver
 
 erscheinen /ɛɐˈʃainən/: to turn up, to appear, to be published, to seem
 
@@ -1600,6 +1613,8 @@ erwidern /ɛɐˈviːdɐn/: to reply, to respond, to answer, to react to, to ackn
   She acknowledged his greeting with a nod of her head.
   Leider wurde ihre Liebe nicht erwidert.
   Unfortunately, his love was not reciprocated.
+
+Erwiderung: reply, response
 
 erwirken /ɛɐˈvɪrkən/: to obtain, to take out
   eine einstweilige Verfügung gegen jdn erwirken

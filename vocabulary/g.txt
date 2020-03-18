@@ -526,10 +526,10 @@ Gelegenheit /ɡəˈleːɡənhait/, die, -en: opportunity, occasion
 
 Gelingen /ɡəˈlɪŋən/, das: success
 
-gelingen /ɡəˈlɪŋən/: to succeed, to be successful
+gelingen /ɡəˈlɪŋən/: to succeed, to be successful, to turn out
   <=> misslingen
   Was, wenn der Plan nicht gelingt?
-  What if the plan doesn't succeed? 
+  What if the plan doesn't succeed?
 
 geloben /ɡəˈloːbən/: to vow, to pledge
   Er gelobte Besserung.
@@ -1029,6 +1029,9 @@ gezielt /ɡəˈʦiːlt/: deliberate, calculated, targeted, specifically
   gezielt nur die erkrankten Tiere töten, nicht die ganze Herde
   to purposefully kill only the sick animals, not the whole herd
 
+geziemen: to behoove, to befit
+  Es geziemt sich nicht, mit vollem Mund zu reden.
+
 gezogen => ziehen
 
 gezwungen /ɡəˈʦvʊŋən/: forced, strained
@@ -1279,6 +1282,8 @@ großartig /ˈɡroːs|artɪç/: wonderful, terrific, great
   It doesn't make much of a difference.
 
 Größe /ˈɡrøːsə/, die: size
+
+großspurig: 
 
 Grube /ˈɡruːbə/, die, -n: pit, hole
   eine Grube graben / ausheben: to dig a hole/pit

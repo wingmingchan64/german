@@ -286,9 +286,10 @@ vergehen /fɛɐˈɡeːən/: to pass, to go by, to wear off, to be dying of sth, 
 
 vergewaltigen /fɛɐɡəˈvaltɪɡən/: to rape
 
-vergießen /fɛɐˈɡiːsən/: to spill
+vergießen /fɛɐˈɡiːsən/: to spill, to shed
   Wer hat den Kakao auf dem Tisch vergossen?
   Who spilled the cocoa on the table?
+  Ich habe bei der Arbeit viel Schweiß vergossen.
 
 Vergleich /fɛɐˈɡlaiç/, der, -e: comparison
   Vergleiche zwischen zwei Dingen anstellen / ziehen
@@ -374,6 +375,13 @@ verheimlichen /fɛɐˈhaimlɪçən/: to keep secret, to hide
 verheiraten: to marry, to get married
 
 verheiratet /fɛɐˈhairatət/: married
+
+verheißen: to promise
+  Die ersten Ergebnisse verheißen wenig Gutes.
+  The first results do not augur well.
+
+verheißungsvoll: promising
+  ein verheißungsvoller Start
 
 verhelfen /fɛɐˈhɛlfən/: to help sb/sth to achieve sth
   einer Partei/Idee zum Erfolg verhelfen
@@ -1308,6 +1316,8 @@ Vorstellung /ˈfoːɐʃtɛlʊŋ/, die, ~|-en: idea, picture, performance, presen
 Vorstellungsgespräch /ˈfoːɐʃtɛlʊŋsɡəʃprɛːç/, das, -e: interview
   Sie hat um 10 Uhr ein Vorstellungsgespräch.
   She has an interview at 10 o'clock.
+
+verstohlen: surreptitious, stealthy
 
 Vorteil /ˈfɔrtail/, der, -e: advantage
   Das bringt auch Vorteile mit sich.

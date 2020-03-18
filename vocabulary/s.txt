@@ -1378,7 +1378,7 @@ sogar /zoˈɡaːɐ/: even, no less
 
 sogenannt: so-called
 
-sogleich /zoˈɡlaiç/: immediately
+sogleich /zoˈɡlaiç/: immediately, at once
   Er traf dort einen gleichaltrigen Jungen, mit dem er sich sogleich angefreundet hat.
   There he met a boy of the same age with whom he immediately became friends.
 
@@ -1460,8 +1460,16 @@ sortieren /zɔrˈtiːrən/: to sort
   Die Stücke werden nach der Größe / Farbe sortiert.
   The items are sorted by size/color.
 
+sosehr: however much
+  Das lässt sich nicht mehr ändern, sosehr ich es mir auch wünsche.
+  It can’t be changed, however much I’d like to.
+
 Soße /ˈzoːsə/, die, -n: sauce
   Bratensoße: gravy
+
+soviel: as/so far as, however much
+  Soviel ich weiß, kommt er heute.
+  Soviel er sich auch bemüht, er kommt zu keinem Ergebnis.
 
 soweit /zoˈvait/: as/so far as
   Soweit ich gehört habe, ist sie verreist.
@@ -1882,6 +1890,7 @@ stellen /ˈʃtɛlən/: to put, to place, to set, to provide
   The photo looks posed.
   Er lief davon, konnte aber in einer Sackgasse gestellt werden.
   He ran away but it was possible to corner him in a cul-de-sac.
+  sich einer Aufgabe / seinen Problemen / … stellen: nicht versuchen, vor etw. wegzulaufen
 
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige

@@ -210,6 +210,10 @@ abräumen /ˈaprɔymən/: to clean up
   Would you clear the table before you go, please?
   => räumen: to clear, to put away, to vacate
 
+Abrede: agreement
+  eine Abrede treffen: etw. vereinbaren
+  etw. in Abrede stellen: leugnen, abstreiten
+
 Abreise /ˈapraizə/, die, ~|-n: departure
   ihre Abreise nach London: her departure to London
 
@@ -253,6 +257,7 @@ abscheulich /apˈʃɔylɪç/: hideous, disgusting
 Abschied /ˈapʃiːt/, der, -(e)s|-e: leave, farewell
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
+  von jdm / etw. Abschied nehmen
 
 abschieben /ˈapʃiːbən/: to deport, to shift
   habe abgeschoben
@@ -400,6 +405,10 @@ abstrakt /apˈstrakt/
   Dabei handelt es sich nicht nur um ein abstraktes Risiko, sondern eine ganz konkrete Gefahr.
   This is not an abstract risk but a real concrete danger.
 
+abstreiten: to deny
+  Bei der Verhandlung stritt der Angeklagte alles ab.
+  At the hearing the accused denied everything.
+
 Absturz /ˈapʃtʊrʦ/, der, -es|..e: crash
   Beim Absturz des Hubschraubers sind alle Insassen ums Leben gekommen.
   All of the occupants were killed when the helicopter crashed.
@@ -434,6 +443,10 @@ Abwasser /ˈapvasɐ/, das, -s|..: waste water
 
 Abwechslung /ˈapvɛkslʊŋ/, die: diversion
   eine willkommene Abwechslung: a welcome change
+
+abwenden: to avert, to turn away
+  Ich konnte den Blick nicht von ihr abwenden.
+  Das Unglück konnte gerade noch abgewendet werden.
 
 abwerfen /ˈapvɛrfən/: to drop, to throw off, to discard, to yield
   Die Bäume werfen schon ihre Blätter ab.
@@ -824,6 +837,7 @@ Anden /ˈandən/, pl: Andes
 andere /ˈandərə/: other, else
   Es tut mir leid, ich liebe einen anderen.
   I'm sorry, but I love someone else.
+  unter anderem: among other things
 
 anderenfalls /ˈandərənfals/: otherwise
   Sie muss einen Kredit aufnehmen, anderenfalls muss sie ihr Geschäft schließen.
@@ -871,6 +885,11 @@ ahfahren /ˈanfaːrən/: to hit, to snap at 厲聲說, to stop at, to start up
   The bus stops at several remote villages.
   Er fuhr mit quietschenden Reifen an.
   He sped off, burning rubber.
+
+Anfall, der, -(e)s, ..e: attack, fit
+  in einem Anfall von Eifersucht / Arbeitswut: in a fit of jealousy/work frenzy
+
+anfällig /ˈanfɛlɪç/: susceptible, subject to
 
 Anfang /ˈanfaŋ/, der, -(e)s|..e: beginning, start
   => Beginn
@@ -1409,6 +1428,8 @@ archivieren /arçiˈviːrən/: to archive
 
 Argument /arɡuˈment/, das, -e
 
+argwöhnen /ˈarkvøːnən/: to suspect
+
 Arm /arm/, der, -(e)s|-e: arm, branch, sleeve
   ein Kind auf den Arm nehmen: to take a child up into your arms
   jdm in den Arm fallen: to pull sb back
@@ -1454,6 +1475,8 @@ Artikel /arˈtɪkəl/, der, -s|~: article
   section 5 of the Basic Law for the Federal Republic of Germany
   Die unbestimmten Artikel im Deutschen sind „ein‟ und „eine‟.
   The indefinite articles in German are “ein” and “eine”.
+
+Artigkeit, die: good behavior, compliments, courtesy
 
 Arzt /arʦt/, -(e)s|..e, Ärztin: doctor
   ein Attest des behandelndes Arztes vorlegen
@@ -2362,6 +2385,10 @@ austapezieren
   => tapezieren: to wallpaper
   => Tapete
   austapezieren mit Tapeten
+
+Austausch /ˈaustauʃ/, der: exchange
+  sich zum Erfahrungsaustausch treffen: to meet for an exchange of experiences
+  der regelmäßige Austausch des Motoröls: regular oil changes
 
 austauschen /ˈaustauʃən/: to exchange, to replace, to substitute
   Die beiden Länder tauschten Gefangene aus.

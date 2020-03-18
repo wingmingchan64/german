@@ -160,6 +160,11 @@ Maß /maːs/, das, -es|-e: measure, dimension, degree
 
 maßlos /ˈmaːsloːs/: extreme, excessive
 
+Maßnahme, die: measure
+  Maßnahmen gegen jdn / etw treffen / ergreifen
+  sich zu Maßnahmen gezwungen sehen
+  to be forced to take action
+
 Maßnahmenbündel, das, Maßnahmenkatalog, der, Maßnahmenpaket, das: packet of meassures
 
 Mast /mast/, der, Maste: mast, pole
@@ -297,6 +302,7 @@ Meldung /ˈmɛldʊŋ/, die, ~|-en: report, piece of news
   Bei der Polizei ging eine Meldung über einen Unfall ein.
   The police received a report of an accident.
   seine Meldung zu einem Wettkampf zurückziehen: to withdraw from a competition
+  Wettermeldungen
 
 Memoiren /memoˈaːrən/, pl: memoirs
   seine Memoiren schreiben: to write your memoirs
