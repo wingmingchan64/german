@@ -16,10 +16,10 @@ Express. It consisted of a kitchen and dining-car, a sleeping-car and two local
 coaches. 
 ------------------------------------------------------------------------------
 Vor dem Trittbrett [das, step] zum Schlafwagen unterhielt sich ein junger
-französischer Leutnant in prächtiger Uniform mit einem dünnen kleinen Mann, der
-sich bis über die Ohren eingemummt [einmummeln: to muffle up] hatte, so dass man
-von ihm nur noch die rote Nasenspitze und die beiden Enden eines aufwärts
-gezwirbelten [zwirbeln: to twirl] Schnurrbarts sah.
+französischer Leutnant [/ˈlɔytnant/] in prächtiger Uniform [f] mit einem dünnen
+kleinen Mann, der sich bis über die Ohren eingemummt [einmummeln: to muffle up]
+hatte, so dass man von ihm nur noch die rote Nasenspitze und die beiden Enden
+eines aufwärts [upwards] gezwirbelten [zwirbeln: to twirl] Schnurrbarts sah.
 
 By the step leading up into the sleeping-car stood a young French lieutenant,
 resplendent in uniform conversing, with a small man muffled up to the ears of
@@ -27,21 +27,22 @@ whom nothing was visible but a pink-tipped nose and the two points of an
 upwardcurled moustache. 
 ------------------------------------------------------------------------------
 Es war bitterkalt, und niemand war um die Aufgabe zu beneiden [to envy], einen
-berühmten Fremdling am Bahnhof zu verabschieden, aber Lieutenant Dubosc stellte
-sich [to be prepared] ihr wie ein Mann. Von seinen Lippen flossen elegante Sätze
-in geschliffenem [schleifen: to sharpen] Französisch. Aber man glaube nicht,
-dass er gewusst habe, worum es hier eigentlich ging. Natürlich waren Gerüchte in
-Umlauf [circulation] gewesen, wie es sie in solchen Fällen immer gibt. Der
-General – sein General – war zusehends [noticeably, rapidly] misslauniger
-[ill-tempered] geworden. Und dann war dieser Belgier gekommen – offenbar aus
-dem fernen England angereist. Eine ganze Woche lang hatte eine merkwürdig
-gespannte Atmosphäre geherrscht. Und dann hatten sich gewisse Dinge ereignet
-[ereignen: to happen]. Ein hoch dekorierter Offizier hatte Selbstmord begangen,
-ein anderer seinen Abschied genommen – aus bekümmerten [worried] Mienen
-[expression] war der Kummer [sorrow, worry] gewichen [weichen: to give way],
-bestimmte militärische Vorsichtsmaßnahmen [precaution] waren gelockert [lockern:
-to loosen] worden. Und Lieutenant Duboscs höchsteigener [in person] General
-hatte plötzlich zehn Jahre jünger ausgesehen.
+berühmten Fremdling am Bahnhof zu verabschieden, aber Lieutenant [/ləfˈtenənt/]
+Dubosc stellte sich [to be prepared] ihr wie ein Mann. Von seinen Lippen flossen
+[fließen] elegante Sätze in geschliffenem [polished; schleifen: to sharpen]
+Französisch. Aber man glaube nicht, dass er gewusst habe, worum es hier
+eigentlich ging. Natürlich waren Gerüchte in Umlauf [circulation] gewesen, wie
+es sie in solchen Fällen immer gibt. Der General [/ɡenəˈraːl/] – sein General –
+war zusehends [noticeably, rapidly] misslauniger [ill-tempered] geworden. Und
+dann war dieser Belgier [/ˈbɛlɡiɐ/] gekommen – offenbar aus dem fernen England
+angereist. Eine ganze Woche lang hatte eine merkwürdig gespannte Atmosphäre
+geherrscht. Und dann hatten sich gewisse Dinge ereignet [ereignen: to happen].
+Ein hoch dekorierter Offizier hatte Selbstmord begangen, ein anderer seinen
+Abschied genommen – aus bekümmerten [worried] Mienen [expression] war der Kummer
+[sorrow, worry] gewichen [weichen: to give way], bestimmte militärische
+Vorsichtsmaßnahmen [precaution; Maßnahme: measure] waren gelockert [lockern: to
+loosen] worden. Und Lieutenant Duboscs höchsteigener [in person] General hatte
+plötzlich zehn Jahre jünger ausgesehen.
 
 It was freezingly cold, and this job of seeing off a distinguished stranger was
 not one to be envied, but Lieutenant Dubosc performed his part manfully.
@@ -59,8 +60,9 @@ Dubosc hatte Teile eines Gesprächs zwischen ihm und dem Fremden mitgehört.
 «Sie haben uns gerettet, mon cher», hatte der General mit bewegter Stimme
 gesagt, und sein prächtiger weißer Schnurrbart hatte beim Reden gezittert. «Sie
 haben die Ehre der französischen Streitkräfte [armed forces] gerettet – und ein
-großes Blutvergießen [bloodshed] abgewendet. Wie kann ich Ihnen dafür danken,
-dass Sie meiner Bitte nachgekommen sind? Dass Sie diesen weiten Weg gemacht –»
+großes Blutvergießen [bloodshed; vergießen: to spill, to shed] abgewendet [to
+avert]. Wie kann ich Ihnen dafür danken, dass Sie meiner Bitte nachgekommen sind?
+Dass Sie diesen weiten Weg gemacht –»
 
 Dubosc had overheard part of a conversation between him and the stranger. “You
 have saved us, mon cher,” said the General emotionally, his great white
@@ -69,14 +71,14 @@ you have averted much bloodshed! How can I thank you for acceding to my request?
 To have come so far—”
 ------------------------------------------------------------------------------
 Worauf der Fremde (ein gewisser Monsieur Hercule Poirot) eine geziemende
-[geziemen: to befit] Antwort gab, in der unter anderem der Satz fiel: «Aber
-sollte ich denn vergessen haben, dass Sie mir einmal das Leben gerettet haben?»
-Worauf der General wiederum [again] etwas Geziemendes erwiderte [to respond] und
-jeden Verdienst [service] an dieser lange zurückliegenden [in the past]
-Gefälligkeit [courtesy] in Abrede stellte [to question sth, to deny]. Und so
-hatten sie unter Austausch [exchange] weiterer Artigkeiten [compliments], in
-denen Wörter wie Frankreich, Belgien, Ruhm und Ehre vorkamen, einander herzlich:
-umarmt, und das Gespräch war zu Ende gewesen.
+[geziemen: to befit] Antwort gab, in der unter anderem [among other things] der
+Satz fiel: «Aber sollte ich denn vergessen haben, dass Sie mir einmal das Leben
+gerettet haben?» Worauf der General wiederum [again] etwas Geziemendes erwiderte
+[to respond] und jeden Verdienst [service] an dieser lange zurückliegenden [in
+the past] Gefälligkeit [courtesy] in Abrede stellte [to question sth, to deny;
+Abrede: agreement]. Und so hatten sie unter Austausch [exchange] weiterer
+Artigkeiten [compliments], in denen Wörter wie Frankreich, Belgien, Ruhm und
+Ehre vorkamen, einander herzlich: umarmt, und das Gespräch war zu Ende gewesen.
 
 To which the stranger (by name M. Hercule Poirot) had made a fitting reply
 including the phrase—“But indeed, do I not remember that once you saved my
@@ -119,8 +121,8 @@ character.
 “And you intend to remain there a few days, I think?”
 ------------------------------------------------------------------------------
 «Mais oui. Istanbul, in dieser Stadt war ich noch nie. Es wäre doch schade, da
-nur durchzureisen – comme ça –» Er schnippte beredt mit den Fingern. «Mich
-drängt nichts – ich werde mich ein paar Tage als Tourist dort umsehen.»
+nur durchzureisen – comme ça –» Er schnippte beredt [expressive] mit den Fingern.
+«Mich drängt nichts – ich werde mich ein paar Tage als Tourist dort umsehen.»
 
 “Mais oui. Stamboul, it is a city I have never visited. It would be a pity to
 pass through—comme ça.” He snapped his fingers descriptively. “Nothing presses—I
@@ -140,8 +142,8 @@ A cold wind came whistling down the platform. Both men shivered. Lieutenant
 Dubosc managed to cast a surreptitious glance at his watch. Five minutes to
 five—only five minutes more! 
 ------------------------------------------------------------------------------
-Da er argwöhnte, der andere habe seinen verstohlenen Blick auf die Uhr bemerkt,
-stürzte er sich sogleich wieder ins Gespräch.
+Da er argwöhnte [argwöhnen: to suspect], der andere habe seinen verstohlenen
+Blick auf die Uhr bemerkt, stürzte er sich sogleich wieder ins Gespräch.
 
 Fancying that the other man had noticed his glance, he hastened once more into
 speech.
@@ -251,7 +253,8 @@ seriously.
 Lieutenant Dubosc hielt seine Abschiedsrede, die er sich schon vorher [before]
 zurechtgelegt [zurechtlegen: to prepare] und bis zur letzten Minute aufgespart
 [aufsparen: to save up] hatte. Es war eine schöne, geschliffene Rede.
-Da konnte Monsieur Poirot natürlich nichts schuldig bleiben.
+Da konnte Monsieur Poirot natürlich nichts schuldig bleiben [to give as good as
+you get with sb].
 
 Lieutenant Dubosc was saying his parting speech. He had thought it out
 beforehand and had kept it till the last minute. It was a very beautiful,
@@ -282,8 +285,8 @@ Koffer, er ist hier.»
 the beauty of his sleeping compartment and the neat arrangement of his luggage.
 “The little valise of Monsieur, I have put it here.” 
 ------------------------------------------------------------------------------
-Seine ausgestreckte Hand sprach Bände, und Hercule Poirot drückte einen
-zusammengefalteten [falten: to fold] Geldschein [bill] hinein.
+Seine ausgestreckte Hand sprach Bände [sth speaks volumes], und Hercule Poirot
+drückte einen zusammengefalteten [falten: to fold] Geldschein [bill] hinein.
 
 His outstretched hand was suggestive. Hercule Poirot placed in it a folded note.
 ------------------------------------------------------------------------------
@@ -302,17 +305,17 @@ Monsieur Poirot bejahte [bejahen: to affirm].
 M. Poirot assented. “There are not many people travelling, I imagine?” he said.
 ------------------------------------------------------------------------------
 «Nein, Monsieur. Ich habe nur noch zwei weitere Fahrgäste. Einen englischen
-Oberst [colonel] aus Indien und eine junge Engländerin aus Bagdad. Haben
-Monsieur noch einen Wunsch?»
-Monsieur bat um ein Fläschchen Perrier.
+Oberst [/ˈoːbɐst/ colonel] aus Indien und eine junge Engländerin aus Bagdad.
+Haben Monsieur noch einen Wunsch?»
+Monsieur bat [bitten] um ein Fläschchen Perrier.
 
 “No, Monsieur. I have only two other passengers—both English. A Colonel from
 India and a young English lady from Baghdad. Monsieur requires anything?”
 Monsieur demanded a small bottle of Perrier.
 ------------------------------------------------------------------------------
-Fünf Uhr früh ist eine unangenehme Zeit zum Verreisen. Es waren noch zwei
-Stunden bis zur Morgendämmerung. Im Bewusstsein [consciousness] seines zu kurz
-gekommenen Nachtschlafs sowie [and] einer erfolgreich [successful]
+Fünf Uhr früh ist eine unangenehme Zeit zum Verreisen [to go away]. Es waren
+noch zwei Stunden bis zur Morgendämmerung. Im Bewusstsein [awareness] seines zu
+kurz gekommenen Nachtschlafs sowie [and] einer erfolgreich [successful]
 abgeschlossenen, sehr heiklen [heikel: difficult] Mission kuschelte [to snuggle]
 Poirot sich in eine Ecke und schlief ein.
 
@@ -354,7 +357,7 @@ without appearing to do so.
 Nach seinem Eindruck [impression] gehörte sie zu jener Sorte junger Frauen, die
 sich überall, wohin sie kamen, mit der größten Selbstverständlichkeit [lack of
 inhibition] bewegten. Sie wirkte ausgeglichen [well-balanced] und tüchtig
-[capable]. Ihm gefiel die strenge Regelmäßigkeit [regularity] ihrer Züge
+[efficient]. Ihm gefiel die strenge Regelmäßigkeit [regularity] ihrer Züge
 [feature], die zarte [zart: delicate] Blässe [paleness] ihrer Haut. Ihm gefielen
 auch die dunkelbraune, sanft gewellte Frisur und der kühle, unpersönliche Blick
 ihrer grauen Augen. Für seinen Geschmack war sie für eine jolie femme, wie er
@@ -386,7 +389,7 @@ The newcomer gave a little bow to the girl. “Morning, Miss Debenham.”
 ------------------------------------------------------------------------------
 Der Oberst fasste [to grab] nach dem Stuhl auf der anderen Tischseite. «Sie
 gestatten [to allow]?»
-«Selbstverständlich. Bitte, nehmen Sie Platz.»
+«Selbstverständlich [of course]. Bitte, nehmen Sie Platz.»
 «Aber Sie wissen, beim Frühstück sind die Leute nicht immer sehr gesprächig.»
 «Das hoffe ich. Aber ich beiße [to bite] nicht.»
 Der Oberst setzte sich.
@@ -420,14 +423,14 @@ compartment.
 ------------------------------------------------------------------------------
 Beim Mittagessen saßen die beiden wieder am selben Tisch, und wieder schenkten
 sie dem Fremden nicht die mindeste Beachtung [attention]. Ihre Unterhaltung
-[conversation] war angeregter als beim Frühstück. Colonel Arbuthnot erzählte vom
-Pandschab und stellte der jungen Dame ein paar Fragen nach Bagdad, wo sie, wie
-sich herausstellte, als Gouvernante gearbeitet hatte. Im weiteren Verlauf
-[course] des Gesprächs entdeckten [to discover] sie ein paar gemeinsame
-Bekannte, worauf sie gleich freundlicher und lockerer wurden. Sie sprachen über
-den guten alten Tommy Dingsda oder den lieben Jerry Soundso. Der Oberst
-erkundigte sich [to ask], ob Miss Debenham bis England durchzufahren oder in
-Istanbul einen Zwischenaufenthalt einzulegen gedenke.
+[conversation] war angeregter [animated] als beim Frühstück. Colonel Arbuthnot
+erzählte vom Pandschab und stellte der jungen Dame ein paar Fragen nach Bagdad,
+wo sie, wie sich herausstellte, als [as] Gouvernante gearbeitet hatte. Im
+weiteren Verlauf [course] des Gesprächs entdeckten [to discover] sie ein paar
+gemeinsame Bekannte, worauf sie gleich freundlicher und lockerer wurden. Sie
+sprachen über den guten alten Tommy Dingsda oder den lieben Jerry Soundso. Der
+Oberst erkundigte sich [to ask], ob Miss Debenham bis England durchzufahren oder
+in Istanbul einen Zwischenaufenthalt [stopover] einzulegen gedenke.
 
 At lunch time the other two again shared a table and again they both completely
 ignored the third passenger. Their conversation was more animated than at
@@ -441,8 +444,8 @@ she was stopping in Stamboul.
 ------------------------------------------------------------------------------
 «Nein, ich fahre gleich weiter.»
 «Ist das nicht ein bisschen schade?»
-«Ich bin vor zwei Jahren auf dem Hinweg dieselbe Strecke [route] gefahren, und
-da habe ich mich drei Tage in Istanbul aufgehalten.»
+«Ich bin vor zwei Jahren auf dem Hinweg [way there] dieselbe Strecke [route]
+gefahren, und da habe ich mich drei Tage in Istanbul aufgehalten.»
 «Aha. Aber dann darf ich sagen, dass ich sehr erfreut bin. Ich fahre nämlich
 auch durch.»
 
@@ -536,13 +539,13 @@ They arrived at Konya that night about half-past eleven. The two English
 travellers got out to stretch their legs, pacing up and down the snowy platform.
 ------------------------------------------------------------------------------
 Monsieur Poirot begnügte sich [to settle for] damit, dem Treiben [the hustle and
-bustle] auf dem Bahnsteig durchs Fenster zuzusehen. Nach etwa zehn Minuten fand er aber, dass
-ein bisschen frische Luft auch ihm vielleicht nicht schaden könnte. Er traf dazu
-gewissenhafte [conscientious] Vorbereitungen [preparation], zog mehrere Mäntel
-und Schals [scarf] übereinander an und hüllte [to wrap] seine schmucken [neat]
-Stiefel in Überschuhe. So gerüstet [rüsten: to prepare], stieg er vorsichtig auf
-den Bahnsteig hinunter und begann ihn abzuschreiten [to walk along]. Er ging
-ganz nach vorn, noch an der Lokomotive vorbei.
+bustle] auf dem Bahnsteig durchs Fenster zuzusehen. Nach etwa zehn Minuten fand
+er aber, dass ein bisschen frische Luft auch ihm vielleicht nicht schaden könnte.
+Er traf dazu [for that purpose] gewissenhafte [conscientious] Vorbereitungen
+[preparation], zog mehrere Mäntel übereinander an und hüllte [to wrap] seine
+schmucken [neat] Stiefel in Überschuhe. So gerüstet [rüsten: to prepare], stieg
+er vorsichtig auf den Bahnsteig hinunter und begann ihn abzuschreiten [to walk
+along]. Er ging ganz nach vorn, noch an der Lokomotive vorbei.
 
 M. Poirot was content to watch the teeming activity of the station through a
 window pane. After about ten minutes, however, he decided that a breath of air
@@ -567,7 +570,8 @@ The girl interrupted him.
 “Not now. Not now. When it’s all over. When it’s behind us—then—”
 ------------------------------------------------------------------------------
 Monsieur Poirot wandte sich diskret ab. Er machte sich seine Gedanken.
-Er hatte Mary Debenhams sonst so kühle, selbstsichere Stimme kaum wiedererkannt…
+Er hatte Mary Debenhams sonst so kühle, selbstsichere Stimme kaum wiedererkannt
+[to recognize]…
 «Sonderbar», sagte er bei sich.
 
 Discreetly M. Poirot turned away. He wondered. ...
@@ -602,9 +606,9 @@ with Mary Debenham who was standing just behind him.
 «Was ist los?», fragte sie ein wenig atemlos auf Französisch. «Warum stehen wir
 hier?»
 «Nichts weiter, Mademoiselle. Unter dem Speisewagen hat irgendetwas Feuer
-gefangen [to catch]. Nichts Schlimmes. Der Brand [fire] ist schon gelöscht.
-Jetzt wird noch der Schaden repariert. Es besteht keine Gefahr, das versichere
-ich Ihnen.»
+gefangen [fangen: to catch]. Nichts Schlimmes. Der Brand [fire] ist schon
+gelöscht. Jetzt wird noch der Schaden repariert. Es besteht keine Gefahr, das
+versichere ich Ihnen.»
 
 “What is the matter?” she asked rather breathlessly in French. “Why are we
 stopping?”
@@ -622,10 +626,10 @@ aside as something completely unimportant.
 «Zeit?»
 «Ja. Wir bekommen Verspätung.»
 «Möglich – ja», pflichtete Poirot ihr bei [beipflichten: to agree].
-«Aber wir können uns keine Verspätung leisten! Der Zug kommt um sechs Uhr
-fünfundfünfzig an, und dann müssen wir über den Bosporus und auf der anderen
-Seite um neun Uhr den Simplon-Orient-Express erreichen. Eine Verspätung von ein,
-zwei Stunden, und wir verpassen den Anschluss [connection].»
+«Aber wir können uns keine Verspätung leisten [to afford]! Der Zug kommt um
+sechs Uhr fünfundfünfzig an, und dann müssen wir über den Bosporus und auf der
+anderen Seite um neun Uhr den Simplon-Orient-Express erreichen. Eine Verspätung
+von ein, zwei Stunden, und wir verpassen den Anschluss [connection].»
 «Ja, das könnte passieren», räumte er ein [to admit].
 
 “Yes, yes, I understand that. But the time!”
