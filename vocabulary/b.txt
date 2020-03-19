@@ -175,6 +175,17 @@ Bayreuth /baiˈrɔyt/
 
 be-: to turn a noun or adjective to a verb, intransitive -> transitive
 
+beachten: to heed, to keep in mind, to take notice of
+  Er hat die Verkehrsregeln nicht beachtet.
+  He failed to comply with the traffic regulations.
+  Beachten Sie bitte, dass das Rauchen hier untersagt ist.
+  Please be advised that smoking is not allowed here.
+
+Beachtung: compliance, attention
+  nur bei strikter Beachtung der Vorschriften
+  only if the regulations are adhered to strictly
+  Er schenkte den Warnungen keine Beachtung.
+
 Beamte /bəˈ|amtə/, Beamten, Beamtin, Beamtinnen: official, civil servant
   Lehrer und Polizisten sind Beamte.
   Teachers and police officers are government employees. 
@@ -684,6 +695,9 @@ belustigen /bəˈlʊstɪgən/: to amuse
 bemerken /bəˈmɛrkən/: to notice
   Der Unterschied war kaum zu bemerken.
   The difference was hardly noticeable.
+
+Bemerkung: remark, comment
+  eine abfällige Bemerkung machen: to make a snide remark
 
 bemessen: limited
 
