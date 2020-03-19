@@ -502,6 +502,9 @@ unbedingt /ˈʊnbədɪŋt/: really, absolutely, at all costs
 unbegreiflich /ˈʊnbəɡraiflɪç/: incomprehensible, inconceivable
   aus unbegreiflichen Gründen: for inexplicable reasons
 
+unbegründet: unfound
+  Ihre Angst erwies sich als unbegründet.
+
 Unbehagen /ˈʊnbəhaːɡən/, das, -s|uncountable: uneasiness
   Diese Vorstellung bereitet ihr Unbehagen.
   This idea makes her feel uneasy.
@@ -557,6 +560,8 @@ ungeduldig /ˈʊnɡədʊldɪç/: impatient
 
 ungefähr /ˈʊnɡəfɛːɐ/: approximately, roughly
 
+ungehalten: annoyed, displeased
+
 Ungeheuer /ˈʊnɡəhɔyɐ/, das, Ungeheuer: monster
   das Ungeheuer von Loch Ness: the Loch Ness monster
 
@@ -571,6 +576,9 @@ ungern /ˈʊnɡɛrn/: reluctantly
 ungewiss /ˈʊnɡəvɪs/: uncertain
 
 ungewöhnlich /ˈʊnɡəvøːnlɪç/: unusual
+
+ungezogen: naughty, impertinent
+  Sei nicht so ungezogen zu deiner Tante!
 
 ungläubig /ˈʊnɡlɔybɪç/: disbelieving, incredulous, unbelieving
   ein ungläubiges Gesicht machen: to look incredulous
@@ -779,7 +787,7 @@ unweigerlich /ʊnˈvaiɡɐlɪç/: inevitably
 Unwetter /ˈʊnvɛtɐ/, das: storm
   Ein Unwetter brach los. A storm broke.
 
-unwirsch /ˈʊnvɪrʃ/: surly, brusque
+unwirsch /ˈʊnvɪrʃ/: surly, brusque, unfriendly, gruff
   eine unwirsche Antwort: a brusque reply
 
 unzählig: innumerable, umpteen

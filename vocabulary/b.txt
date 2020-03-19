@@ -61,6 +61,9 @@ bald /balt/: soon
 
 baldig: early
 
+Balg, der-das: brat
+  Die haben ihre Bälger überhaupt nicht unter Kontrolle.
+
 Balken /ˈbalkən/, der: beam
 
 Balkon /balˈkɔŋ/, der, -e/-s: balcony
@@ -433,6 +436,10 @@ beglücken /bə'ɡlʏkən/: to please, to make happy
   Das war eine beglückende Erfahrung.
   That was an uplifting experience.
 
+begnügen: to be content with, to settle for
+  Der Sportler musste sich mit Platz 3 begnügen.
+  The athlete had to settle for third place.
+
 begreifen /bəˈɡraifən/: to understand, to grasp, to realize
   Sie begreift sehr schnell.
   She's quick on the uptake.
@@ -557,6 +564,8 @@ beinahe /ˈbainaːə/: almost
   beinah(e) in allen Fällen, in beinah(e) allen Fällen: in almost every case
 
 beinhalten: etw. mit zum Inhalt haben
+
+beipflichten: to agree, to consent, to approve
 
 beisammen /baiˈzamən/: together
 
@@ -823,6 +832,9 @@ beruflich: professional
 berufstätig /bəˈruːfstɛːtɪç/: working
   Sind Sie berufstätig?
   Do you have a job?
+
+Berufung: appointment, vocation, calling, reference, appeal
+  die Berufung eines neuen Richters: the appointment of a new judge
 
 berühmt /bəˈryːmt/: famous
   Das Hotel ist für seine gute Küche berühmt.

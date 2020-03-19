@@ -2,6 +2,9 @@
 V /fau/ V wie Viktor
 ========================================================
 
+vage: vague
+  Seine Angaben waren sehr vage.
+
 Vagina /ˈvaːɡina/, die, ~|Vaginen
   => Scheide
 
@@ -77,6 +80,9 @@ verbergen /fɛɐˈbɛrɡən/: to hide
   A large hat hid his face.
   Sie verbarg ihren Kummer vor ihrer Familie.
   She hid her problems from her family.
+
+Verbeugung: bow
+  eine tiefe Verbeugung machen
 
 verbieten /fɛɐˈbiːtən/: to forbid
   Meine Eltern haben mir verboten, mit dir zu spielen.
@@ -584,6 +590,12 @@ verpacken /fɛɐˈpakən/: to pack(age), to wrap (up)
 
 Verpackung /fɛɐˈpakʊŋ/, die, -en: packaging, wrapping
   die Verpackung aufreißen: to tear open the packaging/wrapping
+
+verpassen: to miss, to give
+  Sie hat den Zug knapp verpasst.
+  Sie hat ihre letzte Chance verpasst.
+  Der Arzt verpasste mir eine Spritze in den Arm.
+  jdm eins / eine verpassen: to whack sb
 
 Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
   Habt ihr für den Ausflug genügend Verpflegung dabei?

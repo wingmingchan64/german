@@ -133,6 +133,10 @@ Raubkopie /ˈraupkopiː/, die, -n: pirated copy
   Der Verkauf von Raubkopien ist strafbar.
   It is illegal to sell pirated copies.
 
+rau: rough, coarse, harsh, raw
+  vom vielen Waschen raue Hände bekommen
+  raue See
+
 rauchen /ˈrauxən/: to smoke
   Rauchen Sie?
   Do you smoke?
@@ -571,6 +575,8 @@ richtig /ˈrɪçtɪç/: right, correct
 
 Richtlinie /ˈrɪçtliːnjə/: guideline
 
+Richter, Richterin: judge
+
 Richtung /ˈrɪçtʊŋ/, die: direction
   Der Wind wehte in westlicher Richtung/kam aus östlicher Richtung.
   The wind was blowing in a westerly direction/coming from an easterly direction. 
@@ -803,6 +809,10 @@ russisch /ˈrʊsɪʃ/
   russisches Roulette
 
 Russland /ˈrʊslant/: Russia
+
+rüsten: to arm, to prepare yourself
+  Das Land rüstet (zum Krieg).
+  sich für eine Expedition rüsten
 
 Rutsch /rʊtʃ/, der, -e: landslide
   (einen) guten Rutsch ins neue Jahr: Happy New Year

@@ -456,12 +456,13 @@ Leiste /ˈlaistə/, die, -n: groin, strip, trim, border
 leisten /ˈlaistən/: to achieve, to do
   Sie leistet gute Arbeit.
   She does good work.
-​ jdm Erste Hilfe leisten: to perform first aid on sb
+​  jdm Erste Hilfe leisten: to perform first aid on sb
   sich etw. leisten: to afford sth, to treat yourself to sth
   Ich kann mir keine größere Wohnung leisten.
   I can't afford a big apartment.
   Komm, jetzt leisten wir uns ein Eis!
   Come on, we're going to treat ourselves to an ice cream!
+  sich [dative] leisten: to afford sth
   Wir können es uns nicht leisten, jetzt nachlässig zu werden.
   We can't afford to get careless now.
 
@@ -593,6 +594,8 @@ Linie /ˈliːnjə/, die, -n: line
   eine klare Linie verfolgen: to pursue a clear policy
 
 Linienbus, der: public service bus
+
+linkisch: awkward, clumsy
 
 links /lɪŋks/: left
    links des Rheins: to the left-hand side of the Rhine 

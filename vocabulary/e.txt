@@ -460,6 +460,13 @@ einlaufen /ˈainlaufən/: to break in, to shrink, to run in(to), to finish
   In welcher Reihenfolge sind die Pferde ins Ziel eingelaufen?
   What order did the horses finish in?
 
+einlegen: to insert, to preserve, to take, to file
+  Er legte den Film in die Kamera ein.
+  sauer / salzig eingelegte Gurken: pickles/salt pickles
+  eine Gedenkminute für die Unfallopfer einlegen
+  to hold a moment of silence for the victims of the accident
+  gegen ein Urteil [verdict] Berufung [appeal] einlegen: to appeal a verdict
+
 einleiten /ˈainlaitən/: to introduce, to initiate, to discharge
   ein Referat mit einem historischen Überblick einleiten
   to start off a talk with a historical overview
@@ -811,6 +818,10 @@ empfangen /ɛmˈpfaŋən/: to receive, to greet, to welcome
 Empfänger /ɛmˈpfɛŋɐ/: receiver
   <=> Absender
 
+empfänglich: receptive, responsive, susceptible
+  Kinder sind von Geburt an sehr empfänglich für Musik.
+  Wer Stress hat, ist empfänglicher für Infektionen.
+
 empfehlen /ɛmˈpfeːlən/: to recommend
   Kannst du mir einen guten Friseur empfehlen?
   Can you recommend a good hairdresser?
@@ -917,6 +928,9 @@ entgegen: toward, against
   allen Erwartungen/den Ankündigungen entgegen
   against all expectations/contrary to announcements
 
+entgegenkommend: obliging, considerate
+  eine entgegenkommende Verkäuferin: an obliging sales assistant
+
 entgegenschlagen: to come swirling, to leap out
 
 entgegenstellen: to set against
@@ -952,6 +966,9 @@ entnehmen /ɛntˈneːmən/: to take, to extract, to remove
   (aus) etw. etw. entnehmen: to infer sth from sth
   Ich entnahm seinen Worten, dass die Entscheidung bereits gefallen war.
   I inferred from his words that the decision had already been taken.
+
+entringen: to wrest from
+  ein Seufzer entrang sich seiner Brust: a sigh escaped his breast
 
 entrollen: unroll
 
@@ -1600,7 +1617,7 @@ erwecken /ɛɐˈvɛkən/: to arouse, to inspire, to bring back
   The sight inspired her pity.
   (bei jdm) den Eindruck erwecken, als ob ...: to give (sb) the impression that ...
 
-erweisen /ɛɐˈvaizən/: to prove
+erweisen /ɛɐˈvaizən/: to prove, to turn out
   Es ist noch nicht erwiesen, dass er der Täter ist.
   It's not yet proven that he's the perpetrator.
   Sie hat ihm damit einen großen Gefallen erwiesen.

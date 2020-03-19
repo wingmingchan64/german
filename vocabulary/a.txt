@@ -876,6 +876,8 @@ andeuten /ˈandɔytən/: to hint at, to sketch out
   Den Hintergrund hat der Künstler nicht ausgearbeitet, sondern nur angedeutet.
   The artist didn't finish the background – he just outlined it.
 
+Andeutung: insinuation, hint
+
 ahfahren /ˈanfaːrən/: to hit, to snap at 厲聲說, to stop at, to start up
   Sie wurde von einem Auto angefahren.
   She was hit by a car.
@@ -917,6 +919,10 @@ anfauchen: (cat) to spit at, to snap at
 
 anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
+
+Anflug, der: approach, trace, touch, hint
+  Das Flugzeug befindet sich im Landeanflug auf Berlin.
+  Auf seinem Gesicht breitete sich der Anflug eines Lächelns aus.
 
 anführen /ˈanfyːrən/: to lead, to state, to cite, to fool
   Wer hat die Studenten in dem Protest angeführt?
@@ -1004,6 +1010,8 @@ angenommen: supposing
 Abgeordnete /ˈapɡə|ɔrdnətə/, der-die, -n: representative
   eine Abgeordnete des deutschen Bundestages
   a Member of the German Federal Parliament
+
+angeregt: animated, lively
 
 angespannt /ˈanɡəʃpant/: strained, tense, fraught
   Unsere finanziellen Verhältnisse sind gerade etwas angespannt.
@@ -1202,7 +1210,10 @@ anschließend /ˈanʃliːsənt/: subsequent, following
   a discussion following the lecture
   Wir gingen ins Kino und anschließend etwas essen.
   We went to a movie and then went for a bite to eat.
-  
+
+Anschluss, der: connection
+  einen Anschluss legen: to lay a connection
+
 anschreiben /ˈanʃraibən/: to write down, to write to, to put on your tab
   Der Lehrer schrieb eine Aufgabe an.
   The teacher wrote down an exercise.
@@ -1692,12 +1703,23 @@ aufgrund /aufˈɡrʊnt/: because of
   to acquit sb due to lack of evidence
 
 aufhalten /ˈaufhaltən/: to hold up, to stop, to detain
+  Diese Diskussion hält uns nur unnötig auf.
+  This discussion is holding us up unnecessarily.
+  Die Entwicklung ist nicht mehr aufzuhalten.
+  The development cannot be stopped anymore.
+  Er hielt mir höflich die Tür auf.
+  He politely held the door for me.
+  Es war kalt und so hielten sie sich viel im Haus auf.
+  It was cold, so they spent a lot of time in the house.
 
 aufheben /ˈaufheːbən/: to pick up, to keep, to overturn, to cancel
   Was hast du da weggeworfen? Heb es wieder auf!
   What was that you just threw away? Pick it up again.
   Das Flugverbot kann aufgehoben werden.
   The ban on flying can be lifted.
+
+aufholen: to catch up
+  Der Zug konnte die Verspätung wieder aufholen.
 
 aufhören /ˈaufhøːrən/: to stop
   Wann hört der Regen endlich auf?

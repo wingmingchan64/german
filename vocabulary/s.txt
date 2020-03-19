@@ -659,6 +659,9 @@ schmökern /ˈʃmøːkɐn/: to bury yourself in a book, to browse
 Schmuck /ʃmʊk/, der, |uncountable: jewelry
   kostbaren Schmuck tragen: to wear expensive jewelry
 
+schmuck: smart
+  ein schmuckes Paar
+
 schmücken /ˈʃmʏkən/: to decorate, to adorn
   den Tisch mit Blumen schmücken: to decorate the table with flowers
 
@@ -1477,6 +1480,8 @@ sosehr: however much
 
 Soße /ˈzoːsə/, die, -n: sauce
   Bratensoße: gravy
+
+soundso: such and such
 
 soviel: as/so far as, however much
   Soviel ich weiß, kommt er heute.

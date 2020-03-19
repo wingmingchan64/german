@@ -257,6 +257,8 @@ Gedanke /ɡəˈdaŋkə/, der, -ns|-n: thought, idea
 
 gedankenverloren: absentminded, abstracted
 
+Gedenkminute, die: minute’s silence
+
 Geduld /ɡəˈdʊlt/, die, ~|uncountable: patience
   Er hat beim / fürs Basteln keine Geduld.
   He has no patience for making things.
@@ -492,8 +494,11 @@ gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to
   an die Macht/zu Ruhm gelangen
   to come to power/to rise to fame
 
+gelassen: calm, unruffled
+  eine gelassene Miene zur Schau tragen: to put on a relaxed face
+
 gelaunt /ɡəˈlaunt/ adj: in a ... mood
-   gut/schlecht gelaunt sein: to be in a good/bad mood 
+   gut / schlecht gelaunt sein: to be in a good/bad mood 
 
 gelb /ɡɛlp/: yellow
   zitronengelb: lemon
@@ -632,6 +637,8 @@ Genick /ɡəˈnɪk/, das, -(e)s|-e: neck
   The weak dollar sealed the demise of the shares.
 
 Genie /ʒeˈniː/, das: genius
+
+genießen: to have, to eat, to enjoy
 
 Genitiv /ˈɡeːnitiːf/, der, -s|-e: genitive
   Auf die Präposition „mangels‟ folgt der Genitiv.
@@ -939,6 +946,10 @@ getigert /ɡeˈtiːɡɐt/: striped
 
 Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
 
+getrennt: separated, apart
+  Sie führten getrennte Kasse.
+  They each paid for themselves.
+
 getreu: true, faithful, exact, loyal
 
 gewagt /ɡəˈvaːkt/: daring, risky
@@ -1125,6 +1136,7 @@ gleich /ɡlaiç/: same, equal, immediately, straightaway
   What was her address again?
   Wenn wir nicht bald anfangen, können wir es gleich lassen!
   If we don't get started soon, we might as well just forget it.
+  gleich weiter: right away
 
 gleichaltrig /ˈɡlaiç|altrɪç/: of the same age
 
@@ -1139,6 +1151,10 @@ gleichen /ˈɡlaiçən/: to resemble, to be similar
 
 Gleichschritt /ˈɡlaiçʃrɪt/, der, -(e)s: marching in step
   im Gleichschritt marschierende Soldaten: soldiers marching in step
+
+Gleis, das: track, platform
+  einen Zug von einem Gleis auf ein anderes umleiten
+  Vorsicht an Gleis 5, der Zug fährt jetzt ein!
 
 gleiten /ˈɡlaitən/: to glide, to slide
   Das Boot glitt geräuschlos durchs Wasser.
