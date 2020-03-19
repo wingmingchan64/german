@@ -676,6 +676,8 @@ Truppeneinheit, die: unit
   sich [ dative ] ein Tuch um die Schultern legen
   to wrap a shawl around your shoulders
 
+tüchtig: capable, efficient, hard
+
 Tulpe /ˈtʊlpə/, die, -n: tulip
   Tulpenzwiebeln in die Erde setzen: to plant tulip bulbs
   Tulpenfest

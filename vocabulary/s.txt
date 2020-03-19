@@ -195,6 +195,8 @@ schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to 
   Er ist noch beim Schaffen.
   He's still at work.
 
+Schaffner: conductor
+
 Schal /ʃaːl/, der, Schals: scarf
   Nimm einen Schal um bei der Kälte!
   Put a scarf on in this cold.
@@ -270,6 +272,11 @@ schauen /ˈʃauən/: to look, to look for
 Schauer /ˈʃauɐ/, der, -s|~: shower
   Sonne und vereinzelte Schauer wechselten sich ab.
   There was a mixture of sunshine and isolated showers.
+
+schauerlich: dreadful, horrible, lousy
+  Den Spaziergängern bot sich ein schauerlicher Anblick.
+  The people out for a walk were faced with a dreadful sight.
+  Er spricht ein schauerliches Englisch.
 
 schaufeln /ˈʃaufəln/: to shovel
   viel Geld von einem Konto auf ein anderes schaufeln
@@ -424,6 +431,8 @@ Schlacht /ʃlaxt/, die, ~|-en: battle, fest
   Instead of the usual cake fest there were just sandwiches at the kindergarten party.
 
 Schlafanzug /ˈʃlaːf|anʦuːk/, der, ..e: pajamas
+
+Schläfe: temple
 
 schlafen /ˈʃlaːfən/: to sleep
 
@@ -1198,6 +1207,8 @@ selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, o
   It goes without saying that I'll help you.
   Ich werde selbstverständlich kommen.
   Of course I'll come.
+
+Selbstverständlichkeit: self-evident truth, truism, lack of inhibition
 
 selten /ˈzɛltən/: rare
   Er ist ein seltener Gast in unserem Haus.
@@ -2110,6 +2121,11 @@ Strafe /ˈʃtraːfə/, die, -n: punishment, fine
   => Geldbuße
   200 Euro Strafe zahlen müssen: to have to pay a 200 euro fine
 
+strafen: to punish
+  Sie warf ihm strafende Blicke zu.
+  She gave him reproachful looks.
+  mit jdm / etw. gestraft sein: to suffer with sb/sth
+
 Straftäter /ˈʃtraːftɛːtɐ/: offender, criminal
   jugendliche Straftäter: young offender
 
@@ -2178,6 +2194,7 @@ Streit /ʃtrait/, der: argument, quarrel, dispute
   I got into an argument with the neighbors over the cat.
 
 streiten: to argue, to quarrel
+  Er stritt (sich) mit seiner Schwester um die Fernbedienung.
 
 streitig /ˈʃtraitɪç/: to dispute sb's right to sth
   jdm den Meistertitel streitig machen

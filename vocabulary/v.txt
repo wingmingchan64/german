@@ -772,6 +772,9 @@ Verstärkung /fɛɐˈʃtɛrkʊŋ/, die, -en: strengthening, reinforcement, incre
   eine Verstärkung der Wirkung: an increase in the effect
   warten, bis Verstärkung eintrifft: to wait for reinforcements
 
+verstauen: to stow
+  Bücher in Kisten verstauen
+
 verstecken /fɛɐˈʃtɛkən/: to hide
   Ostereier im Garten verstecken
   to hide Easter eggs in the garden
@@ -787,9 +790,15 @@ verstehen: to hear, understand, know
   Ich habe nicht verstanden, was er gesagt hat.
   I did not hear what he said.
   etwas falsch verstehen: to misunderstand sth, to mishear sth
+ 
+verstohlen: surreptitious, stealthy
 
 verstrichen /fɛɐˈʃtrɪçn/: elapsed
   zwei Jahre verstrichen, bevor …
+
+verstreichen: to pass by, to elapse
+  Mehrere Jahre sind seitdem verstrichen.
+  die Farbe gleichmäßig verstreichen: to apply the paint evenly
 
 verstricken /fɛɐˈʃtrɪkən/: to be caught up with, to involve sb in sth
   in einen Skandal verstrickt werden: to become involved in a scandal
@@ -860,11 +869,13 @@ vertraut /fɛɐˈtraut/: intimate, close, familiar
 Vertraute /fɛɐˈtrautə/, der-die: close friend, confidant/confidante
   ihre Freundin und engste Vertraute: her friend and closest confidante
 
-vertreiben: dispel, evict, expel
+vertreiben: to dispel, evict, expel
   Sie wurden aus ihrer Heimat vertrieben.
   They were driven out of their home.
   Eine Tasse Tee wird deine Müdigkeit vertreiben.
   A cup of tea will stave off your tiredness.
+  jdm die Zeit mit etw vertreiben: to help sb pass the time with sth
+  sich [dative] die Zeit mit etw vertreiben: to pass (away) the time with sth
 
 Vertreibung /fɛɐˈtraibʊŋ/, die, ~|-en: expulsion
   => Austreibung
@@ -947,6 +958,10 @@ verwundet: wounded
 verwüsten /fɛɐˈvyːstən/: to devastate
   Der Einbrecher verwüstete die ganze Wohnung.
   The burglar trashed the whole apartment.
+
+verzehren： to eat, to consume
+  Er verzehrte in aller Ruhe seine Suppe.
+  Er sah zu, wie der Brief von den Flammen verzehrt wurde.
 
 Verzeichnis /fɛɐˈʦaiçnɪs/, das, -se: list, register, directory
   ein alphabetisches Verzeichnis erstellen: to create an alphabetical list
@@ -1245,6 +1260,10 @@ vorrücken /’foːɐrʏkən/: to move forward(s), to advance
   Könnten Sie mit dem Stuhl ein wenig vorrücken?
   Could you move your chair forward a little?
 
+Vorschein, der
+  zum Vorschein kommen: to appear
+  etw. zum Vorschein bringen: to reveal sth
+
 Vorschlag /ˈfoːɐʃlaːk/ , der, ..e: suggestion
   jdm einen Vorschlag machen: to suggest sth to sb
 
@@ -1316,8 +1335,6 @@ Vorstellung /ˈfoːɐʃtɛlʊŋ/, die, ~|-en: idea, picture, performance, presen
 Vorstellungsgespräch /ˈfoːɐʃtɛlʊŋsɡəʃprɛːç/, das, -e: interview
   Sie hat um 10 Uhr ein Vorstellungsgespräch.
   She has an interview at 10 o'clock.
-
-verstohlen: surreptitious, stealthy
 
 Vorteil /ˈfɔrtail/, der, -e: advantage
   Das bringt auch Vorteile mit sich.

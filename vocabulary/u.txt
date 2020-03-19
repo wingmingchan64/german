@@ -639,6 +639,9 @@ Unter-: under-, sub-
 
 unter-: under, in(to), through, sub-
 
+unterbrechen: to interrupt, discontinue
+  Unterbrich mich doch nicht immer!
+
 unterbringen /ˈʊntɐbrɪŋən/: to put up, to find room for, to fit in
   Die Austauschschüler sind bei einheimischen Familien untergebracht.
   The exchange students are put up with local families.
@@ -718,7 +721,8 @@ Unterricht /ˈʊntɐrɪçt/, der, pl: classes, instruction, teaching
   (jdm) Unterricht geben
   (bei jdm) Unterricht nehmen/haben
 
-Unverschämtheit /ˈʊnfɛɐʃɛːmthait/, die: brazenness, impertinence, outrageousness
+untersagen: to forbid, to prohibit
+  Rauchen ist hier strengstens untersagt.
 
 Unterschied /ˈʊntɐʃiːt/, der: difference
   Besteht denn ein Unterschied zu den anderen?
@@ -758,6 +762,8 @@ unterwegs /ʊntɐˈveːks/: on the way
 unterzeichnen /ʊntɐˈʦaiçnən/: to sign
 
 unvergesslich /ʊnfɛɐˈɡɛslɪç/: unforgettable
+
+Unverschämtheit /ˈʊnfɛɐʃɛːmthait/, die: brazenness, impertinence, outrageousness
 
 unverwandt: intent 專注的
   Mit unverwandtem Blick sah er sie an.

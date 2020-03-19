@@ -377,6 +377,8 @@ Wellhornschnecke, die: whelk 蛾螺
 Welt /vɛlt/, die: world
   ganzen Welt: all over the world
 
+Weltgewandtheit： urbanity, acquaintance with the ways of the world
+
 Wende /ˈvɛndə/, die, -n: change, turning point
   Bei den Verhandlungen zeichnet sich eine Wende ab.
   A turning point is approaching in the negotiations.
@@ -554,6 +556,13 @@ widerstehen /viːdɐˈʃteːən/: to resist, to withstand
   This material withstands all kinds of weather.
   dem Ansturm des Feindes widerstehen
   to withstand the enemy attack
+
+Widerstreben: reluctance
+
+widerstreben
+  etw. widerstrebt jdm: sth goes against the grain for sb
+  Es widerstrebt mir, ein Kind so hart zu bestrafen.
+  It goes against the grain for me to punish a child so harshly.
 
 widerwärtig /ˈviːdɐvɛrtɪç/: disgusting, repugnant
   => widerlich

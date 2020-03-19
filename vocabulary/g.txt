@@ -909,6 +909,10 @@ gestalten /ɡəˈʃtaltən/:
 Gestank /ɡəˈʃtaŋk/, der, -(e)s|uncountable: stink
   => stinken
 
+gestatten: to allow, to permit
+  <=> untersagen
+  Das Rauchen ist hier nicht gestattet.
+
 gestehen /ɡəˈʃteːən/: to confess (to), to admit (to)
   Der Mörder hat (die Tat) gestanden.
   The murderer has confessed (to the crime).
@@ -1232,6 +1236,11 @@ grapschen /ˈɡrapʃən/: to grab sth, to nab, to grope somewhere
   I nabbed him straight after school and dragged him to the hairdresser's.
   Er grapschte ihr an den Busen.
   He groped her breasts.
+
+grässlich: hideous, dreadful, dreadful, terrible, horrible
+  Feuerwehrleute bekommen oft Grässliches zu sehen.
+  Firefighters are often confronted with hideous sights.
+  grässlichen Durst haben: to be terribly thirsty
 
 Gratulation /ɡratulaˈʦjoːn/, die, -en: congratulations
   Gratulation zum bestandenen Examen!

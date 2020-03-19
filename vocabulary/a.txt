@@ -1334,6 +1334,10 @@ Anweisung /ˈanvaizʊŋ/, die, -en: instruction
   auf jds Anweisung handeln: to act on sb's instructions
   Gebrauchsanweisung: instructions for use
 
+Anwesen, das: estate
+  Das Anwesen steht zum Verkauf.
+  The estate is for sale.
+
 anwesend /ˈanveːzənt/: present
   <=> abwesend
   Ich war in der Stunde, als das besprochen wurde, nicht anwesend.
@@ -1347,6 +1351,9 @@ Anzahl /ˈanʦaːl/, die, ~|uncountable: number
   A certain number of mistakes can be tolerated.
 
 anzapfen: to broach, to tap
+
+Anzeichen, das: indication
+  Alle Anzeichen deuten darauf hin, dass es einen kalten Winter geben wird.
 
 anziehen /ˈanʦiːən/: to attract, to get dressed
   Salz zieht Feuchtigkeit an.
@@ -1412,6 +1419,8 @@ Architekt /arçiˈtɛkt/, Architektin: architect
 archivieren /arçiˈviːrən/: to archive
   Dokumente/Berichte archivieren: to archive documents/reports
 
+angegraut: graying, grayish
+
 Ärger /ˈɛrɡɐ/, der: anger
 
 ärgerlich /ˈɛrɡɐlɪç/: angry
@@ -1453,6 +1462,11 @@ Arme /ˈarmə/, -n: poor person
   a short-sleeved/long-sleeved shirt
 
 Armer: pauper
+
+armselig: miserable, wretched, pathetic
+  in armselige Lumpen gekleidete Bettler: beggars dressed in pitiful rags
+  Was für eine armselige Vorstellung!
+  What a pathetic performance!
 
 Armut /ˈarmuːt/, die: poverty
   in bitterster Armut leben: to be desperately poor
@@ -1869,6 +1883,8 @@ Aufsicht /ˈaufzɪçt/, die, -en: supervision, supervisor, person in charge
   die Aufsicht (bei / über etw.) haben / führen: to be in charge (of sth)
   sich bei der Aufsicht melden: to report to the person in charge
 
+aufsparen: to save up
+
 aufspringen /ˈaufʃprɪŋən/, to jump up
   Er sprang eifrig auf, um ihr seinen Platz anzubieten.
   He jumped up eagerly to offer her his seat.
@@ -2083,6 +2099,8 @@ Ausgangspunkt /ˈausɡaŋspʊŋkt/, der: starting point
 ausgeben /ˈausɡeːbən/: to spend
   sein Geld für Bücher ausgeben: to spend your money on books
 
+ausgeglichen: balanced, equal, consistent
+
 ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
   etw. geht von jdm/etw. aus
   welche Gefahr von Adolf Hitler ausgeht
@@ -2103,6 +2121,8 @@ ausgiebig /ˈausɡiːbɪç/: copious, extensive
   einen ausgiebigen Mittagssschlaf machen: to have a long nap at lunchtime
   Sie gähnte und dehnte sich ausgiebig.
   She had a good yawn and stretch.
+
+ausgleichen: to balance, to settle, to make good, to compensate for, to equalize
 
 aushalten /ˈaushaltən/: to stand, to hold
   => ertragen

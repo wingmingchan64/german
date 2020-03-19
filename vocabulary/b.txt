@@ -74,6 +74,7 @@ Banane /baˈnaːnə/, die, Banenen: banana
 Band /bant/, das: ribbon, ligament, tape, conveyer belt
   ein Band im Haar tragen
   to wear a ribbon in your hair
+  etw. spricht Bände: sth speaks volumes
 
 band => binden
 
@@ -574,6 +575,9 @@ Beitrag /ˈbaitraːk/, der: contribution, article
   to write an article for the student newspaper
 
 Beitragszahler: contributor
+
+bejahen: to affirm
+  die Notwendigkeit einer Aktion bejahen: to affirm the necessity of a course of action
 
 Bekanntmachung /bəˈkantmaxʊŋ/, die, -en: announcement
   eine amtliche Bekanntmachung: a public notice
@@ -1460,6 +1464,9 @@ blass /blas/: pale, faint
   I haven't the faintest idea what you mean.
   Die Serie ist nur ein blasser Abklatsch des englischen Vorbilds.
   The series is just a poor imitation of the English original.
+
+Blässe: paleness
+  Der schwarze Mantel betonte noch ihre Blässe.
 
 Blatt /blat/, das, Blätter /ˈblɛtɐ/: page, leaf, paper
   ein leeres Blatt: a blank page

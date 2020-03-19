@@ -58,6 +58,8 @@ Haftetikett, das, -e: adhesive label
 
 Hagel /ˈhaːɡəl/, der: hail
 
+hager: gaunt
+
 Hahn /haːn/, der, ..e: rooster
   wenn der Hahn kräht: when the rooster crows
 
@@ -758,6 +760,9 @@ hinschauen /ˈhɪnʃauən/: to look
 hinsehen /ˈhɪnzeːən/: hinschauen
 
 hinter /ˈhɪntɐ/: behind
+
+hinterdrein: afterwards
+  Zuerst fühlte er sich stark, doch hinterdrein armselig.
 
 Hintergrund, der: background
 
