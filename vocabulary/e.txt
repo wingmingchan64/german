@@ -255,6 +255,8 @@ Eindruck /ˈaindrʊk/, der, ..e: impression
   Die Stiefel des Täters haben tiefe Eindrücke im Schlamm hinterlassen.
   The perpetrator's boots left deep imprints in the mud.
 
+eindrücken: to impress
+
 eineinhalb /ˈain|ainˈhalp/: one and a half
   Sie hat eineinhalb Scheiben Brot gegessen.
   She ate one and a half slices of bread.
@@ -519,6 +521,12 @@ einpacken /ˈainpakən/: to wrap (up), to pack
 einprägen /ˈainprɛːɡən/: to memorize sth, to stamp, to make an impression on sb
   Hast du dir den Weg auch gut eingeprägt?
   Have you memorized the route carefully?
+
+einräumen: to put (away), to fill, to admit, to concede, to grant
+  Lebensmittel in den Kühlschrank einräumen
+  das Regal wieder einräumen: to refill the shelf
+  Sie räumte ein, dass es Versäumnisse gegeben habe.
+  She admitted there had been failings.
 
 Einrede, die: objection, protest, contradiction, defense
 

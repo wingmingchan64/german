@@ -385,8 +385,9 @@ verheiratet /fɛɐˈhairatət/: married
 verheißen: to promise
   Die ersten Ergebnisse verheißen wenig Gutes.
   The first results do not augur well.
+  jemandem etwas verheißen
 
-verheißungsvoll: promising
+verheißungsvoll /fɛɐˈhaisʊŋsfɔl/: promising
   ein verheißungsvoller Start
 
 verhelfen /fɛɐˈhɛlfən/: to help sb/sth to achieve sth
@@ -614,6 +615,9 @@ verraten /fɛɐˈraːtən/: to tell, to reveal, to betray
   His expression betrayed his anger.
 
 Verräter /fɛɐˈrɛːtɐ/: traitor
+
+verreisen: to go away
+  Ich gieße die Blumen, solange meine Nachbarn verreist sind.
 
 verrückt /fɛɐˈrʏkt/: mad, crazy
   => irre

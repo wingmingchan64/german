@@ -596,7 +596,7 @@ Beitrag /ˈbaitraːk/, der: contribution, article
 
 Beitragszahler: contributor
 
-bejahen: to affirm
+bejahen /bəˈjaːən/: to affirm
   die Notwendigkeit einer Aktion bejahen: to affirm the necessity of a course of action
 
 Bekanntmachung /bəˈkantmaxʊŋ/, die, -en: announcement
@@ -1317,7 +1317,7 @@ bewusst /bəˈvʊst/: deliberate
   Das war bewusste Irreführung!
   That was deliberate deception!
 
-Bewusstsein, das: consciousness, awareness
+Bewusstsein /bəˈvʊstzain/, das: consciousness, awareness
   Pflichtbewusstsein: sense of duty
 
 bezahlen /bəˈʦaːlən/: to pay for

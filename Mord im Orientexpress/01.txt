@@ -59,10 +59,10 @@ General, had suddenly looked ten years younger.
 Dubosc hatte Teile eines Gesprächs zwischen ihm und dem Fremden mitgehört.
 «Sie haben uns gerettet, mon cher», hatte der General mit bewegter Stimme
 gesagt, und sein prächtiger weißer Schnurrbart hatte beim Reden gezittert. «Sie
-haben die Ehre der französischen Streitkräfte [armed forces] gerettet – und ein
-großes Blutvergießen [bloodshed; vergießen: to spill, to shed] abgewendet [to
-avert]. Wie kann ich Ihnen dafür danken, dass Sie meiner Bitte nachgekommen sind?
-Dass Sie diesen weiten Weg gemacht –»
+haben die Ehre [/ˈeːrə/] der französischen Streitkräfte [armed forces] gerettet –
+und ein großes Blutvergießen [bloodshed; vergießen: to spill, to shed] abgewendet
+[to avert]. Wie kann ich Ihnen dafür danken, dass Sie meiner Bitte nachgekommen
+sind? Dass Sie diesen weiten Weg gemacht –»
 
 Dubosc had overheard part of a conversation between him and the stranger. “You
 have saved us, mon cher,” said the General emotionally, his great white
@@ -92,7 +92,7 @@ war, doch ihm war nun die Aufgabe übertragen [to entrust] worden, Monsieur
 Poirot an den Taurus-Express zu bringen, und diese Aufgabe erledigte [to carry
 out] er mit all dem Eifer [enthusiasm] und Pflichtbewusstsein [sense of duty],
 das man von einem jungen Offizier am Beginn einer verheißungsvollen [promising]
-Karriere wohl erwarten durfte.
+Karriere [/kaˈrjeːrə/] wohl erwarten durfte.
 
 As to what it had all been about, Lieutenant Dubosc was still in the dark, but
 to him had been delegated the duty of seeing off M. Poirot by the Taurus
@@ -135,8 +135,8 @@ gesehen hatte.
 it.
 ------------------------------------------------------------------------------
 Ein eisiger Wind pfiff über den Bahnsteig. Beide Männer erschauerten. Lieutenant
-Dubosc gelang dabei ein verstohlener Blick [peep] auf seine Uhr. Fünf vor fünf –
-nur noch fünf Minuten!
+Dubosc gelang [gelingen: to succeed] dabei ein verstohlener Blick [peep] auf
+seine Uhr. Fünf vor fünf – nur noch fünf Minuten!
 
 A cold wind came whistling down the platform. Both men shivered. Lieutenant
 Dubosc managed to cast a surreptitious glance at his watch. Five minutes to
@@ -313,9 +313,9 @@ Monsieur bat [bitten] um ein Fläschchen Perrier.
 India and a young English lady from Baghdad. Monsieur requires anything?”
 Monsieur demanded a small bottle of Perrier.
 ------------------------------------------------------------------------------
-Fünf Uhr früh ist eine unangenehme Zeit zum Verreisen [to go away]. Es waren
-noch zwei Stunden bis zur Morgendämmerung. Im Bewusstsein [awareness] seines zu
-kurz gekommenen Nachtschlafs sowie [and] einer erfolgreich [successful]
+Fünf Uhr früh ist eine unangenehme Zeit zum Verreisen. Es waren noch zwei
+Stunden bis zur Morgendämmerung. Im Bewusstsein [awareness] seines zu kurz
+gekommenen Nachtschlafs sowie [and] einer erfolgreich [successful]
 abgeschlossenen, sehr heiklen [heikel: difficult] Mission kuschelte [to snuggle]
 Poirot sich in eine Ecke und schlief ein.
 
@@ -563,7 +563,7 @@ in the shadow of a traffic van. Arbuthnot was speaking.
 «Mary –»
 Die Frau unterbrach ihn.
 «Nicht jetzt. Nicht jetzt. Erst wenn alles vorbei ist. Wenn wir es hinter uns
-haben – dann–»
+haben – dann –»
 
 “Mary—”
 The girl interrupted him.
