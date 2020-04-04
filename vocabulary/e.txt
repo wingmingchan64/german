@@ -152,6 +152,9 @@ eigen /ˈaiɡən/: own
   Hast du ein eigenes Auto?
   Do you have your own car?
 
+eigenartig: strange, peculiar
+  ein eigenartiger Geruch / Geschmack: a peculiar smell/taste
+
 Eigenbedarf, der: personal use
 
 eigenhändig /ˈaiɡənhɛndɪç/: in your own hand, personal
@@ -907,6 +910,10 @@ entbehren /ɛntˈbeːrən/: to do without
   etw. entbehrt einer Sache: sth has no sth
   Deine Vorwürfe entbehren jeglicher Grundlage.
   Your accusations are completely unfounded.
+
+entblößen: to bare, to expose onself
+  Er kniete nieder und entblößte sein Haupt.
+  Der Mann hatte sich vor einer Passantin entblößt.
 
 Entchen, das, -: duck, duckling
 

@@ -898,6 +898,16 @@ Bescheid /bəˈʃait/, der: notification
   Bitte sag mir rechtzeitig Bescheid, ob du kommen kannst.
   Please let me know in good time whether you can come. 
 
+bescheiden: to content yourself, to give, to inform
+  Sie ging nicht auf seine Ausführungen ein, sondern beschied sich damit, bedächtig zu nicken.
+  She didn’t go into his remarks but contented herself with nodding thoughtfully.
+  Leider war ihm kein Glück / Erfolg beschieden.
+  Unfortunately he was not blessed with good fortune/success.
+  Auf Anfrage beschied der Pressesprecher des Ministeriums, ein Termin stehe noch nicht fest.
+  When asked, the spokesperson for the ministry stated that no date had yet been set.
+
+bescheiden: humbly, modestly
+
 Bescherung /bəˈʃeːrʊŋ/, die, ~|-en: giving Christmas presents, state of affairs
   Die Kinder warten schon ungeduldig auf die Bescherung.
   The children are already waiting impatiently for their Christmas presents to be given to them.

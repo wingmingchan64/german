@@ -874,7 +874,7 @@ treibt mich in die Wüstenei’n? [Wüstenei, f, Wüsteneien: wilderness]
 
 Weiser stehen auf den Strassen,
 weisen auf die Städte zu,
-und ich wand’re sonder Maßen [sonder: without ]
+und ich wand’re sonder Maßen [sonder: without]
 ohne Ruh’ und suche Ruh’.
 
 Einen Weiser seh’ ich stehen
@@ -993,9 +993,8 @@ we are gods ourselves.
 Drei Sonnen sah ich am Himmel steh’n,
 hab’ lang und fest sie angeseh’n;
 und sie auch standen da so stier, [blank]
-als könnten sie nicht weg von mir.
+als wollten sie nicht weg von mir.
 Ach, meine Sonnen seid ihr nicht!
-
 Schaut Andren doch ins Angesicht!
 Ja, neulich hatt’ ich auch wohl drei; [neulich: recently]
 nun sind hinab die besten zwei.
@@ -1007,9 +1006,8 @@ The Mock Suns
 I saw three suns stand in the sky.
 I watched them long and fixedly.
 And they stood there as blank and bright
-as if they would not leave my sight.
+as if unwilling to leave my sight.
 Alas, you cannot be my suns!
-
 Turn then, and gaze at other ones!
 Not long ago I’d three of my own;
 but now the best two have gone down.

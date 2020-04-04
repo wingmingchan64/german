@@ -37,7 +37,7 @@ does the Simplon Orient leave?”
 «Gewiss, Monsieur. Um diese Jahreszeit gibt es da keine Schwierigkeiten. Die
 Züge sind fast leer. Erste oder zweite Klasse?»
 «Erste.»
-«Tres bien, Monsieur. Wie weit fahren Sie?»
+«Très bien, Monsieur. Wie weit fahren Sie?»
 «Bis nach London.»
 «Bien, Monsieur. Ich besorge Ihnen eine Fahrkarte nach London und lasse Ihnen
 ein Schlafabteil im Kurswagen Istanbul-Calais reservieren.»
@@ -210,8 +210,8 @@ unpleasant impression. And you?”
 ------------------------------------------------------------------------------
 Hercule Poirot ließ sich mit der Antwort etwas Zeit.
 «Als er im Restaurant an mir vorbeiging», sagte er endlich, «hatte ich ein
-eigenartiges Gefühl. Als wäre ein wildes Tier – ein grausames [grausam: cruel]
-wildes Tier, wenn Sie verstehen – an mir vorbeigegangen.»
+eigenartiges [strange] Gefühl. Als wäre ein wildes Tier – ein grausames
+[grausam: cruel] wildes Tier, wenn Sie verstehen – an mir vorbeigegangen.»
 «Dabei macht er doch einen durch und durch gediegenen [solid, tasteful]
 Eindruck.»
 «Précisément! Der Körper – der Käfig [cage] – alles gediegen – doch durch die

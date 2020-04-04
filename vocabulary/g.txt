@@ -259,6 +259,10 @@ gedankenverloren: absentminded, abstracted
 
 Gedenkminute, die: minute’s silence
 
+gediegen: solid, tasteful
+  Das Restaurant hat eine gediegene Atmosphäre.
+  Sie stehen für eine gediegene Politik.
+
 Geduld /ɡəˈdʊlt/, die, ~|uncountable: patience
   Er hat beim / fürs Basteln keine Geduld.
   He has no patience for making things.
@@ -286,6 +290,9 @@ gefährden /ɡəˈfɛːɐdən/: to endanger
 gefährlich /ɡəˈfɛːɐlɪç/: dangerous
   Vorsicht! Der Täter ist bewaffnet und sehr gefährlich.
   Warning! The perpetrator is armed and very dangerous.
+
+Gefährte, der: companion
+  Der Hund war stets sein treuester Gefährte.
 
 Gefälle /ɡeˈfɛlə/, die, Gefälle: slope
   eine Straße mit starkem Gefälle: a road with a steep gradient 
@@ -1079,6 +1086,12 @@ Girokonto /ˈʒiːrokɔnto/, das, Girokonten: check account
 Gischt /ɡɪʃt/, die, ~|uncountable: spray 水花；飛沫
   Die Gischt spritzte hoch an die Fenster.
   The spray splashed up to the windows.
+
+Gitter, das: bars, grid, grate
+  Der Affe streckte eine Pfote durchs Gitter.
+  The monkey stuck its paw through the bars.
+
+Gitterstab, der: bar
 
 glänzend /ˈɡlɛnʦənt/: glossy, shiny, brilliant
   glänzende Laune haben: to be in the best of moods
