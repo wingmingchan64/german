@@ -4,10 +4,10 @@ PART I THE FACTS
 Erstes Kapitel Ein bedeutender Fahrgast im Taurus-Express
 1 AN IMPORTANT PASSENGER ON THE TAURUS EXPRESS
 
-Es war ein kalter Wintermorgen in Syrien. Früh um fünf Uhr wartete auf dem 
-Bahnhof von Aleppo der Zug, der in den Kursbüchern [Kursbuch: train schedule]
-großspurig [cocky] als «Taurus-Express» bezeichnet wird. Er bestand aus [to
-consist of] einem Küchen- und Speisewagen, einem Schlafwagen und zwei
+Es war ein kalter Wintermorgen in Syrien [/ˈzyːrɪən/]. Früh um fünf Uhr wartete
+auf dem Bahnhof von Aleppo der Zug, der in den Kursbüchern [Kursbuch: train
+schedule] großspurig [cocky] als «Taurus-Express» bezeichnet wird. Er bestand
+aus [to consist of] einem Küchen- und Speisewagen, einem Schlafwagen und zwei
 gewöhnlichen Reisewagen.
 
 It was five o’clock on a winter’s morning in Syria. Alongside the platform at
@@ -36,7 +36,7 @@ es sie in solchen Fällen immer gibt. Der General [/ɡenəˈraːl/] – sein Gen
 war zusehends [noticeably, rapidly] misslauniger [ill-tempered] geworden. Und
 dann war dieser Belgier [/ˈbɛlɡiɐ/] gekommen – offenbar aus dem fernen England
 angereist. Eine ganze Woche lang hatte eine merkwürdig gespannte Atmosphäre
-geherrscht. Und dann hatten sich gewisse Dinge ereignet [ereignen: to happen].
+geherrscht. Und dann hatten sich gewisse Dinge ereignet [erˈeignen: to happen].
 Ein hoch dekorierter Offizier hatte Selbstmord begangen, ein anderer seinen
 Abschied genommen – aus bekümmerten [worried] Mienen [expression] war der Kummer
 [sorrow, worry] gewichen [weichen: to give way], bestimmte militärische
@@ -74,11 +74,12 @@ Worauf der Fremde (ein gewisser Monsieur Hercule Poirot) eine geziemende
 [geziemen: to befit] Antwort gab, in der unter anderem [among other things] der
 Satz fiel: «Aber sollte ich denn vergessen haben, dass Sie mir einmal das Leben
 gerettet haben?» Worauf der General wiederum [again] etwas Geziemendes erwiderte
-[to respond] und jeden Verdienst [service] an dieser lange zurückliegenden [in
-the past] Gefälligkeit [courtesy] in Abrede stellte [to question sth, to deny;
-Abrede: agreement]. Und so hatten sie unter Austausch [exchange] weiterer
-Artigkeiten [compliments], in denen Wörter wie Frankreich, Belgien, Ruhm und
-Ehre vorkamen, einander herzlich: umarmt, und das Gespräch war zu Ende gewesen.
+[/ɛɐˈviːdɐn/, to respond] und jeden Verdienst [service] an dieser lange
+zurückliegenden [in the past] Gefälligkeit [courtesy] in Abrede stellte [to
+question sth, to deny; Abrede: agreement]. Und so hatten sie unter Austausch
+[/ˈaustauʃ/, exchange] weiterer Artigkeiten [compliments], in denen Wörter wie
+Frankreich, Belgien, Ruhm und Ehre vorkamen, einander herzlich: umarmt, und das
+Gespräch war zu Ende gewesen.
 
 To which the stranger (by name M. Hercule Poirot) had made a fitting reply
 including the phrase—“But indeed, do I not remember that once you saved my
@@ -142,8 +143,9 @@ A cold wind came whistling down the platform. Both men shivered. Lieutenant
 Dubosc managed to cast a surreptitious glance at his watch. Five minutes to
 five—only five minutes more! 
 ------------------------------------------------------------------------------
-Da er argwöhnte [argwöhnen: to suspect], der andere habe seinen verstohlenen
-Blick auf die Uhr bemerkt, stürzte er sich sogleich wieder ins Gespräch.
+Da er argwöhnte [argwöhnen /ˈarkvøːnən/: to suspect], der andere habe seinen
+verstohlenen Blick auf die Uhr bemerkt, stürzte er sich sogleich wieder ins
+Gespräch.
 
 Fancying that the other man had noticed his glance, he hastened once more into
 speech.
@@ -674,3 +676,30 @@ The Bosphorus was rough and M. Poirot did not enjoy the crossing. He was
 separated from his travelling companions on the boat and did not see them again.
 On arrival at the Galata Bridge he drove straight to the Tokatlian Hotel.
 ------------------------------------------------------------------------------
+
+Examples:
+
+Mit seiner großspurigen Art hat er sich schon viele Feinde gemacht.
+He’s made a lot of enemies with his cocky manner.
+Das Examen besteht aus zwei schriftlichen und zwei mündlichen Prüfungen.
+Ich habe jetzt keine Zeit, mich mit dir zu unterhalten.
+jdn um seinen Erfolg beneiden
+Das Hotel ist für seine gute Küche berühmt.
+Er hat sich nicht einmal von mir verabschiedet.
+Sein Zustand verschlechterte sich zusehends.
+His condition was visibly deteriorating.
+Wo genau hat sich das Unglück ereignet?
+Er sah mich voller Kummer an.
+Diese Entwicklung macht mir Kummer.
+der Präsident in höchsteigener Person
+Es geziemt sich nicht, mit vollem Mund zu reden.
+Mündliche Nebenabreden zu diesem Vertrag bestehen nicht.
+Oral agreements supplementary to this contract are not valid.
+Die ersten Ergebnisse verheißen wenig Gutes.
+ein verheißungsvoller Start
+ein anfälliges Immunsystem haben
+Wir sollten uns noch bereden, was zu tun ist.
+Die Zahlen bestätigten die Schätzungen [estimate] der Experten.
+Die Feuerwehr schätzt den Sachschaden [damage to property] auf 100.000 Euro.
+Was, wenn der Plan nicht gelingt?
+Er argwöhnte, dass sie ihm nicht alles gesagt habe.
