@@ -16,7 +16,6 @@ Oh my sweetest little dove,
 come, oh do come quickly.
 Longingly I think of you,
 fairest Rosalinde.
-
 -------------------------------------------------------------------------------
 ADELE (betritt das Zimmer, einen Brief in der Hand)
 Hahahaha!
@@ -71,16 +70,12 @@ in the clear blue sky.
 Alas, why did fate make me
 a mere lady’s maid?
 I must manage somehow to get the night off!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE (eintretend)
 Adele, ist mein Mann schon nach Haus gekommen?
 
 Adele, has my husband come in?
-
 -------------------------------------------------------------------------------
-
 ADELE (beiseite)
 Das ist mein Gnädige! Jetzt heraus mit der Geschicht,
 sie ist kurz, aber rührend! [touching]
@@ -90,24 +85,16 @@ Gnä’ Frau ...
 My mistress! Now my story, short but sweet.
 (sobbing)
 Madame...
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Ja?
-
 -------------------------------------------------------------------------------
-
 ADELE
 Meine arme Tante ist ... so krank ...
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Das tut mir leid, aber ich kann sie nicht gesund machen.
-
 -------------------------------------------------------------------------------
-
 ADELE
 Das verlang’ ich gar net! Aber es ist doch die Pflicht
 einer guten Nichte, ihre arme kranke Tante zu besuchen!
@@ -116,9 +103,7 @@ Und darum bitte ich für heute abend um Ausgang!
 I didn’t mean that. But don’t you agree it’s the duty of
 a good niece to visit her sick aunt?
 That’s why I’m asking you for the night off.
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Unmöglich! Oh, hast du den vergessen,
 dass mein Gemahl heute seine fünftägige Arreststrafe antreten muss? [Arrest: detention]
@@ -128,9 +113,7 @@ und versucht, Aufschub zu bekommen. [Aufschub, m, delay]
 Impossible! Have you forgotten that my husband must
 begin his five-day jail sentence today? He’s in court
 now with his lawyer, trying to arrange reprieve.
-
 -------------------------------------------------------------------------------
-
 ADELE
 Gnä’ Frau, meine arme ... arme ... arme ...
 Ach, ich darf nicht hin zu dir!
@@ -147,9 +130,7 @@ your well-beloved niece!
 What a tragic tale it all is.
 Alas, why did fate make me
 a mere lady’s maid?
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Du darfst heut’ nicht zu ihr,
 und wenn sie sich auch sehnt nach dir.
@@ -169,32 +150,21 @@ a mere lady’s maid?
 How lucky your aunt is to have such an affectionate
 niece!
 -------------------------------------------------------------------------------
-
 ALFRED (hinter der Szene)
 Täubchen, das entflattert ist, stille mein Verlangen ...
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Schon wieder a Straßensänger!
-
 -------------------------------------------------------------------------------
-
 ALFRED
 Täubchen, das ich oft geküßt, lass dich wieder fangen ...
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Die Stimm’!
-
 -------------------------------------------------------------------------------
-
 ALFRED
 Täubchen, holdes Täubchen mein, usw
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Ja natürlich, das ist Alfred! Er, der mich vor Jahren anbetete, [to adore]
 als ich noch frei war!
@@ -210,49 +180,31 @@ and his dash! Only a tenor can be so dashing, and
 only a dashing fellow can sing tenor like that!
 He dares to come here! Does he imagine I’m looking for a lover,
 when I’ve just been married?
-
 -------------------------------------------------------------------------------
-
 ALFRED (tritt ein)
 Rosalinde!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Alfred!
-
 -------------------------------------------------------------------------------
-
 ALFRED
 Warum nicht „mein Alfred“ und mir mit offenen Armen entgegengeflogen!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Mein Herr, ich bin verheiratet!
-
 -------------------------------------------------------------------------------
-
 ALFRED
 Das geniert mich nicht! [genieren: to bother]
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Aber wenn mein Gemahl käme!
-
 -------------------------------------------------------------------------------
-
 ALFRED
 Das geniert mich nicht! Übrigens kommt er nicht, er muss brummen! [to be locked up]
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Ich bitte, ich beschwöre Sie, gehen Sie!
-
 -------------------------------------------------------------------------------
-
 ALFRED
 Wohlan, ich verlasse Sie, jedoch nur unter der Bedingung, [wohlan: well now; Bedingung: condition]
 dass ich wiederkommen darf, wenn Ihr Herr Gemahl brummt!
@@ -261,22 +213,16 @@ Schwören Sie, und ich gehe.
 Very well, I’ll go. But only if you agree to let me come back
 when your husband’s in jail.
 Give me your word, and I’ll leave.
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Es sei ... ich schwöre!
-
 -------------------------------------------------------------------------------
-
 ALFRED
 Nun denn, ich gehe.
 (singend)
 Auf Wiedersehn!
 (ab)
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Ach, wenn er nur net singen möcht!
 Vor seinem hohen C schmilzt mein Widerstand dahin! ... [schmelzen]
@@ -286,19 +232,14 @@ Meine einzige Hoffnung ist jetzt, dass meinem Gatten die Arreststrafe erlassen w
 If he only wouldn’t sing – I always found his high C irresistible!
 My only hope now is that the case against my husband has been dismissed!
 -------------------------------------------------------------------------------
-
 EISENSTEIN (hinter der Bühne)
 Lassen Sie mich in Ruh’, Sie sind daran schuld, Sie Doktor Stotterbock. [stottern: to stutter; Bock: rogue]
 
 Leave me in peace – you’re to blame for the whole business, you stuttering idiot!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Da kommt er! Er zankt mit seinem Advokaten! Ui jeh, ein schlechtes Zeichen! [zanken: to quarrel]
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 (betritt mit Dr. Blind das Zimmer)
 Nein, mit solchen Advokaten ist verkauft man und verraten, [to give away]
@@ -307,19 +248,13 @@ da verliert man die Geduld! [patience]
 (entering the room with Dr Blind)
 No, indeed, with such counsel you’re properly stabbed in the back.
 It’s enough to make one lose patience!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Nur Geduld!
-
 -------------------------------------------------------------------------------
-
 BLIND
 Nur Geduld!
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Statt, dass jetzt die Sach’ beendet, [finished]
 hat’s noch schlimmer sich gewendet,
@@ -328,103 +263,65 @@ und daran ist der nur schuld.
 Instead of the business now being settled,
 it’s even taken a turn for the worse,
 and that’s all his fault.
-
 -------------------------------------------------------------------------------
-
 BLIND
 Wer ist schuld?
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Der ist schuld? Der wäre schuld?
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Ja, der ist ganz allein nur schuld!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Der Herr Notar?
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Du wirst schon seh’n!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Was ist gescheh’n?
 Erkläre dich!
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 So höre mich!
-
 -------------------------------------------------------------------------------
-
 BLIND
 Nein, erst will ich verteid’gen mich! [to defend]
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Ersparen Sie sich diese Müh’,
 So etwas ist nicht zu verteid’gen!
-
 -------------------------------------------------------------------------------
-
 BLIND
 Mir scheint, Sie wollen mich beleid’gen! [to offend]
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Nur ruhig Blut! Warum die Wut?
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Der Herr Notar schwatzt wie ein Star! [schwatzen: to chat]
 
 Our learned friend pleads like a parrot!
-
 -------------------------------------------------------------------------------
-
 BLIND
 Herr Eisenstein fing an zu schrei’n.
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Sie stottern ja bei jedem Wort!
-
 -------------------------------------------------------------------------------
-
 BLIND
 Sie schimpfen ja in einem fort! [schimpfen: to complain]
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Sie krähen wie ein Hahn!
-
 -------------------------------------------------------------------------------
-
 BLIND
 S-sie sind ein Grobian! [ruffian]
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Sie sind ein Blödian!
-
 -------------------------------------------------------------------------------
-
 BLIND
 Sie sind sehr inhuman!
 Sie rasen wie im Fieberwahn und kollern wie ein Puterhahn!
@@ -432,17 +329,13 @@ Sie rasen wie im Fieberwahn und kollern wie ein Puterhahn!
 
 Y-you are most unkind!
 You’re beside yourself with rage and carrying on like a l-lunatic!
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Sie reden lauter Lebertran [cod-liver oil]
 und dreh’n sich wie ein Wetterhahn.
 
 You’re talking utter rot and inconsistently at that.
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Doch schone dein Organ, [schonen: to take care]
 es sei nun abgetan. [to dismiss]
@@ -453,22 +346,16 @@ But now spare your breath
 and let the matter rest.
 You, sir, had better leave now –
 otherwise there’ll be a scandal yet.
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Ja, sie hat recht, geh’n Sie hinaus, sonst wird noch ein Skandal daraus!
 Ja, gehen Sie, da ist die Tür, hinaus, hinaus!
-
 -------------------------------------------------------------------------------
-
 BLIND
 Nein, diesen Ton hält man nicht aus!
 Ich geh’ hinaus!
 Ich gehe schon aus diesem Haus!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Das beste ist, Sie geh’n hinaus!
 Das beste wär’, Sie geh’n hinaus!
@@ -484,9 +371,7 @@ And now calm yourself at last;
 you’re sentenced; well, that’s that!
 Just put up with it and in five days,
 in a mere five days, the whole business will be done with.
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Fünf Tage, sagst du? Jetzt sind’s gar acht!
 Man hat mir drei dazu geschlagen –
@@ -499,19 +384,13 @@ They added yet another three –
 that’s all that fellow has achieved.
 This very day I’m to report for jail,
 and if I don’t they’ll come for me!
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Das ist zu stark, das muss ich sagen!
-
 -------------------------------------------------------------------------------
-
 EISENSTEIN
 Nicht wahr?
-
 -------------------------------------------------------------------------------
-
 ROSALINDE
 Ach, mein armer, armer Mann,
 noch heute also musst du dran?
@@ -522,213 +401,670 @@ Alas, my poor, poor husband,
 so you must leave this very evening?
 What can I say to comfort you?
 However, shall I endure this?
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
 -------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
+EISENSTEIN
+Ach, mit solchen Advokaten
+ist verkauft man und verraten!
+Da verliert man die Geduld!
+-------------------------------------------------------------------------------
+ROSALINDE
+Und daran ist der nur schuld!
+-------------------------------------------------------------------------------
+BLIND (kommt zurück)
+Wer ist schuld?
+-------------------------------------------------------------------------------
+ROSALINDE
+Sie sind schuld!
+-------------------------------------------------------------------------------
+EISENSTEIN
+Der ist ganz allein nur schuld!
+-------------------------------------------------------------------------------
+BLIND
+Wenn Sie nur erst wieder frei, prozessieren wir aufs neu,
+und ich werde Ihnen dann schon zeigen, was ich kann!
+
+Rekurrieren, appellieren,
+reklamieren, revidieren,
+rezipieren, subvertieren,
+devolvieren, involvieren,
+protestieren, liquidieren,
+exzerpieren, extorquieren,
+arbitrieren, resümieren!
+
+Just wait till you’re free again, we will file another suit,
+and then I will show you some of the things I c-c-can do!
+
+Litigation, appellation,
+reclamation, investigation,
+allegation, exoneration,
+interrogation, corroboration,
+protestation, liquidation,
+expropriation, sequestration,
+arbitration, peroration!
+-------------------------------------------------------------------------------
+EISENSTEIN
+Hör’n Sie auf, ’s ist genug!
+-------------------------------------------------------------------------------
+ROSALINDE
+Hör’n Sie auf, ’s ist genug!
+-------------------------------------------------------------------------------
+BLIND
+... Exkulpieren, inkulpieren,
+kalkulieren, konzipieren,
+und Sie müssen triumphieren!
+Rekurrieren, appellieren, usw
+-------------------------------------------------------------------------------
+ROSALINDE
+Ob Sie Berge von Papieren auch dabei zusammen schmieren,
+Sie werden schließlich sich blamieren, ja, blamieren! [to disgrace]
+
+No matter how much good paper and ink you may waste in the process,
+in the end you will only make a fool of yourself – yes, a fool!
+-------------------------------------------------------------------------------
+EISENSTEIN
+Wenn Sie jetzt nicht retirieren, muss ich Sie hinaus bugsieren, [to jockey]
+und vielleicht noch schließlich attackieren!
+Muss ich Sie hinaus bugsieren!
+
+If you don’t withdraw at once
+I’ll have to eject you forcibly
+and finally, perhaps, even assault you bodily!
+Forcibly I’ll have to eject you!
+-------------------------------------------------------------------------------
+ROSALINDE
+Ach, mit solchen Advokaten ist man übel oft beraten, [übel: badly; beraten: to advise]
+und fürwahr, man braucht Geduld! [fürwahr: in truth]
+Statt dass jetzt die Sach’ beendet,
+hat’s noch schlimmer sich gewendet,
+und nur der allein ist schuld!
+
+Alas, advice tendered by such counsel is not always very sound,
+and, my word, they try your patience!
+Instead of the business now being settled,
+it’s even taken a turn for the worse,
+and that’s his fault and his alone!
+-------------------------------------------------------------------------------
+EISENSTEIN
+Nein, mit solchen Advokaten ist verkauft man und verraten,
+und verliert man die Geduld!
+Statt dass jetzt die Sach’ beendet,
+hat’s noch schlimmer sich gewendet
+und daran ist der nur schuld!
+-------------------------------------------------------------------------------
+BLIND
+Ach, wir armen Advokaten,
+sollen immer helfen, raten,
+dazu braucht man viel Geduld!
+Statt dass jetzt die Sach’ beendet,
+hat’s noch schlimmer sich gewendet,
+und daran sind Sie nur schuld!
+
+Oh, we poor lawyers
+are for ever expected to help, advise,
+and for that you need no end of patience!
+Instead of the business now being settled,
+it’s even taken a turn for the worse,
+and that’s your fault and no one else’s!
 -------------------------------------------------------------------------------
+ROSALINDE
+Also, verschärft noch  die Strafe? [verschärft: increased]
 
+So the sentence was stiffened?
 -------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
+EISENSTEIN
+Diese Zulage hab’ ich diesem Herrn Doktor Stotterbock zu verdanken!
+[Zulage, f, increment]
 -------------------------------------------------------------------------------
-
--------------------------------------------------------------------------------
-
+BLIND
+Reizen Sie mich nicht, Sie haben mich konfus gemacht! [reizen: to irritate; confus, /kɔnˈfuːs/]
 -------------------------------------------------------------------------------
-
+EISENSTEIN
+Hinaus mit Ihnen!
+-------------------------------------------------------------------------------
+BLIND
+Auf Wie... Wie... Wiedersehen!
+(ab)
+-------------------------------------------------------------------------------
+EISENSTEIN
+Und so was ist mein Vertreter! [representative]
+-------------------------------------------------------------------------------
+ROSALINDE
+Mein armer Gabriel – acht lange Tage – und heute noch –
+-------------------------------------------------------------------------------
+EISENSTEIN
+Heute noch! Sie haben mir nur ein paar Stunden
+Freiheit bewilligt, um zum Abschied mit meinem [bewilligen: to allow]
+süßen Weibchen soupieren zu können.
+
+Today, no less! I was only allowed a few hours’ grace
+in which to have supper with my sweet little wife and
+say goodbye to her.
+-------------------------------------------------------------------------------
+ADELE (erscheint)
+Herr Doktor Falke ist eben ankommen.
+-------------------------------------------------------------------------------
+FALKE (tritt ein)
+Mein Kompliment, schönste aller Frauen.
+-------------------------------------------------------------------------------
+ROSALINDE
+Ach, lieber Doktor, versuchen Sie doch,
+unsern armen Arrestanten ein bisserl aufzuheitern.
+Ich richt’ inzwischen das Souper.
+(ab)
+
+Dear Dr Falke! Help me, please, to cheer up our poor
+prisoner her! In the meantime I’ll see about supper.
+-------------------------------------------------------------------------------
+FALKE
+Bitte sehr. Dich aufzuheitern bin ich ja da, [aufheitern: to cheer up]
+denn ich komme dich zu einem fürstlichen Souper [fürstlich: lavish]
+mit den reizendsten Koryphäen der Oper einzuladen! [reizend: delightful; Koryphäe: eminent authority]
+
+Gladly...That’s just why I’m here – to cheer you up!
+How about coming with me to a ball at which
+all the beauties of the opera ballet will be present?
+-------------------------------------------------------------------------------
+EISENSTEIN
+Bist du toll? Ich muss in einer Stunde meine Strafe antreten!
+-------------------------------------------------------------------------------
+FALKE
+Ach, den Arrest kannst du morgen in aller Frühe antreten;
+heute gehst du mit mir in die Villa Orlofsky,
+du weißt doch, der junge russische Fürst.
+Du findest dort Damen, sag’ ich dir, Damen,
+den jugendlichen Ballettnachwuchs, die sogenannten Ratten!
+
+Oh, you can being your term in the morning.
+Tonight you’re going with me to Orlofsky’s –
+you know, the young Russian prince.
+There will be girls there – what girls!
+Theatre rats, every one of them.
+-------------------------------------------------------------------------------
+EISENSTEIN
+Die Ratten?
+-------------------------------------------------------------------------------
+FALKE
+Ja, ich hoffe, heute wird es sehr lustig.
+Ich erwarte dich in – wie spät ist es jetzt? [erwarten: to expect]
+
+Yes – I think it should be quite a party.
+I’ll call for you in – what time is it now?
+-------------------------------------------------------------------------------
+EISENSTEIN (holt seine Uhr hervor)
+Wart, ich schau’ mal nach.
+
+I’ll have a look.
+-------------------------------------------------------------------------------
+FALKE
+Ah, das ist ja der gewisse Rattenfänger!
+Man behauptet, dass du mit dieser niedlichen Repetieruhr [behaupten: to claim]
+alle Damen köderst, wenn du ihnen den Hof machst. [ködern: to lure]
+Du versprichst sie einer jeden, aber ... [versprechen: to promise]
+
+Haha! There you have the ideal rat-trap!
+I’ll bet you have made many a conquest with that little chiming watch as bait!
+You dangle it in front of them, and then...
+-------------------------------------------------------------------------------
+EISENSTEIN
+Aber gekriegt hat sie noch keine! [kriegen]
+-------------------------------------------------------------------------------
+FALKE
+Hahaha! Nun, du kannst auch heute wieder deinen
+Köder auswerfen, du Gauner du, haha! [Köder: bait; Gauner: rascal]
+
+Komm mit mir zum Souper,
+es ist ganz in der Näh’!
+Eh’ du in der stillen Kammer
+laborierst am Katzenjammer, [depression]
+musst du dich des Lebens freu’n,
+ein fideler Bruder sein! [fidel: jolly]
+Ballerinen leicht beschwingt, [elated]
+in den blendendsten Toiletten, [blendend: splendid]
+fesseln dich mit Rosenketten, [fesseln: to shackle]
+wenn die Polka lockend klingt! [locken: to attract]
+Freundchen, glaub’ mir, das verjüngt! [to make appear younger]
+Bei rauschenden Tönen [rauschend: lavish]
+im blendenden Saal, [blendend: splendid]
+mit holden Sirenen
+beim Göttermahl, [Mahl, n: meal]
+da fliehen die Stunden
+in Lust und Scherz, [Lust: joy; Scherz: joke]
+da wirst du gesunden
+von allem Schmerz:
+Soll dir das Gefängnis nicht schädlich sein, [Gefängnis: prison; schädlich: harmful]
+Musst du etwas tun, dich zu zerstreuen! [to take your mind off things]
+Siehst du das ein?
+
+Hahaha! Well, tonight you can bait your trap to your
+heart’s content, you old swindler, haha!
+
+Come along to the party then, with me,
+you won’t have far to go!
+Before you settle down to moping
+in that prison cell of yours,
+it’s your duty to have a jolly time
+and to be a gay spark!
+Gracefully nimble ballet dancers,
+in dazzling creations clad,
+will fetter you with charming chains
+to the polka’s alluring strains!
+Believe me, friend, you’ll feel young again!
+With intoxicating music
+and splendour galore,
+with captivating sirens
+at the exquisite banquet,
+time will just slip away
+amid laughter and merriment,
+and you will forget
+all you troubles and cares:
+if prison is not to prove harmful to you
+you’ve simply got to do something to amuse yourself!
+Don’t you agree?
+-------------------------------------------------------------------------------
+EISENSTEIN
+Das seh’ ich ein!
+Doch meine Frau, die darf nichts wissen.
+
+I do indeed!
+But my wife must know nothing about all this!
+-------------------------------------------------------------------------------
+FALKE
+Du wirst zum Abschied zärtlich sie küssen,
+sagst Lebewohl, mein süßes Kätzchen!
+
+You must kiss her most tenderly goodbye,
+saying “Fare thee well, my sweetest kitten”.
+-------------------------------------------------------------------------------
+EISENSTEIN
+Nein, nein! Mein Mauserl, sage ich, mein süßes Mauserl!
+Denn als Katze schleich’ ich selbst aus dem Hause mich. [schleichen: to creep]
+
+Oh no! “my sweetest mousekin”, I shall say, “my sweetest mousekin”!
+For I myself will be the cat when I creepout of the house.
+-------------------------------------------------------------------------------
+FALKE
+Süßes Mauserl!
+Denn als Katze schleichst du selbst aus dem Hause dich.
+Und während sie schläft ganz fest,
+gehst du, statt in deinen Arrest,
+mit mir zu dem himmlischen Fest!
+
+“Sweetest mousekin!”!
+For you yourself will be the cat when youcreep out of the house.
+And while she is soundly asleep,
+instead of going to your jail
+you’ll be coming along to that heavenly party with me!
+-------------------------------------------------------------------------------
+EISENSTEIN
+Mit dir zu dem himmlischen Fest!
+-------------------------------------------------------------------------------
+FALKE
+Ich führe dich ein als Fremden:
+Marquis Renard sollst du dort sein!
+So wird man nichts erfahren können; willst du?
+
+I’ll introduce you as a stranger:
+you will be Marquis Renard!
+That way no one will find out; are you agreeable?
+-------------------------------------------------------------------------------
+EISENSTEIN
+Ach, ich wär’ schon erbötig ... [to be willing]
+-------------------------------------------------------------------------------
+FALKE
+Du musst!
+-------------------------------------------------------------------------------
+EISENSTEIN
+... wenn nur ...
+-------------------------------------------------------------------------------
+FALKE
+Du musst dir’s vergönnen,
+zur Gesundheit ist’s ja nötig.
+
+You simply owe itself to yourself:
+just to think of your health.
+-------------------------------------------------------------------------------
+EISENSTEIN
+Ja, ich glaub’, du hast recht,
+die Ausred’ ist nicht schlecht! [Ausrede: excuse]
+-------------------------------------------------------------------------------
+FALKE
+Soll dir das Gefängnis nicht schädlich sein,
+musst du etwas tun, dich zu zerstreu’n!
+
+So kommst du?
+-------------------------------------------------------------------------------
+EISENSTEIN
+Soll mir das Gefängnis nicht schädlich sein,
+muß ich etwas tun, mich zu zerstreu’n!
+
+Wer kann widersteh’n? [to resist]
+Ja, ich bin dabei!
+-------------------------------------------------------------------------------
+FALKE
+Zum Teufel mit deiner Leimsiederei!
+
+The devil take your shilly-shallying!
+-------------------------------------------------------------------------------
+BEIDE
+Ein Souper uns heute winkt, [to wave]
+wie noch gar keins dagewesen, [da sein: to be there]
+schöne Mädchen auserlesen; [selected]
+zwanglos dort man lacht und singt! [zwanglos: casual]
+Lalala, lalala, usw.
+
+A supper-party’s in store for us tonight
+such as has never been seen before,
+attended by exquisite beauties;
+oh what a night of mirth and song it will be!
+Lalala, lalala, etc.
+-------------------------------------------------------------------------------
+ROSALINDE (kommt zurück)
+Ja, was ist denn los? Ihr tanzt und singt?
+-------------------------------------------------------------------------------
+FALKE
+Ja, ich hab’ ihn getröstet. Es war eine schwierige
+Aufgabe, aber, wie Sie sehen, es ist mir gelungen! [successful]
+Gnädige Frau, es ist schon spät – ich will dem
+Gefängnisdirektor Frank seinen neuen Hausgenossen anmelden. [Hausgenosse: fellow tenant; anmelden: to announce]
+(zu Eisenstein)
+Ich werde dich dort erwarten.
+(zu Rosalinde)
+Küß die Hände, Gnädigste.
+(ab)
+
+Yes, I think I’ve managed to cheer him up a bit,
+as you see – though it wasn’t easy. But now it’s getting late;
+I’ll run along and announce your husband’s arrival to Warden Frank.
+(to Eisenstein)
+See you later!
+(to Rosalinde)
+I kiss your hand, dear lady.
+(He leaves.)
+-------------------------------------------------------------------------------
+EISENSTEIN
+Tralalalala! Es ist Zeite an meine Toilette zu denken!
+-------------------------------------------------------------------------------
+ROSALINDE
+Toilette fürs Gefängnis?
+-------------------------------------------------------------------------------
+EISENSTEIN
+Ja, natürlich; Falke meint, es sei möglich, dass ich
+dort eine geschlossene Gesellschaft finde.
+Noblesse oblige, tralalalala!
+(ab)
+
+Yes, naturally. Falke says it is quite possible I’ll find
+myself in high society there. Noblesse oblige, tra-la-alal!
+(He leaves.)
+-------------------------------------------------------------------------------
+ROSALINDE
+Tralalalala. Der Mann ist ja wie ausgewechselt.
+Mir scheint, er freut sich beinah, ins Gefängnis eingeliefert zu werden.
+Wenn ich nur wüsste, was ich mit Alfred anfangen soll!
+
+Tra-la-la-la! It strikes me that he’s a changed man –
+he seems almost glad to be going to jail.
+Oh, if only I knew how to deal with Alfred!
+-------------------------------------------------------------------------------
+ADELE (kommt herein)
+Gnä’ Frau, das Souper ist vorbereitet!
+-------------------------------------------------------------------------------
+ROSALINDE
+Ach, Adele. Wie geht es denn deiner armen kranken Tante?
+-------------------------------------------------------------------------------
+ADELE
+So schlecht, gnä’ Frau!
+-------------------------------------------------------------------------------
+ROSALINDE
+Also gut, Adele, ich gebe dir den Urlaub!
+-------------------------------------------------------------------------------
+ADELE
+Wahrhaftig ja, gnä’ Frau? Früher haben Sie es mir ja rundweg abgeschlagen.
+[rundweg: flatly; abschlagen: to refuse]
+-------------------------------------------------------------------------------
+ROSALINDE
+Früher war ich verdrießlich; jetzt bin ich besserer Laune! [verdrießlich: morose]
+-------------------------------------------------------------------------------
+ADELE
+Ah, weil der gnä’ Herr eingesperrt wird? [einsperren: to lock in]
+-------------------------------------------------------------------------------
+ROSALINDE
+Adele!!!
+-------------------------------------------------------------------------------
+ADELE
+Verzeihung, gnä’ Frau!
+-------------------------------------------------------------------------------
+EISENSTEIN (hereinkommend)
+So, der Frack ist in Ordnung. [Frack: tailcoat]
+-------------------------------------------------------------------------------
+ROSALINDE
+Und diese Balltoilette hast du für die Gefangenen gemacht?
+-------------------------------------------------------------------------------
+EISENSTEIN
+Damit sie sehen, dass ich ihrer würdig bin. [würdig: dignified]
+Aber es ist Zeit – leb’ wohl, Rosalinde.
+
+It’s a very exclusive jail, my dear.
+Well, the time has come. Goodbye, my Rosalinde.
+-------------------------------------------------------------------------------
+ROSALINDE
+Mein teurer Gabriel!
+-------------------------------------------------------------------------------
+EISENSTEIN
+In so einer Situation hat man nur die Wahl,
+entweder in Schmerz zu vergehen, oder sich rasch von einander loszureißen!
+Also –
+
+In a situation like this one either gives in to misery
+completely or tears oneself away as quickly as possible.
+So – 
+-------------------------------------------------------------------------------
+BEIDE
+Reißen wir uns los!
+-------------------------------------------------------------------------------
+ROSALINDE
+So muss allein ich bleiben acht Tage ohne dich!
+Wie soll ich dir beschreiben mein Leid, so fürchterlich! [furchtbar]
+Wie werd’ ich es ertragen, dass mich mein Mann verließ? [ertragen: to bear]
+Wem soll mein Leid ich klagen, o Gott, wie rührt mich dies!
+Ich werde dein gedenken des Morgens beim Kaffee,
+wenn ich dir ein will schenken, die leere Tasse seh’,
+kann keinen Gruß dir winken, aus Jammer werd’ ich g’wiß
+ihn schwarz und bitter trinken.
+Ach!
+
+So I’m to be left all alone, a whole eight days without you!
+How can I put into words the awful sorrow I feel?
+How will I find it possible to bear being separated from my dear husband?
+Who have I to pour my heart out to?
+Oh, Lord, how sad this makes me!
+Of you I will be thinking in the morning, at the breakfast table,
+when, wanting to pour out your coffee,
+I will see the empty cup and can’t so much as smile at you –
+overwhelmed by grief, I am bound to drink mine quite unsweetened –
+ah!
+-------------------------------------------------------------------------------
+EISENSTEIN
+O Gott, wie rührt mich dies! [rühren: to move]
+
+Oh Lord, how sad this makes me!
+-------------------------------------------------------------------------------
+ALLE DREI
+O Gott, wie rührt mich dies!
+O je, o je, wie rührt mich dies! usw.
+-------------------------------------------------------------------------------
+ROSALINDE
+Wo bleibt die traute Gruppe, kommt Mittag dann heran! [traut: close]
+Zum Rindfleisch – wie zur Suppe – zum Braten – keinen Mann! [braten: to roast]
+Und sinkt der nächt’ge Schleier, gibt’s wieder mir ’nen Riss, [Schleier: veil]
+mein Schmerz wird ungeheuer! [vast]
+
+Gone will be the happy scene when lunch-time arrives!
+With no husband to partake of soup or steak or joint!
+And when the shades of night are falling, again I’ll feel a pang –
+my grief will then know no limits!
+-------------------------------------------------------------------------------
+ALLE DREI
+O je, o je, wie rührt mich dies!
+O je, o je, wie rührt mich dies! usw.
+-------------------------------------------------------------------------------
+EISENSTEIN
+Was soll das Klagen frommen?
+Den Kopf verlier’ ich schier!
+
+What’s the good of all this moaning?
+I’m nearly off my head!
+-------------------------------------------------------------------------------
+ROSALINDE
+Mein Kopf ist ganz benommen! [dazed]
+-------------------------------------------------------------------------------
+ADELE
+Der meine ist ganz wirr! [confused]
+-------------------------------------------------------------------------------
+EISENSTEIN
+Leb’ wohl, ich muss nun gehen!
+-------------------------------------------------------------------------------
+ROSALINDE, ADELE
+Leb’ wohl, du/er musst/muss nun gehn,
+doch bleibt ein Trost so süß!
+
+Farewell, then you/he must leave
+yet one sweet consolation remains!
+-------------------------------------------------------------------------------
+ADELE
+Es gibt ein Wiedersehen!
+-------------------------------------------------------------------------------
+ALLE DREI
+Es gibt ein Wiedersehen!
+O Gott, wie rührt mich dies!
+O je, o je, wie rührt mich dies! usw.
+(Eisenstein geht ab, gefolgt von Adele.)
+-------------------------------------------------------------------------------
+ROSALINDE
+Er weint und tanzt zugleich; wie leichtsinnig doch diese Männer sind.
+Na, er wird sich schnell zu trösten wissen,
+während ich arme Frau einsam und verlassen um ihn trauere – bis der andere kommt!
+
+He cries and dances at the same time – how frivolous men are!
+He’ll probably enjoy himself in jail, while I
+lonely and deserted worry about him – until Alfred shows up!
+-------------------------------------------------------------------------------
+ALFRED (kommt herein)
+Rosalinde!
+-------------------------------------------------------------------------------
+ROSALINDE
+Da ist er schon!
+-------------------------------------------------------------------------------
+ALFRED
+Er brummt?
+
+He’s gone?
+-------------------------------------------------------------------------------
+ROSALINDE
+Er brummt!!
+-------------------------------------------------------------------------------
+ALFRED
+Ah, wie ich sehe, haben Sie schon alles gerichtet. [prepared]
+Da ist ja auch ein Schlafrock und die Kappe. [cap]
+
+And I see that you’ve everything ready for me – even a
+dressing gown and night-cap.
+-------------------------------------------------------------------------------
+ROSALINDE
+Aber was machen Sie denn?
+Sie können doch nicht den Schlafrock von meinem Mann anziehen.
+Wollen Sie mich denn kompromittieren?
+-------------------------------------------------------------------------------
+ALFRED
+Kompromittieren, nein. Aber mit Ihnen soupieren.
+-------------------------------------------------------------------------------
+ALFRED
+Trinke, Liebchen, trinke schnell, trinken macht die Augen hell.
+Sind die schönen Äuglein klar, siehst du alles licht und wahr.
+Siehst, wie heiße Lieb’ ein Traum, der uns äffet sehr, [äffen: to play trick on]
+siehst, wie ew’ge Treue Schaum, so was gibt’s nicht mehr! [Treue: faithfulness; Schaum: foam]
+Flieht auch manche Illusion, die dir einst dein Herz erfreut, [einst: once; erfreuen: gladden]
+gibt der Wein dir Tröstung schon durch Vergessenheit! [Tröstung: consolation]
+Glücklich ist, wer vergisst, was doch nicht zu ändern ist. [vergessen]
+Kling, kling, kling, sing, sing, sing,
+trink mit mir, lalala, usw.
+
+Drink, my darling, waste no time, drink puts brightness in your eyes.
+Once your fair eyes are bright and clear, you’ll see everything as it really is.
+You’ll see that passionate love’s a dream that fools us again and again,
+and everlasting devotion a myth that exists no more!
+Even though any an illusion vanishes which once gladdened your heart,
+wine comforts you all right by giving you oblivion!
+Happy is the one who accepts what has got to be.
+Kling, kling, kling, sing, sing, sing
+drink with me lalala, etc.
+-------------------------------------------------------------------------------
+ROSALINDE
+Was tut man hier?
+-------------------------------------------------------------------------------
+BEIDE
+Glücklich ist, wer vergißt,
+was doch nicht zu ändern ist.
+-------------------------------------------------------------------------------
+ROSALINDE
+Er geht nicht von hinnen,
+schläft hier wohl noch ein;
+was soll ich beginnen?
+
+He won’t go away
+maybe he’ll even fall asleep;
+whatever am I to do?
+-------------------------------------------------------------------------------
+ALFRED
+Stoß an! Stoß an! [anstoßen: to clink glasses]
+-------------------------------------------------------------------------------
+ROSALINDE
+Nein, nein, nein, nein!
+-------------------------------------------------------------------------------
+ALFRED
+Stoß an!
+-------------------------------------------------------------------------------
+ROSALINDE
+Nein, nein, nein, nein!
+-------------------------------------------------------------------------------
+ALFRED
+Ach! Trinke, Liebchen, trinke schnell, trinken macht die Augen hell!
+Mach’ doch nur kein bös’ Gesicht, sei hübsch lustig, grolle nicht! [Gesicht: face; grollen: to grumble]
+Brachst du einmal auch die Treu’, das sei dir verzieh’n;
+schwöre wieder mir aufs neu’, und ich glaube kühn! [boldly]
+Glücklich macht uns Illusion, ist auch kurz die ganze Freud’;
+sei getrost, ich glaub’ dir schon, und bin glücklich heut’. [getrost: confidently]
+
+Ah! Drink, my darling, waste no time, drink puts brightness in your eyes!
+Do not frown, I beg of you, be merry and don’t scold!
+If once you have been untrue, well, I’ll forgive you;
+just swear you love me again and I will not doubt you.
+Illusion brings us happiness even though the joy is brief;
+never fear, I believe you all right and am happy while today lasts.
+-------------------------------------------------------------------------------
+BEIDE
+Glücklich ist, wer vergißt,
+was doch nicht zu ändern ist.
+(Man hört Stimmen im Hintergrund.)
+-------------------------------------------------------------------------------
+ROSALINDE
+Ich höre Stimmen; man spricht unten! Weh mir!
+Hören Sie, man kommt die Treppe herauf!
+-------------------------------------------------------------------------------
+ALFRED
+Das geniert mich nicht!
+-------------------------------------------------------------------------------
+ROSALINDE
+Himmel, welche Lage! [situation]
+-------------------------------------------------------------------------------
+FRANK (öffnet die Türe)
+Erschrecken Sie nicht, gnädige Frau, 
+ich bin Gefängnisdirektor Frank und kann mir das Vergnügen nicht versagen, [to fail]
+Ihren renitenten Herrn Gemahl persönlich in sein Stillleben zu geleiten. [renitent: defiant; geleiten: to escort]
+
+Don’t be alarmed, dear madam, I’m Warden Frank, at your service.
+I couldn’t deny myself the pleasure of coming in person
+to conduct your husband to jail.
 -------------------------------------------------------------------------------
 
 -------------------------------------------------------------------------------
