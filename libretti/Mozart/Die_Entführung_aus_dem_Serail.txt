@@ -287,18 +287,18 @@ Ruhig, warten Sie hier, ich will ihm entgegengehen. [to go to meet]
 
 BELMONTE
 Konstanze, dich wieder zu sehen, dich!
-O wie ängstlich, o wie feurig
+O wie ängstlich, o wie feurig [nervously; passionate]
 Klopft mein liebevolles Herz!
-Und des Wiedersehens Zähre
-Lohnt der Trennung bangen Schmerz.
-Schon zittr’ ich und wanke,
-Schon zag’ ich und schwanke;
+Und des Wiedersehens Zähre [tear]
+Lohnt der Trennung bangen Schmerz. [separation; bang: anxious]
+Schon zittr’ ich und wanke, [zittern]
+Schon zag’ ich und schwanke; [=zittern, to hesitate; =wanken, to sway]
 Es hebt sich die schwellende Brust! –
-Ist das ihr Lispeln?
+Ist das ihr Lispeln? [to whisper]
 Es wird mir so bange! –
 War das ihr Seufzen?
-Es glüht mir die Wange!
-Täuscht mich die Liebe?
+Es glüht mir die Wange! [to glow]
+Täuscht mich die Liebe? [to deceive]
 War es ein Traum?
 O wie ängstlich, usw.
 (Pedrillo kommt eilig gelaufen.)
@@ -307,21 +307,20 @@ PEDRILLO
 Herr, geschwind zur Seite! Der Bassa kommt!
 (Belmonte versteckt sich.)
 
-(Bassa Selim und Konstanze kommen in einem
-Lustschiff angefahren, vor welchem ein anderes
-Schiff mit Janitscharen-Musik voraus landet. Die
-Janitscharen stellen sich am Ufer auf.)
+(Bassa Selim und Konstanze kommen in einem Lustschiff angefahren,
+vor welchem ein anderes Schiff mit Janitscharen-Musik voraus landet. [Janissaries]
+Die Janitscharen stellen sich am Ufer auf.)
 
 CHOR DER JANITSCHAREN
-Singt dem großen Bassa Lieder, töne,
-feuriger Gesang;
-Und vom Ufer halle wieder unsrer Lieder
-Jubelklang!
+Singt dem großen Bassa Lieder, töne, feuriger Gesang;
+Und vom Ufer halle wieder unsrer Lieder Jubelklang! [to echo; cheer]
+
 (Vier Einzelstimmen)
 Weht ihm entgegen, kühlende Winde,
-Ebne dich sanfter, wallende Flut!
-Singt ihm entgegen, fliegende Chöre,
+Ebne dich sanfter, wallende Flut! [ebnen: to flatten]
+Singt ihm entgegen, fliegende Chöre, [/ˈkøːrə/]
 Singt ihm der Liebe Freuden ins Herz!
+
 (Alle)
 Singt dem großen Bassa Lieder, töne
 feuriger Gesang;
@@ -330,57 +329,56 @@ Jubelklang!
 (Die Janitscharen gehen ab.)
 
 SELIM
-Immer noch traurig, geliebte Konstanze? Immer
-in Tränen? Diese reizende Gegend, diese
-bezaubernde Musik, sag, kann nichts von allem
-dich endlich beruhigen, endlich dein Herz
-rühren? Sieh, ich könnte befehlen, könnte dich
-zwingen. Aber nein, Konstanze, dir selbst will ich
-dein Herz zu danken haben – dir selbst –
+Immer noch traurig, geliebte Konstanze?
+Immer in Tränen? Diese reizende Gegend, [charming]
+diese bezaubernde Musik, sag, kann nichts von allem
+dich endlich beruhigen, endlich dein Herz rühren? [to move]
+Sieh, ich könnte befehlen, könnte dich zwingen.
+Aber nein, Konstanze, dir selbst will ich dein Herz zu danken haben –
+dir selbst –
 
 KONSTANZE
-Großmütiger Bassa, o daß ich deine Liebe
-erwidern könnte – aber – verzeih, ich kann nicht.
+Großmütiger Bassa, o dass ich deine Liebe erwidern könnte – [to reply]
+aber – verzeih, ich kann nicht.
 
 KONSTANZE
 Ach ich liebte, war so glücklich,
-Kannte nicht der Liebe Schmerz;
-Schwur ihm Treue, dem Geliebten,
+Kannte nicht der Liebe Schmerz; [kennen]
+Schwur ihm Treue, dem Geliebten, [oath]
 Gab dahin mein ganzes Herz!
+
 Doch wie schnell schwand meine Freude.
 Trennung war mein banges Los;
 Und nun schwimmt mein Aug’ in Tränen,
-Kummer ruht in meinem Schoß.
+Kummer ruht in meinem Schoß. [grief; bosom]
 Ach ich liebte, usw.
 (geht ab)
 
 SELIM
-Ihr Schmerz, ihre Tränen, ihre Standhaftigkeit
-bezaubern mein Herz immer mehr. Aber morgen,
-morgen muß sie sich entscheiden.
+Ihr Schmerz, ihre Tränen, ihre Standhaftigkeit bezaubern mein Herz immer mehr.
+Aber morgen, morgen muss sie sich entscheiden.
 
 PEDRILLO
-Herr, verzeih, daß ich es wage Euch zu stören.
+Herr, verzeih, dass ich es wage Euch zu stören. [to disturb]
 
 SELIM
 Was willst du, Pedrillo?
 
 PEDRILLO
 Dieser junge Mann, der in Italien studierte,
-kommt, Euch als Baumeister seine Dienste
-anzubieten.
+kommt, Euch als Baumeister seine Dienste anzubieten.
 
 BELMONTE
-Herr, könnte ich so glücklich sein, durch
-meine geringen Fähigkeiten deinen Beifall zu
-verdienen –
+Herr, könnte ich so glücklich sein,
+durch meine geringen Fähigkeiten deinen Beifall zu verdienen –
+[gering: humble; skill; applause]
 
 SELIM
-Hm, du gefällst mir. Ich will sehen, was du
-kannst! Pedrillo, sorge für seinen Unterhalt.
+Hm, du gefällst mir. Ich will sehen, was du kannst!
+Pedrillo, sorge für seinen Unterhalt. [accommodation]
 (geht ab)
 
-PEDRILLO
+EDRILLO
 Triumph, Triumph! Der erste Schritt wär getan!
 (Osmin tritt ein.)
 
@@ -394,6 +392,253 @@ OSMIN
 Was will der? Zurück mit euch, zurück!
 
 PEDRILLO
-Alter Dummkopf, das ist doch der neue
-Baumeister, den der Bassa in Dienst genommen
-hat.
+Alter Dummkopf, das ist doch der neue Baumeister,
+den der Bassa in Dienst genommen hat.
+
+OSMIN
+Hier kommt mir keiner über die Schwelle. [threshold]
+
+OSMIN
+Marsch! Marsch! Marsch!
+Trollt euch fort! [to push off]
+Sonst soll die Bastonade Euch gleich zu Diensten stehn!
+
+BELMONTE, PEDRILLO
+Ei, ei, ei! Das wär’ ja schade,
+Mit uns so umzugehn! [to treat]
+
+OSMIN
+Kommt nur nicht näher!
+
+BELMONTE, PEDRILLO
+Weg von der Türe.
+
+OSMIN
+Ich schlage drein, usw.
+
+BELMONTE, PEDRILLO
+Wir gehn hinein! usw.
+(Sie drängen ihn von der Tür weg.)
+
+OSMIN
+Marsch fort!
+
+BELMONTE, PEDRILLO
+Platz, fort!
+
+Wir gehn hinein, wir gehn hinein! usw.
+OSMIN
+Marsch! Marsch! Marsch!
+Trollt euch fort!
+Sonst soll die Bastonade
+Euch gleich zu Diensten stehn!
+Marsch fort! Ich schlage drein! usw.
+
+BELMONTE, PEDRILLO
+Wir gehn hinein!
+Ei, das wär’ ja schade,
+Mit uns so umzugehn!
+Platz, fort! Platz fort! usw.
+(Sie stoßen ihn weg und gehen hinein.)
+
+-------------------------------------------------------------------------------
+
+ZWEITER AKT
+
+(Garten am Palast des Bassa Selim. Osmin und Blonde treten ein.)
+
+OSMIN
+Gift und Dolch über das Mädchen. Du starrköpfiges Ding! [/dɔlç/, dagger; obstinate]
+
+BLONDE
+O du alter Murrkopf! Ich bin keine türkische Sklavin,
+die bei deinen Befehlen zittert!
+Mit europäischen Mädchen springt man nicht so herum,
+da müsst ihr euch aufs Bitten verlegen. [to resort to]
+
+BLONDE
+Durch Zärtlichkeit und Schmeicheln, [tenderness; to flatter]
+Gefälligkeit und Scherzen [courtesy; humor]
+Erobert man die Herzen [erobern]
+Der guten Mädchen leicht.
+Doch mürrisches Befehlen [grumpy]
+Und Poltern, Zanken, Plagen [to thunder; to plague]
+Macht, dass in wenig Tagen
+So Lieb’ als Treu’ entweicht. [to escape]
+Durch Zärtlichkeit und Schmeicheln, usw.
+
+OSMIN
+Zärtlichkeit? Schmeicheln? Hier sind wir in der Türkei.
+Ich dein Herr, du meine Sklavin; ich befehle, du musst gehorchen!
+
+BLONDE
+Ha, ich deine Sklavin?
+
+OSMIN
+Du bist mir vom Bassa als Sklavin geschenkt.
+
+BLONDE
+Mädchen sind keine Ware zum Verschenken.
+Ich bin eine Engländerin, zur Freiheit geboren.
+
+OSMIN
+Gift und Dolch über das Mädchen!
+Ich befehle dir, mich augenblicklich zu lieben!
+
+BLONDE
+Dich lieben, ha! Wag’s nicht, mich anzurühren, [to touch]
+wenn dir deine Augen lieb sind! [dear]
+
+OSMIN
+Freilich, wenn ich Pedrillo wäre... [of course]
+
+BLONDE
+Das kannst du dir wohl denken, dass mir Pedrillo
+lieber ist als dein Blasebalggesicht! [Blasebalg: bellows]
+
+OSMIN
+Gift und Dolch! Mir reißt die Geduld! Hinein ins Haus! [to run out of patience]
+
+BLONDE
+Nicht von der Stelle!
+Konstanze hat mich hierher bestellt; sie ist die Geliebte des Bassa,
+und eskostet mich nur ein einziges Wort, so hast du fünfzig auf die Fußsohlen.
+[Sohle: sole]
+Also geh!
+
+OSMIN
+Das ist ein Satan!
+
+OSMIN
+Ich gehe, doch rate ich dir, [to advice]
+Den Schurken Pedrillo zu meiden. [to avoid]
+
+BLONDE
+O pack dich, befiehl nicht mit mir,
+Du weißt ja, ich kann es nicht leiden.
+
+OSMIN
+Versprich mir –
+
+BLONDE
+Was fällt dir da ein!
+What are you thinking of?
+
+OSMIN
+Zum Henker –
+
+BLONDE
+Fort, lass mich allein.
+
+OSMIN
+Beim Allah, ich werde nicht gehen,
+Bis du zu gehorchen mir schwörst.
+
+BLONDE
+Nicht so viel, das sollst du nun sehen,
+Und wenn du der Großmogul wärst.
+(Jeder für sich)
+
+OSMIN
+O Engländer! Seid ihr nicht Toren, [Tor: fool]
+Ihr lasst euren Weibern den Willen!
+Wie ist man geplagt und geschoren, [scheren]
+Wenn man solch ein Früchtchen erhält! [good-for-nothing; to receive]
+
+BLONDE
+Ein Mädchen zur Freiheit geboren,
+Lässt nie sich als Sklavin befehlen,
+Und ist auch die Freiheit verloren,
+Noch bleibt sie stolz, lachet der Welt!
+Nun troll dich!
+
+OSMIN
+So sprichst du mit mir?
+
+BLONDE
+Nicht anders!
+
+OSMIN
+Nun bleib ich erst hier!
+
+BLONDE (stößt ihn fort) [stoßen: to push]
+Ein andermal! Jetzt musst du gehen.
+
+OSMIN
+Wer hat solche Frechheit gesehen? [impudence]
+
+BLONDE
+(als wolle sie ihm die Augen auskratzen) [to scratch]
+Es ist um die Augen geschehen,
+Wofern du noch länger verweilst, usw. [if; to linger]
+
+OSMIN
+(furchtsam zurückweichend)
+Nur ruhig, ich will ja gern gehen,
+Bevor du gar Schläge erteilst, usw. [beating]
+(geht ab)
+
+BLONDE
+Ach, wie traurig Konstanze daherkommt! Freilich tut’s weh,
+den Geliebten zu verlieren und Sklavin zu sein.
+
+(Konstanze tritt ein.)
+
+KONSTANZE
+Welcher Kummer herrscht in meiner Seele [to prevail]
+Seit dem Tag, da ich mein Glück verloren!
+Belmonte! Wo sind die Freuden, Die ich sonst an deiner Seite kannte!
+Banger Sehnsucht Leiden Wohnen nun dafür in der beklommen Brust. [yearning; uneasy]
+
+Traurigkeit ward mir zum Lose,
+Weil ich dir entrissen bin. [entreißen]
+Gleich der sturmverwehten Rose,
+Gleich dem Gras im Wintermoose [moss]
+Welkt mein banges Leben hin. [welken: to wilt]
+
+Selbst der Luft darf ich nicht sagen [even]
+Meiner Seele bittern Schmerz,
+Denn, unwillig ihn zu tragen,
+Haucht sie alle meine Klagen [to breathe; laments]
+Wieder in mein armes Herz.
+
+Traurigkeit, usw.
+
+BLONDE (tritt hervor)
+Mein bestes Fräulein, noch immer so traurig?
+Fassen Sie ein wenig Mut! [courage]
+
+KONSTANZE
+Wie glücklich bist du, Mädchen. 
+Bei diesem Schicksal so gelassen zu sein. [n, fate; sein lassen: to leave alone]
+O, dass ich es auch könnte!
+
+BLONDE
+Pst, dort kommt der Bassa!
+
+KONSTANZE
+Lass uns schnell gehen.
+
+BLONDE
+Zu spät, er hat Sie schon gesehen.
+Doch ich werde schnell verschwinden.
+(geht ab. Selim tritt ein.)
+
+SELIM
+Nun, Konstanze, deine Bedenkzeit ist bald verstrichen. [verstreichen: to expire]
+Morgen musst du mich lieben!
+
+KONSTANZE
+Muss? Man kann doch Liebe nicht befehlen!
+Und ich werde stets so denken wie bisher, [always]
+dich verehren ja, aber lieben? Nie! [to venerate]
+
+SELIM
+Und du zitterst nicht vor der Gewalt, die ich über dich habe?
+
+KONSTANZE
+Nein! Sterben ist alles, was ich zu erwarten habe.
+
+SELIM
+Nein! Nicht sterben, aber Martern, Martern aller Arten. [to torture]
+
