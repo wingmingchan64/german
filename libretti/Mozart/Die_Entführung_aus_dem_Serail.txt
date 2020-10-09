@@ -359,42 +359,46 @@ Dann hast du auch mit Konstanze gesprochen? Oh sag, sag –
 liebt sie mich noch?
 
 PEDRILLO
-Nochmals, Herr: ja! Dass Sie daran zweifeln … Ich dächte, Sie hätten
-genug Beweise ihrer Liebe. Doch damit dürfen wir uns jetzt nicht [proof]
-aufhalten; im Augenblick stellt sich vor allem die Frage, wie wir von [to linger]
-hier wegkommen.
+Nochmals, Herr: ja! Dass Sie daran zweifeln …
+Ich dächte, Sie hätten genug Beweise ihrer Liebe. [proof]
+Doch damit dürfen wir uns jetzt nicht aufhalten; [to linger]
+im Augenblick stellt sich vor allem die Frage,
+wie wir von hier wegkommen.
 
 BELMONTE
-O, da habe ich für alles gesorgt! In einiger Entfernung von hier liegt mein
-Schiff. Auf den ersten Wink von mir wird es uns aufnehmen und … [sign; to pick up]
+O, da habe ich für alles gesorgt!
+In einiger Entfernung von hier liegt mein Schiff.
+Auf den ersten Wink von mir wird es uns aufnehmen und … [sign; to pick up]
 
 PEDRILLO
 O, nur nicht so hastig! Erst mal müssen wir die Mädels befreien und
 das geht nicht so ratzfatz! [in a flash]
 
 BELMONTE
-Vor allem ermögliche, dass ich Konstanze sehen kann. Lieber Pedrillo,
-wenn du fühlen könntest, wie mir mein Herz vor Angst und Freude klopft!
+Vor allem ermögliche, dass ich Konstanze sehen kann. [to make possible]
+Lieber Pedrillo, wenn du fühlen könntest,
+wie mir mein Herz vor Angst und Freude klopft!
 
 PEDRILLO
-Wir müssen die Sache schlau anpacken und so schnell sein, dass wir [shrewd; to tackle]
-den alten Aufpasser übertölpeln. Gleich kommt der Bassa von einer [to dupe]
-Lustfahrt auf dem Wasser zurück. Ich will Sie, bester Herr, dem Bassa
-vorstellen und zwar als einen brillanten Architekten!
+Wir müssen die Sache schlau anpacken und [shrewd; to tackle]
+so schnell sein, dass wir den alten Aufpasser übertölpeln. [to dupe]
+Gleich kommt der Bassa von einer Lustfahrt auf dem Wasser zurück.
+Ich will Sie, bester Herr, dem Bassa vorstellen und
+zwar als einen brillanten Architekten [/arçiˈtɛkt/]!
 
 BELMONTE
 Architekten?
 
 PEDRILLO
-Architektur und Gärtnerei sind seine Steckenpferde. Aber beherrschen [hobbyhorse; to control oneself]
-Sie sich – Konstanze wird bei ihm sein …
+Architektur und Gärtnerei sind seine Steckenpferde. [hobbyhorse]
+Aber beherrschen Sie sich – Konstanze wird bei ihm sein … [to control oneself]
 
 BELMONTE (heftig)
-Konstanze bei ihm? Dann werd‘ ich sie sehen!
+Konstanze bei ihm? Dann werd' ich sie sehen!
 
 PEDRILLO
-Um Himmels Willen, lieber Herr, bitte bleiben Sie ruhig – sonst
-verderben wir alles! [to ruin]
+Um Himmels Willen, lieber Herr, bitte bleiben Sie ruhig –
+sonst verderben wir alles! [to ruin]
 (Entfernt sich, um dem Bassa entgegenzugehen.)
 
 Fünfter Auftritt
@@ -417,15 +421,15 @@ Täuscht mich die Liebe,
 War es ein Traum?
 
 PEDRILLO (kommt angelaufen)
-Schnell, Herr, schnell, schnell auf die Seite! Verstecken Sie sich, der
-Bassa kommt!
+Schnell, Herr, schnell, schnell auf die Seite!
+Verstecken Sie sich, der Bassa kommt!
 (Belmonte versteckt sich, Pedrillo folgt ihm.)
 
 Sechster Auftritt
 
-(Der Bassa Selim und Konstanze kommen in einem Lustschiff
-angefahren, vor welchem ein anderes Schiff mit Janitscharenmusik
-voraus landet. Die Janitscharen stellen sich am Ufer in Ordnung.)
+(Der Bassa Selim und Konstanze kommen in einem Lustschiff angefahren, 
+vor welchem ein anderes Schiff mit Janitscharenmusik voraus landet.
+Die Janitscharen stellen sich am Ufer in Ordnung.)
 
 8. Türkischer Marsch
 
@@ -1250,7 +1254,7 @@ Nicht lange, nicht lange gefragt!
 OSMIN (trinkt)
 Nun wär’s geschehen,
 nun wär’s hinunter;
-Das heiß‘ ich, das heiß‘ ich gewagt!
+Das heiß' ich, das heiß' ich gewagt!
 
 PEDRILLO, OSMIN
 Es leben die Mädchen,
@@ -1366,7 +1370,7 @@ Ist der Liebe schönster, größter Sold.
 Ach, Konstanze, dich zu sehen,
 Dich voll Wonne, voll Entzücken
 An mein treues Herz zu drücken,
-Lohnt fürwahr nicht Kron‘ und Pracht.
+Lohnt fürwahr nicht Kron' und Pracht.
 Ha, dieses sel’ge Wiederfinden
 Lässt innig erst mich ganz empfinden,
 Welchen Schmerz die Trennung macht.
@@ -1635,7 +1639,7 @@ BELMONTE
 Ich baue ganz auf deine Stärke,
 Vertrau, o Liebe, deiner Macht!
 Denn, ach, was wurden nicht für Werke
-Schon oft durch dich zustand‘ gebracht!
+Schon oft durch dich zustand' gebracht!
 Was aller Welt unmöglich scheint,
 Wird durch die Liebe doch vereint.
 
@@ -2231,3 +2235,5 @@ Ganz sicher bin ich mir freilich nicht.
 jdn mit Blicken erdolchen
 Sie genoss [genießen] es, von ihm verwöhnt zu werden.
 She enjoyed being spoilt by him.
+Die Entfernung zwischen Mond und Erde beträgt rund 380.000 Kilometer.
+Er hat sie mit einem dummen Trick übertölpelt.
