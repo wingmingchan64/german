@@ -1,7 +1,7 @@
 1. Ouvertüre
 
 ERSTER AUFZUG
-Platz vor dem Palast des Bassa am Ufer des Meeres
+Platz vor dem Palast des Bassa am Ufer des Meeres.
 
 Erster Auftritt
 
@@ -11,12 +11,13 @@ Hier soll ich dich denn sehen,
 Konstanze, dich mein Glück!
 Lass, Himmel, es geschehen, [to happen]
 Gib mir die Ruh' zurück!
-Ich duldete der Leiden, [dulden: to put up with; Leiden: suffering]
+Ich duldete der Leiden, [to put up with; suffering]
 O Liebe, allzu viel!
 Schenk mir dafür nun Freuden
 Und bringe mich ans Ziel!
 
-Ich will sie sehen, mit ihr sprechen! Aber wie komme ich in den Palast?
+Ich will sie sehen, mit ihr sprechen!
+Aber wie komme ich in den Palast?
 
 Zweiter Auftritt
 
@@ -26,20 +27,20 @@ Palastes lehnt; er steigt hinauf und pflückt Feigen.) [Feige: fig]
 3.
 OSMIN
 Wer ein Liebchen hat gefunden,
-Die es treu und redlich meint, [redlich: honest]
-Lohn’ es ihr durch tausend Küsse, [lohnen: to be worthwhile]
-Mach’ ihr all das Leben süße,
-Sei ihr Tröster, sei ihr Freund. [Tröster: comforter]
+Die es treu und redlich meint, [/ˈreːtlɪç/ redlich: honest]
+Lohn' es ihr durch tausend Küsse, [lohnen: to be worthwhile]
+Mach' ihr all das Leben süße,
+Sei ihr Tröster, sei ihr Freund. [/ˈtrøːstɐ/ Tröster: comforter]
 Trallalera, trallalera!
 
 BELMONTE
-Vielleicht kann dieser Kerl hier mir weiterhelfen. – He, Freund, ist das
-nicht das Landhaus des Bassa Selim?
+Vielleicht kann dieser Kerl hier mir weiterhelfen.
+– He, Freund, ist das nicht das Landhaus des Bassa Selim?
 
 OSMIN
 Doch sie treu sich zu erhalten, [to maintain]
-Schließ’ er Liebchen sorglich ein: [sorglich: careful]
-Denn die losen Dinger haschen [to snatch]
+Schließ' er Liebchen sorglich ein: [sorglich: careful]
+Denn die losen Dinger haschen [/ˈhaʃn/ to snatch]
 Jeden Schmetterling und naschen [Schmetterling: butterfly; naschen: to drink]
 Gar zu gern von fremdem Wein.
 Trallalera, trallalera!
@@ -62,7 +63,7 @@ So hör doch nur ein einzig Wort!
 
 OSMIN
 Was Henker lasst Ihr Euch gelüsten, [what the heck; gelüsten: to have a craving]
-Euch zu ereifern, Euch zu brüsten? [sich ereifern: to sound off; sich brüsten: to brag]
+Euch zu ereifern, Euch zu brüsten? [sich /ɛɐˈ|aifɐn/ ereifern: to sound off; sich brüsten: to brag]
 Was wollt Ihr? Hurtig! Ich muss fort. [hurtig: swiftly]
 
 BELMONTE
@@ -115,7 +116,7 @@ BELMONTE
 Ihr müsst ihn wahrlich nicht recht kennen.
 
 OSMIN
-Recht gut! Ich ließ’ ihn heut verbrennen. [Imperf Subj of lassen]
+Recht gut! Ich ließ' ihn heut verbrennen. [Imperf Subj of lassen]
 
 BELMONTE
 Es ist fürwahr ein guter Tropf. [fellow]
@@ -147,7 +148,7 @@ Mir so vermessen ins Angesicht! [to dare; face]
 
 OSMIN
 Nur nicht in Eifer! [to be agitated]
-Ich kenn’ Euch schon.
+Ich kenn' Euch schon.
 
 BELMONTE
 Schont Euren Geifer. [save your venom]
@@ -175,12 +176,12 @@ Ich kann doch nicht noch so einen Schurken
 in meiner Nähe dulden wie diesen Pedrillo …
 So einen Gauner, der Tag und Nacht nichts anderes tut, [rascal]
 als um meine Weiber herumzuschleichen und zu schnüffeln, [to sniff, to snoop]
-ob’s nichts für seinen Schnabel gibt. [beak]
+ob's nichts für seinen Schnabel gibt. [beak]
 Aber ich habe meine Augen überall …
 Da kannst du sicher sein, du Schmarotzer! [parasite]
-Wohl bekomm’ dir die Prügelsuppe, [Prügel: cudgel]
+Wohl bekomm' dir die Prügelsuppe, [Prügel: cudgel]
 wenn ich dich beim Kragen packe! … (Leise brummend.) [collar]
-Hätt’ er sich nur beim Bassa nicht so eingeschmeichelt, [to flatter oneself]
+Hätt' er sich nur beim Bassa nicht so eingeschmeichelt, [to flatter oneself]
 er sollte den Strick schon längst um den Hals haben! [rope; long ago]
 
 (Pedrillo tritt während Osmins Monolog auf, den Anfang seiner
@@ -190,7 +191,7 @@ PEDRILLO
 Nun, wie steht's, Osmin? Ist der Bassa noch nicht zurück?
 
 OSMIN
-Sieh’ selber nach, wenn du’s wissen willst!
+Sieh' selber nach, wenn du's wissen willst!
 
 PEDRILLO
 Schon wieder Sturm im Kalender? …
@@ -233,13 +234,13 @@ Müsst ihr früh aufstehen: [to get up]
 Ich hab auch Verstand. [sense]
 Drum, beim Barte des Propheten, [darum]
 Ich studiere Tag und Nacht,
-Ruh nicht, bis ich dich seh’, töten!
+Ruh nicht, bis ich dich seh', töten!
 Nimm dich, wie du willst, in Acht!
 However carefully you watch your back!
 
 PEDRILLO
 Was bist du für ein grausamer Kerl! [cruel]
-Und ich hab’ dir nichts getan …
+Und ich hab' dir nichts getan …
 
 OSMIN
 Du hast ein Galgengesicht: Das ist genug!
@@ -266,8 +267,8 @@ BELMONTE (nähert sich)
 He, Pedrillo!
 
 PEDRILLO
-Ach, mein bester Herr! Ist’s möglich?
-Sind Sie’s wirklich?
+Ach, mein bester Herr! Ist's möglich?
+Sind Sie's wirklich?
 
 BELMONTE
 In natura, mein guter Pedrillo!
@@ -312,8 +313,8 @@ trat erst später zum mohammedanischen Glauben über?
 
 PEDRILLO
 Richtig, Herr. Was bedeutet,
-dass er jetzt noch immer so viel Anstand [decency]
-hat, keine seiner Frauen zur Liebe zu zwingen. Soweit ich weiß,
+dass er jetzt noch immer so viel Anstand hat, [decency]
+keine seiner Frauen zur Liebe zu zwingen. Soweit ich weiß,
 spielt er immer noch den enttäuschten Liebhaber … [disappointed]
 
 BELMONTE
@@ -321,7 +322,7 @@ BELMONTE
 
 PEDRILLO
 Mit ziemlicher Sicherheit, lieber Herr!
-Wie’s freilich mit meinem Blondchen steht, das weiß der Himmel!
+Wie's freilich mit meinem Blondchen steht, das weiß der Himmel!
 Das arme Ding schmachtet bei einem hässlichen, [schmachten: to languish]
 alten Kerl, dem sie der Bassa geschenkt hat, und vielleicht …
 Ach, ich darf gar nicht daran denken!
@@ -332,21 +333,20 @@ Doch nicht dieser alte Grobian, der gerade ins Haus hineinging? [/ˈɡroːbiaːn
 PEDRILLO
 Eben der …
 
-
 BELMONTE
 DER ist der Günstling des Bassa? [favorite]
 
 PEDRILLO
 Günstling, Spion und Inbegriff aller Spitzbuben. [epitome; villain]
-Wenn’s möglich wäre, würde er mich mit den Augen erdolchen! [to stab]
+Wenn's möglich wäre, würde er mich mit den Augen erdolchen! [to stab]
 
 BELMONTE
 Was sagst du da?! Guter Pedrillo …
 
 PEDRILLO
 Nur nicht gleich den Kopf hängen lassen, lieber Herr!
-Unter uns gesagt – auch ich hab’ bei dem Bassa einen Stein im Brett.
-Just between ourselves, I’m well in with the Pasha myself. 
+Unter uns gesagt – auch ich hab' bei dem Bassa einen Stein im Brett.
+Just between ourselves, I'm well in with the Pasha myself. 
 Durch mein bisschen Geschick in der Gärtnerei [skill; gardening]
 habe ich seine Gunst erworben und [favor; erwerben: to acquire]
 genieße mehr Freiheit als Tausende andere Männer: [to enjoy]
@@ -384,7 +384,7 @@ Wir müssen die Sache schlau anpacken und [shrewd; to tackle]
 so schnell sein, dass wir den alten Aufpasser übertölpeln. [to dupe]
 Gleich kommt der Bassa von einer Lustfahrt auf dem Wasser zurück.
 Ich will Sie, bester Herr, dem Bassa vorstellen und
-zwar als einen brillanten Architekten [/arçiˈtɛkt/]!
+zwar als einen brillanten Architekten [/brɪlˈjant/, /arçiˈtɛkt/]!
 
 BELMONTE
 Architekten?
@@ -410,7 +410,7 @@ O wie ängstlich, o wie feurig,
 Klopft mein liebevolles Herz!
 Und des Wiedersehens Zähre [tear]
 Lohnt der Trennung bangen Schmerz. [separation; anxious]
-Schon zittr’ ich und wanke, [to stagger]
+Schon zittr' ich und wanke, [to stagger]
 Schon zag ich und schwanke;
 Es hebt sich die schwellende Brust!
 Ist das ihr Lispeln?
@@ -452,10 +452,11 @@ Siebenter Auftritt
 
 10.
 BASSA SELIM
-Immer noch traurig, geliebte Konstanze? Immer noch in Tränen? Sieh,
-dieser schöne Abend, die reizende Gegend, die bezaubernde Musik – [charming]
-und meine zärtliche Liebe zu dir … Kann denn nichts von alledem dich
-endlich beruhigen, endlich dein Herz rühren? Ich könnte dir befehlen,
+Immer noch traurig, geliebte Konstanze? Immer noch in Tränen?
+Sieh, dieser schöne Abend, die reizende Gegend, [charming]
+die bezaubernde Musik – und meine zärtliche Liebe zu dir …
+Kann denn nichts von alledem dich endlich beruhigen,
+endlich dein Herz rühren? Ich könnte dir befehlen,
 könnte grausam mit dir verfahren, dich zwingen … [to act]
 
 KONSTANZE
@@ -466,8 +467,8 @@ Aber nein, Konstanze, dir selber will ich dein Herz zu verdanken haben, [to owe]
 dir allein …
 
 KONSTANZE
-Großmütiger Freund, wenn ich dir nur mein Herz geben könnte! Dass
-ich deine Liebe nur erwidern dürfte! Aber …
+Großmütiger Freund, wenn ich dir nur mein Herz geben könnte!
+Dass ich deine Liebe nur erwidern dürfte! Aber …
 
 BASSA SELIM
 Sag, Konstanze, was hält dich zurück?
@@ -476,9 +477,9 @@ KONSTANZE
 Du wirst mich hassen … [to hate]
 
 BASSA SELIM
-Nein – ich schwöre es! Du weißt, wie sehr ich dich liebe, wie viel
-Freiheit ich dir vor allen meinen Frauen gestatte, dich wie meine [gestatten: to allow]
-Einzige schätze … [schätzen: to value]
+Nein – ich schwöre es! Du weißt, wie sehr ich dich liebe,
+wie viel Freiheit ich dir vor allen meinen Frauen gestatte, [gestatten: to allow]
+dich wie meine Einzige schätze … [schätzen: to value]
 
 KONSTANZE
 Wenn du mich wirklich liebst, so verzeih mir!
@@ -500,35 +501,37 @@ BASSA SELIM
 Kummer! Immer nur Kummer!
 
 KONSTANZE
-Ich hatte doch eben gesagt, dass du mich hassen würdest … aber
-bitte, verzeih’ einem Mädchen, das krank ist vor Liebe! Du bist so
-großmütig, so gut … Ich will dir dienen, deine Sklavin sein bis ans
-Ende meines Lebens, aber verlange kein Herz von mir – ein Herz, das [to ask for]
-dir auf ewig versagt ist! [to deny]
+Ich hatte doch eben gesagt, dass du mich hassen würdest …
+aber bitte, verzeih' einem Mädchen, das krank ist vor Liebe!
+Du bist so großmütig, so gut … Ich will dir dienen,
+deine Sklavin sein bis ans Ende meines Lebens,
+aber verlange kein Herz von mir – ein Herz, [to ask for]
+das dir auf ewig versagt ist! [to deny]
 
 BASSA SELIM
 Undankbare! Das wagst du?
 
 KONSTANZE
-Töte mich, Selim, töte mich … doch zwinge mich nicht, einen Eid zu [oath]
-brechen! Noch während der Seeräuber mich aus den Armen meines
-Geliebten riss, schwor ich mir aufs Feierlichste … [solemnly]
+Töte mich, Selim, töte mich … doch zwinge mich nicht,
+einen Eid zu brechen! [oath]
+Noch während der Seeräuber mich aus den Armen meines Geliebten riss, 
+schwor ich mir aufs Feierlichste … [solemnly]
 
 BASSA SELIM
-Hör auf! Kein Wort mehr! Reize meinen Zorn nicht! Bedenke, dass du in
-meiner Gewalt bist!
+Hör auf! Kein Wort mehr! Reize meinen Zorn nicht!
+Bedenke, dass du in meiner Gewalt bist!
 
 KONSTANZE
-Das bin ich, aber du wirst dich deiner Gewalt nicht … bedienen? Ich [to abuse]
-kenne dein gutes und mitleidvolles Herz. Hätte ich es sonst gewagt, [compassionate]
-dir das meine zu entdecken? [to reveal]
+Das bin ich, aber du wirst dich deiner Gewalt nicht … bedienen? [to abuse]
+Ich kenne dein gutes und mitleidvolles Herz. [compassionate]
+Hätte ich es sonst gewagt, dir das meine zu entdecken? [to reveal]
 
 BASSA SELIM
 Wage es nicht, meine Güte zu missbrauchen!
 
 KONSTANZE
-Herr, gönne mir nur noch etwas mehr Zeit, meinen Schmerz zu [to grant]
-vergessen!
+Herr, gönne mir nur noch etwas mehr Zeit, [to grant]
+meinen Schmerz zu vergessen!
 
 BASSA SELIM
 Wie oft schon habe ich dir diese Bitte gewährt … [gewähren: to grant]
@@ -537,18 +540,19 @@ KONSTANZE
 Nur noch dies eine Mal!
 
 BASSA SELIM
-Das letzte Mal! Du kannst gehen, Konstanze! (Sie läuft weg, ohne ein
-Wort zu sagen.) Besinne dich eines [to reflect]
+Das letzte Mal! Du kannst gehen, Konstanze!
+(Sie läuft weg, ohne ein Wort zu sagen.)
+Besinne dich eines [to reflect]
 Besseren und morgen … Schon ist sie entschwunden …
 
 Achter Auftritt
 
 BASSA SELIM
-Wer könnte gegen ein solches Geschöpf Gewalt brauchen? Ihr [creature]
-Schmerz, ihre Tränen, ihre Standhaftigkeit bezaubern mich immer
-mehr, machen mir ihre Liebe nur noch begehrenswerter … [desirable]
+Wer könnte gegen ein solches Geschöpf Gewalt brauchen? [creature]
+Ihr Schmerz, ihre Tränen, ihre Standhaftigkeit bezaubern mich immer mehr,
+machen mir ihre Liebe nur noch begehrenswerter … [desirable]
 
-Tritt auf, zeigt auf Belmonte, räuspert sich, leise
+Tritt auf, zeigt auf Belmonte, räuspert sich, leise [to clear your throat]
 
 PEDRILLO
 Herr, verzeihen Sie …
@@ -557,48 +561,51 @@ BASSA SELIM (ohne Pedrillo zu bemerken, in Erinnerungen versunken)
 Nein, Konstanze, auch Selim hat ein Herz, auch Selim kennt Liebe! …
 
 PEDRILLO
-Herr, verzeihen Sie, dass ich es wage, Sie in Ihren Betrachtungen zu [reflection]
-stören …
+Herr, verzeihen Sie, dass ich es wage,
+Sie in Ihren Betrachtungen zu stören … [reflection]
 
 BASSA SELIM (barsch) [brusque]
 Was willst du, Pedrillo?
 
 PEDRILLO
 Dieser junge Mann hat in Italien mit viel Fleiß Architektur studiert. [m, diligence]
-Er hat von Ihrer Macht und Ihrem Reichtum gehört und ist [wealth]
-hierhergekommen, um Ihnen seine Dienste als Baumeister anzubieten.
+Er hat von Ihrer Macht und Ihrem Reichtum gehört und [wealth]
+ist hierhergekommen, um Ihnen seine Dienste als Baumeister anzubieten.
 
 BASSA SELIM (zu Belmonte)
 Dein Name?
 
 BELMONTE
-Don Belmonte, Herr. Wie glücklich wäre ich, wenn ich durch meine
-geringen Fähigkeiten Ihre Anerkennung verdienen könnte! Hier sind [modest skill; appreciation]
-einige Entwürfe von mir! (Überreicht ihm eine Mappe.) [sketch; portfolio]
+Don Belmonte, Herr. Wie glücklich wäre ich,
+wenn ich durch meine geringen Fähigkeiten Ihre Anerkennung verdienen könnte! [modest skill; appreciation]
+Hier sind einige Entwürfe von mir! (Überreicht ihm eine Mappe.) [sketch; portfolio]
 
 BASSA SELIM
-Ich bin neugierig … (Schaut flüchtig hinein.) Hm! Ich werde sehen, was [briefly]
-du kannst und dich morgen wieder rufen lassen. Pedrillo, sorge für [to summon]
-seine Unterkunft! (Ab.) [accommodation]
+Ich bin neugierig … (Schaut flüchtig hinein.) [briefly]
+Hm! Ich werde sehen, was  du kannst und
+dich morgen wieder rufen lassen. [to summon]
+Pedrillo, sorge für seine Unterkunft! (Ab.) [accommodation]
 
 Neunter Auftritt
 
 PEDRILLO
-Triumph, mein Herz, Triumph! Herr, der erste Schritt wäre getan!
+Triumph, mein Herz, Triumph! Herr, der erste Schritt wäre getan! [/triˈʊmf/]
 
 BELMONTE
-Ich kann’s kaum glauben, Pedrillo. Ich habe sie gesehen, gesehen …!
+Ich kann's kaum glauben, Pedrillo. Ich habe sie gesehen, gesehen …!
 Oh Konstanze! Was würde ich nicht alles für dich aufs Spiel setzen?! [to risk sth]
 
 PEDRILLO
-Behalten Sie die Nerven, lieber Herr, und seien Sie vorsichtig: [to keep one’s nerve]
-Verstellung wird uns bessere Dienste leisten! Wir sind nicht in [disguise; to serve sb well]
-Spanien: Hier wird der Henker danach gefragt, ob’s einen Kopf mehr [executioner]
-oder weniger in der Welt gibt. Stockschläge auf die Fußsohlen und ein [blow]
-Strick um den Hals sind hier tägliche Kost! [fare]
+Behalten Sie die Nerven, lieber Herr, und seien Sie vorsichtig: [to keep one's nerve]
+Verstellung wird uns bessere Dienste leisten! [disguise; to serve sb well]
+Wir sind nicht in Spanien: Hier wird der Henker danach gefragt, [executioner]
+ob's einen Kopf mehr oder weniger in der Welt gibt.
+Stockschläge auf die Fußsohlen und [blow]
+ein Strick um den Hals sind hier tägliche Kost! [fare]
 
 BELMONTE
-Pedrillo, wer so liebt wie ich, der schreckt vor keiner Gefahr zurück! [to shrink back]
+Pedrillo, wer so liebt wie ich,
+der schreckt vor keiner Gefahr zurück! [to shrink back]
 
 PEDRILLO
 Ach – als wenn jemand wie ich keine Gefühle hätte!
@@ -612,15 +619,16 @@ BELMONTE
 Wenn es nur möglich wäre, Konstanze zu sprechen …
 
 PEDRILLO
-Wir wollen sehen, was wir tun können, Herr. Kommen Sie mit in den
-Palastgarten, kommen Sie! Aber um alles in der Welt – seien Sie
-vorsichtig und unauffällig, denn hier hat alles Augen und Ohren! [inconspicuous]
+Wir wollen sehen, was wir tun können, Herr.
+Kommen Sie mit in den Palastgarten, kommen Sie!
+Aber um alles in der Welt – seien Sie vorsichtig und
+unauffällig, denn hier hat alles Augen und Ohren! [inconspicuous]
 
 Zehnter Auftritt
 
 OSMIN (kommt ihnen in der Tür entgegen und hält sie, [entgegenkommen: to approach]
 mit der Peitsche knallend, zurück) [whip; to crack]
-Wohin geht’s?
+Wohin geht's?
 
 PEDRILLO
 Hinein!
@@ -630,7 +638,8 @@ Was will dieses Milchgesicht? [baby-face]
 Zurück mit dir!
 
 PEDRILLO
-Sei nicht so hitzig, Meister Grobian! Er steht beim Bassa in Diensten. [brute]
+Sei nicht so hitzig, Meister Grobian! [brute]
+Er steht beim Bassa in Diensten.
 
 OSMIN
 Beim Henker mag er in Diensten stehen – hier soll er nicht hinein!
@@ -642,17 +651,17 @@ OSMIN
 Kommt mir nur einen Schritt über die Schwelle … [threshold]
 
 BELMONTE
-Unverschämter! Hast Du nicht mehr Achtung für einen Mann meines Standes?
-[unverschämt: outrageous; respect; rank]
+Unverschämter! [unverschämt: outrageous]
+Hast Du nicht mehr Achtung für einen Mann meines Standes? [respect; rank]
 
 OSMIN
-Ein Mann von Stand kannst du von mir aus sein, das beeindruckt mich nicht!
-[von mir aus: as far as I'm concerned; to impress]
+Ein Mann von Stand kannst du von mir aus sein, [von mir aus: as far as I'm concerned]
+das beeindruckt mich nicht! [to impress]
 Fort oder ich jage dich davon!
 
 PEDRILLO
-Alter Dummkopf! Es ist doch der neue Baumeister, den der Bassa
-engagiert hat.
+Alter Dummkopf! Es ist doch der neue Baumeister,
+den der Bassa engagiert hat.
 
 OSMIN
 Baumeister oder Stockmeister, das ist mir egal –
@@ -660,40 +669,42 @@ er soll mir nicht zu nahe kommen!
 Der Bassa ist weich wie Butter; mit dem könnt ihr machen, [soft]
 was ihr wollt.
 Ich aber habe eine feine Nase:
-Mir ist’s nicht geheuer mit euch fremdem Gesindel! [creepy; riffraff]
-Ihr abgefeimten Betrüger habt bis in die letzten [cunning]
-Feinheiten eure Intrigen gesponnen und eure Kniffe ausgeklügelt – [finer points; spinnen: to concoct]
+Mir ist's nicht geheuer mit euch fremdem Gesindel! [creepy; riffraff]
+Ihr abgefeimten Betrüger habt [villainous; trickster]
+bis in die letzten Feinheiten eure Intrigen gesponnen und [finer points; spinnen: to concoct]
+eure Kniffe ausgeklügelt – [trick; ausklügeln: to work out]
 aber wartet nur ein bisschen: Osmin schläft nicht.
-Wär’ ich der Bassa, ihr wärt schon längst gespießt!
+Wär' ich der Bassa, ihr wärt schon längst gespießt!
 
 PEDRILLO
-Reg’ dich nicht so auf, Alter, es hilft doch nichts: Schau, wir sind schon
-fast hineinspaziert!
+Reg' dich nicht so auf, Alter, [aufregen: to irritate]
+es hilft doch nichts: Schau, wir sind schon fast hineinspaziert!
 
 OSMIN (stellt sich vor die Tür)
 Ha, das will ich sehen!
 Schert euch fort!
 
 PEDRILLO
-Mach keine Umstände, Osmin!
+Mach keine Umstände, Osmin! [trouble]
 
 BELMONTE
-Weg, Niederträchtiger! Weg von der Tür!
+Weg, Niederträchtiger! Weg von der Tür! [villain]
 
 13.
 OSMIN
 Marsch! Marsch! Marsch!
-Trollt euch fort!
+Trollt euch fort! [sich trollen: weggehen]
 Sonst soll die Bastonade
 Euch gleich zu Diensten stehn!
 
 BELMONTE, PEDRILLO
 Ei! Das wär ja schade,
-Mit uns so umzugehn!
+[you’d regret it]
+Mit uns so umzugehn! [to treat]
 
 OSMIN
 Kommt nur nicht näher,
-Sonst schlag’ ich drein!
+Sonst schlag' ich drein!
 
 BELMONTE, PEDRILLO
 Weg von der Türe! Wir gehn hinein.
@@ -702,7 +713,7 @@ OSMIN
 Marsch fort! Ich schlage drein!
 
 BELMONTE, PEDRILLO
-Platz fort! Wir gehn hinein.
+Platz fort! Wir gehn hinein. [out of the way]
 (Sie stoßen ihn weg und gehn hinein.)
 
 ZWEITER AUFZUG
@@ -714,113 +725,155 @@ Erster Auftritt
 14.
 OSMIN
 Wer zum Teufel hat dir das Zeug in den Kopf gesetzt?
+[Who the Devil put that stuff in your head?]
 
 BLONDE
-Ein für alle Mal: Ich habe von deinem ewigen Gemecker die Nase
-voll! Denkst du alter Murrkopf etwa, eine türkische Sklavin vor dir zu
-haben, die bei deinen Befehlen zittert? O, da irrst du dich – und wie!
-Einem europäischen Mädchen begegnet man anders:
+Ein für alle Mal: [once and for all]
+Ich habe von deinem ewigen Gemecker die Nase voll! [moaning; die Nase voll haben: to be fed up]
+Denkst du alter Murrkopf etwa, [murren: to grumble]
+eine türkische Sklavin vor dir zu haben, [/ˈsklaːvɪn/]
+die bei deinen Befehlen zittert?
+O, da irrst du dich – und wie!
+Einem europäischen Mädchen begegnet man anders: [/ɔyroˈpɛːɪʃ/; to treat]
 
 15.
 BLONDE
-Durch Zärtlichkeit und Schmeicheln,
-Gefälligkeit und Scherzen
-Erobert man die Herzen
+Durch Zärtlichkeit und Schmeicheln, [to flatter]
+Gefälligkeit und Scherzen [pleasantness; banter]
+Erobert man die Herzen [/ɛɐˈ|oːbɐn/ to conquer]
 Der guten Mädchen leicht.
 Doch mürrisches Befehlen
-Und Poltern, Zanken, Plagen
+Und Poltern, Zanken, Plagen [to rant; to quarrel; to torment]
 Macht dass in wenig Tagen
-So Lieb’ als Treu’ entweicht.
+So Lieb' als Treu' entweicht. [to disappear]
 
 16.
 OSMIN
-Ei, seht doch mal, was mir das Mädchen so alles vorschreibt! „Durch
-Zärtlichkeit und Schmeicheln …“ Hier sind wir in der Türkei, Lady, und
-da wird ein anderer Ton angeschlagen. Ich dein Herr, du meine Sklavin;
-ich befehle und du hast zu gehorchen!
+Ei, seht doch mal, was mir das Mädchen so alles vorschreibt! [to prescribe]
+„Durch Zärtlichkeit und Schmeicheln …“
+Hier sind wir in der Türkei, Lady, und
+da wird ein anderer Ton angeschlagen. [to play]
+Ich dein Herr, du meine Sklavin;
+ich befehle und du hast zu gehorchen! [/ɡəˈhɔrçn/ to obey]
 
 BLONDE
 Ich bin also deine Sklavin! Ich, ein Mädchen, eine Sklavin!
 Sag mir das noch mal, wenn du es wagst …
 
 OSMIN (für sich)
-Ich werde verrückt – so ein starrköpfiges Ding!
-(Laut.) Du hast doch nicht etwa vergessen, dass dich der Bassa mir zur
-Sklavin geschenkt hat?
+Ich werde verrückt – so ein starrköpfiges Ding! [stubborn]
+(Laut.) Du hast doch nicht etwa vergessen,
+dass dich der Bassa mir zur Sklavin geschenkt hat?
 
 BLONDE
-Bassa hin, Bassa her! Mädchen sind keine Ware zum Verschenken. Ich
-bin eine Engländerin, zur Freiheit geboren, und ich biete jedem, der
-mich zu etwas zwingen will, die Stirn!
+Bassa hin, Bassa her!
+Mädchen sind keine Ware zum Verschenken. [goods]
+Ich bin eine Engländerin, zur Freiheit geboren,
+und ich biete jedem, der mich zu etwas zwingen will, die Stirn!
+[jdm/einer Sache die Stirn bieten (geh): to defy]
 
 OSMIN (beiseite)
-Gift und Dolch! Beim Mahomet, sie macht mich rasend. Und doch lieb’
-ich die Spitzbübin, trotz aller ihrer verrückten Ideen.
-(Laut.) Ich befehle dir, mich auf der Stelle zu lieben.
+Gift und Dolch! Beim Mahomet, sie macht mich rasend. [furious]
+Und doch lieb' ich die Spitzbübin, [scamp]
+trotz aller ihrer verrückten Ideen.
+(Laut.) Ich befehle dir, mich auf der Stelle zu lieben. [right away]
 
 BLONDE
 Hahaha! Komm mir nur ein kleines bisschen näher und ich werde dich
 die Beweise meiner Liebe fühlen lassen … (Zeigt ihre Fingernägel.)
 
 OSMIN
-Weißt du, blödes Ding, dass du mein Eigentum bist und ich dich für
-deine Unverschämtheit züchtigen kann?
+Weißt du, blödes Ding, dass du mein Eigentum bist und [property]
+ich dich für deine Unverschämtheit züchtigen kann? [impudence; to flog]
+
 BLONDE
-Wag’s nicht, mich anzurühren, wenn dir deine Augen lieb sind!
+Wag's nicht, mich anzurühren, wenn dir deine Augen lieb sind! [to touch]
+
 OSMIN
-Wie, du bist so frech, dass …
+Wie, du bist so frech, dass … [impudent]
+
 BLONDE
-Frech! Wieso wäre ich frech? Du bist der Unverschämte, der sich zu viel
-Freiheit herausnimmt. So ein alter, hässlicher Kerl erlaubt sich einem
-Mädchen wie mir, jung, schön und munter, wie einer Dienstmagd zu
-befehlen? Wenn jemand Befehle erteilt, bin ich das! Uns Mädchen
-gehört das Regiment; ihr Männer seid unsere Sklaven!
+Frech! Wieso wäre ich frech?
+Du bist der Unverschämte,
+der sich zu viel Freiheit herausnimmt. [to take liberties]
+[who presumes too freely]
+So ein alter, hässlicher Kerl erlaubt sich [to permit]
+einem Mädchen wie mir, jung, schön und munter,
+wie einer Dienstmagd zu befehlen [Magd, /maːkt/, maid]
+Wenn jemand Befehle erteilt, bin ich das! [to give]
+[If someone has orders to give, it’s me! ]
+Uns Mädchen gehört das Regiment;
+ihr Männer seid unsere Sklaven!
+
 OSMIN
-Beim Barte des Propheten, sie spinnt völlig! Hier – in der Türkei …
+Beim Barte des Propheten, sie spinnt völlig! [to talk rubbish]
+Hier – in der Türkei …
+
 BLONDE
-Türkei hin, Türkei her – Weib ist Weib, sie lebe, wo sie wolle! Sind
-eure Weiber solche Närrinnen, sich von euch unterdrücken zu lassen,
-umso schlimmer für sie! Lass mich nur erst einmal hier Fuß fassen und
+Türkei hin, Türkei her –
+Weib ist Weib, sie lebe, wo sie wolle!
+Sind eure Weiber solche Närrinnen, sich von euch unterdrücken zu lassen,
+umso schlimmer für sie! [so much the worse]
+Lass mich nur erst einmal hier Fuß fassen und
 du wirst sehen, dass sich die türkischen Frauen in kürzester Zeit auf
-meine Seite schlagen werden.
+meine Seite schlagen werden. [to side with]
+
 OSMIN
-Bei Allah, die wär’ imstande, unsere Weiber scharf zu machen, damit
-sie gegen uns rebellieren! Aber …
+Bei Allah, die wär' imstande, unsere Weiber scharf zu machen, [capable of]
+damit sie gegen uns rebellieren! Aber …
+
 BLONDE
-Bitten sollt ihr lernen, wenn ihr etwas von uns wollt – besonders
-Liebhaber deines Gelichters!
+Bitten sollt ihr lernen, wenn ihr etwas von uns wollt –
+besonders Liebhaber deines Gelichters!
+[especially suitors of your sort!]
+
 OSMIN
-Freilich, wenn ich Pedrillo wäre, so ein Drahtpüppchen wie der, dann
-würdest du mich willkommen heißen, nicht?
+Freilich, wenn ich Pedrillo wäre,
+so ein Drahtpüppchen wie der, [wire doll]
+dann würdest du mich willkommen heißen, nicht?
+
 BLONDE
-Erraten, guter Alter! Das kannst du dir wohl denken, dass mir der
-niedliche Pedrillo lieber ist als dein Blasebalg-Gesicht!
+Erraten, guter Alter! Das kannst du dir wohl denken, [to guess]
+dass mir der niedliche Pedrillo lieber ist [cute]
+als dein Blasebalg-Gesicht! [bellows]
 Also … wenn du klug bist …
+
 OSMIN
- … geb’ ich dir die Freiheit, zu tun und zu lassen, was du willst? He??
+… geb' ich dir die Freiheit, zu tun und zu lassen, was du willst? He??
+ 
 BLONDE
-Jedenfalls würdest du besser dabei fahren, denn so wirst du sicher
-betrogen!
+Jedenfalls würdest du besser dabei fahren,
+denn so wirst du sicher betrogen! [betrügen: to cheat]
+
 OSMIN
-Gift und Dolch, jetzt reißt mir die Geduld! (Knallt mit der Peitsche.) Auf
-der Stelle ins Haus! Und wenn du’s wagst …
+Gift und Dolch, jetzt reißt mir die Geduld! [my patience is exhausted!]
+(Knallt mit der Peitsche.)
+Auf der Stelle ins Haus! Und wenn du's wagst …
 
 BLONDE
 Bring mich nicht zum Lachen!
+
 OSMIN
-Ins Haus, sag’ ich!
+Ins Haus, sag' ich!
+
 BLONDE
 Ich denke nicht daran.
+
 OSMIN
 Mach nicht, dass ich Gewalt brauchen muss!
+
 BLONDE
-Deine Gewalt bekämpfe ich mit meiner Gewalt: Ich bleibe hier in
-diesem Garten. Hierher hat mich meine Herrin bestellt. Sie ist die
-Geliebte des Bassa, DEINES Herren, sein Augapfel, sein alles. Es
-kostet mich nur ein Wort und du bekommst fünfzig Schläge auf die
-Fußsohlen! Und jetzt verschwinde! Verschwinde! Verschwinde!
+Deine Gewalt bekämpfe ich mit meiner Gewalt:
+Ich bleibe hier in diesem Garten.
+Hierher hat mich meine Herrin bestellt. [to order]
+Sie ist die Geliebte des Bassa, DEINES Herren,
+sein Augapfel, sein alles.
+Es kostet mich nur ein Wort und
+du bekommst fünfzig Schläge auf die Fußsohlen!
+Und jetzt verschwinde! Verschwinde! Verschwinde!
+
 OSMIN
-Sie ist ein Satan! Ein Satan! Ein Satan!
+Sie ist ein ˈSatan! Ein Satan! Ein Satan!
 
 17.
 OSMIN
@@ -835,7 +888,8 @@ OSMIN
 Versprich mir …
 
 BLONDE
-Was fällt dir da ein?
+Was fällt dir da ein? [einfallen]
+[What can you be thinking of?]
 
 OSMIN
 Zum Henker!
@@ -844,38 +898,47 @@ BLONDE
 Fort, lass mich allein.
 
 OSMIN
-Wahrhaftig, kein Schritt von der Stelle,
+Wahrhaftig, kein Schritt von der Stelle, [I won’t move an inch]
 Bis du zu gehorchen mir schwörst!
 
 BLONDE
-Nicht so viel, du armer Geselle,
+Nicht so viel, du armer Geselle, [Not a chance, you poor chump,]
 Und wenn du der Großmogul wärst.
 
 OSMIN
 O Engländer! Seid ihr nicht Toren?
 Ihr lasst euern Weibern den Willen.
-Wie ist man geplagt und geschoren,
-Wenn solch eine Zucht man erhält!
+Wie ist man geplagt und geschoren, [scheren: to bother]
+Wenn solch eine Zucht man erhält! [breed]
 
 BLONDE
 Ein Herz, so in Freiheit geboren,
 Lässt niemals sich sklavisch behandeln;
 Bleibt, wenn schon die Freiheit verloren,
 Noch stolz auf sie, lachet der Welt.
-Nun troll’ dich!
+[It retains its pride and laughs at the world.]
+Nun troll' dich!
+
 OSMIN
 So sprichst du mit mir?
+
 BLONDE
 Nicht anders.
+
 OSMIN
 Nun bleib ich erst hier!
+
 BLONDE (stößt ihn fort)
 Ein andermal. Jetzt musst du gehen!
+
 OSMIN
 Wer hat solche Frechheit gesehen?
+
 BLONDE (stellt sich, als wollte sie ihm die Augen auskratzen)
+[sich stellen: to appear]
 Es ist um die Augen geschehen,
-Wofern du noch länger verweilst.
+Wofern du noch länger verweilst. [/voˈfɛrn/ if; to stay]
+
 OSMIN (furchtsam zurückweichend)
 Nur ruhig, ich will ja gern gehen,
 Bevor du gar Schläge erteilst. (Geht ab.)
@@ -884,81 +947,96 @@ Zweiter Auftritt
 
 18.
 BLONDE
-Da ist Konstanze. Wie traurig sie aussieht! Erst den Geliebten zu
-verlieren und dann als Sklavin verkauft zu werden – das tut doppelt
-weh … Und ich? … Mir geht’s auch nicht viel besser. Freilich habe ich
-hin und wieder mal das Vergnügen, meinen Pedrillo zu sehen, auch
-wenn es heimlich passieren muss – und viel zu selten …! Doch wer
-kann schon gegen den Strom schwimmen? – Konstanze vielleicht – ich
-nicht … (Zieht sich zurück.)
+Da ist Konstanze. Wie traurig sie aussieht!
+Erst den Geliebten zu verlieren und
+dann als Sklavin verkauft zu werden –
+das tut doppelt weh … Und ich? …
+Mir geht's auch nicht viel besser.
+Freilich habe ich hin und wieder mal das Vergnügen,
+meinen Pedrillo zu sehen,
+auch wenn es heimlich passieren muss – [secret]
+und viel zu selten …! [seldom]
+Doch wer kann schon gegen den Strom schwimmen? – [current]
+Konstanze vielleicht – ich nicht … (Zieht sich zurück.)
 
 19.
 KONSTANZE (ohne Blonde zu bemerken)
-Welcher Wechsel herrscht in meiner Seele,
-Seit dem Tag, da uns das Schicksal trennte!
+Welcher Wechsel herrscht in meiner Seele, [/ˈvɛksəl/ change]
+Seit dem Tag, da uns das Schicksal trennte! [to separate]
 O Belmont! Hin sind die Freuden,
 Die ich sonst an deiner Seite kannte;
-Banger Sehnsucht Leiden
-Wohnen nun dafür in der beklemmten Brust.
+[Gone are the joys I once knew at your side;]
+Banger Sehnsucht Leiden [anxious longing]
+Wohnen nun dafür in der beklemmten Brust. [beklemmen: to oppress]
 
 20.
 Traurigkeit ward mir zum Lose,
 Weil ich dir entrissen bin.
-Gleich der wurmzernagten Rose,
-Gleich dem Gras im Wintermoose
-Welkt mein banges Leben hin.
+Gleich der wurmzernagten Rose, [zernagen: to chew, to gnaw]
+Gleich dem Gras im Wintermoose [/moːs/]
+Welkt mein banges Leben hin. [to wilt]
+Selbst der Luft darf ich nicht sagen
 Meiner Seele bittern Schmerz,
 Denn, unwillig ihn zu tragen,
-Haucht sie alle meine Klagen
+Haucht sie alle meine Klagen [to breathe]
 Wieder in mein armes Herz.
 
 21.
 BLONDE
-Noch immer so traurig, Fräulein Konstanze? An so einem schönen
-Abend?
+Noch immer so traurig, Fräulein Konstanze?
+An so einem schönen Abend?
 
 KONSTANZE
-Wie kannst du fragen? Du kennst doch meinen Kummer! Wieder ein
-Tag vorbei und immer noch keine Nachricht, keine Hoffnung … Und
-morgen – ach Gott! Ich darf gar nicht daran denken!
+Wie kannst du fragen? Du kennst doch meinen Kummer!
+Wieder ein Tag vorbei und immer noch keine Nachricht, keine Hoffnung …
+Und morgen – ach Gott! Ich darf gar nicht daran denken!
 
 BLONDE
-Fassen Sie Mut: Das Leben geht weiter! Hören Sie die Vögel? Sie laden
-uns zu ihrem Gesang ein … Heitern Sie sich wenigstens ein bisschen
-auf, verbannen Sie die schlechte Laune.
+Fassen Sie Mut: Das Leben geht weiter!
+Hören Sie die Vögel? Sie laden uns zu ihrem Gesang ein …
+Heitern Sie sich wenigstens ein bisschen auf, [aufheitern: to cheer up]
+verbannen Sie die schlechte Laune. [to bannish]
 
 KONSTANZE
-Wie glücklich bist du, Mädchen, bei deinem Schicksal so gelassen zu
-bleiben. O … wenn ich das auch könnte!
+Wie glücklich bist du, Mädchen,
+bei deinem Schicksal so gelassen zu bleiben. [calm]
+O … wenn ich das auch könnte!
 
 BLONDE
-Das hängt nur von Ihnen ab! Hoffen Sie …
+Das hängt nur von Ihnen ab! Hoffen Sie … [to depend on]
 
 KONSTANZE
-Wo es nicht den geringsten Hoffnungsschimmer gibt?
+Wo es nicht den geringsten Hoffnungsschimmer gibt? [slightest]
 
 BLONDE
-Hören Sie: Ich gebe nie auf, so lange ich lebe, es mag eine Sache auch
-noch so schlimm aussehen. Wer immer noch Schlimmeres erwartet, ist
-am schlimmsten dran.
+Hören Sie: Ich gebe nie auf, so lange ich lebe,
+es mag eine Sache auch noch so schlimm aussehen.
+[however bad things look.]
+Wer immer noch Schlimmeres erwartet, ist am schlimmsten dran.
+[When you always expect the worst, it always comes.]
 
 KONSTANZE
-Und für diejenigen, die sich immer nur mit Hoffnung schmeicheln und
-dann aller Illusionen beraubt sehen, bleibt am Ende nur Verzweiflung
-übrig.
+Und für diejenigen,
+die sich immer nur mit Hoffnung schmeicheln und [to flatter]
+dann aller Illusionen beraubt sehen, [to deprive]
+bleibt am Ende nur Verzweiflung übrig. [despair; left]
 
 BLONDE
-Jeder hat seine eigene Sicht der Dinge. Aber meinen Sie, wir wären
-die ersten Frauen, die den türkischen Vielfraßen entkämen? … Wie
-bald könnte Belmont mit Lösegeld erscheinen oder uns mit einer List
-entführen? – Ach, du lieber Himmel, dort seh’ ich den Bassa!
+Jeder hat seine eigene Sicht der Dinge.
+Aber meinen Sie, wir wären die ersten Frauen,
+die den türkischen Vielfraßen entkämen? [Vielfraß: glutton; Preterite of entkommen]
+… Wie bald könnte Belmont mit Lösegeld erscheinen
+oder uns mit einer List entführen? [cunning]
+– Ach, du lieber Himmel, dort seh' ich den Bassa!
 
 KONSTANZE
 Lass uns ihm aus den Augen gehen!
 
 BLONDE
-Zu spät! Er hat Sie schon gesehen. Ich mache mich lieber davon; er
-würde mich sowieso wegschicken. (Im Weggehen.) Courage, Fräulein!
+Zu spät! Er hat Sie schon gesehen.
+Ich mache mich lieber davon;
+er würde mich sowieso wegschicken. (Im Weggehen.)
+Courage, Fräulein! [/kuˈraːʒə/]
 Wir kommen bestimmt bald in unsere Heimat!
 
 Dritter Auftritt
@@ -966,36 +1044,46 @@ Dritter Auftritt
 BASSA SELIM
 Nun, Konstanze, denkst du über mein Begehren nach? Der Tag ist bald
 verstrichen. Morgen musst du mich lieben, sonst …
+
 KONSTANZE
 Muss?! Welch albernes „Begehren“! Als ob man die Liebe befehlen
 könnte wie eine Tracht Prügel … Freilich, so wie ihr Türken an die
 Sache herangeht, ist die Liebe wirklich nur auf Befehl möglich!
 Ihr kerkert die Gegenstände eurer Begierden ein – und seid schon
 zufrieden, eure Lüste zu befriedigen.
+
 BASSA SELIM
 Konstanze, glaubst du denn wirklich, unsere Weiber wären weniger
 glücklich als ihr in euren Ländern?
+
 KONSTANZE
 Sie kennen ja nichts Besseres.
+
 BASSA SELIM
 So gibt es wohl nicht die geringste Hoffnung, dass du je anders
 denken wirst?
+
 KONSTANZE
 Herr, ich muss dir ehrlich gestehen … Was soll ich dich noch länger
 hinhalten? … Was soll ich mich noch länger mit der leeren Hoffnung
 täuschen, dass du dich durch mein Bitten erweichen ließest? Ich
 werde stets so denken wie jetzt, ich werde dich verehren, dich
 bewundern, ja, aber lieben? Nie!
+
 BASSA SELIM
 Und du zitterst nicht vor der Gewalt, die ich über dich habe?
+
 KONSTANZE
 Nein, nicht im Geringsten. Sterben ist alles, was ich zu erwarten habe;
 je eher das geschieht, desto lieber ist es mir.
+
 BASSA SELIM
 Elende! Nein – sterben wirst du nicht, aber Martern aller Arten wirst du
 durchstehen!
+
 KONSTANZE
 Du erschreckst mich nicht. Ich ertrage alles!
+
 BASSA SELIM
 Ist das ein Traum? Woher nimmt sie auf einmal den Mut? Wie kann sie
 es wagen?
@@ -1006,7 +1094,7 @@ Martern aller Arten
 Mögen meiner warten.
 Ich verlache Qual und Pein.
 Nichts soll mich erschüttern,
-Nur dann würd’ ich zittern,
+Nur dann würd' ich zittern,
 Wenn ich untreu könnte sein.
 Lass dich bewegen,
 Verschone mich;
@@ -1018,7 +1106,7 @@ Vielleicht hofft sie, mir zu entkommen? Das muss ich verhindern …
 KONSTANZE
 Doch du bist entschlossen.
 Willig, unverdrossen
-Wähl’ ich jede Pein und Not.
+Wähl' ich jede Pein und Not.
 BASSA SELIM (beiseite)
 Oder versucht sie, mich zu täuschen … zu besänftigen?
 
@@ -1042,8 +1130,8 @@ Fünfter Auftritt
 BLONDE
 Hm … Kein Bassa, keine Konstanze mehr da. Das gute Kind tut mir so
 leid: Sie ist zu empfindsam für ihre Lage. Freilich, hätte ich meinen
-Pedrillo nicht an der Seite, wer weiß, wie’s mir ginge! Doch würde ich
-mich nicht selbst so bemitleiden wie sie. Die Männer verdienen’s weiß
+Pedrillo nicht an der Seite, wer weiß, wie's mir ginge! Doch würde ich
+mich nicht selbst so bemitleiden wie sie. Die Männer verdienen's weiß
 Gott nicht, dass wir uns wegen ihnen zu Tode grämen. Jetzt fange ich
 schon selber an, muselmännisch zu denken!
 
@@ -1085,7 +1173,7 @@ BLONDE
 Oh Gott, Belmonte ist da – im Palast?!
 
 PEDRILLO
-Mit Leib und Seele! Ich hab’ ihn beim Bassa als einen Architekten
+Mit Leib und Seele! Ich hab' ihn beim Bassa als einen Architekten
 eingeführt.
 
 BLONDE
@@ -1103,13 +1191,13 @@ sie wieder zurück.)
 PEDRILLO
 Nicht so hastig, Blondchen – lass mich doch zu Ende reden! (Flüstert.)
 Also, um Mitternacht kommt Don Belmonte mit einer Leiter zu
-Konstanzes Fenster und ich zu deinem – und dann … dann geht’s heidi
+Konstanzes Fenster und ich zu deinem – und dann … dann geht's heidi
 davon!
 BLONDE
 Wie im Märchen! Aber … Osmin?
 PEDRILLO
 Hier! (Holt ein Fläschchen heraus.) Hier ist ein Schlaftrunk für
-den alten Schlaukopf; den misch’ ich ihm fein manierlich in sein
+den alten Schlaukopf; den misch' ich ihm fein manierlich in sein
 Lieblingsgetränk. Verstehst du?
 BLONDE
 Ich kenne den alten Saufbold nur zu gut. Aber … wann darf denn die
@@ -1150,8 +1238,8 @@ PEDRILLO
 Frisch zum Kampfe!
 Frisch zum Streite!
 Nur ein feiger Tropf verzagt.
-Sollt’ ich zittern?
-Sollt’ ich zagen?
+Sollt' ich zittern?
+Sollt' ich zagen?
 Nicht mein Leben mutig wagen?
 Nein, ach nein, es sei gewagt!
 Frisch zum Kampfe!
@@ -1162,7 +1250,7 @@ Achter Auftritt
 
 4.
 OSMIN
-Ha! Geht’s hier so lustig zu? Es muss dir verteufelt gut gehen.
+Ha! Geht's hier so lustig zu? Es muss dir verteufelt gut gehen.
 
 PEDRILLO
 Na, wer möchte denn auch seinen Kopf ständig so hängen lassen
@@ -1243,8 +1331,8 @@ Vivat Bacchus! Bacchus lebe!
 Bacchus war ein braver Mann!
 
 OSMIN
-Ob ich’s wage? Ob ich’s trinke?
-Ob’s wohl Allah sehen kann?
+Ob ich's wage? Ob ich's trinke?
+Ob's wohl Allah sehen kann?
 
 PEDRILLO
 Was hilft das Zaudern?
@@ -1252,8 +1340,8 @@ Hinunter, hinunter!
 Nicht lange, nicht lange gefragt!
 
 OSMIN (trinkt)
-Nun wär’s geschehen,
-nun wär’s hinunter;
+Nun wär's geschehen,
+nun wär's hinunter;
 Das heiß' ich, das heiß' ich gewagt!
 
 PEDRILLO, OSMIN
@@ -1267,13 +1355,13 @@ OSMIN
 Das schmeckt herrlich!
 
 PEDRILLO, OSMIN
-Ah! Das heiß’ ich Göttertrank!
+Ah! Das heiß' ich Göttertrank!
 Vivat Bacchus! Bacchus lebe!
 Bacchus, der den Wein erfand!
 
 6.
 PEDRILLO (ab und zu ein wenig aus der kleinen Flasche trinkend)
-Glaub’ mir, Osmin: Wein ist mir viel lieber als Geld und Mädchen!
+Glaub' mir, Osmin: Wein ist mir viel lieber als Geld und Mädchen!
 Bin ich verdrießlich oder schlecht gelaunt – ich greife zur Flasche
 und kaum sehe ich den ersten Boden, schon ist all mein Verdruss
 verschwunden. Die Flasche wirft mir keinen schrägen Blick zu wie
@@ -1281,7 +1369,7 @@ mein Mädchen, wenn ihr der Kopf nicht am rechten Fleck sitzt.
 
 OSMIN (hat gierig von der großen Flasche getrunken; beginnt, die
 Wirkung des Weins und des Schlaftrunks zu spüren)
-Unser großer Prophet mag’s mir nicht übel nehmen … Gift und Dolch,
+Unser großer Prophet mag's mir nicht übel nehmen … Gift und Dolch,
 es ist doch eine hübsche Sache um den Wein! (Wird immer schläfriger.)
 Nicht – Bruder Pedrillo?
 
@@ -1304,7 +1392,7 @@ He, es wirkt. Alter, es wirkt!
 
 OSMIN
 Aber verraten – darfst du mich nicht – Brüderchen – darfst du nicht
-– Wenn’s Mahomet wüsste – nein, nein – wenn’s der Bassa wüsste –
+– Wenn's Mahomet wüsste – nein, nein – wenn's der Bassa wüsste –
 denn (halb träumend) – siehst du, liebes Blondchen – ja? – oder nein?
 – (Fällt Pedrillo um den Hals.)
 
@@ -1329,8 +1417,8 @@ Neunter Auftritt
 
 PEDRILLO (kehrt gleich wieder in den Garten zurück)
 Hahaha, alter Eisenfresser, da hast du deinen gerechten Lohn! Nur
-fürchte ich, ist’s eigentlich noch zu früh: Bis Mitternacht sind noch
-drei Stunden; da könnt’ er seinen Rausch schon wieder ausgeschlafen
+fürchte ich, ist's eigentlich noch zu früh: Bis Mitternacht sind noch
+drei Stunden; da könnt' er seinen Rausch schon wieder ausgeschlafen
 haben … (Winkt Belmonte.) Kommen Sie, Herr, kommen Sie! (Winkt
 den beiden Frauen.) Konstanze, Blondchen, psst, psst! Die Luft ist
 rein; unser Argus ist blind …
@@ -1344,7 +1432,7 @@ BELMONTE
 Konstanze, endlich, endlich!
 
 KONSTANZE
-Ist’s möglich? Nach so vielen Tagen der Angst, nach so vielen
+Ist's möglich? Nach so vielen Tagen der Angst, nach so vielen
 ausgestandenen Leiden dich wieder in meinen Armen …
 
 BELMONTE
@@ -1354,7 +1442,7 @@ BLONDE (flüsternd)
 Und? Wo ist Osmin?
 
 PEDRILLO (flüsternd)
-In seinem Haus: Ich hab’ ihn liebevoll zugedeckt! Du hättest ihn sehen
+In seinem Haus: Ich hab' ihn liebevoll zugedeckt! Du hättest ihn sehen
 sollen – er ist voll wie eine Haubitze! „Gute Nacht, Brüderchen …“
 (Lachen.)
 
@@ -1371,14 +1459,14 @@ Ach, Konstanze, dich zu sehen,
 Dich voll Wonne, voll Entzücken
 An mein treues Herz zu drücken,
 Lohnt fürwahr nicht Kron' und Pracht.
-Ha, dieses sel’ge Wiederfinden
+Ha, dieses sel'ge Wiederfinden
 Lässt innig erst mich ganz empfinden,
 Welchen Schmerz die Trennung macht.
 
 8.
 BELMONTE
 Höre, liebste Konstanze, ich habe im Hafen ein Schiff in Bereitschaft.
-Um Mitternacht komm’ ich an dein Fenster und dann sei die Liebe
+Um Mitternacht komm' ich an dein Fenster und dann sei die Liebe
 unser Schutzengel!
 
 KONSTANZE
@@ -1388,7 +1476,7 @@ PEDRILLO
 Also, liebes Blondchen, pass mir ja hübsch auf, hörst du?
 
 BLONDE
-Mach dir mal um mich keine Sorgen! Das wär’ ja das erste Abenteuer,
+Mach dir mal um mich keine Sorgen! Das wär' ja das erste Abenteuer,
 das ein Mädchen verschlafen hätte.
 
 PEDRILLO
@@ -1437,20 +1525,20 @@ BELMONTE
 Ja, noch heute wirst du frei.
 
 PEDRILLO
-Also Blondchen, hast’s verstanden?
+Also Blondchen, hast's verstanden?
 Alles ist zur Flucht vorhanden,
 Um Schlag zwölfe sind wir da.
 
 BLONDE
 Unbesorgt, es wird nichts fehlen;
-Die Minuten werd’ ich zählen.
+Die Minuten werd' ich zählen.
 Wär der Augenblick schon da!
 
 BELMONTE, KONSTANZE, PEDRILLO, BLONDE
 Endlich scheint die Hoffnungssonne
 Hell durchs trübe Firmament!
 Voll Entzücken, Freud und Wonne
-Sehn wir unsrer Leiden End’!
+Sehn wir unsrer Leiden End'!
 
 BELMONTE
 Doch ach, bei aller Lust
@@ -1474,7 +1562,7 @@ Doch Blondchen, ach, die Leiter:
 Bist du wohl so viel wert?
 
 BLONDE
-Hans Narr! Schnappt’s bei dir über?
+Hans Narr! Schnappt's bei dir über?
 Ei, hättest du nur lieber
 Die Frage umgekehrt!
 
@@ -1502,7 +1590,7 @@ Hat nicht Osmin etwan,
 Wie man fast glauben kann,
 Sein Recht als Herr probieret
 Und bei dir exerzieret?
-Dann wär’s ein schlechter Kauf!
+Dann wär's ein schlechter Kauf!
 
 BLONDE
 Da nimm die Antwort drauf! (Gibt dem Pedrillo eine Ohrfeige.)
@@ -1529,7 +1617,7 @@ Ich soll den Bassa lieben!
 
 PEDRILLO
 Dass Blonde ehrlich sei,
-Schwör’ ich bei allen Teufeln.
+Schwör' ich bei allen Teufeln.
 
 BELMONTE (zu Pedrillo)
 Konstanze ist mir treu,
@@ -1549,7 +1637,7 @@ Von allem Vorwurf frei!
 
 PEDRILLO
 Liebstes Blondchen, ach, verzeihe!
-Sieh, ich bau’ auf deine Treue
+Sieh, ich bau' auf deine Treue
 Mehr jetzt als auf meinen Kopf.
 
 BLONDE
@@ -1564,7 +1652,7 @@ Dass ich diese Frage tat!
 
 KONSTANZE
 Belmont, wie? Du konntest glauben,
-Dass man dir dies Herz könnt’ rauben
+Dass man dir dies Herz könnt' rauben
 Das nur dir geschlagen hat?
 
 BELMONTE, PEDRILLO
@@ -1666,11 +1754,11 @@ Punkt zwölf! Gehen Sie dort an die Ecke und passen Sie auf, dass wir
 nicht überrascht werden!
 
 BELMONTE
-Einverstanden – aber fass’ dich kurz mit deinem Gesang! Die Zeit
+Einverstanden – aber fass' dich kurz mit deinem Gesang! Die Zeit
 drängt! (Geht ab.)
 
 PEDRILLO (indem er seine Mandoline hervorholt und präludiert)
-Es ist ein sonderbar’ Ding mit der Tapferkeit! Wer keine hat, der schafft
+Es ist ein sonderbar' Ding mit der Tapferkeit! Wer keine hat, der schafft
 sich auch mit größten Mühen keine an. Wie laut mein Herz schlägt!
 Mein Alter muss ein Erz-Feigling gewesen sein … Nun los, es sei
 gewagt! Aber ich singe ganz leise … (Singt, sich selbst begleitend.)
@@ -1681,7 +1769,7 @@ In Mohrenland gefangen war
 Ein Mädel hübsch und fein;
 Sah rot und weiß, war schwarz von Haar,
 Seufzt Tag und Nacht und weinte gar,
-Wollt’ gern erlöset sein.
+Wollt' gern erlöset sein.
 Da kam aus fremdem Land daher
 Ein junger Rittersmann,
 Den jammerte das Mädchen sehr.
@@ -1691,7 +1779,7 @@ BELMONTE (kommt hervor)
 Das genügt, Pedrillo! Mach ein Ende!!
 
 PEDRILLO
-An mir liegt’s nicht, dass sie sich noch nicht zeigen. Entweder schlafen
+An mir liegt's nicht, dass sie sich noch nicht zeigen. Entweder schlafen
 sie fester als gewöhnlich oder der Bassa ist im Spiel. Aber das Lied hat
 noch zwei weitere Strophen … (Belmonte reagiert verärgert.) Bleiben
 Sie ruhig auf Ihrem Posten! (Belmonte geht wieder fort.)
@@ -1708,7 +1796,7 @@ Was ist denn das für ein Schneckentempo, Pedrillo? – mach fort!
 PEDRILLO
 Gesagt, getan! Glock zwölfe stand
 Der tapfre Ritter da;
-Sanft reicht’ sie ihm die weiche Hand;
+Sanft reicht' sie ihm die weiche Hand;
 Früh man die leere Zelle fand;
 Fort war sie, hopsasa!
 
@@ -1730,7 +1818,7 @@ macht … Wenn die mich hier am Kragen packen, geht mein bisschen
 Kopf dahin!
 
 BELMONTE (kommt mit Konstanze unten zur Tür heraus)
-Holder Engel, nun hab’ ich dich wieder, ganz wieder; nichts kann uns
+Holder Engel, nun hab' ich dich wieder, ganz wieder; nichts kann uns
 mehr trennen!
 
 KONSTANZE
@@ -1787,7 +1875,7 @@ PEDRILLO (wieder ins Zimmer hineinkletternd)
 Nein, Blonde – zurück! Schnell!
 
 OSMIN (wieder hinuntersteigend)
-Du sollst mir nicht entkommen, du Schuft! Hilfe, Wache, hier gibt’s
+Du sollst mir nicht entkommen, du Schuft! Hilfe, Wache, hier gibt's
 Räuber! Janitscharen, herbei!
 
 PEDRILLO (kommt gleichzeitig mit Blonde unten zur Tür hinaus)
@@ -1881,11 +1969,11 @@ Wenn sie euch zum Richtplatz führen
 Und die Hälse schnüren zu!
 Hüpfen will ich, lachen, springen
 Und ein Freudenliedchen singen,
-Denn nun hab’ ich vor euch Ruh.
+Denn nun hab' ich vor euch Ruh.
 Schleicht nur säuberlich und leise,
 Ihr verdammten Haremsmäuse,
 Unser Ohr entdeckt euch schon.
-Und eh’ ihr uns könnt entspringen,
+Und eh' ihr uns könnt entspringen,
 Seht ihr euch in unsern Schlingen,
 Und erhaschet euren Lohn.
 (Geht ab.)
@@ -1907,7 +1995,7 @@ Herr, verzeih, dass ich es so früh wage, deine Ruhe zu stören.
 
 BASSA SELIM (verärgert)
 Ich habe dich doch selber kommen lassen, Osmin … – und mit meiner
-Nachtruhe wird’s auch nichts mehr: Ein fürchterlicher Lärm hat mich
+Nachtruhe wird's auch nichts mehr: Ein fürchterlicher Lärm hat mich
 aus dem Schlaf gerissen! Was ist passiert?
 
 OSMIN
@@ -1935,7 +2023,7 @@ werden in Ketten von der Janitscharenwache hereingeführt.)
 Da! Da sind die beiden Übeltäter!
 
 BASSA SELIM
-Ah, Don Belmonte, du Verräter, wie ist’s möglich …? Und du,
+Ah, Don Belmonte, du Verräter, wie ist's möglich …? Und du,
 Konstanze, du heuchlerische Sirene, war das der
 Aufschub, den du von mir erbeten hast? Missbrauchtest du so meine
 Geduld mit dir, um mich zu hintergehen?
@@ -2021,7 +2109,7 @@ Du flößest Trost in mein erschüttert Herz,
 Du linderst mir den Todesschmerz –
 Und ach, ich reiße dich ins Grab!
 Meinetwegen sollst du sterben.
-Ach, Konstanze! Kann ich’s wagen,
+Ach, Konstanze! Kann ich's wagen,
 Noch die Augen aufzuschlagen?
 Ich bereite dir den Tod!
 
@@ -2034,7 +2122,7 @@ Wonne ist mir dies Gebot!
 BELMONTE, KONSTANZE
 Edle Seele! Dir zu leben
 Ist mein Wunsch und all mein Streben.
-Ohne dich ist mir’s nur Pein,
+Ohne dich ist mir's nur Pein,
 Länger auf der Welt zu sein.
 
 BASSA SELIM (der aus der Folterkammer zurückgekehrt ist und dem
@@ -2045,12 +2133,12 @@ BELMONTE
 Ich will alles gerne leiden.
 
 KONSTANZE
-Ruhig sterb’ ich und mit Freuden,
+Ruhig sterb' ich und mit Freuden,
 
 BELMONTE, KONSTANZE
 Weil ich dir zur Seite bin.
 Um dich, Geliebte(r),
-Geb’ ich gern mein Leben hin.
+Geb' ich gern mein Leben hin.
 O welche Seligkeit!
 Mit dem (der) Geliebten sterben
 Ist seliges Entzücken!
@@ -2160,42 +2248,42 @@ man sich vom Halse schaffen!
 
 20.
 BELMONTE
-Nie werd’ ich deine Huld verkennen,
+Nie werd' ich deine Huld verkennen,
 Mein Dank bleibt ewig dir geweiht;
 An jedem Ort, zu jeder Zeit
-Werd’ ich dich groß und edel nennen.
+Werd' ich dich groß und edel nennen.
 
 ALLE
 Wer so viel Huld vergessen kann,
-Den seh’ man mit Verachtung an.
+Den seh' man mit Verachtung an.
 
 KONSTANZE
-Nie werd’ ich im Genuss der Liebe
+Nie werd' ich im Genuss der Liebe
 Vergessen, was der Dank gebeut;
 Mein Herz, der Liebe nun geweiht,
 Hegt auch dem Dank geweihte Triebe.
 
 ALLE
 Wer so viel Huld vergessen kann,
-Den seh’ man mit Verachtung an.
+Den seh' man mit Verachtung an.
 
 PEDRILLO
 Wenn ich es je vergessen könnte,
-Wie nah’ ich am Erdrosseln war,
+Wie nah' ich am Erdrosseln war,
 Und all der anderen Gefahr;
 Ich lief, als ob der Kopf mir brennte.
 
 ALLE
 Wer so viel Huld vergessen kann,
-Den seh’ man mit Verachtung an.
+Den seh' man mit Verachtung an.
 
 BLONDE
-Herr Bassa, ich sag’ recht mit Freuden
+Herr Bassa, ich sag' recht mit Freuden
 Viel Dank für Kost und Lagerstroh.
 Doch bin ich recht von Herzen froh,
 Dass er mich lässt von hinnen scheiden.
 (Auf Osmin zeigend.)
-Denn seh’ er nur das Tier dort an,
+Denn seh' er nur das Tier dort an,
 Ob man so was ertragen kann.
 
 OSMIN
@@ -2216,7 +2304,7 @@ Hingegen menschlich, gütig sein
 Und ohne Eigennutz verzeihn,
 Ist nur der großen Seelen Sache!
 Wer dieses nicht erkennen kann,
-Den seh’ man mit Verachtung an.
+Den seh' man mit Verachtung an.
 
 CHOR DER JANITSCHAREN
 Bassa Selim lebe lange,
@@ -2237,3 +2325,4 @@ Sie genoss [genießen] es, von ihm verwöhnt zu werden.
 She enjoyed being spoilt by him.
 Die Entfernung zwischen Mond und Erde beträgt rund 380.000 Kilometer.
 Er hat sie mit einem dummen Trick übertölpelt.
+Der Redner räusperte sich laut, bevor er zu sprechen anfing.
