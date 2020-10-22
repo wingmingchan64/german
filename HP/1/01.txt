@@ -1,5 +1,4 @@
-﻿audio:      https://www.bilibili.com/video/BV1ub411q7MV?p=1
-time maker: https://mp3cut.net/
+﻿audio:  https://www.bilibili.com/video/BV1ub411q7MV?p=1
 
 [5] DER JUNGE, DER ÜBERLEBTE
 
@@ -298,4 +297,4 @@ Sie hat empfindliche [sensitive] Haut und neigt zu Sonnenbrand.
 ------------------------------------------------------------------------------
 Notes:
 
-I used the chrome bilibili plugin to download the .flv files. Then I used VLC to convert the .flv files to .mp3 files.
+I used the chrome bilibili plugin to download the .flv files. Then I used VLC to convert the .flv files to .mp3 files. Lastly, I used the online cutter (https://mp3cut.net/) to locate the time markers.
