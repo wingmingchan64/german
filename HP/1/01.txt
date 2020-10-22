@@ -294,3 +294,8 @@ Diese Firma stellt Elektrogeräte her.
 Sie sind arm und dennoch glücklich.
 In dieser Angelegenheit mussten sie vorsichtig vorgehen.
 Sie hat empfindliche [sensitive] Haut und neigt zu Sonnenbrand.
+
+------------------------------------------------------------------------------
+Notes:
+
+I used the chrome bilibili plugin to download the .flv files. Then I used VLC to convert the .flv files to .mp3 files.
