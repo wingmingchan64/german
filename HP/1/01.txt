@@ -1,5 +1,5 @@
-﻿www.bilibili.com/video/BV1ub411q7MV?spm_id_from=333.905.b_7570566964656f.5
-https://mp3cut.net/
+﻿audio: https://www.bilibili.com/video/BV1ub411q7MV?p=1
+time maker: https://mp3cut.net/
 
 [5] DER JUNGE, DER ÜBERLEBTE
 
