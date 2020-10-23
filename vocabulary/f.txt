@@ -730,6 +730,7 @@ fortschreiten /ˈfɔrtʃraitən/: to progress
 
 Fortschritt /ˈfɔrtʃrɪt/, der, -(e)s|e: progress, advance
   Fortschritte machen: to advance, to make progress
+  die Errungenschaften des medizinischen Fortschritts
 
 fortsetzen /ˈfɔrtzɛʦən/: to continue
   Nach einer Pause setzten sie das Gespräch fort.
@@ -917,6 +918,9 @@ Führer, Führerin: guide, chief, leader, operator, driver, pilot
   Kranführer: crane operator
   Marktführer: market leader 
 
+Führerschein /ˈfyːrɐʃain/, der: driver’s license
+  Ihm wurde der Führerschein abgenommen.
+
 führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to carry out
   jdn zu seinem Platz führen: to show sb to their seat
   Der Weg führte über Felder und durch Wälder zum See.
@@ -979,7 +983,7 @@ funken /ˈfʊnkən/: to radio
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Geburtstag /ɡəˈbuːɐʦtaːk/: birthday
 
-für
+für: for
   Tag für Tag: day after day
 
 furchtbar /ˈfʊrçtbaːɐ/: awful, dreadful, terrible

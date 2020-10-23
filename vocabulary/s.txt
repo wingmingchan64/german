@@ -1149,6 +1149,8 @@ seicht: shallow
   Der Fluss ist seicht genug, um hindurchzuwaten.
   The river is shallow enough to wade through.
 
+seien => sein
+
 Seife /ˈzaifə/, die, -n: soap
   ein Stück Seife: a bar of soap
 
@@ -1162,6 +1164,7 @@ Seilbahn /ˈzailbaːn/, die, ~|-en: cableway, aerial tramway
 
 sein /zain/: to be
   bin, bist, ist, sind, ihr seid, bin gewesen
+  war, warst, war, waren, wart
   Du bist wohl verrückt! (informal) You must be crazy.
   Er ist Lehrer/Inder/ein Verwandter/der Chef.
   He is a teacher/(an) Indian/a relative/the boss.
@@ -1171,7 +1174,8 @@ sein /zain/: to be
   wie wäre es mit ...
   mir ist kalt: I'm cold
 
-seien => sein
+sein: his, its, her
+  Das ist Simon und das sein Vater und seine Mutter.
 
 seit /zait/: since
   seit ein paar Tagen
@@ -1431,6 +1435,9 @@ sonderbar /ˈzɔndɐbaːɐ/: strange
   Ich finde es sonderbar, dass er noch nicht hier ist.
   I think it's strange that he isn't here yet.
 
+sondern /ˈzɔndɐn/
+  Nicht Roland, sondern Christine gewann den ersten Preis.
+
 Sonnabend /ˈzɔnaːbənt/, der, -s|-e: Saturday
 
 Sonne /ˈzɔnə/, die: sun, sunlight
@@ -1494,7 +1501,9 @@ soweit /zoˈvait/: as/so far as
   Soweit ich gehört habe, ist sie verreist.
   She's away, as far as I've heard.
 
-sowie /zoˈviː/: and, as well as
+sowie /zoˈviː/: and, as well as, as soon as
+  Er kam mit seiner Frau sowie mit seinen Kindern.
+  Sowie der Hund uns sah, lief er davon.
 
 sowieso /zoviˈzoː/: anyway, anyhow
   Der Regen macht mir nichts aus, ich wollte sowieso zu Hause bleiben.

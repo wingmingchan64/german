@@ -7,7 +7,7 @@ Ebbe /ˈɛbə/, die, -n: ebb
   Bei Ebbe kann man die Insel zu Fuß erreichen.
   You can get to the island on foot at low tide.
 
-eben /ˈeːbən/: flat, level, just (gerade jetzt)
+eben /ˈeːbən/: flat, level, just (gerade jetzt), simply
   Das Land ist dort sehr eben.
   The land is very flat there.
   Das Brett liegt nicht ganz eben.
@@ -730,6 +730,8 @@ Einzelheit /ˈainʦəlhait/, die, ~|-en: detail
   Further details of the incident only came to light later.
   
 einzeln /ˈainʦəln/: single, individual
+  die einzelnen Abschnitte des Textes
+  the individual paragraphs of the text
 
 einziehen /ˈainʦiːən/: to move in, to collect
   Die Gebühren werden jeweils am Monatsanfang eingezogen.
@@ -1054,6 +1056,7 @@ entsprechen /ɛntˈʃprɛçən/: to be in line with, to conform with, to be equi
   Your report is not entirely true.
   Leider können wir Ihrer Bitte nicht entsprechen.
   I'm afraid we cannot comply with your request.
+  sich or einander entsprechen: to correspond (with each other), to tally
 
 entsprechend /ɛntˈʃprɛçənt/: appropriate, relevant
   => passend
@@ -1500,6 +1503,9 @@ Errichtung /ɛɐˈrɪçtʊŋ/, die: construction, erection
 erringen /ɛɐˈrɪŋən/: to achieve
   einen Sieg/Erfolg erringen: to achieve victory/success
 
+Errungenschaft /ɛɐˈrʊŋənʃaft/, die: achievement
+  medizinische / technische Errungenschaften
+
 erschaffen /ɛɐˈʃafən/: to create
   Gott erschuf die Welt und den Menschen.
   God created the world and humankind.
@@ -1716,7 +1722,7 @@ etliche /ˈɛtlɪçə/: quite a few, a number of
   Die Zuschauer waren unzufrieden. Etliche verließen nach der Pause das Theater.
   The audience was dissatisfied. Many left the theater after the interval.
 
-etwa: about, around, for instance/example
+etwa: about, around, for instance/example, approximately, perhaps
   Das wird etwa eine Stunde dauern.
   It'll take about an hour.
   in etwa: more or less

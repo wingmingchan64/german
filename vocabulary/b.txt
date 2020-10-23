@@ -532,6 +532,11 @@ behutsam /bəˈhuːtzaːm/: careful, cautious
   Er deckte das Baby behutsam zu.
   He carefully covered the baby up.
 
+bei: at, near
+  Sie wohnt in einem Dorf bei Köln.
+  Ich bin bei Freunden eingeladen.
+  Hast du deinen Führerschein bei dir?
+
 beibehalten /ˈbaibəhaltən/: to maintain, to retain
   eine Gewohnheit / Geschwindigkeit beibehalten
   to keep up a habit/maintain a speed
@@ -806,6 +811,9 @@ bereits /bəˈraits/: already, as early as
 
 Berg /bɛrk/, der: mountain
 
+Bereich /bəˈraiç/, der: area, region
+  ein verkehrsberuhigter Bereich
+
 Bericht /bəˈrɪçt/, der, -(e)s|-e: report
   einen Fernsehbericht über das Erdbeben ansehen
   to watch a TV report about the earthquake
@@ -1000,6 +1008,10 @@ besonders /bəˈzɔndɐs/: particularly, especially
   Sie ist nicht besonders hübsch.
   She's not particularly pretty.
 
+besonnen /bəˈzɔnən/: calm, cool-headed
+  Trotz der Aufregung um ihn herum blieb er ruhig und besonnen.
+  In spite of the excitement all around him he remained calm and collected.
+
 besorgen /bəˈzɔrɡən/: to get, to take care of
   Kannst du mir etwas aus der Apotheke besorgen?
   Can you get me something from the pharmacy?
@@ -1032,8 +1044,6 @@ bestehen /bəˈʃteːən/: to be, to exist, to pass
   bestehe, bestehst, besteht, habe bestanden
   Er hat (die Prüfung) nicht bestanden.
   He didn't pass (the exam).
-  Das Examen besteht aus zwei schriftlichen und zwei mündlichen Prüfungen.
-  The examination consists of two written and two oral tests.
   auf etw bestehen [dative]: to insist on sth
   auf seinem Recht bestehen: to insist on your rights
   aus etw bestehen: to consist of
@@ -1311,6 +1321,8 @@ Bewerber /bəˈvɛrbɐ/, -, Bewerberin: applicant, candidate
   Wir haben zahlreiche hochqualifizierte Bewerber zur Auswahl.
   We have a large number of highly qualified candidates to choose from.
 
+Bewerbung /bəˈvɛrbʊŋ/: application
+
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
 
@@ -1354,7 +1366,7 @@ Beziehung /bəˈʦiːʊŋ/, die, ~|-en: relationship, connection, respect
   Ich habe keine rechte Beziehung zu moderner Kunst.
   I can't really relate to modern art.
 
-beziehungsweise /bəˈʦiːʊŋsvaizə/: respectively, or, or to be more precise, or rather
+beziehungsweise (bzw.) /bəˈʦiːʊŋsvaizə/: respectively, or, or to be more precise, or rather, and/or
   Die Angeklagten bekamen Haftstrafen in Höhe von 15 bzw. 12 Monaten.
   The defendants received sentences of 15 and 12 months respectively.
   Ich werde voraussichtlich morgen damit fertig bzw. spätestens übermorgen.

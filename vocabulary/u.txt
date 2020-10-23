@@ -253,7 +253,8 @@ Uhrzeit /ˈuːɐʦait/, die, ~|-en: time
   Um welche Uhrzeit soll ich dich abholen?
   What time should I pick you up?
 
-△um /ʊm/
+△um /ʊm/: around at
+  um ... zu: in order to
 
 umarmen /ʊmˈ|armən/: to hug
   Sie umarmten sich zum Abschied.
@@ -722,7 +723,9 @@ unternehmen /ʊntɐˈneːmən/: to do, to go on, to (under)take, to make
   Wollen wir morgen etwas gemeinsam unternehmen?
   Shall we do something together tomorrow?
 
-Unternehmertum, das, -s|uncountable: employers, business community, entrepreneurship
+Unternehmertum, das, -s|uncountable: employers, business community, entrepreneurship, venture, undertaking
+  ein Unternehmen leiten: to run a business
+  ein riskantes Unternehmen planen: to plan a risky venture
 
 unternommen => unternehmen
 

@@ -200,6 +200,7 @@ abnehmen /ˈapneːmən/: to decrease, to lose weight, to wane, to take off, to a
   She says you should have your hair cut when the moon is waning.
   Nimm doch zum Grüßen die Mütze ab.
   Take off your cap when you're greeting someone.
+  Ihm wurde der Führerschein abgenommen.
 
 abrasieren /ˈapraziːrən/: to shave off
   Der Sturm hat alle Bäume entlang der Straße abrasiert.
@@ -586,6 +587,9 @@ Akku /ˈaku/, der, -s|-s: battery
 Akkusativ /ˈakuzatiːf/, -s|-e: accusative
   Das direkte Objekt steht im Akkusativ.
   The direct object is in the accusative.
+
+Akt, der: act
+  Das war ein Akt der Verzweiflung.
 
 Akte /ˈaktə/, die, ~|-n: file
   eine Akte anlegen: to open a file
@@ -1489,6 +1493,8 @@ Armut /ˈarmuːt/, die: poverty
 Arroganz /aroˈɡanʦ/, die, |uncountable
 
 Art /art/, die: sort, kind, species, way
+  Auf diese Art und Weise erreicht du gar nichts.
+  You won’t get anywhere this way.
   nach Art von: in the manner of
 
 artgerecht /ˈartɡərɛçt/: species-appropriate
@@ -2011,6 +2017,8 @@ augenblicklich /ˈauɡənblɪklɪç/: current, immediately
   blauäugig
 
 August /auˈɡʊst/, der, -(e)s|e
+
+aus: out, out of, from
 
 aus-: away, removed, turned off
 

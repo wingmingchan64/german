@@ -89,6 +89,12 @@ Hals /hals/, der, -es|..e: neck
 Halt /halt/, der: stop
   Nächster Halt: Hauptbahnhof.
   Next stop: Central Station.
+  
+halt: stop
+  Halt! Hier ist der Durchgang verboten!
+
+halt: just, simply
+  Jeder muss mal sterben, das ist halt so.
 
 hält => halten
 
@@ -828,6 +834,9 @@ hinweisen /ˈhɪnvaizən/: to point sth out to sb
 
 hinüber /hɪˈnyːbɐ/: over, across
   ein Blick hinüber zum Nachbarn: a glance over to your neighbor 
+
+hinzufügen: to add, to enclose
+  Ich muss meiner Bewerbung diese Dokumente hinzufügen.
 
 Hirn /hɪrn/, das: brain, mind
   Streng doch mal dein Hirn mehr an!

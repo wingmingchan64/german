@@ -14,7 +14,7 @@ da: as, since
   Da ich dich nicht erreicht habe, bin ich ohne dich gefahren.
   As I didn't get hold of you I went without you.
 
-dabei /daˈbai/: there, at the same time
+dabei /daˈbai/: there, at the same time, in the process
   Warst du dabei, als das passiert ist?
   Were you there when it happened?
   Sie sieht fern und bügelt dabei.
@@ -70,7 +70,7 @@ dalli /ˈdali/: quickly, on the double
 damalige /ˈdaːmaːlɪɡə/: then, at that point
   meine damalige Chefin: my then boss
 
-damals /ˈdaːmaːls/: zu jener Zeit, at that time
+damals /ˈdaːmaːls/: zu jener Zeit, at that time, back then
   => früher
   Damals gab es noch kein Fernsehen.
   There was no TV back then.
@@ -166,6 +166,8 @@ Darstellung /ˈdaːrʃtɛlʊŋ/, die, -en: representation, account, portrayal
 
 △das /das/
 
+dass /das/
+
 Daten /ˈdaːtən/, pl: data
   die technischen Daten eines Geräts: the technical specs of a device
 
@@ -205,7 +207,7 @@ davon /daˈfɔn/: from it
 
 davor /daˈfoːɐ/: before that
 
-dazu /daˈʦuː/: to it, about it, in addition
+dazu /daˈʦuː/: to it, about it, in addition, furthermore
   Mir gefällt es nicht. Was sagst du dazu?
   I don't like it. What do you say to it?
   Das Verfahren ist überholt und kostspielig dazu.
@@ -728,6 +730,10 @@ durchführen /ˈdʊrçfyːrən/: to carry out, to perform, to execute
   Führt diese Straße durch den Nationalpark durch?
   Does this road lead through the national park?
   Besucher durch eine Ausstellung durchführen: to show visitors around the exhibition
+
+Durchgang, der: passage, thoroughfare
+  Durchgang verboten!
+  No trespassing!
 
 durchmachen /ˈdʊrçmaxən/: to experience, to go through, to work/party/etc. nonstop
   Sie hat in den letzten Jahren eine positive Entwicklung durchgemacht.
