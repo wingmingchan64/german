@@ -86,6 +86,12 @@ egal /eˈɡaːl/: whatever, irrelevant
   „Wann soll ich kommen?‟ – „Das ist ganz egal.‟
   "When should I come?" – "Any time."
 
+Ehefrau /ˈeːəfrau/, die, ~|-en
+  Mit seiner zweiten Ehefrau war er 18 Jahre lang verheiratet.
+
+Ehemann /ˈeːəman/, der, -(e)s|..er
+  Darf ich Ihnen meinen Ehemann vorstellen?
+
 eher /ˈeːɐ/: earlier, sooner, fairly, rather
   Du hättest eher kommen sollen.
   You should have come sooner.
@@ -555,6 +561,13 @@ Einrichtung /ˈainrɪçtʊŋ/, die, -en: furnishings, institution
   This kindergarten is a church-run institution.
   die Einrichtung eines Notdienstes: setting up an emergency service
 
+Eins /ains/, die, ~|-en
+  eine Eins mit zwei Nullen
+  Fährt die Eins zum Zoo?
+  eine Eins in Mathe haben / bekommen
+
+eins /ains/
+
 einsam /ˈainzaːm/: lonely, lonesome, solitary, secluded, remote
   Sie fühlt sich in letzter Zeit oft einsam.
   She's been feeling lonely a lot recently.
@@ -803,7 +816,7 @@ Ellipse /ɛˈlɪpsə/, die: ellipse
 
 Eloquenz /-ˈkvɛnts/, die
 
-Eltern /ˈɛltɐn/: parents
+Eltern /ˈɛltɐn/, pl: parents
   Da muss ich erst meine Eltern um Erlaubnis fragen.
   I'll have to ask my parents for permission first.
   
@@ -1379,6 +1392,7 @@ erlassen /ɛɐˈlasən/: to issue
   A warrant was issued for his arrest.
 
 erlauben /ɛɐˈlaubən/: to allow, to permit
+  <=> verbieten
   Mein Vater erlaubt mir nicht, diesen Film zu sehen.
   My father won't allow me to watch that movie.
   
@@ -1578,9 +1592,11 @@ erstaunen /ɛɐˈʃtaunən/: to astonish, to amaze
 erstaunlich /ɛɐˈʃtaunlɪç/: astonishing, amazing
   eine erstaunliche Leistung: an astonishing achievement
 
-Erste m/f, kein pl: first
+Erste /ˈeːɐstə/ m/f, kein pl: first
   als Erstes: first
   etwas als Erstes tun: to do sth first
+
+erste /ˈeːɐstə/: first
 
 erstellen /ɛɐˈʃtɛlən/: to draw up, to create, to construct
   für eine Kontaktbörse im Internet sein Profil erstellen

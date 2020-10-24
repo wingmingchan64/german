@@ -85,6 +85,9 @@ Sand /zant/, der, -e: sand
 
 sandte => senden
 
+Sandwich /ˈzɛntvɪtʃ/, das, -(e)s|-(e)s
+  Machst du mir ein Schinkensandwich?
+
 sanft /zanft/: gentle, soft
   ein sanftes Wesen haben: to have a gentle nature
   das sanfte Streicheln des Windes auf ihrer Haut
@@ -420,7 +423,7 @@ schimpfen /ˈʃɪmpfən/: to moan/complain (about), to tell off
   über / auf die Regierung schimpfen
   to complain about the government
 
-Schinken /ˈʃɪŋkən/, der, -: ham
+Schinken /ˈʃɪŋkən/, der, -s|~: ham
   gekochter / roher Schinken: cooked/raw ham
 
 schippen: to shovel
@@ -992,6 +995,10 @@ schwächen /ˈʃvɛçən/: to weaken
   Die Viren schwächen das Immunsystem.
   The viruses weaken the immune system.
 
+Schwager /ˈʃvaːɡɐ/, der, -s|~: brother-in-law
+
+Schwägerin /ˈʃvɛːɡərɪn/
+
 Schwalbe /ˈʃvalbə/, die, ~|-en: swallow
   Schwalbennest: swallow's nest
 
@@ -1053,6 +1060,14 @@ Schwerstarbeit, die: very heavy labor
 Schwert /ˈʃveːɐt/, das, -er: sword
   ein zweischneidiges Schwert: a double-edged sword
 
+Schwester /ˈʃvɛstɐ/, die, ~|-n
+  Ich habe zwei ältere Schwestern.
+  als Schwester in einem Krankenhaus arbeiten
+  to work in a hospital as a nurse
+  Ist es in der schwarzen Schwesterntracht nicht sehr heiß?
+  Isn’t it very hot wearing a black nun’s habit?
+  Hast Du Schwestern? Ich habe keine Schwestern.
+
 schwieg => schweigen
 
 schwierig /ˈʃviːrɪç/: difficult
@@ -1095,6 +1110,8 @@ Schwung /ʃvʊŋ/, der, ..e: force, impetus
 Schwur /ʃvuːɐ/, der: oath
 
 schwur => schwören
+
+sechs /zɛks/
 
 See /zeː/, der, -s|-n: lake
   in einem See baden: to swim in a lake
@@ -1208,6 +1225,7 @@ selbst /zɛlpst/: in person, self, even
   ich selbst: myself
   Selbst wenn er wollte, könnte er das nicht tun.
   Even if he wanted to, he couldn't do it.
+  selbst gebackenes Gebäck: homemade cookies
 
 selbstständig /ˈzɛlpstʃtɛndɪç/: independent
   an selbstständiges Arbeiten gewöhnt sein: to be used to working independently
@@ -1314,6 +1332,8 @@ Sie: you
 sie: she, it, they
   Sie wollen heiraten. They want to get married.
 
+sieben /ˈziːbən/
+
 Sieg /ziːk/, der: victory, win
   einen Sieg gegen jdn erringen: to be victorious over sb
 
@@ -1410,7 +1430,8 @@ Sohle /ˈzoːlə/, die, -n: sole (of your foot)
   Auf leisen Sohlen schlich sich die Raubkatze an.
   The big cat crept up noiselessly.
 
-Sohn /zoːn/, der, ..e: son
+Sohn /zoːn/, der, -(e)s|..e: son
+  Sie haben eine Tochter und zwei Söhne.
 
 solch /zɔlç/: such
   Solch eine Unverschämtheit!
@@ -1977,6 +1998,10 @@ Stichwortverzeichnis, das: index
 Stiefel /ˈʃtiːfəl/, der, -s|~: boot
   Gummistiefel: rubber boots
   Schnallenstiefel: buckled boots
+
+Stiefsohn, Stieftochter
+
+Stiefvater, Stiefmutter
 
 Stiel /ʃtiːl/, der, -(e)s|-e: handle
   die Bratpfanne am Stiel festhalten: to hold on to the skillet by the handle

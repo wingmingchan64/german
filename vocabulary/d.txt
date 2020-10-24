@@ -254,6 +254,10 @@ Deich /daiç/, der, -(e)s|-e: levee, dike
   Der Deich ist gebrochen.
   The levee's broken.
 
+dein /dain/
+  Ist das dein Kugelschreiber?
+  Ist diese Tasche dort deine?
+
 Delikt /deˈlɪkt/, das: offense
 
 Demenz /deˈmɛnʦ/, die: dementia
@@ -371,7 +375,7 @@ deutlich /ˈdɔytlɪç/: clear, frank, plain, forthright
   deutlich werden: to make yourself clear
   deutlich sprechen / schreiben
 
-Deutsch /dɔytʃ/, das, -(e)s
+Deutsch /dɔytʃ/, das, -(e)s|uncountable
   Sprechen Sie Deutsch?
   Do you speak German?
   Sie hat eine Eins in Deutsch.
@@ -381,8 +385,7 @@ Deutsch /dɔytʃ/, das, -(e)s
   Deutscher Schäferhund: German shepherd
 
 Deutsche /'dɔyʧə/, -n|-n
-  Sind Sie Deutscher?
-  Are you German?
+  Sind Sie Deutscher? 
   Das Wort kommt aus dem Deutschen.
   The word comes from German.
 
@@ -571,6 +574,8 @@ Drehkreuz /ˈdreːkrɔyʦ/, das, -e: turnstile
   Wir mussten am Eingang durch ein Drehkreuz gehen.
   We had to go through a turnstile at the entrance.
 
+drei /drai/
+
 Dreieck /ˈdrai|ɛk/, das, -e: triangle
 
 Dreikönigsfest, das: Epiphany 主顯節
@@ -597,7 +602,7 @@ dringend /ˈdrɪŋənt/: urgent
   Please come quickly, doctor, it's urgent!
   eine dringende Bitte an jdn haben: to have an urgent request of sb
 
-dritte: third
+dritte /ˈdrɪtə/: third
 
 Drittel: third
 
@@ -798,7 +803,7 @@ dürr /dʏr/: dry, dead, arid, barren, scrawny, meager
   Da wird ein ganzes Leben auf ein paar dürre Zahlen reduziert.
   What you see is a whole life reduced to a few meager numbers.
 
-Durst /dʊrst/, der: thirst
+Durst /dʊrst/, der, -(e)s: thirst
 
 durstig /ˈdʊrstɪç/: thirsty
 

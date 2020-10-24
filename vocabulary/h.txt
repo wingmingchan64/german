@@ -74,6 +74,10 @@ Haken /ˈhaːkən/, der: hook
 
 halb /halp/: half
 
+Halbbruder /ˈhalpbruːdɐ/, der
+
+Halbschwester /ˈhalpʃvɛstɐ/, die
+
 half => helfen
 
 Halle /ˈhalə/, die, Hallen: hall, lobby
@@ -81,6 +85,8 @@ Halle /ˈhalə/, die, Hallen: hall, lobby
   Are you playing outside or indoors?
   Bitte warten Sie mit dem Gepäck kurz in der Halle.
   Please wait a moment in the lobby with your baggage.
+
+hallo /ˈhaloː/ oder /haˈloː/
 
 Hals /hals/, der, -es|..e: neck
   Ich band mir ein Tuch um den Hals.
@@ -172,7 +178,8 @@ handwerklich /ˈhantvɛrklɪç/: technical, artisanal
   The quality of the craftsmanship left a lot to be desired.
   handwerklich begabt: good with your hands
 
-Handy /ˈhɛndiː/, das: cell, mobile
+Handy /ˈhɛndiː/, das, -s|-s: cell, mobile
+  Ruf mich auf dem Handy an.
 
 hängen /ˈhɛŋən/: to hang, to be attached to
   Ein Gemälde hing an der Wand.
@@ -576,7 +583,8 @@ hermachen /ˈheːɐmaxən/
 hernieder /hɛrˈniːdər/: down
   => nieder
 
-Herr /hɛr/: gentleman, Mr.
+Herr /hɛr/, der, -n|-en: gentleman, Mr.
+  ein freundlicher alter Herr
 
 herrlich: superb, marvelous, gorgeous
 
@@ -1018,7 +1026,8 @@ Hund /hʊnt/, der; Rüde, der; Hündin, die
 
 Hundert, das
 
-Hunger /ˈhʊŋɐ/, der: hunger, starvation, yearning
+Hunger /ˈhʊŋɐ/, der, -s: hunger, starvation, yearning
+   Ich habe Hunger und Durst.
 
 hungrig /ˈhʊŋrɪç/: hungry
   Bist du auch so hungrig?

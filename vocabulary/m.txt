@@ -256,6 +256,10 @@ meiden /ˈmaidən/: to avoid
 
 Meile /ˈmailə/, die: mile
 
+mein /main/
+  mein Vater und meine Mutter
+  Sind die Schuhe hier meine oder deine?
+
 meinen /ˈmainən/: to think, to mean, to intend, to mean, to say
   Seine Eltern meinen, dass er mehr im Haushalt helfen sollte.
   His parents think that he should help around the house more.
@@ -384,7 +388,8 @@ Mieter, Mieterin: tenant
 
 Mietvertrag, der: lease
 
-Milch /mɪlç/, die: milk
+Milch /mɪlç/, die, ~|uncountable: milk
+  zum Frühstück Milch trinken
 
 Milchreis, der: rice pudding
 
@@ -609,6 +614,7 @@ Morgen /ˈmɔrɡən/, der, -: morning
   am Morgen: in the morning
 
 morgen /ˈmɔrɡən/: tomorrow
+  Bis morgen.
 
 Most /mɔst/, der: cider
 
@@ -723,6 +729,7 @@ Mutprobe /ˈmuːtproːbə/, die, -n: test of courage
   He did/passed the test of courage.
 
 Mutter /ˈmʊtɐ/, die, ~|.. /ˈmʏtɐ/: mother
+  eine Mutter von fünf Kindern
 
 Mutti /ˈmʊti/, die: mommy
 

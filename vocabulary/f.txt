@@ -56,7 +56,8 @@ fahren /ˈfaːrən/: to drive, to go
 
 Fahrkarte, die: ticket
 
-Fahrrad /ˈfaːɐraːt/, das, Fahrräder /ˈfaːɐrɛːdɐ/: bicycle
+Fahrrad /ˈfaːɐraːt/, das, -(e)s|..er /ˈfaːɐrɛːdɐ/: bicycle
+  Sie kann nicht Fahrrad fahren.
 
 Fahrt /ˈfaːɐt/, die, -en: trip, journey, speed
   Wie lange hat die Fahrt gedauert?
@@ -121,7 +122,9 @@ falten /ˈfaltən/: to fold
   She folded the letter several times and put it in an envelope.
   die Hände zum Gebet falten: to fold your hands in prayer
 
-Familie /faˈmiːljə/, die: family
+Familie /faˈmiːljə/, die, ~|-n: family
+  eine Familie gründen: to start a family
+  aus einer reichen Familie stammen
 
 Familienangehörige /faˈmiːljən|anɡəhøːrɪɡə/, Familienangehörigen: family member
 
@@ -342,6 +345,10 @@ Ferse /ˈfɛrzə/, die, ~|-n: heel
 fertig /ˈfɛrtɪç/: ready, finished
   Ich bin fertig, wir können gehen.
   I'm ready – we can go now.
+
+Fest, das, -(e)s|-e: celebration, party
+  zum Fest
+  Ihre Hochzeit sollte ein großes Fest werden.
 
 fest /fɛst/: firm, solid
 
@@ -770,7 +777,8 @@ Franzose, der, Französin, Franzosen
 
 französisch /franˈtsøːzɪʃ/: french
 
-Frau /frau/: wife, Mrs
+Frau /frau/, die, ~|-en: wife, Mrs
+  eine junge, alleinstehende Frau
 
 frau /frau/: you, one
   Was macht frau in solch einer Situation?
@@ -848,6 +856,7 @@ freudig /ˈfrɔydɪç/: joyful, happy
 freuen /ˈfrɔyən/: to be pleased, to look forward to
   Ich freue mich schon auf deinen Besuch.
   I'm already looking forward to your visit.
+  Freut mich.
 
 Freund /frɔynt/, Freundin, Freunde, Freundinnen: friend
 
@@ -967,6 +976,8 @@ Fund /fʊnt/, der, -(e)s|-e: finding
   archäologische Funde ausstellen: to exhibit archeological findings
   Die Zeitungen berichteten über den grausigen Fund eines Massengrabs.
   The newspapers had reports on the grim discovery of a mass grave.
+
+fünf /fʏnf/
 
 Fünftel: fifth
 

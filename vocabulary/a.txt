@@ -37,6 +37,8 @@ abdrucken /ˈapdrʊkən/: to print
   Her letter to the editor was printed in the newspaper.
 
 Abend /ˈaːbənt/, der, -s|-e: evening
+  am Abend
+  zu Abend essen
 
 Abendessen /ˈaːbənt|ɛsən/, das, -s|-en: supper
 
@@ -994,7 +996,7 @@ angehören /ˈanɡəhøːrən/: to be a member (of), to belong
   Der Regierung gehören derzeit 15 Minister an.
   There are 15 ministers in the government at the moment.
 
-Angehörige /ˈanɡəhøːrɪɡə/, der-die, -n|-n: relatives, member, dependent
+Angehörige /ˈanɡəhøːrɪɡə/, der/die, -n|-n: relatives, member, dependent
   => Verwandte, Familienmitglied
   die nächsten Angehörigen eines Unfallopfers verständigen
   to notify an accident victim's next of kin
@@ -1500,7 +1502,7 @@ Armut /ˈarmuːt/, die: poverty
 
 Arroganz /aroˈɡanʦ/, die, |uncountable
 
-Art /art/, die: sort, kind, species, way
+Art /art/, die: sort, kind, species, way, manner
   Auf diese Art und Weise erreicht du gar nichts.
   You won’t get anywhere this way.
   nach Art von: in the manner of
@@ -2580,6 +2582,7 @@ außerordentlich /ˈausɐ|ˈɔrdəntlɪç/: extraordinary, exceptional, special
   wegen rassistischer Äußerungen kritisiert werden: to be criticized for racist remarks
 
 Auto /ˈauto/, das, -s|-s: car
+  mit dem Auto fahren
 
 Automat /autoˈmaːt/, der, -en|-en: machine, ATM, slot machine, robot
   sich eine Fahrkarte am Automat holen: to get a ticket at the machine

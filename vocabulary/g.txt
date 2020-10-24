@@ -128,6 +128,9 @@ Gatt, das: stern, hole
 
 Gatte/Gattin: spouse
 
+Gebäck /ɡəˈbɛk/, das, -(e)s|..e: pastries, cookies
+  zum Tee selbst gebackenes Gebäck anbieten
+
 Gebärde /ɡəˈbɛːɐdə/, die, -n: gesture
   die Gebärdensprache der Gehörlosen
   the sign language used by the deaf
@@ -1071,6 +1074,10 @@ Gier /ɡiːɐ/, die, |uncountable: greed
 
 Gift, das: poison
 
+giftig /ˈɡɪftɪç/
+  Alles an der Eibe ist giftig außer den roten Beeren.
+  Everything on a yew tree is poisonous except the red berries.
+
 gilt => gelten
 
 Gin /dʒɪn/, der
@@ -1327,7 +1334,16 @@ großartig /ˈɡroːs|artɪç/: wonderful, terrific, great
 
 Größe /ˈɡrøːsə/, die: size
 
-großspurig: 
+Großmutter /ˈɡroːsmʊtɐ/, die, ~|..
+  Sie ist zum zweiten Mal Großmutter geworden.
+  She’s become a grandmother for the second time.
+
+großspurig /ˈɡroːsʃpuːrɪç/: cocky, overconfident, brash
+  Mit seiner großspurigen Art hat er sich schon viele Feinde gemacht.
+  He’s made a lot of enemies with his cocky manner.
+
+Großvater /ˈɡroːsfaːtɐ/, der, -s|.. /ˈɡroːsfɛːtɐ/
+  sein Großvater mütterlicherseits: his maternal grandfather
 
 Grube /ˈɡruːbə/, die, -n: pit, hole
   eine Grube graben / ausheben: to dig a hole/pit
@@ -1340,6 +1356,10 @@ grün /ɡryːn/: green
   grüner Salat: lettuce
 
 Grund /ɡrʊnt/, der: reason, ground
+
+gründen /ˈɡrʏndən/: to found, to establish, sth is based on sth
+  Wann wurde Rom gegründet?
+  Worauf gründet sich sein Erfolg / Ruhm?
 
 Grundlage /ˈɡrʊntlaːɡə/, die, -n: basis
   Diese Anschuldigung entbehrt jeder Grundlage.

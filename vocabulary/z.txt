@@ -351,7 +351,8 @@ zucken /ˈʦʊkən/: to twitch, to jerk, to flash, to flare up, to flicker 猛�
   Blitze zuckten über den Nachthimmel.
   Lightning flashed across the night sky.
 
-Zucker /ˈʦʊkɐ/, der, Zucker: sugar
+Zucker /ˈʦʊkɐ/, der, ~|uncountable: sugar
+  Kaffee mit Milch und Zucker
 
 zudem /ʦuˈdeːm/: moreover, besides
   Sie ist hübsch und zudem intelligent.
@@ -631,7 +632,7 @@ Zweck /ʦvɛk/, der: purpose, point
   Welchen Zweck hat diese Maßnahme?
   What is the purpose of this measure?
 
-zwei: two
+zwei /ʦvai/: two
 
 zweideutig /ˈʦvaidɔytɪç/: ambiguous
   Seine Antwort war zweideutig.
@@ -653,6 +654,8 @@ zweit /ʦvait/
   zu zweit: in twos
   Den Schrank kann man nur zu zweit tragen.
   It takes two people to carry the closet.
+
+zweite /ˈʦvaitə/: second
 
 Zwetschge /ˈʦvɛtʃɡə/, die: plum
 

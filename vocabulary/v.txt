@@ -86,6 +86,7 @@ Verbeugung: bow
   eine tiefe Verbeugung machen
 
 verbieten /fɛɐˈbiːtən/: to forbid
+  <=> erlauben
   Meine Eltern haben mir verboten, mit dir zu spielen.
   My parents have forbidden me from playing with you.
 
@@ -379,7 +380,7 @@ verheimlichen /fɛɐˈhaimlɪçən/: to keep secret, to hide
   Er konnte ihr seine Affäre nicht mehr länger verheimlichen.
   He couldn't keep his affair secret from her any longer.
 
-verheiraten: to marry, to get married
+verheiraten /fɛɐˈhairatən/: to marry, to get married
 
 verheiratet /fɛɐˈhairatət/: married
 
@@ -939,9 +940,10 @@ verwandt: related
   Die beiden sind weitläufig miteinander verwandt.
   The two of them are distantly related.
 
-Verwandte /fɛɐˈvantə/: relative, relation
+Verwandte /fɛɐˈvantə/, der/die, -n|-n: relative, relation
   Verwandtschaft, die relations, relatives
   => Angehörige
+  Zum Fest hatten sie Verwandte und Bekannte eingeladen.
 
 verweilen /fɛɐˈvailən/: to stay (a while), to linger
   Ich würde gern noch ein bisschen verweilen.

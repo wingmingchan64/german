@@ -31,7 +31,7 @@ Tafel /ˈtaːfəl/, die, Tafeln: bar, board, sign
   Am Wegrand stand eine Tafel mit dem Hinweis „Hunde an die Leine nehmen!‟.
   At the side of the path was a sign saying, "Please keep dogs on a leash."
 
-Tag /taːk/, der: day
+Tag /taːk/, der, -(e)s|-e: day
   ein sonniger/regnerischer Tag
   a sunny/rainy day
 
@@ -364,6 +364,7 @@ toben /ˈtoːbən/: to rage, to rave, to go wild
   He was absolutely furious when he heard about it.
 
 Tochter /ˈtɔxtɐ/, die, ~|.. /ˈtœçtɐ/
+   Ich habe zwei Töchter.
 
 Tod /toːt/, der, -(e)s|-e: death
   einen qualvollen Tod erleiden: to suffer an agonizing death
@@ -434,9 +435,10 @@ total /toˈtaːl/: total, really
 Tote /ˈtoːtə/, -n: dead person, dead man/woman
   ein unbekannter Toter: an unidentified dead man
 
-Tracht /traxt/, die, -en: traditional/regional/national costume
+Tracht /traxt/, die, ~|-en: traditional/regional/national costume
   Zum Volksfest kamen viele in Tracht.
   Lots of people at the festival were wearing traditional costumes.
+  Schwesterntracht 
 
 trachten /ˈtraxtən/: to strive for sth
   nach Ruhm und Reichtum trachten: to strive for fame and fortune
@@ -679,6 +681,8 @@ Trümmer /ˈtrʏmɐ/, pl. rubble, ruins, wreckage
   After the plane crash, volunteers helped to search the wreckage for bodies.
 
 Truppeneinheit, die: unit
+
+tschüs, tschüss /tʃyːs/
 
 ▲Tuch /tuːx/, das, Tücher: cloth
   sich [ dative ] ein Tuch um die Schultern legen
