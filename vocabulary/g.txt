@@ -875,7 +875,7 @@ Gesellschaft /ɡəˈzɛlʃaft/, die, ~|-en: society, company, party, social even
 
 gesessen => sitzen
 
-Gesetz /ɡəˈzɛʦ/, das: law
+Gesetz /ɡəˈzɛʦ/, das, -es|-e: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
 
 Gesetzgebung /ɡəˈzɛʦɡeːbʊŋ/, die, -en: legislation
@@ -992,6 +992,8 @@ gewandt /ɡəˈvant/: skillful
   => geschickt
   Der Verteidiger war sehr gewandt.
   The defender was very skillful.
+
+Gewässer /ɡəˈvɛsɐ/, das, -s|~: body of water
 
 Gewehr /ɡəˈveːɐ/, das: rifle, shotgun
   Jagdgewehr: hunting rifle
@@ -1354,6 +1356,10 @@ gründen /ˈɡrʏndən/: to found, to establish
   etw. gründet sich auf etw.: sth is based on sth
   Worauf gründet sich sein Erfolg / Ruhm?
   What's his success/fame based on?
+
+Grundsatz /ˈɡrʊntzaʦ/, der, -es|..e: principle
+  strenge erzieherische Grundsätze haben
+  to have strict educational principles
 
 Grundschule: elementary/grade school
 

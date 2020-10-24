@@ -109,6 +109,8 @@ passieren /paˈsiːrən/: to occur, to happen
   Da muss ein Unglück passiert sein.
   There must have been an accident.
 
+Pathologe /patoˈloːɡə/, Pathologin /patoˈloːɡɪn/: pathologist
+
 Patient /paˈʦjɛnt/, Patient, -en: patient
   Kassen- und Privatpatienten: non-private and private patients
 
@@ -276,6 +278,10 @@ Plan /plaːn/, der, ..e: plan
 planen /ˈplaːnən/: to plan
    eine Reise sorgfältig planen: to plan a journey carefully
 
+Planung, die: planning
+  Das klappt nur bei sorgfältiger Planung.
+  It will depend on careful planning.
+
 Plastik /ˈplastɪk/, das: plastic
 
 Plastik, die: statue, sculpture
@@ -295,12 +301,6 @@ plaudern /ˈplaudɐn/: to chat
   => schwatzen
   mit Freundinnen über alte Zeiten plaudern
   to chat with friends about old times
-
-Pathologe /patoˈloːɡə/, Pathologin /patoˈloːɡɪn/: pathologist
-
-Phobie /foˈbiː/, die, -n: phobia
-  Sie hat eine Spinnenphobie.
-  She has a spider phobia.
 
 plötzlich /ˈplœʦlɪç/: suddenly
   Ihr plötzlicher Tod hat uns alle erschüttert.
@@ -454,6 +454,11 @@ profitieren /profiˈtiːrən/: to profit from sth
 
 Prognose /proˈɡnoːzə/, die: prediction, prognosis, forecast
   Verkehrsprognosen: traffic forecasts
+
+Programm /proˈɡram/, das, -(e)s|e
+  ein Computerprogramm installieren / starten
+  das Programm einer Tagung festlegen
+  to arrange a conference program
 
 Programmierer /proɡraˈmiːrɐ/, Programmiererin: programmer
 

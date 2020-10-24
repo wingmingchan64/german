@@ -1509,6 +1509,9 @@ sowieso /zoviˈzoː/: anyway, anyhow
   Der Regen macht mir nichts aus, ich wollte sowieso zu Hause bleiben.
   I don't mind that it's raining, I wanted to stay at home anyway.
 
+sozial /zoˈʦjaːl/: social
+  die sozialen Verhältnisse in diesem Land
+
 Sozialismus /zoʦjaˈlɪsmʊs/, der, ~|uncountable: socialism
   der Sozialismus in der DDR: socialism in the GDR
 
@@ -1648,7 +1651,7 @@ Spott /ʃpɔt/, der: mockery
 
 Sprache /ˈʃpraːxə/, die, -n: language
   Latein ist eine tote Sprache.
-  Latin is a dead language. 
+  Latin is a dead language.
 
 sprechen /ˈʃprɛçən/: to speak, to talk
 
@@ -1838,6 +1841,7 @@ stechen /ˈʃtɛçən/: to sting, to bite, to prick
   Aua, das sticht!
   Ow, that's prickly!
   in See stechen: to put to sea, to set sail
+  ein stechender Schmerz im Knie: a stabbing pain in your knee 
 
 Stecher /ˈʃtɛçɐ/: sex partner
 
@@ -1895,6 +1899,7 @@ Steige /ˈʃtaiɡə/, die: crate, steep track
 steigen /ˈʃtaiɡən/: to climb, to get in/on/out/off, to rise
   auf einen Berg steigen: to climb a mountain
   aus dem/ins Auto steigen
+  die steigenden Arbeitslosenzahlen
 
 Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
 

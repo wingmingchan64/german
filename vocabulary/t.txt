@@ -43,6 +43,10 @@ tagsüber /ˈtaːks|yːbɐ/: by / during the day
   Tagsüber ist das Baby ruhig und zufrieden, nur nachts schreit es noch oft.
   The baby is quiet and happy during the day, but it still cries often at night.
 
+Tagung, die: conference
+  eine Tagung zum Thema „Wirtschaft und Klimaschutz‟
+  a conference on “Commerce and protecting the climate”
+
 Taifun /taiˈfuːn/, der: typhoon
 
 Taille /ˈtaljə/, die, -n: waist
@@ -116,7 +120,7 @@ Tat /taːt/, die, ~|-en: deed, act, action, crime, offense
 tat /taːt/ => tun
   ich tat, du tatest, er tat, wir taten, ihr tatet
 
-Täter /ˈtɛːtɐ/, Täterin: culprit
+Täter /ˈtɛːtɐ/, Täterin: culprit, doer
   Die Polizei hat den mutmaßlichen Täter verhaftet.
   The police have arrested the suspect.
 
@@ -392,9 +396,10 @@ Tollwut /ˈtɔlvuːt/, die, |uncountable: rabies
 
 Tomate /toˈmaːtə/, die, Tomaten: tomato
 
-Ton /toːn/, der, Töne /ˈtøːnə/: sound, tone, clay
+Ton /toːn/, der, -(e)s|..e /ˈtøːnə/: sound, tone, clay
   Das Kätzchen gab hohe Töne /ˈtøːnə/ von sich.
   The kitten made high-pitched noises.
+  Ton brennen: to fire clay
 
 tönen /ˈtøːnən/: to tint, to brag, to sound
   Sie hat sich die Haare rötlich tönen lassen.
@@ -538,8 +543,9 @@ treiben /ˈtraibən/: to drive
   es zu bunt treiben: to go too far
 
 trennbar: separable
+  ein nicht trennbares Wort: an inseparable word
 
-trennen: to separate
+trennen /ˈtrɛnən/: to separate
   Eine hohe Mauer trennt die beiden Grundstücke.
   A high wall separates the two properties.
   ein Kind von der Mutter trennen

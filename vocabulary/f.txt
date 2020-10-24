@@ -253,6 +253,8 @@ fehlen /ˈfeːlən/: to be missing, to lack, to be absent
   There's a button missing from your shirt.
   Wer fehlt heute?
   Who's absent today?
+  In den Schulen fehlen Physiklehrer.
+  There is a lack of physics teachers in the schools.
   
 fehlend: missing
 
@@ -610,7 +612,7 @@ Flur /fluːɐ/, der, -(e)s|-e: hall, corridor
 Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
   eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid
 
-Fluss /ˈflʊs/, der: river
+Fluss /ˈflʊs/, der, -es|..e: river
   Nach den starken Regenfällen trat der Fluss über die Ufer.
   After the heavy rainfall the river burst its banks. 
 
@@ -689,6 +691,9 @@ Format /fɔrˈmaːt/, das, -(e)s|-e: format, caliber, standing
 formell /fɔrˈmɛl/: formal
   Warum denn so formell? Wollen wir uns nicht duzen?
   Why so formal? Shouldn't we use the familiar „du‟ form?
+
+formen /ˈfɔrmən/: to form, to shape, to fashion
+  Ziegel aus Lehm formen: to make tiles out of clay
 
 -förmig: -shaped
   hinter den halbmondförmigen Brillengläsern

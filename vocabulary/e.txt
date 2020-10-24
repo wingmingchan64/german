@@ -37,6 +37,7 @@ ebenfalls /ˈeːbənfals/: likewise
 ebenso /ˈeːbənzoː/: just as
   Sie hat das ebenso gemacht wie du.
   She did it the same way you did.
+  die Geschäfte sind geschlossen, ebenso alle Büros
 
 Eber /ˈeːbɐ/, der: boar
 
@@ -370,6 +371,8 @@ eingetragen: registered
 
 einhalten /ˈainhaltən/: to adhere/stick to, to abide by, to stop
   eine Diät streng einhalten: to adhere to a strict diet
+  den vorgeschriebenen Kurs genau einhalten
+  to adhere exactly to the prescribed course
   Haltet ein!
   Stop it!
 
@@ -938,6 +941,7 @@ entfernen /ɛntˈfɛrnən/: to remove, to go away, to depart
 entfernt /ɛntˈfɛrnt/: away, distant, remote
 
 Entfernung /ɛntˈfɛrnʊŋ/, die: distance
+  Die Entfernung zwischen Mond und Erde beträgt rund 380.000 Kilometer.
 
 entgegen: toward, against
   dem Himmel/der Sonne entgegen: toward the sky/sun
@@ -1083,6 +1087,7 @@ entweder /ˈɛntveːdɐ/: either
   Either it works or it doesn't.
 
 entwickeln /ɛntˈvɪkəln/: to develop
+  Daraus entwickelte sich ein interessantes Gespräch.
 
 Entwicklung /ɛntˈvɪklʊŋ/, die: development
   Softwareentwicklung
@@ -1229,9 +1234,11 @@ ergänzen /ɛɐˈɡɛnʦən/: to add, to complete
   Please add the missing words.
 
 ergeben /ɛɐˈɡeːbən/: to amount to, to be, to result in, to show, to reveal, to indicate,
-to mean, to present itself, to come along, to arise, to surrender, to capitulate
+to mean, to present itself, to come along, to arise, to surrender, to capitulate, to yield
   Wie viel ergibt 100 geteilt durch 5?
   How much is 100 divided by 5?
+  Die Untersuchung hat ergeben, dass sie nicht die Täterin ist.
+  The investigation showed that she isn’t the perpetrator.
 
 Ergebnis /ɛɐˈɡeːpnɪs/, das, -ses|-se: result, conclusion
   Die Verhandlungen blieben ohne Ergebnis.
@@ -1515,6 +1522,9 @@ erschallen: to ring out, to sound
 erschauern: to shiver
 
 erscheinen /ɛɐˈʃainən/: to turn up, to appear, to be published, to seem
+  Sie ist heute nicht zum Dienst erschienen.
+  Auf dem Bildschirm erschien ein seltsames Symbol.
+  das Buch ist in / bei einem anderen Verlag erschienen
 
 erschlagen /ɛɐˈʃlaːɡən/: to kill, to slay, to overwhelm
   Er hat den Mann mit einem Knüppel erschlagen.
@@ -1568,14 +1578,18 @@ erstaunen /ɛɐˈʃtaunən/: to astonish, to amaze
 erstaunlich /ɛɐˈʃtaunlɪç/: astonishing, amazing
   eine erstaunliche Leistung: an astonishing achievement
 
+Erste m/f, kein pl: first
+  als Erstes: first
+  etwas als Erstes tun: to do sth first
+
 erstellen /ɛɐˈʃtɛlən/: to draw up, to create, to construct
   für eine Kontaktbörse im Internet sein Profil erstellen
   to create your profile for a networking forum on the internet
   in Eigenleistung erstellter Wohnraum: self-constructed living quarters
 
-Erste m/f, kein pl: first
-  als Erstes: first
-  etwas als Erstes tun: to do sth first
+Erstellung /ɛɐˈʃtɛlʊŋ/, die: generation, creation, drawing up, construction, building
+  Grundsätze für die Erstellung von Jahresabschlüssen
+  principles for drawing up annual financial statements
 
 ersticken /ɛɐˈʃtɪkən/: to suffocate
   Das Tier ist in der Kiste qualvoll erstickt.
@@ -1678,6 +1692,15 @@ erzählen /ɛɐˈʦɛːlən/: to tell, to narrate, to recount, to relate
   He's a good storyteller.
   Er erzählte kurz, was passiert war.
   He said briefly what had happened.
+
+erziehen /ɛɐˈʦiːən/: to bring up
+  Ich möchte meine Kinder zu toleranten Menschen / zur Toleranz erziehen.
+  I’d like to bring up my children to be tolerant.
+
+erzieherisch: parenting, disciplinary, educational
+  ein Vater / eine Mutter mit wenig erzieherischem Können
+  a father/a mother with few parenting skills
+  erzieherische Maßnahmen ergreifen: to impose discipline
 
 erzielen /ɛɐˈʦiːlən/: to achieve, to attain
   ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result

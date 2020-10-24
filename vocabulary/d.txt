@@ -34,6 +34,7 @@ Dachs /daks/, der, -es|-e: badger 獾
 dadurch /daˈdʊrç/: that way, thus
   Dadurch machst du alles nur noch schlimmer.
   You'll just make everything worse that way.
+  dadurch, dass …: by …, because
 
 dafür /daˈfyːɐ/: for it, for that, instead
 
@@ -338,6 +339,9 @@ deshalb /ˈdɛsˈhalp/: therefore
 
 Designer /diˈzainɐ/, Designerin: designer
 
+dessen: his/its
+  mein Bruder und dessen Freundin
+
 desto:
   je besser / mehr / …, desto …: the better/more/… the …
   Je länger du damit wartest, desto schwieriger wird es für dich.
@@ -427,8 +431,10 @@ dienen /ˈdiːnən/: to serve, to do your military service, to be of assistance
   Womit kann ich dienen, mein Herr?
   How may I help you, sir?
 
-Dienst /diːnst/, der: service
+Dienst /diːnst/, der: service, work
   der öffentliche Dienst: the civil service
+  Sie ist heute nicht zum Dienst erschienen.
+  She didn’t turn up for work today.
 
 dienstlich: official, business, on business
   dienstlich unterwegs sein: to be away on business

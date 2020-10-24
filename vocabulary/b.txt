@@ -353,6 +353,11 @@ Befinden /bəˈfɪndən/, das, -s|uncountable: health
 
 Befliegung: flight, overflying
 
+befolgen /bəˈfɔlɡən/: to obey, to adhere to
+  Ich erwarte, dass meine Anordnungen auch befolgt werden!
+  I expect my orders to be followed!
+  Sie hat deinen Rat befolgt und ist zum Arzt gegangen.
+
 befördern: to transport, to promote
   Das Flugzeug kann bis zu 300 Passagiere befördern.
   The airplane can carry up to 300 passengers.
@@ -832,6 +837,9 @@ berichten /bəˈrɪçtən/: to report
   Die Zeitungen berichteten ausführlich über das Unglück.
   The newspapers had detailed reports of the accident.
 
+berücksichtigen /bəˈrʏkzɪçtɪɡən/: to take into account/consideration, to consider
+  Das muss bei der Planung berücksichtigt werden.
+
 Beruf /bəˈruːf/, der, -e: occupation
   einen Beruf erlernen, ausüben: to train for / do a job
 
@@ -944,6 +952,8 @@ Beschränkung /bəˈʃrɛŋkʊŋ/, die, -en: restriction
   die Beschränkung der Redezeit auf 5 Minuten: limiting speaking time to 5 minutes
   jdm / sich Beschränkungen auferlegen: to impose restrictions on sb/yourself
 
+beschreiben: to describe
+
 Beschreibung /bəˈʃraibʊŋ/, die, ~|-en: description
 
 beschriften /bəˈʃrɪftən/: to label, to inscribe
@@ -1002,6 +1012,10 @@ Besitzer /bəˈzɪʦɐ/, Besitzerin: owner
 
 besonder: great, special
   Schuldige besonders: guilty person/party
+
+Besonderheit, die: peculiarity, idiosyncrasy, specialty
+  regionale Besonderheiten berücksichtigen
+  to take regional peculiarities into account
 
 besonders /bəˈzɔndɐs/: particularly, especially
   ein besonders erfolgreiches Jahr: a particularly successful year
@@ -1139,6 +1153,11 @@ betragen /bəˈtraːɡən/: to be, to amount to, to behave
   The length can be 2.50 meters tops.
   Betragt euch anständig bei Oma!
   Behave yourselves at grandma's!
+
+betreffen /bəˈtrɛfən/: to concern, to affect
+  Die neue Prüfungsordnung betrifft uns nicht mehr.
+  Was mich betrifft, können wir gerne noch bleiben.
+  For my part we can gladly stay here.
 
 betreiben /bəˈtraibən/: to operate, to conduct, to engage in
   Wir sollten jetzt Ursachenforschung betreiben.
@@ -1352,6 +1371,12 @@ bezaubern: bewitch, charm, enchant
 bezeichnen: to describe, to denote, to mean
   Das Ergebnis kann man nicht als Erfolg / als befriedigend bezeichnen.
 
+beziehen /bəˈʦiːən/: to get, to receive, to move into, to cover
+  Beziehen Sie Arbeitslosengeld?
+  Das neue Büro kann bald bezogen werden.
+  die Betten frisch beziehen
+  to put fresh covers on the beds
+
 Beziehung /bəˈʦiːʊŋ/, die, ~|-en: relationship, connection, respect
   Wir haben eine freundschaftliche Beziehung zueinander.
   We have a friendly relationship with one another.
@@ -1427,9 +1452,11 @@ Bikini /biˈkiːni/, der, -s|-s
 Bild /bɪlt/, das, -er: painting, picture
   Bilder für einen Comic zeichnen / malen: to draw/paint pictures for a comic
 
-bilden /ˈbɪldən/: to form, to constitute
+bilden /ˈbɪldən/: to form, to constitute, to educate
   Nehmt euch an den Händen und bildet einen Kreis.
   Take each other by the hand and form a circle.
+  die Massen / sich politisch bilden
+  to educate the masses/educate yourself politically
 
 Bildung /ˈbɪldʊŋ/, die: education, forming
   eine gute Bildung erhalten: to receive a good education

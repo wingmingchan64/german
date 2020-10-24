@@ -30,6 +30,8 @@ abbauen /ˈapbauən/: to reduce, to mine, to deteriorate
 abbiegen /ˈapbiːɡən/: to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
 
+Abbildung /ˈapbɪldʊŋ/, die: image, drawing, figure, representation, illustration
+
 abdrucken /ˈapdrʊkən/: to print
   Ihr Leserbrief wurde in der Zeitung abgedruckt.
   Her letter to the editor was printed in the newspaper.
@@ -233,9 +235,15 @@ absagen /ˈapzaːɡən/: to cancel
 
 absägen /ˈapzɛːɡən/: to saw off 鋸掉
 
-Absatz /ˈapzaʦ/, der, -es|..e: heel
+Absatz /ˈapzaʦ/, der, -es|..e: heel, paragraph, turnover, landing
   Schuhe mit hohen Absätzen: high-heeled shoes
-  auf dem Absatz kehrtmachen: to turn on your heels 
+  auf dem Absatz kehrtmachen: to turn on your heels
+  Mach nach diesem Satz einen Absatz.
+  Make a new paragraph after this sentence.
+  mit einer Kampagne den Absatz steigern
+  to increase sales with an ad campaign
+  Die Katze saß auf dem nächsten Absatz und sah zu mir herunter.
+  The cat was sitting on the landing above looking down at me.
 
 abschätzen /ˈapʃɛʦən/: to estimate, to appraise
   Die Auswirkungen lassen sich jetzt noch nicht abschätzen.
@@ -367,7 +375,7 @@ absprechen /ˈapʃprɛçən/: to agree on
 Abstammung /ˈapʃtamʊŋ/, die, ~|-en: descent, origin
   türkischer Abstammung sein: to be of Turkish descent
 
-Abstand /ˈapʃtant/, der, -(e)s|..e: distance
+Abstand /ˈapʃtant/, der, -(e)s|..e: distance, interval
   zehn Meter Abstand zum vorausfahrenden Auto halten
   to keep ten meters distance from the car in front
   mit Abstand: by far
@@ -2136,7 +2144,11 @@ ausgeben /ˈausɡeːbən/: to spend
 ausgeglichen: balanced, equal, consistent
 
 ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
+  Würden Sie mit mir ausgehen?
+  Das kann doch nicht gut ausgehen!
   etw. geht von jdm/etw. aus
+  Ich gehe davon aus, dass ihr alle hungrig seid.
+  I take it you’re all hungry.
   welche Gefahr von Adolf Hitler ausgeht
 
 ausgerechnet /ˈausɡərɛçnət/ oder /ausɡəˈrɛçnət/: of all things 偏偏
@@ -2356,7 +2368,7 @@ Aussehen /ˈauszeːən/, das, -s|uncountable: appearance
   Gutes Aussehen ist mir nicht so wichtig.
   Looking good isn't so important for me.
 
-aussehen /ˈauszeːən/: to look
+aussehen /ˈauszeːən/: to look, to appear
   krank/gesund aussehen: to look ill/healthy
   nach etw. aussehen: to look like
   Das sieht nach Brandstiftung aus.
@@ -2434,6 +2446,10 @@ aussuchen /ˈauszuːxən/: to choose
   => auswählen
   Du hast dir diesen Beruf ausgesucht, jetzt jammere nicht.
   You chose this job, so stop whining.
+
+außerdem /ausɐˈdeːm/: besides
+  Außerdem werden neue Projekte vorgestellt.
+  New projects will also be presented.
 
 austapezieren
   => tapezieren: to wallpaper
