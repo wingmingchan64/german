@@ -215,6 +215,7 @@ Joghurt /ˈjoːɡʊrt/, der: yogurt
 ========================================================
 
 Kaffee, der
+  Kaffee ohne Milch
 
 Kalbfleisch: veal
 
@@ -318,7 +319,7 @@ Nuss /nʊs/, die, Nüsse: nut
 
 Ober, der
 
-Obst /oːpst/, das, Obst(e)s: fruit
+Obst /oːpst/, das, -(e)s|uncountable: fruit
 
 Ofen /ˈoːfən/, der: oven
 

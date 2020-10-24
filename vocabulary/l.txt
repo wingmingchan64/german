@@ -629,7 +629,8 @@ locker: loose, light, slack, open, loose
   Immer schön locker bleiben!
   Just relax!
 
-Löffel /ˈlœfəl/, der: spoon
+Löffel /ˈlœfəl/, der, -s|~: spoon
+  den Tee mit dem Löffel umrühren
 
 Logik /ˈloːɡɪk/, die: logic
   Diese Argumentation entbehrt jeglicher Logik.

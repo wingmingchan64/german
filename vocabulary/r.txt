@@ -145,6 +145,8 @@ rauchen /ˈrauxən/: to smoke
   Stört es Sie, wenn ich rauche?
   Do you mind if I smoke?
 
+Raucher /ˈrauxɐ/ -s|~, Raucherin
+
 raufen /ˈraufən/
   (sich) (mit jdm) (um etw.) raufen: to fight (with sb) (over/about sth)
   Hast du (dich) wieder mit deinem Bruder gerauft?
@@ -229,7 +231,8 @@ Rechner /ˈrɛçnɐ/, der, -s|~: mathematician, calculator, computer
   Taschenrechner: pocket calculator
   der Großrechner der Universität: the university's mainframe computer
 
-Rechnung, die: bill, check, invoice
+Rechnung /ˈrɛçnʊŋ/, die: bill, check, invoice
+  eine Rechnung über 25 Euro
 
 Recht /rɛçt/, das: law
   Das ist nach geltendem Recht verboten.
@@ -510,6 +513,10 @@ Rentner, Rentnerin: pensioner, senior (citizen)
 Renteneintritt, der: retirement
 
 Requiem /ˈreːkviɛm/, das, -s
+
+reservieren /rezɛrˈviːrən/
+  Hast du uns im Lokal einen Tisch reserviert?
+  Ja, auf den Namen Schmidt.
 
 Reservierung: reservation
 

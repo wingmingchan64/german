@@ -353,7 +353,7 @@ messen /ˈmɛsən/: to meaure
   Er misst 1,85 Meter.
   He's 1.85 meters tall.
 
-Messer, das: knife
+Messer, das, -s|~: knife
 
 Messerstecherei /mɛsɐʃtɛçəˈrai/, die: knife fight, stabbing
 
@@ -506,6 +506,8 @@ mitreißen /ˈmɪtraisən/: to sweep away, to carry away
 
 mitsamt /mɪtˈzamt/: together/along with
 
+Mittagessen, das, -s|~
+
 Mitte /ˈmɪtə/, die, -n: middle, center
   in der Mitte des Kreises / der Stadt: in the middle of the circle/town
   Mitte des 20. Jahrhunderts: in the middle of the 20th century
@@ -555,6 +557,8 @@ Modus /ˈmoːdʊs/, der, ~|Modi /moːdi/: method, way, mood
 
 mögen /ˈmøːɡən/: to want, to like
   mag, magst, mag, ihr mögt, ich habe gemocht
+  Preterite: mochte, mochtest
+  Imperfect Subjunctive: möchte, möchtest
 
 möglich /ˈmøːklɪç/: possible
   Erledige das so schnell wie möglich.

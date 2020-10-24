@@ -9,7 +9,7 @@ Gabe /ˈɡaːbə/, die, Gaben: gift, talent
   Die Gaben lagen unter dem Christbaum.
   The gifts were lying beneath the Christmas tree.
 
-Gabel /ˈɡaːbəl/, die, Gabeln: folk
+Gabel /ˈɡaːbəl/, die, ~|-n: folk
   mit Messer und Gabel essen: to eat with a knife and fork 
 
 gähnen /ˈɡɛːnən/: to yawn
@@ -330,7 +330,7 @@ Gefäß /ɡəˈfɛːs/, das, -es|-e: vessel
   das Wasser / Salz in ein Gefäß füllen
   to put the water into a jar/the salt into a vessel
 
-Geflügel /ɡəˈflyːɡəl/, das, Geflügels: poultry
+Geflügel /ɡəˈflyːɡəl/, das, -s|uncountable: poultry
   Geflügel züchten: to breed poultry
 
 Gefühl /ɡəˈfyːl/, das: feeling
@@ -1134,7 +1134,6 @@ Glatze  /ˈɡlaʦə/, die, ~|-n: bald head
 
 glatzköpfig /ˈɡlaʦkœpfɪç/: bald(-headed)
   ein glatzköpfiger Mann: a bald-headed man
-
 
 Glaube /ˈɡlaubə/, der, -ns|uncountable: faith
 
