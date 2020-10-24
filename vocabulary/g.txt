@@ -206,6 +206,8 @@ gebracht => bringen
 
 gebrannt => brennen
 
+gebraten: fried
+
 gebratenes [gedünstetes, gegrilltes, gekochtes, geschmortes] Fleisch:
   roast(ed) [steamed, grilled, boiled, stewed] meat
 
@@ -245,12 +247,15 @@ Geburtstag /ɡəˈbuːɐʦtaːk/, der, -e: birthday
   Er feiert dieses Jahr seinen 60. / einen runden Geburtstag.
   He's celebrating his 60th birthday/a big birthday this year.
   Alles Gute zum Geburtstag!
+  Mein Geburtstag ist im Juni.
 
 gedacht => denken
 
 Gedächtnis /ɡəˈdɛçtnɪs/, das: memory
   Mein Gedächtnis lässt mich manchmal im Stich.
   My memory sometimes lets me down.
+
+gedämpft: steamed
 
 Gedanke /ɡəˈdaŋkə/, der, -ns|-n: thought, idea
   jdn auf andere Gedanken bringen
@@ -394,6 +399,8 @@ Gegner /ˈɡeːɡnɐ/, Gegnerin: opponent
 
 gegnerische: opposing
 
+gegrillt: grilled
+
 Gehalt /ɡəˈhalt/, der, -(e)s|-e: content
   Getränke mit einem hohen Gehalt an Alkohol: drinks with a high alcohol content
   der politische Gehalt eines Liedes / Romans: the political content of a song/novel
@@ -491,6 +498,8 @@ geistig: spiritual, mental
 
 gekleidet: clad, dressed
   => kleiden
+
+gekocht: boiled
 
 gekonnt => können
 
@@ -779,6 +788,8 @@ Gerippe /ɡəˈrɪpə/, das, -s|~: skeleton, frame(work)
   das Gerippe eines Flugzeugs / Schiffes: the framework of an aircraft/a ship
 
 Geröll /ɡəˈrœl/, das: debris, pebbles, gravel
+
+geröstet: roasted
 
 Geruch /ɡəˈrʊx/, der, -(e)s|..e: smell
   Ihr Parfüm hatte einen süßlichen Geruch.
