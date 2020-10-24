@@ -1480,6 +1480,7 @@ sonst /zɔnst/: normally, else, otherwise
   Is anyone else coming?
   Setz eine Mütze auf, sonst friert es dich an den Ohren.
   Put a hat on or your ears will get cold.
+  Sonst noch etwas?
 
 Sorge /ˈzɔrɡə/, die, ~|-n: worry
   jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
@@ -1607,6 +1608,9 @@ Spedition /ʃpediˈʦjoːn/, die, -en: haulage contractor
 Speise /ˈʃpaizə/, die, -n: dish
   Speisen und Getränke sind im Preis enthalten.
   Food and drink are included in the price.
+  
+Speisekarte /ˈʃpaizəkartə/, die, ~|-n: menu
+  Herr Ober, die Speisekarte bitte!
 
 spenden /ˈʃpɛndən/: to donate, to give, to provide
   Es wurden über 100.000 Euro für die Flüchtlinge gespendet.
@@ -2294,18 +2298,26 @@ struppig /ˈʃtrʊpɪç/: scruffy, bedraggled
   halb verhungerte, struppige Straßenköter
   half-starving, scruffy stray dogs
 
+Stube /ˈʃtuːbə/, die, ~|-n: parlor, living room, barrack room, study, dormitory
+  Früher benutzte man oft die gute Stube nur an Sonntagen und hielt sich ansonsten in der Küche auf.
+
 Stück /ʃtʏk/, das, -(e)s|~/-e: piece, bit, play
   ein Stück Kuchen abschneiden
   to cut a piece of cake
   ein neues Stück aufführen: to perform a new play
   12 Stück Eier
 
-Student /ʃtuˈdɛnt/, Studentin: student
+Student /ʃtuˈdɛnt/, -in, -en|-en: student
   Sie ist Studentin an der Universität Leipzig.
   She is a student at Leipzig University.
 
 studieren /ʃtuˈdiːrən/: to study
   studiere, studierst, studiert, habe studiert
+
+Studium /ˈʃtuːdjʊm/, das, Studien: studies, study
+  Sie fängt im Herbst ein Studium in Hannover an.
+  She begins her studies in Hannover in the fall.
+  wissenschaftliche Studien: scientific studies
 
 Stufe /ˈʃtuːfə/, die: step, stair
   zwei Stufen auf einmal nehmen: to go up two steps at a time
@@ -2313,15 +2325,6 @@ Stufe /ˈʃtuːfə/, die: step, stair
 Stuhl /ʃtuːl/, der, -(e)s|..e: chair
   Setz dich auf deinen Stuhl!
   Sit down on your chair!
-
-Student /ʃtuˈdɛnt/, -in, -en|-en: student
-  Sie ist Studentin an der Universität Leipzig.
-  She is a student at Leipzig University.
-
-Studium /ˈʃtuːdjʊm/, das, Studien: studies, study
-  Sie fängt im Herbst ein Studium in Hannover an.
-  She begins her studies in Hannover in the fall.
-  wissenschaftliche Studien: scientific studies
 
 stumm /ʃtʊm/: dumb, silent
   Seit dem traumatischen Vorfall ist das Kind stumm.

@@ -238,6 +238,7 @@ kein: not, not a, less than
   Thatˈs not a bad idea.
   Ich musste keine zwei Minuten auf den Bus warten.
   I had to wait less than two minutes for the bus.
+  Ich habe keinen Bruder.
 
 keinesfalls /ˈkainəsˈfals/: under no circumstances, on no account, by no means
   Ich darf keinesfalls zu spät zum Meeting kommen.

@@ -324,6 +324,10 @@ weinend: tearful
 
 Weinfass, das: wine cask
 
+Weinkarte, die
+
+Weinstube, die: wine tavern
+
 Weise /ˈvaizə/, die: way
 
 weise: wise
