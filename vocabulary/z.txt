@@ -63,6 +63,8 @@ Zehner /ˈʦeːnɐ/, der, -: ten
   Können Sie mir einen Zehner in Kleingeld wechseln?
   Can you give me change for a ten?
 
+zehntausend /ˈʦeːnˈtauzənt/
+
 Zeichen, das, -s|~: sign, signal, symbol
   Er gab dem Ober ein Zeichen, dass er zahlen wolle.
   He signaled to the waiter that he wanted to pay.
@@ -380,6 +382,9 @@ zufrieden /ʦuˈfriːdən/: satisfied, happy, pleased
   Er lächelte zufrieden.
   He smiled happily.
 
+Zug /ʦuːk/, der, -(e)s|..e
+  Sollen wir fliegen oder mit dem Zug fahren?
+
 zugeben /ˈʦuːɡeːbən/: to admit
   einen Fehler / Irrtum zugeben: to admit a mistake
 
@@ -621,6 +626,8 @@ zwängen /ˈʦvɛŋən/: to squeeze, to force
   seine Füße in viel zu kleine Schuhe zwängen
   to squeeze your feet into shoes that are far too small
 
+zwanzig /ˈʦvanʦɪç/
+
 zwar /ʦvaːɐ/: indeed, admittedly
   Draußen ist es zwar sonnig, aber ziemlich kalt.
   It is (indeed) sunny outside, but it is still rather cold.
@@ -687,6 +694,9 @@ zwitschern /ˈʦvɪtʃɐn/: to twitter
   Die Vögel zwitscherten fröhlich (ihr Lied).
   The birds were singing (their song) happily.
   
-zwo: two
+zwo /ʦvoː/: two
+  Die Nummer lautet: vier – zwo – zwo – drei.
+
+zwölf /ʦvœlf/
 
 Zylinder /ʦiˈlɪndɐ/, der, -s|~: top hat

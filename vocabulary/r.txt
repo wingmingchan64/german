@@ -2,7 +2,11 @@
 R /ɛr/ R wie Richard
 ========================================================
 
-Rabatt /raˈbat/, der: discount
+R-Gespräch /ˈɛr-/, das: collect call
+  ein R-Gespräch führen
+
+Rabatt /raˈbat/, der, -(e)s|-e: discount
+  jdm einen ordentlichen Rabatt gewähren
 
 rabenschwarz /ˈrabənʃvarʦ/: jet-black, pitch-black
   rabenschwarzes Haar haben: to have jet-black hair
@@ -509,6 +513,7 @@ rentabel /rɛnˈtaːbəl/: profitable
 Rente /ˈrɛntə/, die: pension
 
 Rentner, Rentnerin: pensioner, senior (citizen)
+  Kinder und Rentner erhalten eine Ermäßigung von 20%.
 
 Renteneintritt, der: retirement
 
@@ -553,6 +558,11 @@ Rettung /ˈrɛtʊŋ/, die: help, rescue
   Das war Rettung in letzter Minute!
   That help came in the nick of time!
 
+Rettungsdienst /ˈrɛtʊŋsdiːnst/, der, -(e)s|-e: ambulance service
+  per Funk den Rettungsdienst rufen
+
+Rettungswagen, der: ambulance
+
 Reue /ˈrɔyə/, die, |uncountable: remorse, repentance
   Der Mörder zeigte keine Reue.
   The murderer showed no remorse.
@@ -589,6 +599,7 @@ richtig /ˈrɪçtɪç/: right, correct
 Richtlinie /ˈrɪçtliːnjə/: guideline
 
 Richter, Richterin: judge
+  Der Richter verfügte eine sofortige Sperrung der Webseite.
 
 Richtung /ˈrɪçtʊŋ/, die: direction
   Der Wind wehte in westlicher Richtung/kam aus östlicher Richtung.

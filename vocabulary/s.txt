@@ -217,9 +217,10 @@ schalten: to switch, to turn, to shift gear, to connect
   Die Heizung hat schon auf Nachtbetrieb geschaltet.
   The heating has already switched to night mode.
 
-Schalter /ˈʃaltɐ/, der, -: switch, counter
+Schalter /ˈʃaltɐ/, der, -s|~: switch, counter, office
   Lichtschalter: light switch
   Bankschalter: bank counter
+  Fahrkartenschalter
 
 schänden /ˈʃɛndən/: to desecrate, to violate, to discredit, to dishonor
   Leichen schänden: to violate corpses
@@ -398,7 +399,7 @@ schießen /ˈʃiːsən/: to shoot, to kick
 
 Schiff /ʃɪf/, das: ship, boat
 
-Schild /ʃɪlt/, das, -er: sign, label, tag
+Schild /ʃɪlt/, das, -(e)s|-er: sign, label, tag
   => Tafel
   Auf dem Schild stand „Betreten verboten!‟
   On the sign it said, "No entry."
@@ -1117,6 +1118,10 @@ schwur => schwören
 
 sechs /zɛks/
 
+sechzehn /ˈzɛçʦeːn/
+
+sechzig /ˈzɛçʦɪç/
+
 See /zeː/, der, -s|-n: lake
   in einem See baden: to swim in a lake
 
@@ -1298,6 +1303,7 @@ setzen /ˈzɛʦən/: to sit, to set
   sich aufs Pferd setzen: to get into the saddle
   das Kind in den Kinderwagen setzen: to put the child in the stroller
   Frist gesetzt: deadline set
+  Setzen Sie sich, bitte.
 
 sexuell /zɛˈksuɛl/: sexual
 
@@ -1341,6 +1347,10 @@ sie: she, it, they
 
 sieben /ˈziːbən/
 
+siebzehn /ˈziːpʦeːn/
+
+siebzig /ˈziːpʦɪç/
+
 Sieg /ziːk/, der: victory, win
   einen Sieg gegen jdn erringen: to be victorious over sb
 
@@ -1370,6 +1380,13 @@ Sinnestäuschung, die: hallucination
 Sitte /ˈzɪtə/, die, ~|-n: custom, tradition
   Bei uns ist es Sitte, dass man dem Gastgeber ein Geschenk mitbringt.
   It's our custom to bring the host a gift.
+
+Sitz /zɪʦ/, der, -es|-e: seat, headquarters, fit
+  ein Wagen mit verstellbaren Sitzen
+  Die Partei hat über die Hälfte der Sitze erobert.
+  eine Firma mit Sitz in Düsseldorf
+  Er überprüfte den Sitz seines Gurtes.
+  He checked that his belt fit correctly.
 
 sitzen /ˈzɪʦən/: to sit
 
@@ -1635,6 +1652,10 @@ spenden /ˈʃpɛndən/: to donate, to give, to provide
 Sperma /ˈʃpɛrma/, das, Spermen /ˈʃpɛrmən/: sperm
 
 Sperrgut, das, ..ter: bulky parcel
+
+Sperrung /ˈʃpɛrʊŋ/, die: closure
+  Wegen des Unfalls kam es zu einer Vollsperrung der Autobahn.
+  The expressway was closed in both directions because of the accident.
 
 Spezi /ˈʃpeːʦi/, der-das, -: cola and lemonade
   Zwei Spezi, bitte.
@@ -1942,6 +1963,10 @@ Stein /ʃtain/, der, -e: stone
   hart wie Stein: as hard as stone
 
 Steinbock /ˈʃtainbɔk/, der: ibex
+
+Stelle /ˈʃtɛlə/, die, ~|-n: place, spot
+  An dieser Stelle ist der Fluss ganz flach.
+  
 
 stellen /ˈʃtɛlən/: to put, to place, to set, to provide
   Blumen in eine Vase stellen: to put some flowers in a vase

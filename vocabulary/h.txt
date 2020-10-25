@@ -154,6 +154,9 @@ Hand /hant/, die, ..e: hand
 
 Handbewegung, die, -en: movement of the hand, gesture
 
+Händedruck /ˈhɛndədrʊk/, der, -(e)s|-e: handshake
+  Er begrüßte uns mit Händedruck.
+
 Handel, der: trade
   Handelsabkommen: trade agreement
 
@@ -802,6 +805,7 @@ hinterher /hɪntɐˈheːɐ/: behind, afterward
   You're always wise after the event.
 
 hinterlassen /hɪntɐˈlasən/: to leave behind
+  Kann ich eine Nachricht hinterlassen?
 
 hinterlegen /hɪntɐˈleːɡən/: to leave
   Ich werde dir das Geld an der Rezeption hinterlegen.
@@ -1002,6 +1006,10 @@ hübsch /hʏpʃ/: pretty, nice, tidy
 Hüfte /ˈhʏftə/, die, ~|-n: hip
   die Arme in die Hüften stemmen: to place your arms akimbo 叉腰
 
+Hügel /ˈhyːɡəl/, der, -s|~: hill
+  auf einen Hügel steigen
+  Die Frau lag hinter einem Sandhügel.
+
 Hülle /ˈhʏlə/, die: cover, case, holder, blanket, sheath, shroud
   Bitte steck die Dokumente wieder in die Hülle zurück.
   Please put the documents back in the cover.
@@ -1028,7 +1036,9 @@ Hund /hʊnt/, der; Rüde, der; Hündin, die
   Ist das ein Rüde oder eine Hündin?
   Is that a dog or a bitch?
 
-Hundert, das
+Hundert /ˈhʊndɐt/, die
+
+hundert
 
 Hunger /ˈhʊŋɐ/, der, -s: hunger, starvation, yearning
    Ich habe Hunger und Durst.

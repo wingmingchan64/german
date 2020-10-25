@@ -917,6 +917,8 @@ gesperrt: blocked, closed
 Gespräch /ɡəˈʃprɛːç/, das, -e: conversation
   mit jdm ein Gespräch über private Dinge führen
   to have a conversation with sb about private matters
+  Ich möchte ein R-Gespräch.
+
 
 gesprächig /ɡəˈʃprɛːçɪç/: talkative
   Er ist heute nicht sehr gesprächig.
@@ -1186,7 +1188,7 @@ gleichen /ˈɡlaiçən/: to resemble, to be similar
 Gleichschritt /ˈɡlaiçʃrɪt/, der, -(e)s: marching in step
   im Gleichschritt marschierende Soldaten: soldiers marching in step
 
-Gleis, das: track, platform
+Gleis, das, -es|e: track, platform
   einen Zug von einem Gleis auf ein anderes umleiten
   Vorsicht an Gleis 5, der Zug fährt jetzt ein!
 

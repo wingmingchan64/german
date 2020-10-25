@@ -704,6 +704,11 @@ eintreffen /ˈaintrɛfən/: to arrive, to come true
   Nun war eingetroffen, wovor er sich schon so lange gefürchtet hatte.
   Now what he had long feared had come true.
 
+eintreten /ˈaintreːtən/: to join, to happen, to enter
+  Wenn dir langweilig ist, tritt doch in einen Sportverein ein.
+  Wenn dieser Fall eintritt, müssen wir uns eine neue Lösung überlegen.
+  Bitte treten Sie doch ein! Please come in.
+
 Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Der Eintritt in die Ausstellung ist frei.
   Admission to the exhibition is free.
@@ -1216,6 +1221,10 @@ Erfolg /ɛɐˈfɔlk/, der: success
 erfolgreich /ɛɐˈfɔlkraiç/: successful
   ein erfolgreicher Filmstar: a successful film star
 
+erforderlich /ɛɐˈfɔrdɐlɪç/: necessary, required
+  über die erforderlichen Kenntnisse für eine Stelle verfügen
+  to have the skills required for the job
+
 erforschen /ɛɐˈfɔrʃən/: to explore, to research
   Wann wurde die Insel erstmals erforscht?
   When was the island first explored?
@@ -1435,6 +1444,9 @@ erlöschen /ɛɐˈlœʃən/: to go out/off, to become extinct, to expire, to ter
   The lamp went out.
   Der Vesuv ist noch nicht erloschen.
   Vesuvius is still active.
+
+Ermäßigung /ɛɐˈmɛːsɪɡʊŋ/, die: reduction, discount
+  Kinder und Rentner erhalten eine Ermäßigung von 20%.
 
 Ermittler /ɛɐˈmɪtlɐ/: investigator
 

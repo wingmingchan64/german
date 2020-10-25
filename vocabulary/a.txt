@@ -59,7 +59,7 @@ abfahren /ˈapfaːrən/: to leave, to depart, to exit, to wear down, to drive al
   In Frankfurt müssen wir von der Autobahn abfahren.
   We have to get off the freeway in Frankfurt.
   ins Tal abfahren: to run down into the valley
-​ Das Auto hatte völlig abgefahrene Reifen.
+​  Das Auto hatte völlig abgefahrene Reifen.
   The car's tires are worn right down.
   Ich bin den ganzen Weg abgefahren, aber ich konnte sie nicht finden.
   I drove along the whole route, searching, but I couldn't find her/it.
@@ -520,6 +520,10 @@ Achtung /ˈaxtʊŋ/, die, ~|uncountable: respect, attention
   Achtung, Baum fällt!
   Look out! Tree falling!
 
+achtzehn /ˈaxʦeːn/
+
+achtzig /ˈaxʦɪç/
+
 ächzen /ˈɛçʦən/: to groan
   ächzen und stöhnen: to moan and groan
 
@@ -782,6 +786,9 @@ Amt /amt/, das, -(e)s|..er: office, position
   to be elected to the post of club chairman
 
 Amtmann -(e)s|..er, Amtfrau: bailiff
+
+Amtsanschluss, der: outside line
+  (am Telefon) Ich möchte einen Amtsanschluss.
 
 Amtszeit, die: term, term of office
 
@@ -1155,6 +1162,7 @@ anmelden /ˈanmɛldən/: to enroll, to register, to announce, to express, to dec
   Does anyone have any objections?
 
 Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registration form
+  Für diese Übung ist keine Anmeldung erforderlich.
 
 Anmerkung /ˈanmɛrkʊŋ/, die: comment, remark
   eine Anmerkung zu etw. machen: to make a comment on sth
@@ -1192,6 +1200,8 @@ anreden /ˈanreːdən/: to address
   An elderly lady spoke to her in the tram.
   Er hat mich gleich mit Du angeredet.
   He addressed me by the familiar "du" form straight away.
+
+Anrufbeantworter, der, -s|~: answering machine
 
 anrufen /ˈanruːfən/: to call, to phone
   rufe an, rufst an, ruft an, habe angerufen
@@ -2156,6 +2166,8 @@ ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
 ausgerechnet /ˈausɡərɛçnət/ oder /ausɡəˈrɛçnət/: of all things 偏偏
   Ausgerechnet heute musst du zu spät kommen!
   You had to be late today of all days!
+
+ausgeschlossen: excluding, impossible
 
 ausgesprochen /ˈausɡəʃprɔxən/: pronounced, really, downright
   Das ist eine ausgesprochene Rarität!

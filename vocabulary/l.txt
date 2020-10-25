@@ -34,6 +34,10 @@ Lack /lak/, der, Lacke: varnish, paint
 
 Lade, die, Laden: drawer, trunk, chest
 
+Ladegerät /ˈlaːdəɡərɛːt/, das, -(e)s|-e: charger
+  das Ladegerät für den Akku der Digitalkamera
+  => aufladen: den Akku aufladen
+
 Laden /ˈlaːdən/, der, Läden /ˈlɛːdən/: store, shutter
   => Geschäft
   Der Laden an der Ecke verkauft Gemüse.
@@ -283,6 +287,7 @@ laut: according to
 lauten /ˈlautən/: to be
   Wie lautet Ihre Antwort?
   What is your answer?
+  auf den Namen … lauten: to be payable to …
 
 läuten /ˈlɔytən/: to ring, to go off
   Die Glocken läuten täglich um 12 Uhr.
@@ -416,6 +421,11 @@ leicht /laiçt/: light, easy
   Das ist keine leichte Entscheidung.
   It's not an easy decision.
 
+Leid /lait/, das, -(e)s|uncountable: sorrow, suffering
+  unermessliches Leid erfahren
+  
+leid 
+
 Leiden /ˈlaidən/, das: cross, suffering, trouble, ailment, complaint
   ein chronisches/unheilbares Leiden: a chronic/an incurable illness
 
@@ -430,6 +440,12 @@ Leidenschaft /ˈlaidənʃaft/, die, ~|-en: passion
 
 leidlich /ˈlaitlɪç/: reasonable
   leidliche Kenntnisse in Anatomie haben: to have a reasonable knowledge of anatomy
+
+leidtun, Leid tun, leid tun
+  es tut mir nur leid, dass …
+  es tut einem leid, zu sehen, wie …
+  er/sie tut mir leid: I’m sorry for him/her, I pity him/her
+  du kannst einem leidtun: you really are to be pitied
 
 leihen /ˈlaiən/: to lend, to borrow, to loan
   jemandem etwas leihen: to lend/loan sb sth
@@ -670,6 +686,7 @@ losen /ˈloːzən/: to draw lots
 lösen /ˈløːzən/: to solve, to loosen, to buy, to remove
   Das Problem hat sich von selbst gelöst.
   The problem resolved itself.
+  eine Fahrkarte lösen / am Schalter kaufen
 
 loslachen: burst out laughing
 

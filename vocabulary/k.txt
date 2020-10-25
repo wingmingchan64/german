@@ -270,7 +270,7 @@ kennen /ˈkɛnən/: to know
   Kennst du seinen Namen?
   Do you know his name?
 
-Kenntnis /ˈkɛntnɪs/, die, ~|-se: knowledge
+Kenntnis /ˈkɛntnɪs/, die, ~|-se: knowledge, notice
   seine Sprachkenntnisse vertiefen: to improve your language skills
   Ohne genauere Kenntnis der Sachlage kann ich diese Frage nicht beantworten.
   Without more detailed knowledge of the circumstances I am unable to answer that question.
@@ -426,7 +426,12 @@ klar /klaːɐ/: clear
 klären /ˈklɛːrən/: to resolve, to settle, to treat
   die Unfallursache klären: to clarify the cause of the accident
 
-Klasse, die: class
+Klasse, die, ~|-n: class, classroom
+  erster/zweiter Klasse
+  Der Lehrer unterrichtet die Klasse in Deutsch.
+  Mein Sohn geht in die vierte Klasse.
+  die Klasse betreten
+  die Klasse der Arbeiter / Bauern
 
 Klassenraum, der: classroom
 
@@ -811,6 +816,9 @@ Kopf /kɔpf/, der, Köpfe /ˈkœpfə/: head
   Er ist einen Kopf größer als ich.
   He's a head taller than me.
 
+Kopfhörer /ˈkɔpfhøːrɐ/, der, -s|~: headphones, earphones
+  die Kopfhörer aufsetzen, abnehmen
+
 kopfrechnen: to do mental arithmetic
   Sie kann gut kopfrechnen.
   She's good at mental arithmetic.
@@ -848,6 +856,14 @@ Kost /kɔst/, die: food
 Kostbarkeit /ˈkɔstbaːɐkait/, die, -en: precious object
   Kostbarkeiten aus Gold und Edelsteinen
   precious objects made from gold and precious stones
+
+Kosten /ˈkɔstən/, pl: cost
+  Die Kosten des Neubaus belaufen sich auf zwei Millionen Euro.
+  So eine Lebensweise geht auf Kosten der Gesundheit.
+
+kosten: to cost
+  Wie viel / Was soll das Auto denn kosten?
+  Was kostet eine Fahrkarte nach Köln?
 
 köstlich /ˈkœstlɪç/: delicious
 
@@ -940,6 +956,11 @@ Krawatte /kraˈvatə/, die: tie
 Krebs /kreːps/, der, Krebse: cancer, crab
   Brustkrebs: breast cancer
   Flusskrebs: crayfish
+
+Kredit /kreˈdiːt/, der, -(e)s|-e: credit, loan
+  für den Autokauf einen Kredit aufnehmen
+  
+Kreditkarte, die
 
 *Kreide /ˈkraidə/, die: chalk
   Kreidefelsen: chalk cliffs

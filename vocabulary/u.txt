@@ -239,7 +239,8 @@ übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open,
   Sarah hat übrigens geheiratet.
   Sarah got married, by the way.
 
-Übung /ˈyːbʊŋ/, die, Übungen: practice, exercise
+Übung /ˈyːbʊŋ/, die, Übungen: practice, exercise, skill, drill, course
+  Für diese Übung ist keine Anmeldung erforderlich.
 
 Ufer /ˈuːfɐ/, das, -s|~: bank, shore
   Der Fluss ist über die Ufer getreten.
@@ -248,6 +249,8 @@ Ufer /ˈuːfɐ/, das, -s|~: bank, shore
 Uhr /uːɐ/, die, ~|-en: watch, clock
   Meine Uhr ist stehen geblieben.
   My watch has stopped.
+  Wie viel Uhr ist es / haben wir?
+  Die Besprechung ist um 12 Uhr.
 
 Uhrzeit /ˈuːɐʦait/, die, ~|-en: time
   Um welche Uhrzeit soll ich dich abholen?
@@ -437,6 +440,7 @@ Umstandswort /ˈʊmʃtanʦvɔrt/, das, -(e)s|..er: adverb
   “Always” and “never” are adverbs of time.
 
 umsteigen: to change, to transfer
+  Muss ich umsteigen?
 
 umstoßen /ˈʊmʃtoːsən/: to knock over, to reverse, to change
   Jemand hat auf dem Parkplatz meinen Motorroller umgestoßen.
@@ -531,6 +535,10 @@ unerhört /ˈʊn|ɛɐˈhøːɐt/: outrageous
   Das ist ja wirklich unerhört!
   That's totally outrageous!
   ein Skandal unerhörten Ausmaßes: an enormous scandal
+
+unermesslich /ˈʊn|ɛɐmɛslɪç/ oder /ʊn|ɛɐˈmɛslɪç/: immeasurable, immense
+  Das Unwetter hat unermesslichen Schaden angerichtet.
+  Sie muss unermesslich reich sein.
 
 unerreichbar /ʊn|ɛɐˈraiçbaːr, ˈʊn|ɛɐraiçbaːr/: inaccessible, unattainable, unavailable
   Die Erfüllung seines Wunsches rückte in unerreichbare Ferne.

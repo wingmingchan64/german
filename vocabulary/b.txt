@@ -49,9 +49,13 @@ Bahn /baːn/, die, -en: train, track, path
 
 bahnen /ˈbaːnən/: to clear the way for sb to sth
 
-Bahnsteig /ˈbaːnʃtaik/, der: track, platform
+Bahnhof /ˈbaːnhoːf/, der, -(e)s|..e
+  Der Zug hält nicht an jedem Bahnhof.
+
+Bahnsteig /ˈbaːnʃtaik/, der, -(e)s|-e: track, platform
   Die Gleise 2 und 3 liegen am gleichen Bahnsteig.
   Tracks 2 and 3 are on the same platform.
+  Von welchem Bahnsteig fährt der Zug ab?
 
 Bakterien /bakˈteːrjən/, pl
   Bakterien, die Infektionen verursachen
@@ -481,6 +485,9 @@ Begründung /bəˈɡrʏndʊŋ/, die, -en: explanation
   Eine längere Krankheit stellt keine ausreichende Begründung für eine Kündigung dar.
   A lengthy illness is not adequate grounds for termination.
 
+begrüßen /bəˈɡryːsən/: to greet, to welcome
+  Ich möchte Sie ganz herzlich zu unserer heutigen Veranstaltung begrüßen.
+
 Begrüßung /bəˈɡryːsʊŋ/, die, ~|-en: greeting, welcome
   jdm zur Begrüßung die Hand schütteln
   to welcome sb with a handshake
@@ -901,6 +908,7 @@ beschäftigt /bəˈʃɛftɪçt/: to be employed, busy, engaged
   She works for a large car company.
   mit dem Aufstellen des Zelts beschäftigt sein
   to be busy putting up the tent
+  Es tut mir Leid, ich bin beschäftigt.
 
 Beschäftigte /bəˈʃɛftɪçtə/: employee
 
@@ -988,6 +996,12 @@ besessen /bəˈzɛsən/: possessed
 besetzen /bəˈzɛʦən/: to fill, to reserve, to occupy
   eine Führungsposition neu besetzen
   to find someone new to fill an executive position
+
+besetzt /bəˈzɛʦt/: occupied, taken, busy
+  Als ich die Türklinke bewegte, rief jemand von drinnen: „Besetzt!”
+  „Ist der Stuhl noch frei?‟ – „Nein, er ist schon besetzt!‟
+  Es ist besetzt. The line is busy.
+  Ich wollte dich gestern anrufen, aber bei dir war dauernd besetzt.
 
 Besichtigung /bəˈzɪçtɪɡʊŋ/, die, -en: tour, sightseeing, inspection, viewing
   eine Besichtigungstour durch die Stadt: a sightseeing trip through the city
@@ -1320,6 +1334,10 @@ bewerben /bəˈvɛrbən/: to apply
   Er hat sich für / um das Amt des Bürgermeisters beworben.
   He's standing for mayor.
 
+Bewerbung, die: application
+  eine Bewerbung um einen Ausbildungsplatz
+  an application for an apprenticeship
+
 Bewerbungsmappe, die: application documents
 
 bewerfen: to throw at
@@ -1505,6 +1523,7 @@ bisschen /ˈbɪsçən/
 bitten /ˈbɪtən/: to ask, to beg, to request
   Sie bat mich, sie nach Hause zu fahren.
   She asked me to drive her home.
+  Würden Sie ihn bitten, mich anzurufen?
 
 bitter /ˈbɪtɐ/: bitter, bitterly
 

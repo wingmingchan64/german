@@ -56,6 +56,10 @@ fahren /ˈfaːrən/: to drive, to go
 
 Fahrkarte, die: ticket
 
+Fahrplan /ˈfaːɐplaːn/, der, -(e)s|..e: schedule, timetable
+  Der Zug wird den Fahrplan nicht einhalten können.
+  auf dem / im Fahrplan nachsehen, wann die Straßenbahn sonntags fährt.
+
 Fahrrad /ˈfaːɐraːt/, das, -(e)s|..er /ˈfaːɐrɛːdɐ/: bicycle
   Sie kann nicht Fahrrad fahren.
 
@@ -471,6 +475,8 @@ fischen /ˈfɪʃən/: to fish
   to fish leaves out of the pond with a net
 
 flach /flax/: flat, shallow
+  Die Gegend ist dort völlig flach, nicht der kleinste Hügel weit und breit.
+  That region is totally flat – there isn’t even a slight elevation to be seen far and wide.
 
 Flächen /ˈflɛçə/, die, -: area, surface, side
   unbebaute Flächen in der Stadt: undeveloped land in the city
@@ -986,6 +992,13 @@ Fund /fʊnt/, der, -(e)s|-e: finding
 fünf /fʏnf/
 
 Fünftel: fifth
+
+fünfzehn /ˈfʏnfʦeːn/
+
+fünfzig /ˈfʏnfʦɪç/
+
+Funk /fʊŋk/, der, -s: radio
+  Der Polizist rief über Funk Hilfe herbei.
 
 *Funke /ˈfʊŋkə/, der, -ns|-n: spark, glimmer
   Bei dieser Dürre genügt ein Funke, um einen Waldbrand auszulösen.

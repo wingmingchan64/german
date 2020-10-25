@@ -260,7 +260,9 @@ verfügbar /fɛɐˈfyːkbaːɐ/: available
 
 verfügen /fɛɐˈfyːɡən/: to have (at your disposal), to be in charge, to order, to decree
   Das Hotel verfügt über vierzig Doppelzimmer.
-  The hotel has over forty double rooms.
+  über sein Geld frei verfügen können
+  Der Richter verfügte eine sofortige Sperrung der Webseite.
+  The judge ordered the website to be immediately shut down.
 
 Verfügung /fɛɐˈfyːɡʊŋ/, die, -en: disposal, order, decree
   Unser Personal steht jederzeit zu Ihrer Verfügung.
@@ -754,9 +756,12 @@ Versorgung /fɛɐˈzɔrɡʊŋ/, die: supply, treatment
   Die Stromversorgung ist gesichert.
   The electricity supply is secure.
 
+verspätet /fɛɐˈʃpɛːtət/: belatedly, overdue
+
 Verspätung /fɛɐˈʃpɛːtʊŋ/, die: delay, late arrival
   Das Paket kam mit zwei Wochen Verspätung an.
   The parcel arrived two weeks late.
+  Der Zug hat zehn Minuten Verspätung.
 
 verspielen /fɛɐˈʃpiːləŋ/: to gamble away, to loose
   Er hat beim Pferderennen Haus und Hof verspielt.
@@ -819,7 +824,10 @@ verstehen: to hear, understand, know
   Ich habe nicht verstanden, was er gesagt hat.
   I did not hear what he said.
   etwas falsch verstehen: to misunderstand sth, to mishear sth
- 
+
+verstellbar: adjustable
+  ein Wagen mit verstellbaren Sitzen
+
 verstohlen: surreptitious, stealthy
 
 verstrichen /fɛɐˈʃtrɪçn/: elapsed
@@ -938,6 +946,9 @@ Verurteilte /fɛɐˈ|ʊrtailtə/: convicted man/woman
   Der Verurteilte will sein Geständnis widerrufen.
   The convicted man wants to retract his confession. 
 
+verwählen /fɛɐˈvɛːlən/, sich: to dial the wrong number
+  Verzeihung, ich habe mich verwählt.
+
 verwandt: related
   Die beiden sind weitläufig miteinander verwandt.
   The two of them are distantly related.
@@ -946,6 +957,12 @@ Verwandte /fɛɐˈvantə/, der/die, -n|-n: relative, relation
   Verwandtschaft, die relations, relatives
   => Angehörige
   Zum Fest hatten sie Verwandte und Bekannte eingeladen.
+
+verwechseln /fɛɐˈvɛksəln/: to mix up, to mistake, to confuse
+  Ich sehe meinem Bruder sehr ähnlich; wir werden oft verwechselt.
+
+Verwechslung /fɛɐˈvɛkslʊŋ/, die: mix-up, mistake, confusion
+  Die Polizei ist sicher, dass eine Verwechslung (des Täters) völlig ausgeschlossen ist.
 
 verweilen /fɛɐˈvailən/: to stay (a while), to linger
   Ich würde gern noch ein bisschen verweilen.
@@ -1050,6 +1067,9 @@ Vieh /fiː/, das, |uncountable: livestock, critter
   20 Stück Vieh: 20 head of cattle
   10 Cent das Stück, pro Stück 10 Cent
 
+viel /fiːl/
+  Woher hast du denn das viele Geld?
+
 △vielleicht /fiˈlaiçt/
 
 vielmals /ˈfiːlmaːls/: very much
@@ -1070,6 +1090,7 @@ vier /fiːɐ/
 vierte /ˈfiːɐtə/: fourth
 
 △Viertel /ˈfirtəl/, das, -: quarter
+  Viertel nach eins
 
 △vierzehn /ˈfɪrʦeːn/
 

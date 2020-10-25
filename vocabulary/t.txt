@@ -184,7 +184,7 @@ täuschen /ˈtɔyʃən/: to be wrong, to deceive, to be deceptive
 
 Täuschung /ˈtɔyʃʊŋ/, die: deception, illusion, delusion
 
-Tausend, das
+Tausend, die
 
 tausend /ˈtauzənt/: thousand
 
@@ -229,11 +229,15 @@ teilweise /ˈtailvaizə/: in part
 Teint /tɛ̃ː/, der, -s: complexion
   einen blassen / dunklen Teint haben: to have a pale/dark complexion
 
-Telefon /ˈteːləfoːn/, das, -e: telephone
+Telefon /ˈteːləfoːn/, das, -s|-e: telephone
+  am Telefon
+  
 
 Telefonat /telefoˈnaːt/, das, -(e)s|-e: phone conversation
   Er führt gerade ein wichtiges Telefonat.
   He's just in the middle of an important phone conversation.
+
+Telefonkarte, die
 
 Teller /ˈtɛlɐ/, der, -s|~: plate
   Er hat sich Berge von Nudeln auf seinen Teller gehäuft.
@@ -259,7 +263,7 @@ Tendenz /tɛnˈdɛnʦ/, die, ~|-en: trend, tendency
 
 Teppich /ˈtɛpɪç/, der, -e: carpet
 
-Termin /tɛrˈmiːn/, der: deadline, date, appointment
+Termin /tɛrˈmiːn/, der, -s|-e: deadline, date, appointment
   Wann ist der letzte Termin für die Anmeldung?
   When is the deadline for registration?
 
@@ -532,6 +536,7 @@ treffen /ˈtrɛfən/: to hit, to meet
   The bullet hit its target.
   Ich habe sie gestern zufällig in der Stadt getroffen.
   I met her by chance in town yesterday.
+  Können wir uns morgen treffen?
 
 treffend /ˈtrɛfənt/: apt, aptly
   Sie haben die Situation treffend beschrieben.
