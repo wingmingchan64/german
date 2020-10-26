@@ -54,11 +54,21 @@ fahren /ˈfaːrən/: to drive, to go
   Shall we walk or drive?
   Auto fahren lernen: to learn to drive
 
-Fahrkarte, die: ticket
+Fahrgast /ˈfaːɐɡast/, der, -(e)s|..e
+  Die Fahrgäste wurden gebeten auszusteigen.
+
+Fahrkarte /ˈfaːɐkartə/, die, ~|-n: ticket
+  eine Fahrkarte lösen / am Schalter kaufen
+  eine einfache Fahrkarte
+  eine Rückfahrkarte
+
+Fahrkartenautomaten
 
 Fahrplan /ˈfaːɐplaːn/, der, -(e)s|..e: schedule, timetable
   Der Zug wird den Fahrplan nicht einhalten können.
   auf dem / im Fahrplan nachsehen, wann die Straßenbahn sonntags fährt.
+
+Fahrpreis, der, -es|-e: fare
 
 Fahrrad /ˈfaːɐraːt/, das, -(e)s|..er /ˈfaːɐrɛːdɐ/: bicycle
   Sie kann nicht Fahrrad fahren.
@@ -610,6 +620,9 @@ Flug /fluːk/, der: flight
 
 Flugbegleiter: flight attendant
 
+Flughafen /ˈfluːkhaːfən/, der, -s|..
+  Das Flugzeug ist um 10:00 Uhr am Münchner Flughafen gelandet.
+
 Fluglinie /ˈfluːkliːnjə/, die, -n: airline
   mit einer deutschen Fluglinie fliegen: to fly with a German airline
 
@@ -1016,7 +1029,7 @@ funken /ˈfʊnkən/: to radio
   einen Notruf funken: to send out an SOS
 
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
-  Geburtstag /ɡəˈbuːɐʦtaːk/: birthday
+  Das Handy funktioniert nicht mehr richtig.
 
 für: for
   Tag für Tag: day after day

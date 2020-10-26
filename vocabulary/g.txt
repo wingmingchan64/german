@@ -433,7 +433,7 @@ geheimnisvoll /ɡəˈhaimnisfɔl/: mysterious
   ein geheimnisvoller Fremder: a mysterious stranger 
 
 gehen /ˈɡeːən/: to go, to walk, to leave
-  gehe, gehst, geht, bin gegangen
+  gehe, gehst, geht, geht, bin gegangen
   es geht um jdn/etw: it's about sb/sth
   Worum geht es in dem Buch?
   What's the book about?
@@ -987,6 +987,9 @@ gewählt /ɡəˈvɛːlt/: refined, elegant, select, in a refined manner, elegant
 Gewähr /ɡəˈvɛːɐ/, die, ~|uncountable: guarantee, liability
   Alle Angaben ohne Gewähr!
   No liability can be assumed for any of the details provided.
+
+gewähren /ɡəˈvɛːrən/: to grant
+  Die gute Fee gewährte ihm drei Wünsche.
 
 Gewalt /ɡəˈvalt/, die, ~|-en: violence, force, power, authority
   Gewalt anwenden: to use force

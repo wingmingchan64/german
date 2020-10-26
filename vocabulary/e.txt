@@ -219,6 +219,8 @@ einatmen /ˈain|aːtmən/: to breathe in
   Sie atmete tief ein.
   She took a deep breath.
 
+Einbahnstraße /ˈainbaːnʃtraːsə/, die: one-way street
+
 einbiegen /ˈainbiːɡən/: to turn
   Da vorn musst du rechts einbiegen.
   You have to turn right up ahead.
@@ -440,6 +442,9 @@ einjagen /ˈainjaːɡən/:
   jdm Angst / einen Schreck(en) einjagen: to scare sb
   Er hat mir mit seinem Geschrei einen ganz schönen Schreck eingejagt.
   He gave me quite a scare with his shrieking.
+
+Einkauf /ˈainkauf/, der, -(e)s|..e: shopping
+  die Einkäufe fürs Wochenende erledigen
 
 einkaufen: shopping
 
@@ -992,6 +997,7 @@ entkommen /ɛntˈkɔmən/: to escape, to get away
 entlang: along
   eine Radtour die Donau entlang/entlang der Donau
   a cycling tour along the Danube
+  Fahren Sie in der Nähe vom Museum entlang?
 
 entlassen /ɛntˈlasən/: to dismiss, to let go
   Die Firma hat mehrere Mitarbeiter entlassen.

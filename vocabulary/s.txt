@@ -2,7 +2,7 @@
 S /ɛs/ S wie Siegfried
 ========================================================
 
-Saal /zaːl/, der, Säle /ˈzɛːlə/: room, hall
+Saal /zaːl/, der, -(e)s|Säle /ˈzɛːlə/: room, hall
   ein Kino mit acht Sälen: a movie theater with eight screens 
 
 Saar, die: a river in NE France and W Germany
@@ -1802,6 +1802,8 @@ ständig /ˈʃtɛndɪç/: permanent, constantly
   Unterbrich mich nicht ständig!
   Quit interrupting me all the time! 
 
+Stange /ˈʃtaŋə/, die: pole, bar, stick
+
 stark /ʃtark/, stärker: strong
 
 Stärke /ˈʃtɛrkə/, die: strength, power, intensity, strong point
@@ -2173,6 +2175,11 @@ Störung /ˈʃtøːrʊŋ/, die, ~|-en: disturbance, disruption, fault
   Schizophrenie ist eine psychische Störung.
   Schizophrenia is a psychological disorder.
 
+Stoß /ʃtoːs/, der, -es|..e: push, shove, stroke, impact, tremor
+  einen Stoß vertragen können (lit, fig): to be able to take a knock (or two)
+  sich (dative) or seinem Herzen einen Stoß geben: to pluck up or take courage
+  das gab ihm den letzten Stoß (fig): that was the last straw or final blow (for him)
+
 stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump, to jerk
   stieß, gestoßen
   jdn ins Wasser stoßen: to push sb into the water
@@ -2191,6 +2198,8 @@ stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump, to jerk
   zu jdm stoßen: to join sb
   Er ist erst später zu uns gestoßen.
   He only joined us later.
+
+Stoßstange /ˈʃtoːsʃtaŋə/, die, -e|-en: bumper
 
 Stoßzeit /ˈʃtoːsʦait/, die, -en: rush hour, busy time
   Während der Stoßzeiten dürfen keine Fahrräder in der S-Bahn mitgenommen werden.
@@ -2231,6 +2240,8 @@ strapaziös /ʃtrapaˈʦjøːs/: taxing
   eine strapaziöse Reise: a taxing journey
 
 Straße /ˈʃtraːsə/, die, -en: road, street
+
+Straßenbahn /ˈʃtraːsənbaːn/, die, ~|-en
 
 Strauch /ʃtraux/, der, ..er /ˈʃtrɔyçɐ/: bush, shrub
   Beerensträucher: berry bushes

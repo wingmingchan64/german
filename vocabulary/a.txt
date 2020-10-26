@@ -354,6 +354,7 @@ absetzen /ˈapzɛʦən/: to remove, to depose, to stop taking, to cancel, to tak
   jdn irgendwo absetzen: to drop sb off
   Kannst du mich bitte an der Schule absetzen?
   Can you drop me off at the school, please?
+  Können Sie mich bitte hier absetzen?
 
 Absicht /ˈapzɪçt/, die, ~|-en: intention
   An guten Absichten fehlt es nicht.
@@ -2598,7 +2599,7 @@ Auto /ˈauto/, das, -s|-s: car
 
 Automat /autoˈmaːt/, der, -en|-en: machine, ATM, slot machine, robot
   sich eine Fahrkarte am Automat holen: to get a ticket at the machine
-​ Geld am Automaten abheben: to get money at the ATM
+​  Geld am Automaten abheben: to get money at the ATM
   Spielautomat: slot machine
   Bei der Herstellung kommen Automaten zum Einsatz.
   Robots are used in the production process.

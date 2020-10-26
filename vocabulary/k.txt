@@ -643,8 +643,11 @@ Koch /kɔx/, Köchin /ˈkœçɪn/: cook, chef
 
 kochen /ˈkɔxən/: to cook
 
-Koffer /ˈkɔfɐ/, der: suitcase
+Koffer /ˈkɔfɐ/, der, -s|~: suitcase
   Ich brauche einen neuen Koffer.
+
+Kofferraum, der: trunk
+  die Einkäufe in den Kofferraum legen
 
 Kohl /koːl/, der, Kohl(e)s: cabbage
   Rotkohl: red cabbage
@@ -988,6 +991,8 @@ kreisen /ˈkraizən/: to circle
 
 Kreissäge, die: boater
 
+Kreisverkehr /ˈkraisfɛɐkeːɐ/, der: traffic circle
+
 kreuz und quer: all over
   mit dem Auto kreuz und quer durch die Stadt fahren
   to drive all over the town
@@ -1004,6 +1009,7 @@ kreuzigen /ˈkrɔyʦɪɡən/: to crucify
   Pompey had all the slaves who had survived the uprising crucified.
 
 Kreuzung /ˈkrɔyʦʊŋ/, die: intersection
+  an einer Kreuzung halten / abbiegen
 
 kriechen /ˈkriːçən/: to creep, to crawl
   Eine Spinne kroch über ihren Arm.

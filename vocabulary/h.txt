@@ -103,6 +103,7 @@ halt: just, simply
   Jeder muss mal sterben, das ist halt so.
 
 hält => halten
+  Hält der Bus Nummer hundertzwanzig hier?
 
 halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop, to think
   Sie hielt ein Glas in der Hand/das Baby auf dem Arm.
@@ -239,6 +240,9 @@ hässlich /ˈhɛslɪç/: ugly
 hastig /ˈhastɪç/: hasty
   Bitte machen Sie keine hastigen Bewegungen!
   Please don't make any hasty movements.
+
+Haube /ˈhaubə/, die: cap
+  Im OP müssen alle Hauben und Mundschutz tragen.
 
 hauchen /ˈhauxən/: to breathe
   in die Hände hauchen, um sie zu wärmen: to breathe on your hands to warm them up

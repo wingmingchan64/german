@@ -12,7 +12,7 @@ rabenschwarz /ˈrabənʃvarʦ/: jet-black, pitch-black
   rabenschwarzes Haar haben: to have jet-black hair
   ein rabenschwarzer Tag für die Börse: a black day for the stock markets
 
-Rad /raːt/, das, Räder /ˈrɛːdɐ/: wheel
+Rad /raːt/, das, -(e)s|..er /ˈrɛːdɐ/: wheel
 
 radeln /ˈraːdln/: to cycle
   radele, radelte, geradelt
@@ -135,13 +135,13 @@ Ratskeller, der: restaurant under the town hall
 
 Ratte, die: rat
 
-Raubkopie /ˈraupkopiː/, die, -n: pirated copy
-  Der Verkauf von Raubkopien ist strafbar.
-  It is illegal to sell pirated copies.
-
 rau: rough, coarse, harsh, raw
   vom vielen Waschen raue Hände bekommen
   raue See
+
+Raubkopie /ˈraupkopiː/, die, -n: pirated copy
+  Der Verkauf von Raubkopien ist strafbar.
+  It is illegal to sell pirated copies.
 
 rauchen /ˈrauxən/: to smoke
   Rauchen Sie?
@@ -163,13 +163,13 @@ Rauferei /raufəˈrai/, die, ~|-n: fight
 
 Rauhaardackel: wire-haired dachshund
 
-Raum /raum/, Räume /ˈrɔymə/, der: room, space
+Raum /raum/, der, -(e)s|..e: room, space
   Es wurde still, als die Lehrerin den Raum betrat.
   It went quiet when the teacher entered the room.
   auf engstem Raum zusammenleben: to live in a very confined space
 
 räumen /ˈrɔymən/: to clear, to put away, to vacate
-  Hindernisse/Mitwisser/Probleme aus dem Weg räumen
+  Hindernisse / Mitwisser / Probleme aus dem Weg räumen
   to get rid of any obstacles/people in the know/problems
 
 Raumschiff /ˈraumʃɪf/, das: spaceship
@@ -358,6 +358,8 @@ regnen /ˈreːɡnən/: to rain
   Es regnete in Strömen.
   It's pouring with rain.
 
+Rehbraten, der: roast venison
+
 reiben /ˈraibən/: to rub, to grate
   das Fenster / sich trocken reiben: to rub the window/yourself dry
   Parmesan über die Spaghetti reiben: to grate some Parmesan over the spaghetti
@@ -398,9 +400,13 @@ Reife /ˈraifə/, die, |uncountable: ripeness, maturity
   He's too intellectually/morally immature for that.
   mittlere Reife: intermediate high school diploma awarded after ten years of schooling
 
-Reifen /ˈraifən/, der, Reifen: tire
+Reifen /ˈraifən/, der, -s|~: tire
   mit quietschenden Reifen um die Kurve fahren
   to drive around the bend with tires screeching
+
+reifen /ˈraifən/: to ripen
+  Bei dem kalten Wetter reifen die Äpfel erst spät.
+  Der Wein reift im Fass.
 
 Reihe /ˈraiə/, die: row, line, ranks
    Die Bäume stehen in einer Reihe.

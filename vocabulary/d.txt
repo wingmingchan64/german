@@ -9,6 +9,7 @@ da: there, that one, then
   "Which glass would you like?" – "That one."
   da und dort: here and there
   Ich bin gleich wieder da! I'll be back in a moment.
+  Können Sie mir sagen, wann wir da sind?
 
 da: as, since
   Da ich dich nicht erreicht habe, bin ich ohne dich gefahren.
@@ -485,6 +486,9 @@ Doktor /'dɔktoːɐ/, der, Doktoren, Doktorin: doctor
 
 Dokument /dokuˈmɛnt/, das, -(e)s|-e: document
   ein beglaubigtes Dokument vorlegen: to produce a certified document
+
+Dom /’doːm/, der, -(e)s|-e: cathedral
+  der Kölner Dom
 
 Donner /'dɔnɐ/, der, -s|~: thunder
   Draußen wüten Blitz und Donner.
