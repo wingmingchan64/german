@@ -304,7 +304,15 @@ umdrehen /ˈʊmdreːən/: to turn over, to turn (inside) out, to turn around
   Sie drehte das Blatt um und schrieb auf der Rückseite weiter.
   She turned the sheet over and continued writing on the back.
 
+Umfang /ˈʊmfaŋ/, der, -(e)s|..e: circumference, size, extent, scope
+  Länge einer zum Ausgangspunkt zurückkehrenden Linie;
+  die Länge eines Textes, Größe einer Sache, Höhe einer Summe usw
+  => Ausmaß
+
 umfänglich /ˈʊmfɛŋlɪç/: extensive
+  mit großem Umfang
+  die umfängliche Berichterstattung zu diesem Thema sichten
+  to look through the extensive reporting on this subject
 
 Umfrage /ˈʊmfraːɡə/, die: survey, poll
   eine Umfrage durchführen: to conduct a survey

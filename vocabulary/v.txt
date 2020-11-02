@@ -981,6 +981,10 @@ Verwendung /fɛɐˈvɛndʊŋ/, die, -en: use
 
 Verwendungszweck, der: use, purpose
 
+verwesen /fɛɐˈveːzən/: to decompose
+  sich zersetzen, verrotten
+  stark verweste Tierkadaver
+
 verwirklichen /fɛɐˈvɪrklɪçən/: to realize
   => realisieren
   seine Ideen / Pläne verwirklichen: to realize your ideas/plans
@@ -1149,6 +1153,10 @@ vollständig /ˈfɔlʃtɛndɪç/: complete
   Leider ist das Puzzle nicht mehr vollständig.
   Unfortunately the jigsaw puzzle is no longer complete.
 
+volltanken /ˈfɔltaŋkən/: to fill up (with gas)
+  Ist das Auto vollgetankt?
+  Volltanken, bitte.
+
 △vom /fɔm/
 
 △von /fɔn/
@@ -1229,6 +1237,9 @@ Vordermann /ˈfɔrdɐman/, der: person in front
 
 Vorfahrt, die: right of way
   Vorfahrt achten: Yield (traffic sign)
+
+Vorfahrtstraße, Vorfahrtsstraße, die: main road
+  in eine Vorfahrtstraße einbiegen
 
 Vorfall /ˈfoːɐfal/, der: incident
 

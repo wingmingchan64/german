@@ -777,6 +777,8 @@ benutzen: to use
 
 Benutzung /bəˈnʊʦʊŋ/, die, -en: use
 
+Benzin /bɛnˈʦiːn/, das, -s|-e: gas(oline)
+
 beobachten /bəˈ|oːbaxtən/: to observe, to watch
   Tiere in der Wildnis beobachten: to observe animals in the wild
 
@@ -1830,6 +1832,9 @@ Brei /brai/, der, -(e)s|-e: porridge, baby food
   ein Baby mit Brei füttern: to feed baby food to a baby
 
 breit /brait/: wide, broad
+
+Breite /ˈbraitə/, die: width, breath
+  horizontale Ausdehnung
 
 breiten /ˈbraitən/: to spread sth over sb/sth
   eine Decke über den Verletzten breiten: to spread a blanket over the injured man

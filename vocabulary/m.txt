@@ -43,6 +43,10 @@ mager /ˈmaːɡɐ/: thin, skinny, poor
 mähen /ˈmɛːən/: to mow, to harvest
   den Rasen mähen: to mow the lawn
 
+Mahlzeit /ˈmaːlʦait/, die, ~|-en: meal
+  zum Essen zubereitete Speisen, die man zu einer bestimmten Tageszeit isst
+  eine warme Mahlzeit einnehmen/essen
+
 mahnen /ˈmaːnən/: to urge, to admonish, to remind, to send a reminder (to)
   mahne, mahnte, gemahnt
   jdn zur Vorsicht mahnen: to urge sb to be careful
@@ -628,6 +632,12 @@ morgen /ˈmɔrɡən/: tomorrow
   Bis morgen.
 
 Most /mɔst/, der: cider
+
+Motor /ˈmoːtoːɐ/ /moˈtoːɐ/, der, -s|-en
+  den Motor anlassen
+  Der Motor wollte nicht anspringen.
+
+Motorhaube /ˈmoːtoːɐhaubə/, die: hood
 
 Motte /ˈmɔtə/, die, -n: moth
   Die Kleider waren von Motten zerfressen.

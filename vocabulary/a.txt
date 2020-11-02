@@ -3,13 +3,16 @@ A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
 Aal /aːl/, der, -(e)s|-e: eel
+  schlangenähnlicher Speisefisch, der in Flüssen und im Meer lebt
   Räucheraal: smoked eel 
 
 aalen /ˈaːlən/: to laze, to bask
+  sich irgendwo hinlegen und mit Genuss ausruhen
   Wir haben uns stundenlang in der Sonne geaalt.
   We basked in the sun for hours.
 
 Aas /aːs/, das, -es|uncountable: carrion, jackass
+  Fleisch von verwesenden toten Tieren; Schimpfwort für einen gemeinen, hinterhältigen Menschen
   Geier ernähren sich von Aas.
   Vultures live on carrion.
   So ein mieses Aas!
@@ -18,14 +21,16 @@ Aas /aːs/, das, -es|uncountable: carrion, jackass
   Nobody gives a damn about that.
 
 △ab /ap/: from
+  von diesem Zeitpunkt an
   ab nächster Woche: from next week 
   ab und zu/an: manchmal
   Ab nach Hause!
   Time to head for home.
 
 ab-: from, away
+  beschreibt eine Bewegung von einem Ort weg
 
-abbauen /ˈapbauən/: to reduce, to mine, to deteriorate
+abbauen /ˈapbauən/: to reduce, to cut, to mine, to deteriorate
 
 abbiegen /ˈapbiːɡən/: to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
@@ -87,6 +92,8 @@ abfinden /ˈapfɪndən/: to pay off, to come to terms with
 Abflug /ˈapfluːk/, der, -(e)s|..e: departure
   Der Abflug verzögert sich um 30 Minuten.
   The departure will be delayed by 30 minutes.
+
+Abflussrohr, das: drainpipe
 
 abfragen /ˈapfraːɡən/: to ask, to quiz, to query
   Frag mich doch mal die Vokabeln ab.
@@ -1140,6 +1147,12 @@ Anlass /ˈanlas/, der, ..e: reason, cause, occasion
   eine Feier aus Anlass des 150. Firmenjubiläums
   a party on the occasion of the 150th anniversary of the company
 
+anlassen /ˈanlasən/: to leave on, to start
+  Ihr könnt eure Schuhe ruhig anlassen.
+  You can leave your shoes on.
+  Lass den Fernseher für mich an, ich gucke noch ein bisschen.
+  Lass schon mal den Motor an, dann kommen wir schneller weg.
+
 anlaufen /ˈanlaufən/: to call at, to put into, to start, to tarnish
   den nächsten Hafen anlaufen: to put into the nearest harbor
   Der Film läuft nächste Woche in den Kinos an.
@@ -1287,6 +1300,7 @@ anspringen /ˈanʃprɪŋən/: to jump up on, to come running up, to start
   The children came running up.
   Bei Kälte springt das Auto oft nicht gleich an.
   When it's cold the engine often doesn't start right away.
+  => anlassen
 
 anspruchsvoll /ˈanʃprʊxsfɔl/: sophisticated, demanding, challenging
   Man darf nicht zu anspruchsvoll sein.
@@ -2099,6 +2113,8 @@ ausdehnen /ˈausdeːnən/: to stretch, to extend, broaden
   Wir müssen die Suche auf die ganze Stadt ausdehnen.
   We'll have to expand our search to the whole city. 
 
+Ausdehnung /ˈausdeːnʊŋ/, die: expansion, expanse, extent
+
 Ausdruck /ˈausdrʊk/, der, ..e: expression
   ein umgangssprachlicher Ausdruck: a colloquial expression
   Tränen können auch ein Ausdruck von Wut sein.
@@ -2150,6 +2166,10 @@ Ausgabe /ˈausɡaːbə/, die: expenditure
 Ausgang /ˈausɡaŋ/, der: exit, outcome, furlough
 
 Ausgangspunkt /ˈausɡaŋspʊŋkt/, der: starting point
+  Stelle, an der etw. beginnt;
+  Beginn und Grundlage eines Gedankens, einer Idee o. Ä
+  der Ausgangspunkt einer Reise
+  Diese Erkenntnis war der Ausgangspunkt für seine zukünftigen Erfolge.
 
 ausgeben /ˈausɡeːbən/: to spend
   sein Geld für Bücher ausgeben: to spend your money on books
@@ -2261,6 +2281,8 @@ ausmachen /ˈausmaxən/: to switch off, to extinguish, to arrange
   But we had agreed that you would take care of that!
 
 Ausmaß /ˈausmaːs/, das, -es|-e: extent
+  Umfang einer negativen Sache oder Intensität eines Gefühls
+  => Umfang
   eine Tragödie unvorstellbaren Ausmaßes: a tragedy of unimaginable proportions
   von gewaltigen Ausmaßen: of enormous size
 
@@ -2275,6 +2297,8 @@ ausnahmsweise /ˈausnaːmsvaizə/: by way of exception
 
 ausnutzen /ˈausnʊʦən/: to take advantage of
   => nutzen: to use
+
+Auspuff /ˈauspʊf/, der, -(e)s|-e: muffler
 
 ausrauben /ˈausraubən/: to rob
   Sie wurde nachts am Bahnhof überfallen und ausgeraubt.

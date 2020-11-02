@@ -332,11 +332,7 @@ kieselig: pebbly
 
 Kieselstein, der: pebblestone
 
-Kiste /ˈkɪstə/, die, ~|-n: box, crate, Sache
-  eine Kiste (voller) Bücher: a box (full of) books
-  zwei Kisten Bier kaufen: to buy two crates of beer
-
-Kind /kɪnt/, das, -(e)s|-er: child
+Kind /kɪnt/, das, -(e)s|-er|den -ern: child
   Die Kinder spielen im Hof.
 
 Kinderschänder: child abuser
@@ -363,6 +359,10 @@ Kirschsaft, der: cherry juice
 
 Kissen /ˈkɪsən/, das, -: pillow, cushion
   ein paar Kissen aufs Sofa legen: to put a couple of cushions on the sofa
+
+Kiste /ˈkɪstə/, die, ~|-n: box, crate, Sache
+  eine Kiste (voller) Bücher: a box (full of) books
+  zwei Kisten Bier kaufen: to buy two crates of beer
 
 klagen /'klaːɡən/: complain, to take legal action
   „Wie geht es dir?‟ – „Ich kann nicht klagen!‟

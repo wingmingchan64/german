@@ -977,6 +977,9 @@ getrennt: separated, apart
 
 getreu: true, faithful, exact, loyal
 
+*Getriebe /ɡəˈtriːbə/, das, -s|~: gearbox, transmission
+  Getriebeschaden
+
 gewagt /ɡəˈvaːkt/: daring, risky
   => wagen
 

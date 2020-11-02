@@ -131,6 +131,8 @@ falls: in case, if
 falsch /falʃ/: wrong, false, faked
   <=> richtig
 
+Falschparken, das: illegal parking
+
 falten /ˈfaltən/: to fold
   Sie faltete den Brief mehrmals und schob ihn in einen Umschlag.
   She folded the letter several times and put it in an envelope.
@@ -958,6 +960,7 @@ Führer, Führerin: guide, chief, leader, operator, driver, pilot
   Marktführer: market leader 
 
 Führerschein /ˈfyːrɐʃain/, der: driver’s license
+  Dokument, das man braucht, um ein Auto, Motorrad o. Ä. fahren zu dürfen
   Ihm wurde der Führerschein abgenommen.
 
 führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to carry out

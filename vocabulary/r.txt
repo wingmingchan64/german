@@ -13,6 +13,7 @@ rabenschwarz /ˈrabənʃvarʦ/: jet-black, pitch-black
   ein rabenschwarzer Tag für die Börse: a black day for the stock markets
 
 Rad /raːt/, das, -(e)s|..er /ˈrɛːdɐ/: wheel
+  ein Rad wechseln
 
 radeln /ˈraːdln/: to cycle
   radele, radelte, geradelt
@@ -670,6 +671,11 @@ Rock /rɔk/, der: skirt
 roh /roː/: raw
   Bohnen sind roh giftig.
   Raw beans are poisonous.
+
+Rohr /roːɐ/, das, -(e)s|-e: pipe
+  Rohre verlegen
+  Das Abflussrohr ist verstopft.
+  The drainpipe is blocked.
 
 röhren /ˈrøːrən/: to bell(ow)
   Ein Hirsch röhrt im Wald.
