@@ -372,8 +372,8 @@ Zufall /ˈʦuːfal/, der, -(e)s|..e: chance, coincidence
   I only noticed the error by chance.
 
 zufällig /ˈʦuːfɛlɪç/: by chance
+  durch Zufall
   Wir haben uns zufällig in der U-Bahn getroffen.
-  We met by chance in the subway.
 
 zufolge /ʦuˈfɔlɡə/: according to
 
@@ -517,6 +517,9 @@ Zurückhaltung /ʦuˈrʏkhaltʊŋ/, die: reserve
   vornehme/abweisende Zurückhaltung: polite/cool reserve
 
 zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
+
+zurückweisen /ʦuˈrʏkvaizən/: nicht akzeptieren
+  => ablehnen
 
 zurückwenden: to turn back
 

@@ -185,6 +185,7 @@ ablegen /ˈapleːɡən/: to put down, to take off, to take, to pass, to file, to
   The ship set sail.
 
 ablehnen /ˈapleːnən/: to refuse, to reject
+  => zurückweisen
   Ich muss Ihre Einladung leider ablehnen.
   I'm afraid I have to decline your invitation.
   Sie lehnt jede Form von Gewalt ab.
@@ -462,6 +463,9 @@ Abwasser /ˈapvasɐ/, das, -s|..: waste water
 
 Abwechslung /ˈapvɛkslʊŋ/, die: diversion
   eine willkommene Abwechslung: a welcome change
+
+abwehren /ˈapveːrən/: 
+  verhindern, dass er zum Ziel führt; verhindern, dass Schlimmes geschieht oder Schaden entsteht; zurückweisen
 
 abwenden: to avert, to turn away
   Ich konnte den Blick nicht von ihr abwenden.
@@ -1061,7 +1065,8 @@ angreifen /ˈanɡraifən/: to attack, to affect
   Diese Tabletten greifen den Magen an.
   These tablets are bad for the stomach.
 
-Angriff /ˈanɡrɪf/, der: attack
+Angriff /ˈanɡrɪf/, der, -(e)s|-e: attack
+  das Angreifen
   einen feindlichen Angriff abwehren/zurückschlagen
   to repel/beat back an enemy attack
 
@@ -1790,6 +1795,9 @@ aufkreuzen /ˈaufkrɔyʦən/: to show up
   Er ist plötzlich wieder bei seinen Eltern aufgekreuzt.
   He suddenly showed up again at his parents' place.
 
+aufladen /ˈauflaːdən/: to charge
+  mit elektrischem Strom versorgen
+
 Auflage /ˈauflaːɡə/, die: circulation, edition, condition, order, coating
   Die Zeitschrift hat eine hohe Auflage.
   The magazine has a high circulation.
@@ -2333,6 +2341,10 @@ Ausrichtung /ˈausrɪçtʊŋ/, die, -en: organization, direction
   The country is bidding to host the Olympic Games
   eine neue Ausrichtung der Wirtschaftspolitik fordern
   to demand a new direction for the country's economic policy
+
+ausrücken /ˈausrʏkən/: zum Einsatz gehen / fahren; weglaufen, ausreißen
+  Die Bergwacht ist zum Großeinsatz ausgerückt.
+  Der Hamster ist schon wieder mal ausgerückt; wir müssen ihn suchen.
 
 ausruhen /ˈausruːən/: to rest
   Ich muss mich mal kurz ausruhen.

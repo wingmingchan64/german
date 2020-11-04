@@ -491,7 +491,7 @@ Um sechzehn Uhr, wenn es ihnen passt.
 Das passt mir gut.
 
 ========================================================
-Am Telefon p.36
+Am Telefon
 ========================================================
 Warm up
 Es tut mir Leid.
@@ -505,7 +505,7 @@ Rettungsdienst 192 22
 118 34 for international
 118 37 for English-speaking service
 
-das Lagegerät: charger
+das Ladegerät /ˈlaːdəɡərɛːt/: charger
 das Telefon /ˈteːləfoːn/ /teleˈfoːn/
 der Anrufbeantworter
 die Kopfhörer
@@ -534,7 +534,6 @@ Ich habe einen Termin am Montag, den zwanzigsten Mai.
 Mein Geburtstag ist im September.
 Ich arbeite Freitags.
 Sie arbeiten nicht im August.
-========================================================
 
 ========================================================
 Week 4
@@ -687,8 +686,6 @@ Um dreizehn Uhr zehn.
 Von welchem Bahnsteig fährt der Zug ab?
 Bahnsteig sieben.
 Vielen Dank. Auf Wiedersehen.
-========================================================
-
 
 ========================================================
 Week 5
@@ -883,11 +880,8 @@ Unit 13:
 ä &#196; é ö Ö ß ü &#220;
 ========================================================
 ========================================================
-</pre>
-</div>
-<h2>Unit 14</h2>
-<div>
-<pre>========================================================
+
+========================================================
 Unit 14: 
 ========================================================
 ä &#196; é ö Ö ß ü &#220;

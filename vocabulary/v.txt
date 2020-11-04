@@ -752,6 +752,8 @@ Version /vɛrˈzjoːn/, die, -en: version, theory
   Im nächsten Monat kommt die neue Version des Computerprogramms auf den Markt.
   The new version of this computer program comes onto the market next month.
 
+versorgen: to supply, to support, to look after
+
 Versorgung /fɛɐˈzɔrɡʊŋ/, die: supply, treatment
   Die Stromversorgung ist gesichert.
   The electricity supply is secure.
@@ -849,6 +851,7 @@ vertagen /fɛɐˈtaːɡən/: to adjourn
   The vote on the application was adjourned until the next meeting.
 
 verteidigen /fɛɐˈtaidɪɡən/: to defend
+  Angriffe abwehren
   sein Land / seine Freiheit verteidigen: to defend your country/liberty
   „Ich finde, sie hat recht‟, verteidigte er seine Schwester.
   “I think she's right,” he said, defending his sister.
