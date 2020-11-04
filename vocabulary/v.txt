@@ -753,6 +753,8 @@ Version /vɛrˈzjoːn/, die, -en: version, theory
   The new version of this computer program comes onto the market next month.
 
 versorgen: to supply, to support, to look after
+  Das Gehirn wurde nicht ausreichend mit Sauerstoff versorgt.
+  The brain did not receive sufficient oxygen.
 
 Versorgung /fɛɐˈzɔrɡʊŋ/, die: supply, treatment
   Die Stromversorgung ist gesichert.

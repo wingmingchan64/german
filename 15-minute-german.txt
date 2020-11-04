@@ -512,21 +512,19 @@ die Kopfhörer
 das Handy
 die Telefonkarte
 
-Ich möchte ein R-Gespräch.
-I'd like to make a collect call.
-Ich möchte einen Amtsanschluss.
-I'd like an outside line.
-Ich möchte mit Rita Wolbert sprechen.
-Kann ich eine Nachricht hinterlassen?
-Es tut mir Leid, ich habe mich verwählt.
-Sorry, I have the wrong number.
-
 Hallo. Elke Rubin am Apparat.
 Guten Tag. Ich möchte bitte Peter Harnisch sprechen.
 Mit wem spreche ich?
 Mit Norbert Lorenz von der Druckerei Knickmann.
 Es tut mir Leid. Es ist besetzt.
 Würden Sie ihn bitten, mich anzurufen?
+
+Ich möchte ein R-Gespräch.
+Ich möchte einen Amtsanschluss.
+Ich möchte mit Rita Wolbert sprechen.
+Kann ich eine Nachricht hinterlassen?
+Es tut mir Leid, ich habe mich verwählt.
+
 ========================================================
 Wiederholung
 ========================================================

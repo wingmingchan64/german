@@ -1066,7 +1066,7 @@ angreifen /ˈanɡraifən/: to attack, to affect
   These tablets are bad for the stomach.
 
 Angriff /ˈanɡrɪf/, der, -(e)s|-e: attack
-  das Angreifen
+  das Angreifen, Anschlag, 
   einen feindlichen Angriff abwehren/zurückschlagen
   to repel/beat back an enemy attack
 
@@ -1244,6 +1244,9 @@ anschaffen /ˈanʃafən/:
 
 anschauen: ansehen
 
+Anschlag /ˈanʃlaːk/, der
+  Plakat oder Notiz an der Wand; Angriff, Attentat
+
 anschleichen /ˈanʃlaiçən/: to creep up
   Lautlos schlichen sich die Löwen an.
   Silently the lions crept towards their prey.
@@ -1258,7 +1261,8 @@ anschließend /ˈanʃliːsənt/: subsequent, following
   Wir gingen ins Kino und anschließend etwas essen.
   We went to a movie and then went for a bite to eat.
 
-Anschluss, der: connection
+Anschluss, der, -es|-e: connection, line, contact
+  Verbindung zu einem Netz / System; Telefon mit einer bestimmten Nummer
   einen Anschluss legen: to lay a connection
 
 anschreiben /ˈanʃraibən/: to write down, to write to, to put on your tab
@@ -1380,7 +1384,8 @@ Antragsteller /ˈantraːkʃtɛlɐ/, Antragstellerin: applicant, claimant, petiti
 
 antrocknen: to begin to dry
 
-Antwort /ˈantvɔrt/, die: answer, reply, response
+Antwort /ˈantvɔrt/, die, ~|-en: answer, reply, response
+  eine Äußerung, mit der man auf eine Frage, Bitte usw. reagiert
   die richtige Antwort geben
   to give the right answer
 
@@ -2327,6 +2332,11 @@ ausreden /ˈausreːdən/:
   Sie ließ sich nicht ausreden, dass ich etwas gegen sie habe.
   She wouldn't accept that I have nothing against her.
 
+ausreichen /ˈausraiçən/: to be enough
+  nicht zu wenig sein
+  Das Geld muss noch bis Ende des Monats ausreichen.
+  That money will have to do us till the end of the month.
+
 ausrichten /ˈausrɪçtən/: to achieve, to organize
   jdm etw. ausrichten: to tell sb sth
   Ich soll dir Grüße von ihr ausrichten.
@@ -2428,6 +2438,10 @@ aussehen /ˈauszeːən/: to look, to appear
 aussehend
   eine blendend aussehende Dame: an extremely good-looking lady
   in verdächtig aussehendes Individuum: a suspicious(-looking) character
+
+Äußerung, die: statement
+  das, was jd sagt oder schreibt
+  wegen rassistischer Äußerungen kritisiert werden
 
 aussetzen /ˈauszɛʦən/: to interrupt, to fail, to suspend, to abandon, to offer
   etw. an jdm/etw. aussetzen: to find fault with sb/sth
