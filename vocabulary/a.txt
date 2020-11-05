@@ -167,6 +167,9 @@ Abkürzung /ˈapkʏrʦʊŋ/, die, ~|-en: abbreviation, shortcut
   Abkürzungsverzeichnis: list of abbreviations
   eine Abkürzung nehmen / fahren: to take a shortcut
 
+Ablauf /ˈaplauf/, der: sequence, course, procedure
+  der genaue zeitliche Ablauf der Ereignisse
+
 ablaufen: to expire, to run out, to drain
   Die Frist läuft nächsten Monat ab.
   The deadline expires next month.
@@ -464,6 +467,8 @@ Abwasser /ˈapvasɐ/, das, -s|..: waste water
 Abwechslung /ˈapvɛkslʊŋ/, die: diversion
   eine willkommene Abwechslung: a welcome change
 
+abwechslungsreich /ˈapvɛkslʊŋsraiç/: varied
+
 abwehren /ˈapveːrən/: 
   verhindern, dass er zum Ziel führt; verhindern, dass Schlimmes geschieht oder Schaden entsteht; zurückweisen
 
@@ -512,6 +517,10 @@ abzocken /ˈapʦɔkən/: to rip off
   Be careful – offers like that are one big rip-off!
 
 Achsel /ˈaksəl/, die, ~|-n: shoulder, armpit
+
+Acht, die
+  sich vor jdm / etw. in Acht nehmen: in Bezug auf jd / etw. vorsichtig sein
+  etw. außer Acht lassen: nicht beachten
 
 acht /axt/: eight
   in / vor acht Tagen: in a week/a week ago
@@ -796,6 +805,9 @@ Amt /amt/, das, -(e)s|..er: office, position
   to work at the health authority/youth welfare service/social security office
   in das Amt des Vereinsvorsitzenden gewählt werden
   to be elected to the post of club chairman
+
+amtlich /ˈamtlɪç/: official
+  von einer Behörde kommend
 
 Amtmann -(e)s|..er, Amtfrau: bailiff
 
@@ -1207,6 +1219,10 @@ Annehmlichkeit, die: amenity, convenience 便利設施
 
 anonym /anoˈnyːm/: anonymous
 
+anordnen /ˈan|ɔrdnən/: to arrange, to order
+  in eine bestimmte Ordnung, Reihenfolge bringen;
+  etw. offiziell beschließen und verkünden
+
 anpflanzen /ˈanpflanʦən/: to plant
   im Garten Erdbeeren/einen Baum anpflanzen: to plant strawberries/a tree in the yard
 
@@ -1219,6 +1235,9 @@ anreden /ˈanreːdən/: to address
   An elderly lady spoke to her in the tram.
   Er hat mich gleich mit Du angeredet.
   He addressed me by the familiar "du" form straight away.
+
+anregen /ˈanreːɡən/: to stimulate, to suggest
+  stimulieren, beleben; den Anstoß zu etw. geben
 
 Anrufbeantworter, der, -s|~: answering machine
 
@@ -1657,6 +1676,8 @@ aufdrücken: to press sth on, to stamp sth on sth, to push open
   Er drückte die Tür auf durch Knopfdruck.
   He pressed the button and the door opened.
 
+Aufeinanderfolge: sequence, succession
+
 aufessen /ˈauf|ɛsən/: to eat up, to finish off
   Sie haben das ganze Brot aufgegessen.
   They ate all the bread.
@@ -1995,8 +2016,10 @@ auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to show 
   I'm afraid some unexpected difficulties have cropped up.
 
 Auftrag /ˈauftraːk/, der, -(e)s|..e /ˈauftrɛːɡə/: task, job, order, contract
+  etw., das man auf jds Bitte oder Befehl hin tun soll
   Er bekam von seiner Mutter den Auftrag, Brot einzukaufen.
   His mother gave him the task of buying bread.
+  im Auftrag: auf Veranlassung
   Er handelte im Auftrag der Regierung.
   He was acting on behalf of the government.
   einen Großauftrag von der Gemeinde erhalten
@@ -2169,6 +2192,9 @@ ausführen /ˈausfyːrən/: to carry out, to perform, to execute, to export
 ausführlich /ˈausfyːɐlɪç/: detailed
   Für eine ausführlichere Antwort habe ich jetzt keine Zeit.
   I don't have time right now for a more detailed reply.
+
+Ausführung /ˈausfyːrʊŋ/, die: execution
+  das Ausführen eines Auftrags, Befehls usw
 
 ausfüllen /ˈausfʏlən/: to fill out
   Sie haben nicht alle Pflichtfelder ausgefüllt.

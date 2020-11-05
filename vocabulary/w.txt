@@ -42,6 +42,10 @@ wagen: to dare, to venture, to risk
   I'd risk my life for you anytime.
 
 wählen /ˈvɛːlən/: to choose, to vote (for), to elect, to dial
+  wähle, wählst, wählt, habe gewählt
+  sich für eine von mehreren Möglichkeiten entscheiden;
+  jdm bei einer Wahl seine / ihre Stimme geben;
+  die Ziffern einer Telefonnummer drücken, um jdn anzurufen
   mit sorgfältig gewählten Worten: in carefully chosen words
   wählen gehen: to go and vote
   gewählt werden: to be elected
@@ -435,7 +439,11 @@ wer /veːɐ/: who, whoever
   Wer mitkommen will, soll sich melden.
   Anyone who wants to come should let us know.
 
-werben /ˈvɛrbən/: to recruit, to attract, to advertise
+werben /ˈvɛrbən/: to recruit, to attract, to advertise, to campaign, to court
+  jdn für sich / eine Sache überzeugen;
+  versuchen, Kunden für ein Produkt zu interessieren;
+  versuchen, andere von etw. zu überzeugen;
+  versuchen, jdn / etw. für sich zu gewinnen
   Der Verein versuchte, Sponsoren für das Projekt zu werben.
   The organization tried to find sponsors for the project.
   im Fernsehen für Bier werben: to advertise beer on TV

@@ -246,6 +246,8 @@ pfui /pfui/: ugh
   Pfui, wie eklig!
   Ugh, how disgusting!
 
+Phönix: phoenix
+
 Physik /fyˈziːk/, die: physics 
 
 Physiker /ˈfyːzikɐ/, Physikerin: physicist
@@ -479,7 +481,7 @@ Prophezeiung /profəˈʦaiʊŋ/, die, ~|-en: prophecy
   Ihre Prophezeiungen sind bisher alle wahr geworden.
   Her prophecies have all come true up to now.
 
-Prostituierte /prɔstituˈ|iːɐtə/, die, -n: prostitute
+Prostituierte /prɔstituˈ|iːɐtə/, der/die, -n: prostitute
 
 Protokoll /protoˈkɔl/, das, -e: record, minutes, transcript
   etw. im Protokoll festhalten: to record sth in the minutes

@@ -55,6 +55,7 @@ Nachname /ˈnaːxnaːmə/, der: surname
 Nachricht /ˈnaːxrɪçt/, die, -en: message, news
   Er hat mir auf dem Anrufbeantworter eine Nachricht hinterlassen.
   He left me a message on my answering machine.
+  Kann ich eine Nachricht hinterlassen?
   die Nachrichten hören / sehen: to listen to/watch the news
   Ich habe in den Nachrichten gehört ...
 
@@ -282,12 +283,16 @@ nein: no
 Nelke /ˈnɛlkə/, die, -n: carnation
   ein Strauß Nelken: a bunch of carnations
 
-nennen /ˈnɛnən/ to call (as a name)
+nennen /ˈnɛnən/ to call (as a name), to name
   nenne, nennst, nennt, habe genannt
   Wie wollt ihr das Kind nennen?
   What are you going to call the child?
   Du kannst mich gern Basti nennen.
   You can call me Basti.
+
+Nennung /ˈnɛnʊŋ/, die:
+  das Nennen
+  Die Veröffentlichung erfolgte ohne Nennung des Autors.
 
 Nerv /nɛrf/, der, -s/-en|-en: nerve
   Die Schmerzen kommen von einem eingeklemmten Nerv.

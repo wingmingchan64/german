@@ -57,12 +57,18 @@ fahren /ˈfaːrən/: to drive, to go
 Fahrgast /ˈfaːɐɡast/, der, -(e)s|..e
   Die Fahrgäste wurden gebeten auszusteigen.
 
+fahrig /ˈfaːrɪç/: nervous, distracted
+  fahrige Bewegungen
+
 Fahrkarte /ˈfaːɐkartə/, die, ~|-n: ticket
   eine Fahrkarte lösen / am Schalter kaufen
   eine einfache Fahrkarte
   eine Rückfahrkarte
 
 Fahrkartenautomaten
+
+fahrlässig /ˈfaːɐlɛsɪç/: negligent
+  extrem unvorsichtig, die nötige Sorgfalt außer Acht lassend
 
 Fahrplan /ˈfaːɐplaːn/, der, -(e)s|..e: schedule, timetable
   Der Zug wird den Fahrplan nicht einhalten können.
@@ -206,17 +212,6 @@ fast /fast/: almost
   The picture is almost finished.
   Jetzt hätte ich fast vergessen, die Tür abzuschließen.
   I almost forgot to lock the door.
-
-festhalten /ˈfɛsthaltən/: to hold on to
-  jdn am Arm festhalten: to hold on to sb's arm
-  Er wurde an der Grenze festgehalten.
-  He was detained at the border.
-  Sind diese Regeln irgendwo schriftlich festgehalten?
-  Have these rules been put in writing anywhere?
-  Der Radfahrer hielt sich am Auto fest und ließ sich ziehen.
-  The cyclist held on to the car and let it pull him along.
-  Die Partei will trotz allem an ihrem Kandidaten / an ihren Plänen festhalten.
-  In spite of all this, the party plans to stand by its candidate / stick to its plans.
 
 faszinieren /fasʦiˈniːrən/: to fascinate
   Die Archäologie hat ihn schon immer fasziniert.
@@ -375,6 +370,14 @@ festdrehen: to screw up tightly
 
 festhalten /ˈfɛsthaltən/: to hold on to, to detain, to record, to stand by sb
   jdn am Arm festhalten: to hold on to sb's arm
+  Er wurde an der Grenze festgehalten.
+  He was detained at the border.
+  Sind diese Regeln irgendwo schriftlich festgehalten?
+  Have these rules been put in writing anywhere?
+  Der Radfahrer hielt sich am Auto fest und ließ sich ziehen.
+  The cyclist held on to the car and let it pull him along.
+  Die Partei will trotz allem an ihrem Kandidaten / an ihren Plänen festhalten.
+  In spite of all this, the party plans to stand by its candidate / stick to its plans.
 
 festlegen /ˈfɛstleːɡən/: to fix, to determine
   im Friedensabkommen den Verlauf der Grenzen festlegen

@@ -481,6 +481,7 @@ Begriff /bəˈɡrɪf/, der, -e: idea, notion, term
   ein Begriff aus der Fachsprache: a technical term
 
 Begründung /bəˈɡrʏndʊŋ/, die, -en: explanation
+  Nennung von Gründen
   Der Vertrag kann jederzeit ohne Begründung gekündigt werden.
   The contract can be terminated at any time without giving reasons for the termination.
   Eine längere Krankheit stellt keine ausreichende Begründung für eine Kündigung dar.
@@ -539,7 +540,7 @@ Behinderte /bəˈhɪndɐtə/: disabled person
   ein Heim für geistig Behinderte
   a home for the mentally handicapped
 
-Behörde /bəˈhøːɐdə/, die, -n: authority, agency
+Behörde /bəˈhøːɐdə/, die, ~|-n: authority, agency
   Welche Behörde ist für die Genehmigung von Bauvorhaben zuständig?
   Which authority is responsible for giving planning permission?
 
@@ -678,6 +679,8 @@ belauschen /bəˈlauʃən/: to eavesdrop on
   seine Eltern / ein Gespräch belauschen: to eavesdrop on your parents/a conversation
 
 beleben /bəˈleːbən/: to stimulate, to be revitalized, to brighten up, to liven up
+  anregend wirken, aktiver machen; lebhafter und schwungvoller werden;
+  abwechslungsreicher und interessanter machen; sich mit Menschen, Fahrzeugen usw. füllen
   Allmählich beleben sich die Straßen.
   The streets are gradually beginning to liven up.
 
@@ -954,6 +957,8 @@ beschimpfen /bəˈʃɪmpfən/: to insult, to swear at, to abuse
   jdn am Telefon wüst beschimpfen: to hurl abuse at sb on the phone
 
 beschließen /bəˈʃliːsən/: to decide, to resolve, to pass, to end
+  etw. entscheiden, festlegen; über etw. offiziell abstimmen, entscheiden;
+  etw. mit etw. beenden
   Wir haben beschlossen, dieses Jahr nach Italien zu reisen.
   We've decided to travel to Italy this year.
   Der neue Etat wurde mit großer Mehrheit beschlossen.

@@ -53,6 +53,9 @@ verändern /fɛɐˈ|ɛndɐn/: to change
 Veränderung /fɛɐˈ|ɛndərʊŋ/, die: change
   Eine seltsame Veränderung ging in ihm vor.
 
+Veranlassung /fɐɐˈ|anlasʊŋ/, die: instigation
+  Vorgang, etw. anzuordnen, anzuregen, vorzuschlagen o. Ä
+
 veranstalten /fɛɐˈ|anʃtaltən/: to organize
   Zu seinen Ehren wurde ein feierlicher Empfang veranstaltet.
   A ceremonial reception was organized in his honor.
@@ -434,6 +437,9 @@ Verkleidung /fɛɐˈklaidʊŋ/, die, ~|-en: disguise, fancy dress
   In dieser Verkleidung wird dich niemand erkennen.
   No-one will recognize you in this disguise.
 
+verkünden /fɛɐˈkʏndən/: to announce
+  öffentlich sagen
+
 Verlag /fɛɐˈlaːk/, der, -es|-e: publishing company
   In welchem Verlag ist der Roman erschienen?
   Who was the novel published by?
@@ -601,6 +607,8 @@ vernünftig /fɛɐˈnʏnftɪç/: sensible
   Be sensible/reasonable!
 
 veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
+
+Veröffentlichung /fɛɐˈ|œfəntlɪçʊŋ/, die: publication
 
 verpacken /fɛɐˈpakən/: to pack(age), to wrap (up)
 
@@ -951,7 +959,11 @@ Verurteilte /fɛɐˈ|ʊrtailtə/: convicted man/woman
   Der Verurteilte will sein Geständnis widerrufen.
   The convicted man wants to retract his confession. 
 
+vervollständigen /fɛɐˈfɔlʃtɛndɪɡən/: to complete
+  Fehlendes ergänzen
+
 verwählen /fɛɐˈvɛːlən/, sich: to dial the wrong number
+  die falsche Telefonnummer wählen
   Verzeihung, ich habe mich verwählt.
 
 verwandt: related
@@ -1251,6 +1263,9 @@ Vorfall /ˈfoːɐfal/, der: incident
 vorfinden /ˈfoːɐfɪndən/: to find, to discover
   im Job beste Arbeitsbedingungen vorfinden
   to find excellent working conditions in the job
+
+Vorgang /ˈfoːɐɡaŋ/, der, -(e)s|..e: occurrence, event, process, file
+  das, was geschieht; 
 
 vorgeben /ˈfoːɐɡeːbən/: to fix in advance, to pretend
   Die Bearbeitungszeit ist vorgegeben.
