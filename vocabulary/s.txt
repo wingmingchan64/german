@@ -2188,6 +2188,9 @@ Störung /ˈʃtøːrʊŋ/, die, ~|-en: disturbance, disruption, fault
   Schizophrenia is a psychological disorder.
 
 Stoß /ʃtoːs/, der, -es|..e: push, shove, stroke, impact, tremor
+  schnelle Bewegung, mit der man jdn / etw. plötzlich fest berührt;
+  mit einer Waffe ausgeführter Schlag, Stich;
+  eine der kräftigen Bewegungen, mit denen man sich beim Schwimmen oder Rudern bewegt; heftige Berührung durch einen Sturz, Unfall
   einen Stoß vertragen können (lit, fig): to be able to take a knock (or two)
   sich (dative) or seinem Herzen einen Stoß geben: to pluck up or take courage
   das gab ihm den letzten Stoß (fig): that was the last straw or final blow (for him)
@@ -2212,6 +2215,7 @@ stoßen /ˈʃtoːsən/: to push, to shove, to strike, to bump, to jerk
   He only joined us later.
 
 Stoßstange /ˈʃtoːsʃtaŋə/, die, -e|-en: bumper
+  Teil aus Blech oder Plastik vorn und hinten an Autos, das als Schutz bei Unfällen dient
 
 Stoßzeit /ˈʃtoːsʦait/, die, -en: rush hour, busy time
   Während der Stoßzeiten dürfen keine Fahrräder in der S-Bahn mitgenommen werden.
@@ -2400,6 +2404,10 @@ Sturm /ʃtʊrm/, der: storm
   A storm blew up.
 
 stürmen /ˈʃtʏrmən/: to storm, to rush, to attack, to throng onto/into
+
+Sturz /ʃtʊrʦ/, der: fall
+  das Hinfallen, Stürzen; der plötzliche Rückgang, das plötzliche Sinken
+  sich bei einem Sturz verletzen
 
 stürzen /ˈʃtʏrʦən/: to fall, to drop, to throw
   mit dem / vom Fahrrad stürzen: to fall off your bike
