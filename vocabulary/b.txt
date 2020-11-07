@@ -947,6 +947,9 @@ bescheiden: to content yourself, to give, to inform
 
 bescheiden: humbly, modestly
 
+bescheinigen /bəˈʃainɪɡən/: to certify, to attest
+  etw. schriftlich bestätigen, feststellen; eine Aussage über Eigenschaften treffen
+
 Bescherung /bəˈʃeːrʊŋ/, die, ~|-en: giving Christmas presents, state of affairs
   Die Kinder warten schon ungeduldig auf die Bescherung.
   The children are already waiting impatiently for their Christmas presents to be given to them.
@@ -1081,6 +1084,7 @@ Bestandteil /bəˈʃtanttail/, der, -(e)s|-e: component
   eine Maschine in ihre Bestandteile zerlegen
 
 bestätigen /bəˈʃtɛːtɪɡən/: to confirm
+  zeigen, dass eine Aussage wahr ist
   Die Zahlen bestätigten die Schätzungen der Experten.
   The figures confirmed the experts' estimates.
 

@@ -307,7 +307,8 @@ Scheibe /ˈʃaibə/, die, -n: slice, pane, disk
   bei einem Auto eine Scheibe einschlagen: to smash in a window of a car
   eine neue Scheibe herausbringen: to bring out a new disc (CD)
 
-Schein /ʃain/, der, -e: light, glow, appearances, check, coupon, shine, show, ticket
+Schein /ʃain/, der, -(e)s|-e: light, glow, appearances, bill (money), certificate, check, coupon, shine, show, ticket
+  Licht, das von etw. ausgeht; Glanz; äußerer Eindruck, der nicht der Realität entspricht; 
   Im Schein der Kerzen sah alles wie verzaubert aus.
   In the candlelight everything looked magical.
   Der Schein trügt!
@@ -2012,6 +2013,9 @@ stellen /ˈʃtɛlən/: to put, to place, to set, to provide
   einstellig
 
 Stellung /ˈʃtɛlʊŋ/, die: position
+
+stellvertretend /ˈʃtɛlfɛɐtreːtənt/: deputy, acting
+  als jds Stellvertreter tätig
 
 Stellvertreter, Stellvertreterin: representative, deputy
 
