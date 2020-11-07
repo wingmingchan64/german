@@ -560,7 +560,8 @@ einrichten /ˈainrɪçtən/: to furnish, to set up, to arrange
   Ich hatte mich schon darauf eingerichtet, eine Weile warten zu müssen.
   I had already prepared myself for a long wait.
 
-Einrichtung /ˈainrɪçtʊŋ/, die, -en: furnishings, institution
+Einrichtung /ˈainrɪçtʊŋ/, die, -en: furnishings, institution, establishment
+  Möbel, Teppiche usw; ein Betrieb, der öffentliche Aufgaben erfüllt; das Einrichten
   ein Haus mit moderner Einrichtung: a house with modern furnishings
   Dieser Kindergarten ist eine kirchliche Einrichtung.
   This kindergarten is a church-run institution.
@@ -583,6 +584,7 @@ einsammeln /ˈainzaməln/: to collect
   The kindergarten teacher gathers up the toys. 
 
 Einsatz /ˈainzaʦ/, der, -es|..e: operation, deployment, use, effort, commitment, entry
+  eine Aktion von Polizei, Feuerwehr, Militär o. Ä. aus einem bestimmten Anlass; 
   Mehrere Helfer wurden bei dem Einsatz verletzt.
   Several helpers were injured in the operation.
   Alle Mitarbeiter zeigten vollen Einsatz.
@@ -1245,7 +1247,7 @@ erfrischen /ɛɐˈfrɪʃən/: to refresh
 
 Erfrischung: refreshment
 
-erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true
+erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true, to perform
   Leider haben sich meine Träume nicht erfüllt.
   Unfortunately my dreams weren't fulfilled.
 

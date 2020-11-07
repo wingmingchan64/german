@@ -413,7 +413,8 @@ Lehrer /ˈleːrɐ/, Lehrerin: teacher
 Lehrling /ˈleːɐlɪŋ/, der, -s|-e: apprentice, trainee
   Bäckerlehrling: apprentice baker
 
-Leiche /ˈlaiçə/, die, ~|-n: corpse
+Leiche /ˈlaiçə/, die, ~|-n: corpse, body
+  der Körper eines toten Menschen
   Die Polizei fand in der Wohnung die Leiche eines Mannes.
   The police found the body of a man in the apartment.
   über Leichen gehen: to stop at nothing

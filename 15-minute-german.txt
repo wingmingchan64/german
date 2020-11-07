@@ -762,17 +762,17 @@ Ich will den Bus nehmen. Ich möchte / will kein Taxi nehmen.
 das Rathaus
 die Brücke
 die Kirche
-der Parkplatz: parking lot
-das Stadtzentrum: downtown
+der Parkplatz
+das Stadtzentrum
 der Platz
 die Kunstgalerie
 das Museum
 
 die Tankstelle
-das Verkehrsbüro: tourist information
-die Werkstatt: car repairs
-das Schwimmbad: swimming pool
-die Bibliothek: library
+das Verkehrsbüro
+die Werkstatt
+das Schwimmbad
+die Bibliothek
 
 in dem => im
 zu dem => zum
@@ -789,29 +789,26 @@ Nein, aber es gibt ein Museum.
 Wie komme ich zum Museum?
 Es ist dort.
 Vielen Dank.
+
 ========================================================
 Die Wegbeschreibung
 ========================================================
-Gehen Sie nach links/rechts
-auf der linken Seite/rechten Seite
+Warm up
+in der Nähe vom Bahnhof (entlang)
+Nehmen Sie die erste Straße links.
+Wo gehen Sie hin?
+
+Gehen Sie nach links / rechts
+auf der linken Seite / rechten Seite
 geradeaus (weiter)
 Wie komme ich zum Schwimmbad?
 die erste (Straße) links
 
-die Fußgängerzone: pedestrian zone
+die Fußgängerzone
 Gehen Sie am Hauptplatz nach links.
 Ich habe mich verlaufen.
-der Brunnen: fountain
+der Brunnen
 Wir sind hier.
-
-die Ampel
-die Ecke
-die Straße
-die Hauptstraße
-am Ende der Straße
-der Stadtplan
-die Überführung: overpass
-gegenüber: opposite
 
 Gibt es ein Restaurant in der Stadt?
 Ja, am Bahnhof.
@@ -819,6 +816,20 @@ Wie komme ich zum Bahnhof?
 Gehen Sie an der Ampel nach links.
 Ist es weit?
 Nein, es fünf Minuten zu Fuß.
+
+die Ampel
+die Ecke
+die Straße
+die Hauptstraße
+am Ende der Straße
+der Stadtplan
+die Überführung
+gegenüber
+
+Gehen Sie am Ende der Straße.
+Es liegt / ist gegenüber dem Museum.
+Es ist fünf Minuten mit dem Bus.
+
 ========================================================
 Die Besichtigung
 ========================================================

@@ -811,6 +811,9 @@ schön /ʃøːn/
 Schönheit /ˈʃøːnhait/, die, ~|-en: beauty
   Schönheitsideal: ideal of beauty
 
+schöpfen /ˈʃœpfən/: to ladle, to draw, to create
+  mit den Händen, einem Löffel, Eimer o. Ä. eine Flüssigkeit aus etw. holen; etw. Neues empfinden, etw. wiederfinden; Neues entstehen lassen
+
 Schorle /ˈʃɔrlə/, die: wine mixed with mineral water or lemonade, fruit juice mixed with mineral water
 
 schossen => schießen
@@ -1098,6 +1101,7 @@ schwierig /ˈʃviːrɪç/: difficult
 Schwierigkeit /ˈʃviːrɪçkait/, die: difficulty, complexity
 
 Schwimmbad /ˈʃvɪmbaːt/, das, Schwimmbäder: swimming pool
+  Gebäude oder Anlage im Freien mit Becken zum Baden und Schwimmen
   ins Schwimmbad gehen: to go to the swimming pool 
 
 schwimmen /ˈʃvɪmən/: to swim

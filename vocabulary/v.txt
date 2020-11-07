@@ -417,14 +417,22 @@ verkaufen /fɛɐˈkaufən/: to sell
 
 Verkäufer /fɛɐˈkɔyfɐ/, Verkäuferin: salesman/saleswoman, sales clerk
 
-Verkehr /fɛɐˈkeːɐ/, der: traffic
+Verkehr /fɛɐˈkeːɐ/, der: traffic, communication, sexual intercourse
   Auf dieser Straße ist immer viel Verkehr.
-  There's always a lot of traffic on this road.
+  dienstlich Verkehr mit jdm haben
+  Kurz vor ihrem Tod hatte sie noch Verkehr.
 
 verkehren /̯fɛɐˈkeːrən/: to run, to associate, to frequent
   Zwischen dem Dorf und der Stadt verkehren Busse.
   Mit solchen Leuten verkehre ich nicht!
   In dieser Kneipe verkehren fast nur Künstler.
+
+verkehrsberuhigt /fɛɐˈkeːɐsbəruːɪçt/: traffic-calmed
+
+Verkehrsbüro, das: tourist information office
+
+Verkehrsdurchsage, die:
+  Meldung im Radio über Staus, Unfälle usw.
 
 Verkehrsmittel /fɛɐˈkeːɐsmɪtəl/, das: means of transportation
 
@@ -768,6 +776,7 @@ Version /vɛrˈzjoːn/, die, -en: version, theory
   The new version of this computer program comes onto the market next month.
 
 versorgen: to supply, to support, to look after
+  etw. Benötigtes bereitstellen
   Das Gehirn wurde nicht ausreichend mit Sauerstoff versorgt.
   The brain did not receive sufficient oxygen.
 

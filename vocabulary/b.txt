@@ -223,6 +223,9 @@ Becher /ˈbɛçɐ/, der: cup, carton, pot
   He drank his coffee from a plastic cup.
   einen Becher Joghurt / Sahne / Pudding kaufen: to buy a pot of yoghurt/cream/pudding
 
+Becken, das: basin, sink, pool
+  eine Art große Schüssel mit Wasserhahn und Abfluss als fester Teil der Einrichtung
+
 Bedacht /bəˈdaxt/, der, -s|uncountable
   mit Bedacht: vorsichtig, absichtlich
 
@@ -830,6 +833,9 @@ bereits /bəˈraits/: already, as early as
   Es schneite bereits im Oktober.
   It snowed as early as October.
 
+bereitstellen /bəˈraitʃtɛlən/: to provide, to supply
+  zur Benutzung, zum Einsatz zur Verfügung stellen
+
 Berg /bɛrk/, der: mountain
 
 Bergwacht /ˈbɛrkvaxt/, die: mountain rescue service
@@ -1229,6 +1235,7 @@ Betreuung /bəˈtrɔyʊŋ/, die, -en: supervision, care
   to take over the supervision of the youth group
 
 Betrieb /bəˈtriːp/, der, -e: operation, company, business
+  Firma, die Waren produziert oder Dienstleistungen anbietet
   ein privater Betrieb mit 50 Angestellten: a private company with 50 employees
 
 betrinken: to get drunk
@@ -1460,7 +1467,7 @@ Bibel /ˈbiːbəl/, die, -n: bible
 
 Biber /ˈbiːbɐ/, der, Biber: beaver
 
-Bibliothek /biblioˈteːk/, die, -e: library
+Bibliothek /biblioˈteːk/, die, ~|-en: library
   sich aus der Universitätsbibliothek ein Buch ausleihen
   to borrow a book from the university library
 
@@ -1915,6 +1922,7 @@ Bruch /brʊx/, der: break, breach
   after the dam was breached 
 
 Brücke /ˈbrʏkə/, die, Brücken: bridge
+  Bauwerk, das über einen Fluss, eine Eisenbahnlinie o. Ä. führt
   Eine Hängebrücke führte über den Fluss.
   A rope bridge led across the river.
 
@@ -1927,6 +1935,11 @@ brüllen /ˈbrʏlən/: to roar, to scream
   vor Durst brüllende Rinder: cattle bellowing with thirst
 ​ Er brüllte vor Schmerz.
   He was screaming with pain.
+
+Brunnen /ˈbrʊnən/, der, -s|~: well, fountain
+  tiefes Loch in der Erde, aus dem man Wasser schöpft; Becken, in dem Wasser nach oben spritzt
+  einen Brunnen bohren
+  Bei schönem Wetter sitzen viele junge Leute um den Brunnen vor dem Rathaus herum.
 
 Brust /brʊst/, die, ~|..e: chest, breast
   Er hat eine sehr behaarte Brust.
