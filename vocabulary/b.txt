@@ -1075,7 +1075,10 @@ besprechen /bəˈʃprɛçən/: to discuss, to consult, to review
 
 Besprechung /bəˈʃprɛçʊŋ/, die, ~|-en: meeting
   Mein Kollege ist momentan in einer Besprechung.
-  My colleague is at a meeting right now.
+
+Bestandteil /bəˈʃtanttail/, der, -(e)s|-e: component
+  einer der Teile, aus denen etw. zusammengesetzt ist, besteht
+  eine Maschine in ihre Bestandteile zerlegen
 
 bestätigen /bəˈʃtɛːtɪɡən/: to confirm
   Die Zahlen bestätigten die Schätzungen der Experten.

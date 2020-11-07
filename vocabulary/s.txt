@@ -2138,7 +2138,9 @@ stocken /ˈʃtɔkən/: to falter, to come to a halt, to be interrupted
   Er stockte kurz, als er sie sah.
   He faltered for a moment when he saw her.
 
-Stoff /ʃtɔf/, der, -(e)s|-e: substance, material, subject matter
+Stoff /ʃtɔf/, der, -(e)s|-e: substance, material, subject matter, fabric
+  einer der festen, flüssigen oder gasförmigen Bestandteile der Welt;
+  weiches, dünnes Material, das zu Kleidungsstücken usw. verarbeitet wird;
   der sichere Umgang mit radioaktiven Stoffen
   the safe handling of radioactive substances
   ein Kleid aus rotem Stoff: a dress made from red material
