@@ -302,6 +302,7 @@ Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
 schauten => schauen
 
 Scheibe /ˈʃaibə/, die, -n: slice, pane, disk
+  relativ dünnes abgeschnittenes Stück; dünnes flaches Stück; Gegenstand mit einer flachen, runden Form
   eine Scheibe Brot essen: to eat a slice of bread
   bei einem Auto eine Scheibe einschlagen: to smash in a window of a car
   eine neue Scheibe herausbringen: to bring out a new disc (CD)
@@ -324,6 +325,7 @@ scheinen /ˈʃainən/: to shine, to seem
   That doesn't seem a very good idea to me.
 
 Scheinwerfer /ˈʃainvɛrfɐ/, der, -s|~: headlight, floodlight, spotlight
+  helle Lampe an Fahrzeugen, auf der Bühne usw., die das Licht in eine Richtung konzentriert
   Von den Scheinwerfern geblendet, blieb das Reh auf der Straße stehen.
   The deer stopped in the road, blinded by the headlights.
 
@@ -983,9 +985,11 @@ schütten /ˈʃʏtən/: to pour, to tip
 schütter: thin
   schütteres Haar
 
-Schutz /ʃʊʦ/, der: protection , shelter
+Schutz /ʃʊʦ/, der, -es: protection , shelter
+  etw., das Sicherheit gibt, das vor einer Gefahr schützt
 
 schützen /ˈʃʏʦən/: to protect
+  jdn / etw. vor einer Gefahr bewahren
   sich mit Mütze und Handschuhen gegen die Kälte schützen
   to wear a hat and gloves to keep the cold out
 
@@ -1283,6 +1287,10 @@ senken /ˈzɛŋkən/: to lower, to sink, to drop
   The government promised to lower taxes.
   Er atmet noch, man sieht, wie sich der Brustkorb hebt und senkt.
   He's still breathing. You can see his rib cage rising and falling.
+
+senkrecht /ˈzɛŋkrɛçt/
+  von oben genau nach unten oder umgekehrt verlaufend
+  => vertikal
 
 September /zɛpˈtɛmbɐ/, der, (-s)|~
 
@@ -1711,8 +1719,9 @@ Sport /ʃpɔrt/, der, -(e)s|uncountable: sport, sports
 
 Sportart, die, ~|-en: (kind of) sport
 
-Spott /ʃpɔt/, der: mockery
-  Sie litt sehr unter dem Spott ihrer Mitschüler.
+Spott /ʃpɔt/, der, -(e)s: mockery
+  bes. Worte, mit denen man sich meist auf boshafte Weise über jdn / etw. lustig macht
+  Sie litt sehr unter dem Spott ihrer Mitschüler. [litt => leiden]
   She was mercilessly teased by the other kids at her school.
 
 Sprache /ˈʃpraːxə/, die, -n: language
@@ -1813,6 +1822,7 @@ ständig /ˈʃtɛndɪç/: permanent, constantly
   Quit interrupting me all the time! 
 
 Stange /ˈʃtaŋə/, die: pole, bar, stick
+  langer, dünner Gegenstand aus Holz, Metall
 
 stark /ʃtark/, stärker: strong
 

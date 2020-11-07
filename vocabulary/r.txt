@@ -13,6 +13,7 @@ rabenschwarz /ˈrabənʃvarʦ/: jet-black, pitch-black
   ein rabenschwarzer Tag für die Börse: a black day for the stock markets
 
 Rad /raːt/, das, -(e)s|..er /ˈrɛːdɐ/: wheel
+  rundes Teil eines Fahrzeugs, das sich beim Fahren dreht
   ein Rad wechseln
 
 radeln /ˈraːdln/: to cycle
@@ -396,6 +397,9 @@ Reichtum /ˈraiçtuːm/, der, -(e)s|..er: wealth
   zu Reichtum kommen: to become wealthy
   immenser Reichtum an Bodenschätzen: huge abundance of mineral resources
 
+reif /raif/
+  voll entwickelt und bereit zum Ernten (und Essen)
+
 Reife /ˈraifə/, die, |uncountable: ripeness, maturity
   Tomaten im Gewächshaus schneller zur Reife bringen
   to get tomatoes to ripen more quickly in the greenhouse
@@ -404,10 +408,12 @@ Reife /ˈraifə/, die, |uncountable: ripeness, maturity
   mittlere Reife: intermediate high school diploma awarded after ten years of schooling
 
 Reifen /ˈraifən/, der, -s|~: tire
+  Teil von Rädern aus Gummi (meist mit Luft gefüllt)
   mit quietschenden Reifen um die Kurve fahren
   to drive around the bend with tires screeching
 
 reifen /ˈraifən/: to ripen
+  wachsen und reif werden
   Bei dem kalten Wetter reifen die Äpfel erst spät.
   Der Wein reift im Fass.
 

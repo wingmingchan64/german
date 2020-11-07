@@ -691,7 +691,7 @@ der Reifen
 das Rad
 die Tür
 die Stoßstange /ˈʃtoːsʃtaŋə/
-die Scheinwerfer: headlights
+die Scheinwerfer, m, pl
 
 Signs:
 die Einbahnstraße: one way
@@ -708,18 +708,36 @@ das Benzin
 der Diesel
 das Öl
 der Motor
-das Getriebe: gearbox
-der Blinker: turn signal
-ein Platten: flat tire
-der Auspuff: exhaust
+das Getriebe
+der Blinker
+ein Platten
+der Auspuff
 der Führerschein
+
+Mein Getriebe funktioniert nicht.
+Ich habe einen Platten (platten Reifen).
+
 ========================================================
 Wiederholung
 ========================================================
+der Bus
+das Taxi
+das Auto
+das Fahrrad
+der Zug
+
+Ich gehe zum Bahnhof.
+Wie geht es dir?
+Ich nehme den Rehbraten.
+Wir gehen nach Berlin.
+Nehmen Sie die erste Straße links.
+Wo gehen Sie hin?
+
 Haben Sie Kuchen?
-Möchtest du eine Bier?
+Möchtest du ein Bier?
 Haben Sie einen Termin?
 Fahren Sie in der Nähe vom Bahnhof entlang?
+Wo gehst du hin?
 
 Kann ich Ihnen helfen?
 Ich hätte gern zwei Fahrkarten nach Berlin.
@@ -737,8 +755,12 @@ Week 5
 ========================================================
 In der Stadt
 ========================================================
+Warm up
+Wie komme ich zum Museum?
+Ich will den Bus nehmen. Ich möchte / will kein Taxi nehmen.
+
 das Rathaus
-die Brücke: bridge
+die Brücke
 die Kirche
 der Parkplatz: parking lot
 das Stadtzentrum: downtown

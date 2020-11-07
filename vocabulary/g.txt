@@ -364,6 +364,7 @@ gegenseitig /ˈɡeːɡənzaitɪç/: mutual
 
 Gegenstand /ˈɡeːɡənʃtant/, der, ..e: object, subject
   => Ding
+  etw., das eine feste Form hat und das man anfassen kann
   Er wurde mit einem stumpfen Gegenstand erschlagen.
   He was murdered with a blunt object.
   => Thema
@@ -506,6 +507,9 @@ gekonnt => können
 gekräuselt: curly, curled, frizzy, ripply, frilly
   ihre Haare haben sich im Regen gekräuselt
   her hair turned frizzy in the rain
+
+Gelächter /ɡəˈlɛçtɐ/, das, -s: laughter
+  Die Jungen brachen in lautes Gelächter aus.
 
 geladen, geladene => laden 
 
@@ -984,6 +988,7 @@ getrennt: separated, apart
 getreu: true, faithful, exact, loyal
 
 *Getriebe /ɡəˈtriːbə/, das, -s|~: gearbox, transmission
+  Maschinenteil zur Übertragung der vom Motor erzeugten Energie / Bewegung
   Getriebeschaden
 
 gewagt /ɡəˈvaːkt/: daring, risky

@@ -1303,7 +1303,8 @@ bewachen /bəˈvaxən/: to guard, to watch over
 
 bewaffnet /bəˈvafnət/: armed
 
-bewahren /bəˈvaːrən/: to prevent, to save, to maintain
+bewahren /bəˈvaːrən/: to prevent, to save, to maintain, to preserve
+  vor etw. Negativem beschützen; behalten; dafür sorgen, dass etw. weiter (in gutem Zustand) existiert
   jdn davor bewahren, einen großen Fehler zu machen
   to prevent sb from making a big mistake
   Sie wollte sich ihre Unabhängigkeit bewahren.
@@ -1985,16 +1986,23 @@ buddeln /ˈbʊdəln/: to dig
 
 bügeln /ˈbyːɡəln/: to iron
 
+Bühne /ˈbyːnə/, die: stage
+  erhöhte Spielfläche in einem Theater
+  Der Schauspieler betritt die Bühne.
+
 Bulle /ˈbʊlə/, der: bull, cop
 
 bullig /ˈbʊlɪç/: beefy, boiling, to be scorching (od boiling) hot
   bullig heiß sein
 
 Bund /bʊnt/, der: federal government, confederacy, association, league
+  Staat, der aus mehreren Ländern besteht, die sowohl eine eigene als auch eine gemeinsame Regierung haben; Vereinigung mehrerer Personen, Unternehmen
   Bund und Länder: the German federal government and the Länder
   einem Bund beitreten: to join an association
 
 Bündel /ˈbʏndl/, das, -s|~: bundle
+
+Bundes-…: federal
 
 Bundesamt, das: Federal Office
 

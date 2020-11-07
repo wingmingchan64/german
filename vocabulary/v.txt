@@ -485,6 +485,9 @@ Verlauf /fɛɐˈlauf/, der, -(e)s|uncountable: course
   Im Verlauf der Verhandlungen stellte es sich heraus, dass die Parteien nicht zu einem Kompromiss bereit waren.
   During the course of the negotiations, it became apparent that the parties were not prepared to compromise.
 
+verlaufen /fɛɐˈlaufən/: to get lost, to disperse
+  nicht den richtigen Weg finden; in viele Richtungen auseinandergehen; eine Richtung haben; auf bestimmte Weise geschehen, sich entwickeln; die klare Form verlieren
+
 verlegen /fɛɐˈleːɡən/: to move, to mislay, to lose, to lay
   Er wurde auf die Intensivstation verlegt.
   He was moved to the intensive care unit.
@@ -628,6 +631,10 @@ Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
 Verpflichtung /fɛɐˈpflɪçtʊŋ/, die, -en: commitment, obligation
   Sie kam allen Verpflichtungen nach.
   She fulfilled all her obligations.
+
+verprügeln /fɛɐˈpryːɡəln/: to beat up
+  jdn mehrmals heftig schlagen
+  Er wurde von mehreren Mitschülern verprügelt.
 
 verraten /fɛɐˈraːtən/: to tell, to reveal, to betray
   Soll ich dir verraten, wo er sich versteckt hat?
@@ -881,6 +888,8 @@ vertiefen /fɛɐˈtiːfən/: to strengthen, to extend, to deepen
   He had just become absorbed in his book again when the doorbell rang.
   Sie war so in ihre Arbeit vertieft, dass sie ihn nicht kommen hörte.
   She was so absorbed in her work that she didn't hear him coming.
+
+vertikal /vɛrtiˈkaːl/
 
 Vertrag /fɛɐˈtraːk/, der, -(e)s|..e: contract, treaty
   einen Vertrag mit jdm schließen: to sign a contract with sb

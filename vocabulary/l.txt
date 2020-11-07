@@ -435,6 +435,7 @@ Leiden /ˈlaidən/, das: cross, suffering, trouble, ailment, complaint
 
 leiden /ˈlaidən/: to suffer
   leide, leidest, leidet, habe gelitten
+  preterite: litt, littst, litt, litten, littet
 
 leidend: ailing, long-suffering
 
@@ -631,6 +632,8 @@ listig /ˈlɪstɪç/: cunning
   listig wie ein Fuchs: as sly as a fox
 
 Litfaßsäule /ˈlɪtfaszɔylə/, die, -n: advertising pillar
+
+litt => leiden
 
 Lkw /ˈɛlkaːveː/, Lastkraftwagen, der: truck
 
