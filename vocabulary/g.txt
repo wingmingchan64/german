@@ -513,10 +513,12 @@ Gelächter /ɡəˈlɛçtɐ/, das, -s: laughter
 
 geladen, geladene => laden 
 
-gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to
+*Gelände /ɡəˈlɛndə/, das, -s|~: grounds, premises, area, terrain
+
+gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to, to reach
   Wie ist dieses Schreiben in deine Hände gelangt?
   How did that letter find its way into your hands?
-  an die Macht/zu Ruhm gelangen
+  an die Macht / zu Ruhm gelangen
   to come to power/to rise to fame
 
 gelassen: calm, unruffled
@@ -705,6 +707,10 @@ Geografie /ɡeoɡraˈfiː/, die, ~|uncountable
 Geologe /ɡeoˈloːɡə/, -n|-n, -in: geologist
 
 Geologie /ɡeoloˈɡiː/, die, ~|uncountable
+
+Gepäck /ɡəˈpɛk/, das, -(e)s: baggage
+  Koffer und Taschen, die man auf eine Reise mitnimmt
+  das Handgepäck
 
 gepflegt /ɡəˈpfleːkt/: well-groomed, smart, dapper
   Sie hat sehr gepflegte Hände.
@@ -1334,7 +1340,7 @@ greifen /ˈɡraifən/ (nach): to seize, to grab, to reach, to stop
 
 grell /ɡrɛl/: dazzling
 
-Grenze /ˈɡrɛnʦə/, die, ~|-n: border, frontier, mark, threshold
+Grenze /ˈɡrɛnʦə/, die, ~|-n: border, frontier, mark, threshold, limit
   an der Grenze zwischen Deutschland und Polen
   the border between Germany and Poland
   an der Grenze zur Wildnis: at the edge of the wilderness

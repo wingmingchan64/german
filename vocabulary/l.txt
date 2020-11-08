@@ -69,6 +69,11 @@ Lager, das, Lager /ˈlaːɡɐ/: camp, store, depot
   Diese Ware haben wir nicht mehr auf Lager.
   We don't have this product in stock any longer.
 
+lagern /ˈlaːɡɐn/: to store, to put, to camp
+  aufbewahren; in eine bestimmte Stellung bringen; an einem bestimmten Ort im Freien übernachten
+  => aufbewahren
+  => übernachten
+
 lahm /laːm/: lame, limp, dreary
   Er hat ein lahmes Bein. He's lame in one leg.
   Vom vielen Schreiben wird meine Hand lahm.
@@ -516,12 +521,18 @@ Leiter, der: ladder, conductor
   Copper is a good conductor.
 
 lenken /ˈlɛŋkən/: to steer, to drive, to direct, to control
+  die Fahrtrichtung eines Fahrzeugs bestimmen
   Lass mich auch mal lenken!
   Let me have a drive too!
   die Aufmerksamkeit auf sich lenken: to draw attention to yourself
   ein Kind, das sich schwer lenken lässt: a child who is difficult to control
 
+Lenker, der: driver
+  => Fahrer
+
 Lenkrad /ˈlɛŋkraːt/, das, -(e)s|..er /ˈlɛŋkrɛːdɐ/: steering wheel
+  Rad, auf dem die Hände beim Auto usw. liegen, um es zu lenken
+  => Steuer
   Wer saß bei dem Unfall am/hinter dem Lenkrad?
   Who was at the wheel when the accident happened?
 

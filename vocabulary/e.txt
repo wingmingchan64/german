@@ -524,6 +524,8 @@ einmummeln: to wrap up
   ein Kind / sich wegen der Kälte dick einmummeln
 
 Einnahme /ˈainnaːmə/, die, -n: revenue, income, takings
+  erhaltene Geldsumme
+  <=> Ausgaben
   Einnahmen und Ausgaben: receipts and expenditures
   Die Einnahme der Medikamente sollte von einem Arzt überwacht werden.
   The use of the medication should be monitored by a doctor.
@@ -720,7 +722,6 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Der Eintritt in die Ausstellung ist frei.
   Admission to the exhibition is free.
   Eintritt verboten!
-  No entry.
 
 Einwand /ˈainvant/, der, -(e)s|..e: objection
   Hat jemand einen Einwand gegen diesen Vorschlag?

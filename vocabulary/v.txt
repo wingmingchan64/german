@@ -627,6 +627,7 @@ Verpackung /fɛɐˈpakʊŋ/, die, -en: packaging, wrapping
   die Verpackung aufreißen: to tear open the packaging/wrapping
 
 verpassen: to miss, to give
+  nicht zur rechten Zeit irgendwohin kommen; etw. nicht nutzen; jdm (etw. Unangenehmes) geben
   Sie hat den Zug knapp verpasst.
   Sie hat ihre letzte Chance verpasst.
   Der Arzt verpasste mir eine Spritze in den Arm.
@@ -1370,6 +1371,9 @@ vornehmen /ˈfoːɐneːmən/: to make, to carry out
 Vorort /ˈfoːɐ|ɔrt/, der, -e: suburb
   Er wohnt in einem Pariser Vorort.
   He lives in a suburb of Paris.
+
+Vorrichtung /ˈfoːɐrɪçtʊŋ/, die: device
+  (technische) Anlage, die meist als Hilfsmittel für etw. dient
 
 vorrücken /’foːɐrʏkən/: to move forward(s), to advance
   Könnten Sie mit dem Stuhl ein wenig vorrücken?

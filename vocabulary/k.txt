@@ -160,12 +160,16 @@ Kassenzettel /ˈkasənʦɛtəl/, der, -: receipt, sales slip
   Bei Umtausch bitte den Kassenzettel vorlegen.
   Please show the sales slip when exchanging.
 
+kassieren /kaˈsiːrən/: to collect
+  fordern und bekommen
+
 Kastanie /kasˈtaːnjə/, die: chestnut
   Kastanienbaum, Kastanienbäume: chestnut trees
 
 kastanienbraun: maroon, chestnut
 
 Kasten /ˈkastən/, der, ..: box, case, crate
+  Behälter zum Aufbewahren oder Transportieren von Sachen
   ein Kasten Bier: a crate of beer
 
 Kasus /ˈkaːzʊs/, der, ~|~: case
@@ -651,6 +655,8 @@ kochen /ˈkɔxən/: to cook
 Koffer /ˈkɔfɐ/, der, -s|~: suitcase
   Ich brauche einen neuen Koffer.
 
+Kofferkuli, der: cart
+
 Kofferraum, der: trunk
   die Einkäufe in den Kofferraum legen
 
@@ -800,6 +806,9 @@ Konto /ˈkɔnto/, das, -s|Konten: account
   etw. geht auf jds Konto: sb is to blame for sth
   Die Niederlage geht allein auf sein Konto.
   The defeat is entirely his fault.
+
+Kontrolle /kɔnˈtrɔlə/, die
+  das (regelmäßige) Prüfen, ob alles in Ordnung ist; der Zustand, wenn das geschieht, was man will
 
 kontrollieren /kɔntrɔˈliːrən/: to check, to control
   kontrollieren, ob die Fenster zu sind

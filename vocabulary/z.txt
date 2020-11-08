@@ -95,6 +95,10 @@ zeitgenössisch /ˈʦaitɡənœsɪʃ/: contemporary
 
 Zeitplan, der: schedule, timetable
 
+Zeitpunkt /ˈʦaitpʊŋkt/, der, -(e)s|-e
+  bestimmter Augenblick im Ablauf der Zeit
+  den richtigen Zeitpunkt für etw. abwarten / verpassen
+
 Zeitschrift /ˈʦaitʃrɪft/, die, -en: magazine
 
 zeitweise /ˈʦaitvaizə/: temporarily
@@ -304,12 +308,17 @@ Zölibat /ʦœliˈbaːt/, der-das, -(e)s: celibacy
   im Zölibat leben: to practice celibacy
 
 Zoll /ʦɔl/, Zölle, der: customs, customs duty, tariff
+  Abgabe für aus dem Ausland eingeführte Waren [imported goods]; Behörde, die den Zoll kassiert
   am Zoll
   für eine Ware Zoll bezahlen müssen: to have to pay customs duty on an item
   Das Paket liegt noch beim Zoll.
   The package is still at customs.
   Wir müssen erst noch durch den Zoll gehen.
   We have to go through customs first.
+
+zollen
+  jdm etw. zollen: jdm gegenüber etw. zum Ausdruck bringen
+  jdm Respekt / Dank / Anerkennung zollen
 
 Zone /ˈʦoːnə/, die, -n: zone, East Germany
   die Tarifzonen für den Nahverkehr in einer Großstadt
@@ -384,6 +393,9 @@ zufrieden /ʦuˈfriːdən/: satisfied, happy, pleased
 
 Zug /ʦuːk/, der, -(e)s|..e
   Sollen wir fliegen oder mit dem Zug fahren?
+
+Zugang /ˈʦuːɡaŋ/, der, -(e)s|..e: entrance
+  Stelle, an der man in ein Gelände, ein Gebäude oder in einen Raum gelangt
 
 zugeben /ˈʦuːɡeːbən/: to admit
   einen Fehler / Irrtum zugeben: to admit a mistake

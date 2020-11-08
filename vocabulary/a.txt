@@ -83,6 +83,12 @@ abfällig /ˈapfɛlɪç/: derogatory
 abfärben: to run
   seine Farbe auf etw. anderes übertragen
 
+abfertigen /ˈapfɛrtɪɡən/: to dispatch, to process, to check in
+  die Formalitäten für den Transport erledigen; die Formalitäten vor dem Flug erledigen
+
+Abfertigung /ˈapfɛrtiɡʊŋ/, die: dispatch, customs clearance
+  Abfertigungsschalter: check-in desk
+
 abfinden /ˈapfɪndən/: to pay off, to come to terms with
   Der scheidende Manager wurde mit einem Millionenbetrag abgefunden.
   The manager was given a million-dollar/million-euro golden handshake when he left.
@@ -90,6 +96,7 @@ abfinden /ˈapfɪndən/: to pay off, to come to terms with
   He had come to accept the fact that it's never going to work.
 
 Abflug /ˈapfluːk/, der, -(e)s|..e: departure
+  Beginn eines Fluges
   Der Abflug verzögert sich um 30 Minuten.
   The departure will be delayed by 30 minutes.
 
@@ -457,6 +464,9 @@ abwählen /ˈapvɛːlən/: to vote out of office, to drop
   The former chairman was voted out of office with a large majority.
   In der Oberstufe kann ich Latein endlich abwählen.
   When I'm a senior I can finally drop Latin.
+
+abwarten /ˈapvartən/: to wait
+  mit einer Entscheidung oder Aktion auf etw. warten
 
 abwärts: down, downwards
   vom Hals abwärts gelähmt sein
@@ -1150,6 +1160,7 @@ ankündigen /ˈankʏndɪɡən/: to announce
   Does the teacher have to give advance notice of tests like those?
 
 Ankunft /ˈankʊnft/, die, ..e: arrival
+  der Zeitpunkt, an dem jd / etw. ankommt
   Die Ankunft des Zuges verzögert sich voraussichtlich um 10 Minuten.
   The arrival of the train is expected to be delayed by 10 minutes.
 
@@ -1652,6 +1663,7 @@ aufbauen /ˈaufbauən/: to build, to assemble, to set up, to build up
   The tents were built up quickly.
 
 aufbewahren /ˈaufbəvaːrən/: to keep
+  an einem geeigneten Ort lagern
   Wertsachen im Safe aufbewahren: to keep valuables in a safe
   Er hat alle ihre Briefe aufbewahrt.
   He kept all her letters.
@@ -2214,6 +2226,8 @@ ausfüllen /ˈausfʏlən/: to fill out
   You haven't filled out all of the mandatory fields.
 
 Ausgabe /ˈausɡaːbə/, die: expenditure
+  Geld, das man für etw. bezahlt
+  <=> Einnahme
 
 Ausgang /ˈausɡaŋ/, der: exit, outcome, furlough
 
@@ -2612,6 +2626,9 @@ Auswahl /ˈausvaːl/, die, -en: selection, range, choice
   Angesichts des großen Angebots fällt die Auswahl schwer.
   With so much to choose from it's hard to decide.
   eine große / kleine Auswahl: a large/small range
+
+Ausweis, der
+  offizielles Dokument, das die Identität oder die S einer Person zeigt
 
 Ausweisung /ˈausvaizʊŋ/, die: expulsion
 

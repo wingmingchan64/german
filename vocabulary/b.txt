@@ -469,6 +469,9 @@ begreifen /bəˈɡraifən/: to understand, to grasp, to realize
 begreiflich /bə'ɡraiflɪç/: understandable
   schwer begreiflicher Leichtsinn: recklessness that is hard to fathom
 
+begrenzen /bəˈɡrɛnʦən/: to limit, to restrict
+  => Grenze
+
 begrenzt /bəˈɡrɛnʦt/: limited, to a limited extent
   nur begrenzte Zeit zur Verfügung stehen
   to be available for a limited time only
@@ -544,6 +547,7 @@ Behinderte /bəˈhɪndɐtə/: disabled person
   a home for the mentally handicapped
 
 Behörde /bəˈhøːɐdə/, die, ~|-n: authority, agency
+  Institution mit verwaltenden, kontrollierenden Aufgaben;
   Welche Behörde ist für die Genehmigung von Bauvorhaben zuständig?
   Which authority is responsible for giving planning permission?
 
@@ -810,6 +814,8 @@ Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
   Der Flug wurde ohne Berechnung von Gebühren umgebucht.
   The flight was changed at no additional charge.
 
+Berechtigung /bəˈrɛçtɪɡʊŋ/, die: entitlement, right, justification
+
 beredt: expressive
 
 Bereich /bəˈraiç/, der, -e: area, domain, range, section
@@ -1026,6 +1032,9 @@ besetzt /bəˈzɛʦt/: occupied, taken, busy
   Es ist besetzt. The line is busy.
   Ich wollte dich gestern anrufen, aber bei dir war dauernd besetzt.
 
+besichtigen /bəˈzɪçtɪɡən/: 
+  einen Ort besuchen und ansehen; prüfend an einem Ort herumgehen
+
 Besichtigung /bəˈzɪçtɪɡʊŋ/, die, -en: tour, sightseeing, inspection, viewing
   eine Besichtigungstour durch die Stadt: a sightseeing trip through the city
   die Besichtigung eines Hauses, das zum Verkauf steht: viewing a house that is up for sale
@@ -1122,6 +1131,10 @@ bestellen /bəˈʃtɛlən/: to order
 Bestellung /bəˈʃtɛlʊŋ/, die, -en: order
   eine Bestellung aufgeben: to place an order
 
+bestimmen /bəˈʃtɪmən/: to decide, to determine
+  eine Entscheidung über etw. treffen; mit wissenschaftlichen Methoden herausfinden, feststellen
+  => entscheiden
+
 Bestimmung /bəˈʃtɪmʊŋ/, die, ~|-en: regulation, determination, identification, classification, destiny
   die gesetzlichen Bestimmungen einhalten
   to comply with the legal requirements
@@ -1157,6 +1170,9 @@ bestreiten /bəˈʃtraitən/: to deny, to dispute
 
 bestücken /bəˈʃtʏkən/: to equip, to load
   einen Füller mit Patronen bestücken: to equip a fountain pen with cartridges
+
+besuchen /bəˈzuːxən/: 
+  zu Freunden, Verwandten o. Ä. ins Haus gehen, um den Kontakt zu pflegen
 
 betäuben /bəˈtɔybən/: to anesthetize, to stun, to numb, to daze, to deaden
   jdn mit einer Spritze örtlich betäuben: to give sb a local anesthetic
@@ -1750,6 +1766,10 @@ Boot /boːt/, das, -e: boat
   Paddelboot: canoe
 
 Bordell /bɔrˈdɛl/, das: brothel
+
+Bordkarte, die
+  Karte, die man als Fluggast beim Einchecken bekommt und zum Betreten des Flugzeugs vorzeigen muss
+  Bitte halten Sie Ausweis und Bordkarte bereit.
 
 borgen /ˈbɔrɡən/
   jdm etw. borgen: to lend sb sth

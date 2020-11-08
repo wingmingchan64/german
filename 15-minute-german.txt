@@ -833,25 +833,26 @@ Es ist fünf Minuten mit dem Bus.
 ========================================================
 Die Besichtigung
 ========================================================
-der Führer: guidebook
-die Eintrittskarte: admission ticket
-die Öffnungszeiten: opening times
+Warm up
+Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag
+um sechs Uhr
+Wie spät ist es?
+
+der Führer
+die Eintrittskarte
+die Öffnungszeiten
 der Feiertag
-die Ermäßigung /ɛɐˈmɛːsɪɡʊŋ/: discount
-Kinder und Rentner erhalten eine Ermäßigung von 20%.
-Children and seniors receive a 20% discount.
-die Führung: guided tour
+die Ermäßigung
+die Führung
 
 Sind Sie heute Nachmittag geöffnet?
 Ja, aber wir schließen um sechzehn Uhr.
 Gibt es Zugang für Rollstuhlfahrer?
-Do you have wheelchair access?
 Ja, da drüben ist ein Fahrstuhl.
-Yes, there's an elevator over there.
 Danke, ich hätte gern vier Eintrittskarten.
 Bitte sehr, und der Führer ist gratis.
 
-Wann öffnen/schließen Sie?
+Wann öffnen / schließen Sie?
 Wo sind die Toiletten?
 Gibt es Zugang für Rollstuhlfahrer?
 
@@ -861,17 +862,23 @@ Fahrstuhl /ˈfaːɐʃtuːl/, der: elevator
 Das Museum ist geschlossen.
 Sind Sie am Montag geöffnet?
 Ja, aber wir schließen früh.
-Um wie viel Uhr?
+Um wieviel Uhr?
+
 ========================================================
 Im Flughafen
 ========================================================
-die Gepäckausgabe: baggage claim
-der Abflug: departures
-die Ankunft: arrivals
-der Zoll: customs
-die Passkontrolle: passport control
+Warm up
+Sie sind pünktlich.
+die Karte
+Ich gehe nach New York.
+
+die Gepäckausgabe
+der Abflug
+die Ankunft
+der Zoll
+die Passkontrolle
 das Terminal
-der Flugsteig: gate
+der Flugsteig
 die Flugnummer
 Von welchem Flugsteig geht der Flug 23?
 
@@ -883,13 +890,14 @@ Geht der Flug nach Köln pünktlich ab?
 Ja.
 Von welchem Flugsteig geht er ab?
 
-die Bordkarte: boarding pass
-der Abfertigungsschalter: baggage check-in
+die Bordkarte
+der Abfertigungsschalter
 das Flugticket
 der Pass
 der Koffer
 das Handgepäck
-der Kofferkuli: cart
+der Kofferkuli
+
 ========================================================
 Wiederholung
 ========================================================

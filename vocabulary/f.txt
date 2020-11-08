@@ -47,12 +47,19 @@ Fahndung /ˈfaːndʊŋ/, die: search, manhunt
 Fahne /ˈfaːnə/, die, -n: flag
   die Fahne hissen / einholen: to raise/take down the flag
 
+fahrbar: wheeled
+
 fahren /ˈfaːrən/: to drive, to go
   fahre, fährst, fährt, ihr fahrt, bin gefahren
   fuhr, fuhrst, fuhren
   Sollen wir zu Fuß gehen oder fahren?
   Shall we walk or drive?
   Auto fahren lernen: to learn to drive
+
+Fahrer /ˈfaːrɐ/, der: driver
+  jd, der ein Fahrzeug lenkt, steuert
+  => Lenker
+  Der Fahrer des Wagens wurde nur leicht verletzt.
 
 Fahrgast /ˈfaːɐɡast/, der, -(e)s|..e
   Die Fahrgäste wurden gebeten auszusteigen.
@@ -78,6 +85,9 @@ Fahrpreis, der, -es|-e: fare
 
 Fahrrad /ˈfaːɐraːt/, das, -(e)s|..er /ˈfaːɐrɛːdɐ/: bicycle
   Sie kann nicht Fahrrad fahren.
+
+Fahrstuhl /ˈfaːɐʃtuːl/, der: elevator
+  Kasten, in dem man in einem Gebäude senkrecht nach oben oder unten fahren kann
 
 Fahrt /ˈfaːɐt/, die, -en: trip, journey, speed
   Wie lange hat die Fahrt gedauert?
@@ -629,6 +639,8 @@ Flüchtling /ˈflʏçtlɪŋ/, der: refugee
   politische Flüchtlinge aufnehmen: to take in political refugees
 
 Flug /fluːk/, der: flight
+  die Flugnummer
+  das Flugticket
 
 Flugbegleiter: flight attendant
 
@@ -643,6 +655,9 @@ Flügel /ˈflyːɡəl/, der, Flügel: wing
   The bird flapped its wings.
 
 Flughafen /ˈfluːkhaːfən/, der: airport
+
+Flugsteig /ˈfluːkʃtaik/, der: gate
+  der Bereich eines Flughafens, in dem Passagiere (nach der Sicherheitskontrolle) auf ihren Flug warten
 
 Flugverbot, das: ban on flying
 
@@ -963,18 +978,6 @@ fuhr => fahren
 
 fühlen /ˈfyːlən/: to feel
 
-Führer, Führerin: guide, chief, leader, operator, driver, pilot
-  eine Expedition in den Dschungel mit einheimischem Führer
-  an expedition through the jungle with a local guide
-  Führerrolle: leading role
-  der Führer: Adolf Hitler
-  Kranführer: crane operator
-  Marktführer: market leader 
-
-Führerschein /ˈfyːrɐʃain/, der: driver’s license
-  Dokument, das man braucht, um ein Auto, Motorrad o. Ä. fahren zu dürfen
-  Ihm wurde der Führerschein abgenommen.
-
 führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to carry out
   jdn zu seinem Platz führen: to show sb to their seat
   Der Weg führte über Felder und durch Wälder zum See.
@@ -997,9 +1000,28 @@ führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to c
   eine Mauer um den Garten führen： to build (od put up) a wall around the garden
   vor Augen führen: to show
 
+Führer, Führerin: guide, chief, leader, operator, driver, pilot
+  eine Expedition in den Dschungel mit einheimischem Führer
+  an expedition through the jungle with a local guide
+  Führerrolle: leading role
+  der Führer: Adolf Hitler
+  Kranführer: crane operator
+  Marktführer: market leader 
+
+Führer, der: guidebook
+  Reiseführer
+  Sprachführer: phrase book
+  Stadtführer
+
+Führerschein /ˈfyːrɐʃain/, der: driver’s license
+  Dokument, das man braucht, um ein Auto, Motorrad o. Ä. fahren zu dürfen
+  Ihm wurde der Führerschein abgenommen.
+
 führte => führen
 
-Führung: leadership
+Führung, die: leadership
+
+Führung, die: guided tour
 
 Fülle /ˈfʏlə/, die, |uncountable: fullness, volume
   Dieses Shampoo gibt Ihrem Haar Fülle.
