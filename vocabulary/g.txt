@@ -363,11 +363,11 @@ gegenseitig /ˈɡeːɡənzaitɪç/: mutual
   sich gegenseitig unterstützen: to support one another
 
 Gegenstand /ˈɡeːɡənʃtant/, der, ..e: object, subject
-  => Ding
+  ≈ Ding
   etw., das eine feste Form hat und das man anfassen kann
   Er wurde mit einem stumpfen Gegenstand erschlagen.
   He was murdered with a blunt object.
-  => Thema
+  ≈ Thema
   Das ist nicht Gegenstand dieser Diskussion.
   That's not the subject of this conversation.
 
@@ -430,7 +430,7 @@ Geheimnis /ɡəˈhaimnis/, das: secret
   to give away a secret to sb/tell sb a secret 
 
 geheimnisvoll /ɡəˈhaimnisfɔl/: mysterious
-  => rätselhaft
+  ≈ rätselhaft
   ein geheimnisvoller Fremder: a mysterious stranger 
 
 gehen /ˈɡeːən/: to go, to walk, to leave
@@ -471,7 +471,7 @@ geil /ɡail/: awesome, obsessed, horny, hot
   Er ist ganz geil auf dieses neue Handy.
   He's desperate to get his hands on that new cell.
   jdn geil machen: to make sb horny
-  => sexy
+  ≈ sexy
   geil aussehen: to look hot
 
 Geisel, die: hostage
@@ -539,7 +539,7 @@ Geld /ɡɛlt/, das, Gelder: money
   Geld vom Konto abheben: to withdraw money from your account 
 
 Geldbuße, die: fine
-  => Strafe
+  ≈ Strafe
   eine hohe Geldbuße: a heavy fine
 
 Geldschein /ˈɡɛltʃain/, der, -e: banknote, bill
@@ -652,7 +652,7 @@ genehmigen /ɡəˈneːmɪɡən/: to approve, to authorize
   The construction of the new stadium was approved last week.
 
 Genehmigung /ɡəˈneːmɪɡʊŋ/, die, -en: permission, approval, authorization
-  => Erlaubnis
+  ≈ Erlaubnis
   jdm die Genehmigung für etw. erteilen: to grant sb permission to do sth
   eine schriftliche Genehmigung vorlegen: to submit written authorization
 
@@ -845,7 +845,7 @@ geschehen /ɡəˈʃeːən/: to happen, to occur, to commit
 Geschichte /ɡəˈʃɪçtə/, die, ~|-n: story, history
 
 geschickt /ɡəˈʃɪkt/: skillful
-  => gewandt
+  ≈ gewandt
   handwerklich / mit seinen Händen sehr geschickt sein
   to be very skilled with your hands
 
@@ -1030,7 +1030,7 @@ gewalttätig /ɡəˈvalttɛːtɪç/: violent
   Any time he's been drinking he turns violent.
 
 gewandt /ɡəˈvant/: skillful
-  => geschickt
+  ≈ geschickt
   Der Verteidiger war sehr gewandt.
   The defender was very skillful.
 
@@ -1184,7 +1184,7 @@ Gläubige /ˈɡlɔybɪɡə/, der-die, -n: believer
 gleich /ɡlaiç/: same, equal, immediately, straightaway
   Die beiden Arbeiten haben die gleiche Zahl von Fehlern.
   The two papers have the same number of mistakes.
-  => sofort
+  ≈ sofort
   gleich nach der Schule: straight after school
   Sie wohnt gleich neben dem Bahnhof.
   She lives right next to the station.
@@ -1198,6 +1198,8 @@ gleich /ɡlaiç/: same, equal, immediately, straightaway
   gleich weiter: right away
 
 gleichaltrig /ˈɡlaiç|altrɪç/: of the same age
+
+gleichbedeutend /ˈɡlaiçbədɔytənt/
 
 Gleichberechtigung /ˈɡlaiçbərɛçtɪɡʊŋ/: equal rights
   gleich => same

@@ -265,7 +265,7 @@ schätzen /ˈʃɛʦən/: cherish, count, estimate, make, prize, treasure, value
 Schatzmeister /ˈʃaʦmaistɐ/, Schatzmeisterin: treasurer
 
 Schätzung /ˈʃɛʦʊŋ/, die, -en: estimate
-  => Berechnung
+  ≈ Berechnung
 
 schaudern /ˈʃaudɐn/: to shiver
   Sie schauderte in ihrem nassen T-Shirt.
@@ -406,7 +406,7 @@ schießen /ˈʃiːsən/: to shoot, to kick
 Schiff /ʃɪf/, das: ship, boat
 
 Schild /ʃɪlt/, das, -(e)s|-er: sign, label, tag
-  => Tafel
+  ≈ Tafel
   Auf dem Schild stand „Betreten verboten!‟
   On the sign it said, "No entry."
   Namensschilder in die Kleider nähen: to sew name tags into the clothes
@@ -639,7 +639,7 @@ schmeicheln /ˈʃmaiçəln/: to flatter
   That dress flatters her figure.
 
 schmeißen /ˈʃmaisən/: to chuck, to throw, to drop, to manage, to put on
-  => werfen
+  ≈ werfen
   den Ball über den Zaun schmeißen: to chuck the ball over the fence
   Pass auf, dass du nichts vom Tisch schmeißt.
   Be careful not to knock anything off the table.
@@ -872,7 +872,7 @@ Schriftsteller /ˈʃrɪftʃtɛlɐ/: writer
 Schriftzeichen, das: character
 
 Schritt /ʃrɪt/, der, -(e)s|-e: step, crotch
-  => Tritt
+  ≈ Tritt
   einen Schritt zur Seite machen: to step to one side
   Er folgte mir auf Schritt und Tritt.
   He follows me everywhere I go.
@@ -1034,7 +1034,7 @@ schwarz /ʃvarʦ/, schwarzen: black
   Wir haben verschiedene Sorten schwarzen und Kräutertee da.
 
 schwatzen /ˈʃvaʦən/: to chat
-  => plaudern
+  ≈ plaudern
   mit einer Freundin am Telefon schwatzen
   to chat with a friend on the phone
 
@@ -1295,7 +1295,7 @@ senken /ˈzɛŋkən/: to lower, to sink, to drop
 
 senkrecht /ˈzɛŋkrɛçt/
   von oben genau nach unten oder umgekehrt verlaufend
-  => vertikal
+  ≈ vertikal
 
 September /zɛpˈtɛmbɐ/, der, (-s)|~
 
@@ -2036,13 +2036,13 @@ Sternschnuppe /ˈʃtɛrnʃnʊpə/, die, ~|-n: shooting star
   If you see a shooting star, you should make a wish.
 
 stets /ʃteːʦ/: zu jeder Zeit
-  => immer
+  ≈ immer
   Er ist stets bemüht, freundlich zu sein.
   He always tries to be nice.
 
 Steuer /ˈʃtɔyɐ/, das: steeling wheel
   Vorrichtung, mit der man Fahrzeuge lenkt
-  => Lenkrad
+  ≈ Lenkrad
 
 Steuer /ˈʃtɔyɐ/, die, -n: tax
   Steuern zahlen/hinterziehen
@@ -2059,6 +2059,9 @@ stibitzen /ʃtiˈbɪʦən/: to pinch, to pilfer, to steal
 
 Stich /ʃtɪç/, der: sting, bite, stab wound
   jdn im Stich lassen: to let sb down
+
+Stichwort /ˈʃtɪçvɔrt/, das: headword, keyword
+  ein Wort in einem Lexikon o. Ä., das einen eigenen Eintrag hat; ein Wort, das etw. auf den Punkt bringt oder zusammenfasst
 
 Stichprobe /ˈʃtɪçproːbə/, die, -n: spot check, random sample
   Stichproben machen: to carry out spot checks
@@ -2251,7 +2254,7 @@ strafbar /ˈʃtraːfbaːɐ/: punishable, illegal
 Strafe /ˈʃtraːfə/, die, -n: punishment, fine
   Er bekam von seinen Eltern zur Strafe Hausarrest.
   He was grounded by his parents as a punishment.
-  => Geldbuße
+  ≈ Geldbuße
   200 Euro Strafe zahlen müssen: to have to pay a 200 euro fine
 
 strafen: to punish
@@ -2274,7 +2277,7 @@ Strähne /ˈʃtrɛːnə/, die, ~|-n: strand (of hair), run, streak
 Strand /ʃtrant/, der: flaches Ufer am Meer, beach
 
 strapaziös /ʃtrapaˈʦjøːs/: taxing
-  => anstrengend
+  ≈ anstrengend
   eine strapaziöse Reise: a taxing journey
 
 Straße /ˈʃtraːsə/, die, -en: road, street
@@ -2521,6 +2524,11 @@ sympathisch /zʏmˈpaːtɪʃ/: likable, nice
 Symposion /zʏmˈpoːzjɔn/, das, -s|Symposien: symposium
   an einem Symposion zum Thema Kindesmissbrauch teilnehmen
   to attend a symposium on child abuse
+
+Synonym, das
+
+synonym /zʏnoˈnyːm/
+  gleichbedeutend, sinnverwandt
 
 Syrien
 

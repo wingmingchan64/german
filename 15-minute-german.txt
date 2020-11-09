@@ -981,10 +981,10 @@ Hat das Zimmer Blick auf den Park?
 Haben Sie ein Einzelzimmer, bitte?
 Hat das Zimmer einen Balkon?
 
-Frühstücksbüffet
+das Frühstücksbüffet
 
 ========================================================
-Im Hotel
+Im Hotel p.62
 ========================================================
 
 ========================================================

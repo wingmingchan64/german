@@ -374,7 +374,7 @@ zudem /ʦuˈdeːm/: moreover, besides
   Besides being pretty she is also intelligent.
 
 zuerst /ʦuˈ|eːɐst/: at first
-  => zunächst
+  ≈ zunächst
 
 Zufahrt /ˈʦuːfaːɐt/, die: entrance, driveway, entry
   Zufahrt verboten!
@@ -460,7 +460,7 @@ zumindest /ʦuˈmɪndəst/: at least
   He wasn't home – at least that's what he says.
 
 zunächst /ʦuˈnɛːçst/: at first, for the time being, first
-  => zuerst
+  ≈ zuerst
   Darüber wollte sie zunächst gar nicht nachdenken.
   She didn't even want to think about it at first.
   Wir können das zunächst einmal so lassen.
@@ -535,13 +535,16 @@ Zurückhaltung /ʦuˈrʏkhaltʊŋ/, die: reserve
 zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
 
 zurückweisen /ʦuˈrʏkvaizən/: nicht akzeptieren
-  => ablehnen
+  ≈ ablehnen
 
 zurückwenden: to turn back
 
 zurückziehen /ʦuˈrʏkʦiːən/: to withdraw, to retreat, to retire
 
 zurzeit /ʦuːɐˈʦait/: at the moment
+
+Zusage /ˈʦuːzaːɡə/, die: acceptance
+  <=> Absage
 
 zusammen /ʦuˈzamən/: together
 

@@ -378,7 +378,7 @@ Metapher /meˈtafɐ/, die, -n: metaphor
   “The seed of mistrust” is a metaphor.
 
 Metzger, -, Metzgerin: butcher
-  => Fleischer
+  ≈ Fleischer
 
 Metzgerei /mɛʦɡəˈrai/, die, ~|-en: butcher shop
 
@@ -497,10 +497,10 @@ Mitleid /ˈmɪtlait/, das, -(e)s|uncountable: pity, compassion, sympathy
 mitmachen /ˈmɪtmaxən/: to take part (in), to join in, to go through, to hold out, to cooperate
   bei einem Experiment / Wettkampf mitmachen
   to take part in an experiment/a contest
-  => durchmachen
+  ≈ durchmachen
   Da macht man was mit!
   It's a hard life!
-  => aushalten
+  ≈ aushalten
   Meine Beine machen nicht mehr lange mit.
   My legs won't hold out much longer.
   Wenn das Wetter mitmacht, gehen wir morgen schwimmen.
@@ -607,7 +607,7 @@ Moment /moˈmɛnt/, das, -(e)s|-e: factor
   His campaign lacked an element of surprise.
 
 momentan /momɛnˈtaːn/: present, current
-  => zurzeit, derzeit
+  ≈ zurzeit, derzeit
   die momentane Lage auf dem Arbeitsmarkt
   the current situation on the labor market
 

@@ -120,7 +120,7 @@ ehrgeizig /ˈeːɐɡaiʦɪç/: ambitious
   ehrgeizige Pläne haben: to have ambitious plans
 
 ehrlich /ˈeːɐlɪç/: honest
-  => aufrichtig
+  ≈ aufrichtig
   <=> unehrlich
   Möchtest du eine ehrliche Antwort?
   Do you want an honest answer?
@@ -152,7 +152,7 @@ Eifersucht, die: jealousy
   Der Mord geschah aus Eifersucht.
 
 Eigelb /ˈaiɡɛlp/, das, -: yolk
-  => Dotter
+  ≈ Dotter
   Eigelb und Eiweiß trennen: to separate the yolk from the egg white
 
 eigen /ˈaiɡən/: own
@@ -665,7 +665,7 @@ einstellen /ˈainʃtɛlən/: to take on, to hire, to stop, to adjust
   to take sb on as the superintendent
 
 Einstellung /ˈainʃtɛlʊŋ/, die, -en: attitude, setting, stopping
-  => Haltung
+  ≈ Haltung
   Wie ist Ihre Einstellung zum Thema Klimaschutz?
   What's your attitude toward climate protection?
   die Einstellungen eines Gerätes ändern / überprüfen
@@ -1091,7 +1091,7 @@ entsprechen /ɛntˈʃprɛçən/: to be in line with, to conform with, to be equi
   sich or einander entsprechen: to correspond (with each other), to tally
 
 entsprechend /ɛntˈʃprɛçənt/: appropriate, relevant
-  => passend
+  ≈ passend
   ein den Leistungen entsprechendes Gehalt: a performance-related salary
 
 entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
@@ -1416,7 +1416,7 @@ erlauben /ɛɐˈlaubən/: to allow, to permit
   My father won't allow me to watch that movie.
   
 Erlaubnis /ɛɐˈlaupnɪs/, die, -se: permission
-  => Genehmigung
+  ≈ Genehmigung
   Sie ist ohne die Erlaubnis ihrer Eltern weggegangen.
   She went out without her parents' permission.
 
@@ -1613,7 +1613,7 @@ erstatten /ɛɐˈʃtatən/: to reimburse, to refund, to give, to make, to file
 Erstaunen, die: astonishment
 
 erstaunen /ɛɐˈʃtaunən/: to astonish, to amaze
-  => überraschen
+  ≈ überraschen
   Seine freundliche Antwort erstaunte sie.
   His friendly reply astonished her.
 

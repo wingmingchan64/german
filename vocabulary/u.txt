@@ -322,7 +322,7 @@ umdrehen /ˈʊmdreːən/: to turn over, to turn (inside) out, to turn around
 Umfang /ˈʊmfaŋ/, der, -(e)s|..e: circumference, size, extent, scope
   Länge einer zum Ausgangspunkt zurückkehrenden Linie;
   die Länge eines Textes, Größe einer Sache, Höhe einer Summe usw
-  => Ausmaß
+  ≈ Ausmaß
 
 umfänglich /ˈʊmfɛŋlɪç/: extensive
   mit großem Umfang
@@ -422,7 +422,7 @@ umpflügen: to plow up
 Umrechnung /ˈʊmrɛçnʊŋ/, die: conversion
 
 Umriss /ˈʊmrɪs/, der, -e: outline
-  => Kontur
+  ≈ Kontur
   Die Umrisse des Hauses sind bereits erkennbar.
   The outlines of the house are already visible.
 
@@ -666,7 +666,7 @@ unmöglich /ˈʊnmøːklɪç/: impossible
 Unruhe /ˈʊnruːə/, die: anxiety, restlessness, unrest
 
 Unsinn, der: nonsense
-  => Blödsinn
+  ≈ Blödsinn
   
 unsinnig /ˈʊnzɪnɪç/: foolish, absurd
   Der Vergleich ist unsinnig.
@@ -751,7 +751,7 @@ unterirdisch /ˈʊntɐ|ɪrdɪʃ/: underground
   ein unterirdischer Bahnhof: an underground station
 
 Unterkunft /ˈʊntɐkʊnft/, die: accommodation, housing, lodging
-  => Quartier
+  ≈ Quartier
   für Unterkunft und Verpflegung sorgen: to provide board and lodging
 
 Unterlage, die: documents, papers

@@ -252,7 +252,7 @@ keinesfalls /ˈkainəsˈfals/: under no circumstances, on no account, by no mean
   I can't be late for the meeting on any account.
 
 keineswegs /ˈkainəsˈveːks/: by no means, not at all, not in any way
-  => keinesfalls
+  ≈ keinesfalls
   Es ist keineswegs sicher, dass …
   It's by no means certain that …
 
@@ -317,7 +317,7 @@ keuchend: wheezily
 kichern /ˈkɪçɐn/: to giggle, to snigger
 
 kieken: to peek, to peep
-  => gucken
+  ≈ gucken
 
 Kieker /ˈkiːkɐ/, der
   jdn / etw. auf dem Kieker haben: to have it in for sb/sth
@@ -397,7 +397,7 @@ klammern /ˈklamɐn/:
   The sales clerk stapled the sales check to the bag.
 
 Klamotte /klaˈmɔtə/, die, -n: clothes, stuff, trashy old movie/play
-  => Kleidung
+  ≈ Kleidung
   Das meiste Geld gibt sie für neue Klamotten aus.
   She spends most of her money on new clothes.
   Könnten wir nicht mal die Klamotten auf dem Speicher ausmisten?
@@ -543,7 +543,7 @@ klipp /klɪp/:
   I told him what I thought in no uncertain terms.
 
 klirrend /ˈklɪrənt/: bitter
-  => eisig
+  ≈ eisig
   klirrende Kälte: bitter cold 
 
 Klo /kloː/, das, -s|-s: toilet
@@ -801,6 +801,8 @@ Konstitution /kɔnstituˈʦjoːn/: constitution
   die körperliche / psychische Konstitution: physical/mental constitution
   die amerikanische Konstitution: the American Constitution
 
+Konstruktion /kɔnstrʊkˈʦjoːn/, die
+
 Konsulat /kɔnzuˈlaːt/, das, -(e)s|-e: consulate
   das deutsche Konsulat in Paris: the German consulate in Paris
 
@@ -826,7 +828,7 @@ kontrollieren /kɔntrɔˈliːrən/: to check, to control
   the areas controlled by the rebels
 
 Kontur /kɔnˈtuːɐ/, die, -en: contour, outline
-  => Umriss
+  ≈ Umriss
   Gegen den Nachthimmel zeichneten sich die Konturen der Häuser ab.
   The outlines of the houses stood out against the night sky.
 

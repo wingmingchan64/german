@@ -126,7 +126,7 @@ Wanderung /ˈvandərʊŋ/, die: hike
 wandte => wenden
 
 Wange /ˈvaŋə/, die, ~|-n: cheek
-  => Backe
+  ≈ Backe
   Sie streichelte liebevoll über seine Wange.
   She lovingly stroked his cheek.
   Wange an Wange: cheek to cheek
@@ -153,7 +153,7 @@ war => sein
 ward (poet) => werden
 
 Ware /ˈvaːrə/, die, -n: product, article, goods
-  => Güter
+  ≈ Güter
   Sie hatte Waren im Wert von hundert Euro gestohlen.
   She had stolen goods worth a hundred euros.
   heiße Ware: hot goods
@@ -242,8 +242,8 @@ wegen /ˈveːɡən/: for, over, because of, on account of
   Reich? Von wegen!
   Rich? You've got to be kidding!
 
-wegsaufen: to drink intended for else
-  => saufen
+wegsaufen: to drink intended for someone else
+  ≈ saufen
 
 wegschnappen /ˈvɛkʃnapən/: to snatch sth away from sb
   Sie hat mir den Job vor der Nase weggeschnappt.
@@ -258,7 +258,7 @@ wegwerfen /ˈvɛkvɛrfən/: to throw away
 Wegwerfware, die: disposable goods
 
 wehen /ˈveːən/: to blow
-  => blasen
+  ≈ blasen
   Der Wind weht heute ziemlich kräftig.
   The wind is pretty strong today.
   Der Wind hat den Schnee von der Straße geweht.
@@ -594,7 +594,7 @@ widerstreben
   It goes against the grain for me to punish a child so harshly.
 
 widerwärtig /ˈviːdɐvɛrtɪç/: disgusting, repugnant
-  => widerlich
+  ≈ widerlich
 
 widmen /ˈvɪtmən/: to dedicate, to devote
   Er hat seinen ersten Roman seiner Mutter gewidmet.

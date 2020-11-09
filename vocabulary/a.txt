@@ -195,7 +195,7 @@ ablegen /ˈapleːɡən/: to put down, to take off, to take, to pass, to file, to
   The ship set sail.
 
 ablehnen /ˈapleːnən/: to refuse, to reject
-  => zurückweisen
+  ≈ zurückweisen
   Ich muss Ihre Einladung leider ablehnen.
   I'm afraid I have to decline your invitation.
   Sie lehnt jede Form von Gewalt ab.
@@ -246,6 +246,9 @@ abreißen /ˈapraisən/: to tear off, to tear down, to rip off, to come to a sto
   The tower was in disrepair and had to be torn down.
 
 absäbeln: to hack off, to cut off
+
+Absage, die: refusal, rejection
+  ablehnende Mitteilung
 
 absagen /ˈapzaːɡən/: to cancel
   Das Konzert wurde wegen Krankheit abgesagt.
@@ -572,10 +575,10 @@ Adressat /adrɛˈsaːt/, -in, -en
   The recipient has moved away, address unknown.
 
 Adresse /aˈdrɛsə/, die, ~|-n: address
-  => Anschrift
+  ≈ Anschrift
 
 Adverb /atˈvɛrp/, das, -s|-ien: adverb
-  => Umstandswort
+  ≈ Umstandswort
 
 Affe /ˈafə/, der, -n|-n: monkey, ape
   die Affen im Zoo: the monkeys in the zoo
@@ -922,7 +925,7 @@ andersherum /ˈandɐshɛrʊm/: the other way around
 andersrum => andersherum
 
 anderthalb /ˈandɐtˈhalp/: one and a half
-  => eineinhalf
+  ≈ eineinhalf
   anderthalb Stunden: an hour and a half
 
 andeuten /ˈandɔytən/: to hint at, to sketch out
@@ -950,7 +953,7 @@ anfällig /ˈanfɛlɪç/: susceptible, subject to
   ein anfälliges Immunsystem haben: to have a weak immune system
 
 Anfang /ˈanfaŋ/, der, -(e)s|..e: beginning, start
-  => Beginn
+  ≈ Beginn
   Am / Zu Anfang war es noch schwer.
   It was hard at the beginning.
 
@@ -1044,7 +1047,7 @@ angehören /ˈanɡəhøːrən/: to be a member (of), to belong
   There are 15 ministers in the government at the moment.
 
 Angehörige /ˈanɡəhøːrɪɡə/, der/die, -n|-n: relatives, member, dependent
-  => Verwandte, Familienmitglied
+  ≈ Verwandte, Familienmitglied
   die nächsten Angehörigen eines Unfallopfers verständigen
   to notify an accident victim's next of kin
   Angehörige der Bundeswehr / von Minderheiten
@@ -1176,7 +1179,7 @@ Anlass /ˈanlas/, der, ..e: reason, cause, occasion
   Es besteht Anlass zu der Hoffnung, dass …
   There are grounds for hope that…
   ein festlicher Anlass: a festive occasion
-  => Ereignis, Gelegenheit
+  ≈ Ereignis, Gelegenheit
   aus Anlass: on the occasion of
   eine Feier aus Anlass des 150. Firmenjubiläums
   a party on the occasion of the 150th anniversary of the company
@@ -1345,7 +1348,7 @@ anspringen /ˈanʃprɪŋən/: to jump up on, to come running up, to start
   The children came running up.
   Bei Kälte springt das Auto oft nicht gleich an.
   When it's cold the engine often doesn't start right away.
-  => anlassen
+  ≈ anlassen
 
 anspruchsvoll /ˈanʃprʊxsfɔl/: sophisticated, demanding, challenging
   Man darf nicht zu anspruchsvoll sein.
@@ -1795,7 +1798,7 @@ aufgeregt /ˈaufɡəreːkt/: excited, nervous
   The children told her excitedly about what they had found.
 
 aufgrund /aufˈɡrʊnt/: because of
-  => wegen
+  ≈ wegen
   jdn aufgrund mangelnder Beweise freisprechen
   to acquit sb due to lack of evidence
 
@@ -2098,7 +2101,7 @@ Augenblick /ˈauɡənblɪk/, der: moment
   Just a moment, please.
 
 augenblicklich /ˈauɡənblɪklɪç/: current, immediately
-  => momentan
+  ≈ momentan
   in der augenblicklichen Situation: in the current situation
   Er ist augenblicklich nicht da.
   He's not here right now.
@@ -2132,7 +2135,7 @@ Ausbildung /ˈausbɪldʊŋ/, die, -en: apprenticeship, education, training, back
   He hasn't yet finished his education.
 
 Ausblick /ˈausblɪk/, der: view, outlook, perspective
-  => Aussicht, blick
+  ≈ Aussicht, Blick
   ein Zimmer mit Ausblick aufs Meer: a room with a view of the sea
   Der Kursleiter gab uns einen Ausblick auf die kommenden Monate.
   The teacher gave us a preview of what to expect in the coming months.
@@ -2272,7 +2275,7 @@ ausgiebig /ˈausɡiːbɪç/: copious, extensive
 ausgleichen: to balance, to settle, to make good, to compensate for, to equalize
 
 aushalten /ˈaushaltən/: to stand, to hold
-  => ertragen
+  ≈ ertragen
   Diese Hitze ist ja nicht auszuhalten!
   This heat is unbearable.
 
@@ -2348,7 +2351,7 @@ ausmachen /ˈausmaxən/: to switch off, to extinguish, to arrange
 
 Ausmaß /ˈausmaːs/, das, -es|-e: extent
   Umfang einer negativen Sache oder Intensität eines Gefühls
-  => Umfang
+  ≈ Umfang
   eine Tragödie unvorstellbaren Ausmaßes: a tragedy of unimaginable proportions
   von gewaltigen Ausmaßen: of enormous size
 
@@ -2516,7 +2519,7 @@ Aussprache /ˈausʃpraːxə/, die: pronunciation
 aussprechen /ˈausʃprɛçən/: to pronounce, to express
   Das „e‟ in „Nicole‟ wird nicht ausgesprochen.
   The “e” in “Nicole” is not pronounced.
-  => äußern
+  ≈ äußern
   Sie sprach ihre Bedenken nicht aus.
   She didn't put her misgivings into words.
 
@@ -2562,7 +2565,7 @@ Ausstrahlung /ˈausʃtraːlʊŋ/, die, -en: transmission, charisma
   eine positive Ausstrahlung haben: to exude a positive aura
 
 aussuchen /ˈauszuːxən/: to choose
-  => auswählen
+  ≈ auswählen
   Du hast dir diesen Beruf ausgesucht, jetzt jammere nicht.
   You chose this job, so stop whining.
 
@@ -2603,7 +2606,7 @@ austreiben /ˈaustraibən/: to exorcise, to cure of
   I'll cure you of your lying!
   
 Austreibung, die, ~|uncountable: exorcism, expulsion
-  => Vertreibung
+  ≈ Vertreibung
   die Austreibung aus dem Paradies 
 
 Auswahl /ˈausvaːl/, die: -en: selection

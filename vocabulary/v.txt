@@ -6,7 +6,7 @@ vage: vague
   Seine Angaben waren sehr vage.
 
 Vagina /ˈvaːɡina/, die, ~|Vaginen
-  => Scheide
+  ≈ Scheide
 
 Vase /ˈvaːzə/, die, ~|-n: vase
   Sie stellte die Rosen in eine Vase.
@@ -230,7 +230,7 @@ verfassen /fɛɐˈfasən/: to write
 
 Verfassung /fɛɐˈfasʊŋ/, die, -en: state (of health/mind), constitution
   in guter / schlechter Verfassung sein: to be in good/poor shape
-  => Konstitution
+  ≈ Konstitution
   Die deutsche Verfassung heißt Grundgesetz.
   The German constitution is called the Basic Law.
 
@@ -249,7 +249,7 @@ verfluchen /fɛɐˈfluːxən/: to curse
   I curse the day I bought this car!
 
 verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
-  => folgen
+  ≈ folgen
   Wir wurden von einem schwarzen Wagen verfolgt.
   We were pursued by a black car.
   
@@ -439,7 +439,7 @@ Verkehrsdurchsage, die:
 Verkehrsmittel /fɛɐˈkeːɐsmɪtəl/, das: means of transportation
 
 verkleiden /fɛɐˈklaidən/: to dress up, to disguise yourself
-  => kostümieren
+  ≈ kostümieren
   Kinder verkleiden sich gern.
   Kids like dressing up.
 
@@ -661,7 +661,7 @@ verreisen: to go away
   Ich gieße die Blumen, solange meine Nachbarn verreist sind.
 
 verrückt /fɛɐˈrʏkt/: mad, crazy
-  => irre
+  ≈ irre
   Bist du verrückt geworden? Das kannst du doch nicht tun!
   Have you gone mad? You can't do that!
   Wir schufteten wie verrückt.
@@ -895,7 +895,7 @@ verteilen /fɛɐˈtailən/
 vertiefen /fɛɐˈtiːfən/: to strengthen, to extend, to deepen
   Sie möchte ihre Französischkenntnisse vertiefen.
   She would like to extend her knowledge of French.
-  => tief
+  ≈ tief
   Seine Gefühle für sie haben sich über die Jahre vertieft.
   His feelings for her have deepened over the years.
   sich in etw. vertiefen: to become absorbed in sth
@@ -931,7 +931,7 @@ vertrauen /fɛɐˈtrauən/: to trust
 vertraulich: confidential
 
 vertraut /fɛɐˈtraut/: intimate, close, familiar
-  => traut
+  ≈ traut
   vertrauten Umgang mit jdm haben: to be close friends with sb
   Er entdeckte ein vertrautes Gesicht in der Menge.
   He discovered a familiar face in the crowd.
@@ -952,7 +952,7 @@ vertreiben: to dispel, evict, expel
   sich [dative] die Zeit mit etw vertreiben: to pass (away) the time with sth
 
 Vertreibung /fɛɐˈtraibʊŋ/, die, ~|-en: expulsion
-  => Austreibung
+  ≈ Austreibung
 
 vertreten /fɛɐˈtreːtən/: to stand in/deputize for, to represent, to support
   Er hat sich auf der Sitzung von seiner Assistentin vertreten lassen.
@@ -1003,7 +1003,7 @@ verwandt: related
 
 Verwandte /fɛɐˈvantə/, der/die, -n|-n: relative, relation
   Verwandtschaft, die relations, relatives
-  => Angehörige
+  ≈ Angehörige
   Zum Fest hatten sie Verwandte und Bekannte eingeladen.
 
 verwechseln /fɛɐˈvɛksəln/: to mix up, to mistake, to confuse
@@ -1033,7 +1033,7 @@ verwesen /fɛɐˈveːzən/: to decompose
   stark verweste Tierkadaver
 
 verwirklichen /fɛɐˈvɪrklɪçən/: to realize
-  => realisieren
+  ≈ realisieren
   seine Ideen / Pläne verwirklichen: to realize your ideas/plans
   Damit hat sich für uns ein Traum verwirklicht.
   For us that was a dream come true.
@@ -1189,7 +1189,7 @@ völlig /ˈfœlɪç/: completely, totally
   Total freedom can't exist.
 
 vollkommen /fɔlˈkɔmən/: complete, perfect
-  => völlig
+  ≈ völlig
   Im Saal herrschte vollkommene Ruhe.
   There was complete silence in the hall.
 
