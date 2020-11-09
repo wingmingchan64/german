@@ -347,13 +347,15 @@ verhalten: to act, to behave, to be
 verhalten /fɛɐˈhaltən/: restrained, cautious, suppressed
   etw. mit verhaltenem Spott sagen: to say sth with quiet derision
 
-Verhältnis /fɛɐˈhɛltnɪs/, das, -se: proportion, ratio, relationship, affair
+Verhältnis /fɛɐˈhɛltnɪs/, das, -se: proportion, ratio, relationship, affair, conditions
+  die Beziehung zwischen Dingen, Gruppen usw. mit unterschiedlicher Größe, Menge; Verbindung, Kontakt zwischen Personen; sexuelle Beziehung; äußere Umstände
   Kinder und Erzieher stehen in einem Verhältnis von vier zu eins.
   The ratio of children to teachers is four to one.
   Sie hat ein sehr gutes Verhältnis zu ihren Schwiegereltern.
   She gets on very well with her parents-in-law.
   Ich glaube, er hat ein Verhältnis mit seiner Assistentin.
   I think he's having an affair with his assistant.
+  Wetterverhältnis
 
 verhandeln /fɛɐˈhandəln/: to negotiate, to hear (a/the case)
   Über den Preis können wir gern noch verhandeln.
@@ -886,6 +888,9 @@ verteidigen /fɛɐˈtaidɪɡən/: to defend
   He's being defended by a star lawyer.
   Es gelang ihm ein zweites Mal, seinen Weltmeistertitel zu verteidigen.
   He successfully defended his world championship title for a second time.
+
+verteilen /fɛɐˈtailən/
+  verschiedenen Personen einen Teil von etw. geben; in gleichen Mengen irgendwo hinbringen
 
 vertiefen /fɛɐˈtiːfən/: to strengthen, to extend, to deepen
   Sie möchte ihre Französischkenntnisse vertiefen.
