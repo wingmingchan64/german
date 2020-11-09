@@ -396,7 +396,7 @@ Gegenwart /ˈɡeːɡənvart/, die: present
   Our presence was apparently undesired.
 
 Gegner /ˈɡeːɡnɐ/, Gegnerin: opponent
-  <=> Anhänger
+  ↔ Anhänger
 
 gegnerische: opposing
 
@@ -561,7 +561,7 @@ Gelegenheit /ɡəˈleːɡənhait/, die, -en: opportunity, occasion
 Gelingen /ɡəˈlɪŋən/, das: success
 
 gelingen /ɡəˈlɪŋən/: to succeed, to be successful, to turn out
-  <=> misslingen
+  ↔ misslingen
   Was, wenn der Plan nicht gelingt?
   What if the plan doesn't succeed?
 
@@ -960,7 +960,7 @@ Gestank /ɡəˈʃtaŋk/, der, -(e)s|uncountable: stink
   => stinken
 
 gestatten: to allow, to permit
-  <=> untersagen
+  ↔ untersagen
   Das Rauchen ist hier nicht gestattet.
 
 gestehen /ɡəˈʃteːən/: to confess (to), to admit (to)
@@ -1056,7 +1056,7 @@ Gewicht /ɡəˈvɪçt/, das, -(e)s|-e: weight
 Gewichtheben /ɡəˈvɪçtheːbən/, das, -s|uncountable: weight lifting
 
 Gewinn /ɡəˈvɪn/, der, -(e)s|-e: profit
-  <=> Verlust
+  ↔ Verlust
   hohe Gewinne erzielen: to make handsome profits
 
 gewiss /ɡəˈvɪs/: certain, certainly

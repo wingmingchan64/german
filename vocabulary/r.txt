@@ -612,7 +612,7 @@ richten /ˈrɪçtən/: to direct, to point, to turn
   Who is the appeal being aimed at?
 
 richtig /ˈrɪçtɪç/: right, correct
-  <=> falsch
+  ↔ falsch
 
 Richtlinie /ˈrɪçtliːnjə/: guideline
 
@@ -779,7 +779,7 @@ Rücksicht /ˈrʏkzɪçt/, die, -en: consideration
 rücksichtslos /ˈrʏkzɪçtsloːs/: inconsiderate, reckless
 
 rückwärts /ˈrʏkvɛrʦ/: backward
-  <=> vorwärts
+  ↔ vorwärts
 
 Rüde /ˈryːdə/, der: dog
 

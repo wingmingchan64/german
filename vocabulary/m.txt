@@ -114,7 +114,7 @@ Mann /man/, der, Männer
 Mannequin /ˈmanəkɛ̃/, das: model
 
 männlich /ˈmɛnlɪç/: male
-  <=> weiblich
+  ↔ weiblich
 
 Mappe /ˈmapə/, die, -n: folder, briefcase
   Papiere in einer Mappe abheften: to file some papers in a folder
@@ -241,7 +241,7 @@ Mehl /meːl/, das: flour
 mehr
 
 Mehrheit /ˈmeːɐhait/, die, ~|-en: majority
-  <=> Minderheit
+  ↔ Minderheit
   Die Mehrheit der Bevölkerung ist gegen das neue Gesetz.
   The majority of the population is against the new law.
   Er wurde mit überwältigender Mehrheit zum Oberbürgermeister gewählt.
@@ -421,7 +421,7 @@ Million /mɪlˈjoːn/, die
 Millionär /mɪljoˈnɛːɐ/, -in, -e
 
 Minderheit /ˈmɪndɐhait/, die: minority
-  <=> Mehrheit
+  ↔ Mehrheit
   eine diskriminierte / religiöse Minderheit
   a minority facing discrimination/religious minority
 
@@ -740,7 +740,7 @@ mustern /ˈmʊstɐn/: to scrutinize, to eye
   to eye sb skeptically
 
 Mut /muːt/, der, |uncountable: courage, bravery
-  <=> Feigheit
+  ↔ Feigheit
   Es gehört schon Mut dazu, ihm zu widersprechen.
   It takes a lot of courage to contradict him.
 

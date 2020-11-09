@@ -25,7 +25,7 @@ nachdenklich /ˈnaːxdɛŋklɪç/: thoughtful
   ein nachdenkliches Gesicht machen: to look thoughtful
 
 Nachfrage /ˈnaːxfraːɡə/, die: demand
-  <=> Angebot
+  ↔ Angebot
   Die Nachfrage nach dieser Obstsorte ist stark zurückgegangen.
   The demand for this type of fruit has fallen sharply.
 
@@ -44,7 +44,7 @@ nachkommen: to come/follow later, to comply
 nachlassen: to bate, to deteriorate, to get worse
 
 nachlässig /ˈnaːxlɛsɪç/: careless, negligent
-  <=> sorgfältig
+  ↔ sorgfältig
   seine nachlässige Datensicherung bitter bereuen
   to bitterly regret your negligence in backing up your data
 

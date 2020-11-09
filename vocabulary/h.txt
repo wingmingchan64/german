@@ -439,7 +439,7 @@ helfen /ˈhɛlfən/: to help
   Ich muss einem Kollegen helfen.
 
 hell /hɛl/: light, bright
-  <=> dunkel
+  ↔ dunkel
   ein helles Zimmer: a bright room
   ein helles Grün: a light green
 

@@ -277,10 +277,10 @@ Weiberfasching /ˈvaibɐfaʃɪŋ/, der, |uncountable: day during carnival when w
   to go to Cologne for “Weiberfasching”
 
 weiblich /ˈvaiplɪç/: female
-  <=> männlich
+  ↔ männlich
 
 weich /vaiç/: soft, soft-boiled, soft-hearted
-  <=> hart
+  ↔ hart
   Gemüse weich kochen: to boil vegetables until cooked through 
 
 weichen /ˈvaiçən/: to move, to give way
@@ -548,7 +548,7 @@ Wettkampf /ˈvɛtkampf/, der, ..e: competition, contest
   an einem Wettkampf teilnehmen: to take part in a competition
 
 wichtig /ˈvɪçtɪç/: important
-  <=> nebensächlich
+  ↔ nebensächlich
   Diese Arbeit ist sehr wichtig für mich.
   This job is very important to me.
 

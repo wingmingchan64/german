@@ -105,7 +105,7 @@ Sanitäter /zaniˈtɛːtɐ/, der: paramedic
 saß /zaːs/ => sitzen
 
 satt /zat/: full, ric, lush, substantial
-  <=> hungrig
+  ↔ hungrig
   Von so einem bisschen wird man doch nicht satt!
   Such a small amount isn't enough to fill you up! 
 
@@ -1541,7 +1541,7 @@ Sorgfalt /ˈzɔrkfalt/, die, ~: care
   genaue und gewissenhafte Ausführung einer Arbeit
 
 sorgfältig /ˈzɔrkfɛltɪç/: careful
-  <=> nachlässig
+  ↔ nachlässig
 
 sorglos /ˈzɔrkloːs/: careless, carefree
   der sorglose Umgang mit Ressourcen: careless use of resources

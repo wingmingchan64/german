@@ -421,7 +421,7 @@ Dichtung /'dɪçtʊŋ/, die, -en: literature
   the German Academy for Language and Literature
 
 dick /dɪk/: fat, thick
-  <=> dünn
+  ↔ dünn
   Er ist dick geworden.
   He's gotten fat.
 
@@ -704,7 +704,7 @@ dunkel /ˈdʊŋkəl/ dark, deep, vague
   im Dunkeln: in the dark
 
 dünn /dʏn/: thin
-  <=> dick
+  ↔ dick
   Das Eis wird dich nicht tragen, es ist noch zu dünn.
   The ice won't hold your weight – it's still too thin.
 

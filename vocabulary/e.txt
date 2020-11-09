@@ -3,7 +3,7 @@ E /eː/ E wie Emil
 ========================================================
 
 Ebbe /ˈɛbə/, die, -n: ebb
-  <=> Flut
+  ↔ Flut
   Bei Ebbe kann man die Insel zu Fuß erreichen.
   You can get to the island on foot at low tide.
 
@@ -121,7 +121,7 @@ ehrgeizig /ˈeːɐɡaiʦɪç/: ambitious
 
 ehrlich /ˈeːɐlɪç/: honest
   ≈ aufrichtig
-  <=> unehrlich
+  ↔ unehrlich
   Möchtest du eine ehrliche Antwort?
   Do you want an honest answer?
 
@@ -215,7 +215,7 @@ einander /aiˈnandɐ/: each other
   Haven't we met before?
 
 einatmen /ˈain|aːtmən/: to breathe in
-  <=> ausatmen
+  ↔ ausatmen
   Sie atmete tief ein.
   She took a deep breath.
 
@@ -252,7 +252,7 @@ einbringen /ˈainbrɪŋən/: to bring in, to earn, to introduce, to submit, to c
   The new employee contributed a lot of good ideas.
 
 einchecken /ˈainʧɛkən/: to check in
-  <=> auschecken
+  ↔ auschecken
 
 eindeutig /ˈaindɔytɪç/: clear
   eindeutige Anweisungen geben: to give clear instructions
@@ -525,7 +525,7 @@ einmummeln: to wrap up
 
 Einnahme /ˈainnaːmə/, die, -n: revenue, income, takings
   erhaltene Geldsumme
-  <=> Ausgaben
+  ↔ Ausgaben
   Einnahmen und Ausgaben: receipts and expenditures
   Die Einnahme der Medikamente sollte von einem Arzt überwacht werden.
   The use of the medication should be monitored by a doctor.
@@ -597,7 +597,7 @@ Einsatz /ˈainzaʦ/, der, -es|..e: operation, deployment, use, effort, commitmen
   The strings missed their entry.
 
 einschalten /ˈainʃaltən/: to switch on
-  <=> ausschalten
+  ↔ ausschalten
   Schaltest du bitte den Fernseher/das Licht ein?
   Could you switch on the TV/light, please?
 
@@ -660,7 +660,7 @@ einstecken /ˈainʃtɛkən/: to take with you, to pocket, to put in, to take
   He's good at dishing it out, but he can't take it.
 
 einstellen /ˈainʃtɛlən/: to take on, to hire, to stop, to adjust
-  <=> entlassen
+  ↔ entlassen
   jdn als Hausmeister einstellen
   to take sb on as the superintendent
 
@@ -859,7 +859,7 @@ Empfang /ɛmˈpfaŋ/, der: reception, welcome, receipt
 empfangen /ɛmˈpfaŋən/: to receive, to greet, to welcome
 
 Empfänger /ɛmˈpfɛŋɐ/: receiver
-  <=> Absender
+  ↔ Absender
 
 empfänglich: receptive, responsive, susceptible
   Kinder sind von Geburt an sehr empfänglich für Musik.
@@ -1411,7 +1411,7 @@ erlassen /ɛɐˈlasən/: to issue
   A warrant was issued for his arrest.
 
 erlauben /ɛɐˈlaubən/: to allow, to permit
-  <=> verbieten
+  ↔ verbieten
   Mein Vater erlaubt mir nicht, diesen Film zu sehen.
   My father won't allow me to watch that movie.
   

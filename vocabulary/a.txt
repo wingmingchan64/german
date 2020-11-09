@@ -350,7 +350,7 @@ absehen /ˈapzeːən/: to foresee, to learn
   Please do not call with inquiries.
 
 Absender /ˈapzɛndɐ/, -in, -s|~: sender
-  <=> Empfänger
+  ↔ Empfänger
 
 absetzen /ˈapzɛʦən/: to remove, to depose, to stop taking, to cancel, to take off, to put down, to sell, to defect, to accumulate
   Der Aufsichtsrat hat den gesamten Vorstand abgesetzt.
@@ -1017,7 +1017,7 @@ Angeber /ˈanɡeːbɐ/, der, -s|~: boaster, show-off
 
 Angebot /ˈanɡəboːt/, das, -(e)s|-e: offer, supply
   jdm ein gutes Angebot machen: to make sb a good offer
-  <=> Nachfrage
+  ↔ Nachfrage
   Das Angebot übersteigt derzeit die Nachfrage.
   Supply is outstripping demand at the moment.
 
@@ -1129,7 +1129,7 @@ anhalten /ˈanhaltən/: to stop, to continue, to last
   The good weather went on for weeks.
 
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
-  <=> Gegner
+  ↔ Gegner
 
 anheben /ˈanheːbən/: to lift up, to raise
   Legen Sie sich auf den Rücken, spannen die Bauchmuskeln und heben die Füße leicht an.
@@ -1445,7 +1445,7 @@ Anwesen, das: estate
   The estate is for sale.
 
 anwesend /ˈanveːzənt/: present
-  <=> abwesend
+  ↔ abwesend
   Ich war in der Stunde, als das besprochen wurde, nicht anwesend.
   I wasn't at the class in which it was discussed.
 
@@ -1759,7 +1759,7 @@ Aufgabe /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
 
 Aufgang /ˈaufɡaŋ/, der, -(e)s|..e: rise, rising
   => aufgehen
-  <=> Untergang
+  ↔ Untergang
   kurz vor Aufgang der Sonne: shortly before sunrise
   Treppenaufgang: stairway
 
@@ -1781,7 +1781,7 @@ aufgebracht /ˈaufɡəbraxt/: angry 惱怒的
   Angered parents were waiting outside the secretary's office.
 
 aufgehen: to rise, to open, to work, sb realizes sth
-  <=> untergehen
+  ↔ untergehen
   Morgen geht die Sonne in Berlin um 4:58 Uhr auf.
   Tomorrow the sun rises in Berlin at 4.58 am.
   Plötzlich ging die Tür auf und Robert kam herein.
@@ -2230,7 +2230,7 @@ ausfüllen /ˈausfʏlən/: to fill out
 
 Ausgabe /ˈausɡaːbə/, die: expenditure
   Geld, das man für etw. bezahlt
-  <=> Einnahme
+  ↔ Einnahme
 
 Ausgang /ˈausɡaŋ/, der: exit, outcome, furlough
 
@@ -2313,7 +2313,7 @@ Auskunft /ˈauskʊnft/, die, ..e: information
   die Auskunft anrufen: to call information
 
 ausladen /ˈauslaːdən/: to unload
-  <=> bepacken
+  ↔ bepacken
   Lad du schon mal das Auto aus.
   You can start by taking the things out of the car.
   das Gepäck aus dem Kofferraum ausladen
@@ -2446,7 +2446,7 @@ Ausschau /ˈausʃau/ halten nach: to look out
   She's on the lookout for a new apartment/job.
 
 ausschalten /ˈausʃaltən/: to switch off
-  <=> einschalten
+  ↔ einschalten
 
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
 

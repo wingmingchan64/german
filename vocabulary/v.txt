@@ -91,7 +91,7 @@ Verbeugung: bow
   eine tiefe Verbeugung machen
 
 verbieten /fɛɐˈbiːtən/: to forbid
-  <=> erlauben
+  ↔ erlauben
   Meine Eltern haben mir verboten, mit dir zu spielen.
   My parents have forbidden me from playing with you.
 
@@ -548,7 +548,7 @@ verlumpt: worn-out
 Verlust /fɛɐˈlʊst/, der, -es|-e: loss
   Der Verlust ihres Vaters schmerzte sie sehr.
   The loss of her father hit her very hard.
-  <=> Gewinn
+  ↔ Gewinn
   bei einem Geschäft 200 Euro Verlust machen: to make a loss of 200 euros on a deal
   Bei diesem Kampf gab es schwere Verluste.
   Heavy losses were sustained during this battle.
@@ -1278,7 +1278,7 @@ Vorbild /ˈfoːɐbɪlt/, das, -er: model
 Vorder- /ˈfɔrdɐ/: front
 
 Vordermann /ˈfɔrdɐman/, der: person in front
-  <=> Hintermann
+  ↔ Hintermann
   zu wenig Sicherheitsabstand zum Vordermann halten
   to drive too close to the person in front
 

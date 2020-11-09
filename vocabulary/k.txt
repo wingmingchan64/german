@@ -1177,7 +1177,7 @@ Kupfer, das: copper
 kupfern: copper
 
 Kür /kyːɐ/, die, -en: free section
-  <=> Pflicht
+  ↔ Pflicht
   In der Kür konnte sie zeigen, was wirklich in ihr steckt.
   In the free section she was able to show what she was really capable of.
 

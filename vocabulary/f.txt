@@ -145,7 +145,7 @@ falls: in case, if
   If you don't have time we can postpone the appointment.
 
 falsch /falʃ/: wrong, false, faked
-  <=> richtig
+  ↔ richtig
 
 Falschparken, das: illegal parking
 
@@ -298,7 +298,7 @@ feiern /ˈfaiɐn/: to celebrate, to acclaim, to laud, to hail
 Feiertag /ˈfaiɐtaːk/, der: holiday
 
 Feigheit /ˈfaikhait/, die, |uncountable: cowardice
-  <=> Mut
+  ↔ Mut
   Er wurde von einem Kriegsgericht wegen Feigheit vor dem Feind zum Tode verurteilt.
   He was sentenced to death by a military court for cowardice in the face of the enemy.
 
@@ -678,7 +678,7 @@ flüstern /ˈflʏstɐn/: to whisper
   to whisper a secret in sb's ear 
 
 Flut, die: high tide, flood, torrent
-  <=> Ebbe
+  ↔ Ebbe
   Er ertrank in der reißenden Flut/in den Fluten des Hochwassers.
   He drowned in the raging torrent of the flooding.
   Flutwelle: tsunami
