@@ -1194,6 +1194,7 @@ seicht: shallow
 seien => sein
 
 Seife /ˈzaifə/, die, -n: soap
+  Substanz zum Waschen der Hände und des Körpers, meist als festes Stück
   ein Stück Seife: a bar of soap
 
 Seil /zail/, das, -(e)s|-e: rope
@@ -2525,7 +2526,7 @@ Symposion /zʏmˈpoːzjɔn/, das, -s|Symposien: symposium
   an einem Symposion zum Thema Kindesmissbrauch teilnehmen
   to attend a symposium on child abuse
 
-Synonym, das
+Synonym /zʏnoˈnyːm/ /ˈzʏnonʏm/, das
 
 synonym /zʏnoˈnyːm/
   gleichbedeutend, sinnverwandt

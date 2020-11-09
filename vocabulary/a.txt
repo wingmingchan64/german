@@ -2,6 +2,8 @@
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
+A /aː/
+
 Aal /aːl/, der, -(e)s|-e: eel
   schlangenähnlicher Speisefisch, der in Flüssen und im Meer lebt
   Räucheraal: smoked eel 
@@ -461,6 +463,9 @@ abtrennen /ˈaptrɛnən/: to separate, to tear off, to sever
   to take off the frayed collar and replace it
   den abgetrennten Teil der Eintrittskarte aufbewahren
   to keep the torn off part of the admission ticket 
+
+abtrocknen /ˈaptrɔknən/: to dry
+  trocken machen
 
 abwählen /ˈapvɛːlən/: to vote out of office, to drop
   Der frühere Vorsitzende wurde mit großer Mehrheit abgewählt.
@@ -1409,6 +1414,8 @@ Anteil /ˈantail/, der, -e: share
 anthropoid /antropoˈiːt/: anthropoid(al)
 
 Anthropologie /antropoloˈɡiː/
+
+Antonym /antoˈnyːm/, das
 
 Antrag /ˈantraːk/, der, ..e: application, motion, proposal
   Antrag auf Arbeitslosengeld stellen: to apply for unemployment benefits

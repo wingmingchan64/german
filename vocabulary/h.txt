@@ -181,6 +181,9 @@ Handgepäck, das
 
 Handlung /ˈhandlʊŋ/, die: act, action
 
+Handtuch /ˈhanttuːx/, das, -(e)s|..er: towel
+  saugfähiges Tuch zum Abtrocknen des Körpers
+
 handwerklich /ˈhantvɛrklɪç/: technical, artisanal
   Die handwerkliche Ausführung ließ zu wünschen übrig.
   The quality of the craftsmanship left a lot to be desired.
@@ -1048,6 +1051,10 @@ hüllen /ˈhʏlən/: to wrap
 
 Huhn /huːn/, das, Hühner: chicken, hen
   Hühner halten: to keep chickens
+
+Hülle /ˈhʏlə/, die: cover, case, holder
+  etw., worin etw. zum Schutz aufbewahrt wird
+  Klarsichthülle: clear plastic folder
 
 Hummer /ˈhʊmɐ/, der, -: lobster
 

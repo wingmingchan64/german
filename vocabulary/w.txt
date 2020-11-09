@@ -164,6 +164,7 @@ wäre
 warf => werfen
 
 warm /varm/: warm
+  von relativ hoher Temperatur, aber nicht heiß
 
 warnen /ˈvarnən/: to warn
   Vor Dieben wird gewarnt!
