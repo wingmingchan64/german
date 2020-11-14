@@ -108,6 +108,8 @@ Garnele /ɡarˈneːlə/, die, Garnelen: prawn, shrimp
 Garten /ˈɡartən/, der, -s|..
   frisches Gemüse aus dem eigenen Garten: fresh vegetables from your own garden
 
+Gas, das
+
 Gasse /ˈɡasə/, die, Gassen: lane, alley
   in den Gassen der Altstadt: in the alleys of the historic old city
   Sie bildeten eine Gasse für den Rettungsdienst.
@@ -322,6 +324,10 @@ gefallen: to please
 
 gefällt => fällen, gefallen
 
+gefangen: captive
+
+Gefangene /ɡəˈfaŋənə/, der / die: prisoner
+
 Gefangenschaft /ɡəˈfaŋənʃaft/, die, -en: capture
   in Gefangenschaft geraten / sein / leben
   to be captured/be in captivity/live in captivity
@@ -514,6 +520,7 @@ Gelächter /ɡəˈlɛçtɐ/, das, -s: laughter
 geladen, geladene => laden 
 
 *Gelände /ɡəˈlɛndə/, das, -s|~: grounds, premises, area, terrain
+  begrenztes Stück Land
 
 gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to, to reach
   Wie ist dieses Schreiben in deine Hände gelangt?

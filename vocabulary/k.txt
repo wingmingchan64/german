@@ -212,7 +212,8 @@ kaum /kaum/: barely, hardly
   Ich habe kaum geschlafen.
   I hardly slept a wink.
 
-Kaution /kauˈʦjoːn/, die, -en: deposit, security
+Kaution /kauˈʦjoːn/, die, -en: deposit, security, bail
+  Geld, das man als Sicherheit hinterlegen muss, wenn man etw. mietet; Geld, das für die Freilassung eines Gefangenen als Bürgschaft hinterlegt werden muss
   Ich musste für die Wohnung zwei Monatsmieten Kaution zahlen.
   I had to pay a two-month deposit for the apartment.
 
@@ -931,6 +932,8 @@ Kraft /kraft/, die, ~|..e: strength, power
 kraft /kraft/: by virtue of
   Der Bürgermeister hat kraft seines Amtes eine Stimme im Gemeinderat.
   The mayor has a vote on the local council by virtue of his office.
+
+Kraftfahrzeug, das: motor vehicle
 
 kräftig /ˈkrɛftiç/: powerful, strong, healthy
   Er gab der Schaukel einen kräftigen Schubs.

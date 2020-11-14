@@ -144,6 +144,9 @@ Abgeordnete /ˈapɡə|ɔrdnətə/, der-die, -n|-n: representative
 abgestoßen: repelled, revoted
   => stoßen: to push, to shove
 
+abgrenzen /ˈapɡrɛnʦən/: to mark off, to differentiate
+  durch eine Grenze von anderen trennen; Unterschiede deutlicher machen, herausarbeiten
+
 Abgrund /ˈapɡrʊnt/, der, -(e)s|..e: abyss
   vom Gipfel in den Abgrund blicken: to look down into the depths from the summit
   ein Abgrund an Gewalt: extreme violence
@@ -2334,6 +2337,11 @@ Ausladung, die: discharge, cancellation (of an invitation), projection, overhang
 
 Ausland /ˈauslant/, das, -(e)s: foreign countries
   ins Ausland reisen: to travel abroad
+
+Ausleihen: borrowing
+
+ausleihen /ˈauslaiən/: to lend sb sth
+  jdm etw. für eine Zeit geben
 
 ausliefern /ˈausliːfɐn/: to extradite, to deliver
   Die Organisatoren des Anschlags wurden an ihren Heimatstaat ausgeliefert.

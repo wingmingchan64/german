@@ -607,6 +607,7 @@ schlurfen /ˈʃlʊrfən/: to shuffle 拖著腳走，曳足而行, to slurp
   Quit slurping like that!
 
 Schluss /ʃlʊs/, der: end, conclusion
+  der Zeitpunkt, an dem etw. aufhört; letzter Teil einer Geschichte, eines Filmes; Ergebnis des Nachdenkens
   zu dem Schluss kommen, dass …: to come to the conclusion that …
 
 Schlüssel /ˈʃlʏsəl/, der: key
@@ -785,8 +786,10 @@ schnitzen /ˈʃnɪʦən/: to carve
   eine Flöte aus Holz schnitzen: to carve a flute out of wood
 
 Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
+  stabiler Faden zum Binden usw
   Er trug den Schlüssel an einer Schnur um den Hals.
-  He wore the key on a cord around his neck. 
+  He wore the key on a cord around his neck.
+  Zeltschnur: guy rope
 
 Schnurrbart /ˈʃnʊrbaːɐt/, der, -(e)|..e: mustache
 
@@ -1788,6 +1791,9 @@ Staatsgründung: founding of a state
 
 Stäbchen /ˈʃtɛːpçən/, das, -: chopstick
 
+stabil /ʃtaˈbiːl/: stable, sturdy
+  nicht in Gefahr, sich stark zu ändern; nicht leicht zu beschädigen, zerstören
+
 Stadion /ˈʃtaːdjɔn/, das, -s|Stadien: stadium
 
 Stadt /ʃtat/, die, ~|..e: town, city
@@ -2367,6 +2373,8 @@ Strom /ʃtroːm/, der: electricity, torrent, stream, current
   The river swelled to a raging torrent.
   in Strömen: in large quantities
   Stromausfall
+  Stromanschluss: electric hookup
+  Stromanschluss haben: to be connected to the electricity mains
 
 strömen /ˈʃtrøːmən/: to stream, to flow, to flock, to gush, to pour
 

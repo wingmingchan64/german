@@ -908,6 +908,7 @@ besann => besinnen
 besaßen => besitzen
 
 beschädigen /bəˈʃɛːdɪɡən/: to damage
+  an etw. Schaden verursachen
   Das Dach wurde beim Sturm schwer beschädigt.
   The roof was badly damaged in the storm.
 

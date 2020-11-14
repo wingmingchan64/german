@@ -972,6 +972,7 @@ vertuschen /fɛɐˈtʊʃən/: to cover up
 verunglimpfen /fɛɐˈ|ʊnɡlɪmpfn/: to disparage, to belittle
 
 verursachen /fɛɐˈ|uːɐzaxən/: to cause
+  die Ursache / der Urheber von etw. sein
   Wer hat den Unfall verursacht?
   Who caused the accident?
 
@@ -1235,6 +1236,7 @@ vor sich hin [ accusative ]: to yourself/himself/herself/etc.
 voraus /foˈraus/: ahead, in front
   Andere Länder sind uns in Sachen Bildungspolitik weit voraus.
   Other countries are way ahead of us in terms of educational policy.
+  im Voraus / voraus: in advance
 
 Voraussetzung /foˈrauszɛʦʊŋ/, die: assumption, prerequisite, requirement
   unter der Voraussetzung, dass …: on condition that …

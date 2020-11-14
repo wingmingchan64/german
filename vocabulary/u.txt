@@ -852,6 +852,8 @@ Uran, das: uranium
 
 Urgroßeltern: great-grandparents
 
+Urheber /ˈuːɐheːbɐ/, der: author, creator, initiator
+
 urig /ˈuːrɪç/: unspoiled, primitive
   eine urige Almhütte: a rustic alpine hut
 
@@ -864,6 +866,7 @@ Urlaub /ˈuːɐlaup/, der, -(e)s|-e
   Wohin wollt ihr in Urlaub fahren?
 
 Ursache /ˈuːɐzaxə/, die: cause
+  etw., das ein Geschehen bewirkt
   Die eigentliche Ursache des Unglücks ist noch nicht geklärt.
   The real cause of the accident hasn't yet been established.
 
