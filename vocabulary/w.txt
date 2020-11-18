@@ -41,6 +41,9 @@ wagen: to dare, to venture, to risk
   Ich würde jederzeit mein Leben für dich wagen.
   I'd risk my life for you anytime.
 
+Wahl /vaːl/, die, ~|-n: choice
+  Entscheidung zwischen zwei oder mehr Möglichkeiten
+
 wählen /ˈvɛːlən/: to choose, to vote (for), to elect, to dial
   wähle, wählst, wählt, habe gewählt
   sich für eine von mehreren Möglichkeiten entscheiden;
@@ -658,6 +661,8 @@ Wiese /ˈviːzə/, die, -n: lawn, meadow
 
 Wiesn, die: fairground, Oktoberfest
 
+wieso /viˈzoː/: why
+
 wild /vɪlt/: wild, savage
   wilder Wein: woodbine
   Die Missionare wollten den Wilden den christlichen Glauben bringen.
@@ -946,6 +951,7 @@ Wurf /vʊrf/, der, Würfe: throw, litter, success
   This film is a great success for him.
 
 Würfel /ˈvʏrfəl/, der: dice, die
+  Gegenstand, auf dessen sechs Seiten Punkte angeordnet sind
   Würfelspiel: dice game
 
 Wurfgeschoss, das: missile, projectile

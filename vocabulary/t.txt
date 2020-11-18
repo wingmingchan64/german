@@ -121,6 +121,7 @@ Tasse /ˈtasə/, die, -n: cup
   eine Tasse Tee trinken
 
 Tastatur /tastaˈtuːɐ/, die: keyboard
+  der Teil, auf dem die Tasten zur Bedienung angeordnet sind
   Wird das Spiel mit der Tastatur oder der Maus gesteuert?
   Do you control the game with the keyboard or the mouse?
 
@@ -224,6 +225,7 @@ Teer /teːɐ/, der: tar
   eine Tonne mit Teer ausschmieren: to tar a barrel
 
 Teig /taik/, der, -(e)s|-e: dough, batter
+  weiche Masse aus Mehl und anderen Zutaten, aus der Kuchen, Brot usw. gebacken wird
 
 Teil /tail/, der: part
   zum Teil: partly
@@ -398,6 +400,8 @@ Titel /ˈtiːtəl/, der, -: title
   The title of her new novel is "Desire."
   jdn mit seinem Titel anreden: to call sb by his title
 
+tja /tja/: well
+
 toben /ˈtoːbən/: to rage, to rave, to go wild
   Als er das hörte, tobte er vor Wut.
   He was absolutely furious when he heard about it.
@@ -460,6 +464,9 @@ Tonne /ˈtɔnə/, die, -n: barrel, drum, trash can, ton
 Topf /tɔpf/, der, Töpfe: pot, (sauce)pan
   die Nudeln aus dem Topf schütten
   to pour the noodles out of the pan
+
+Tor /toːɐ/, das: goal
+  Gestell aus Pfosten mit einem Netz, in das man mit dem Ball o. Ä. treffen muss
 
 Torte /ˈtɔrtə/, die: gateau, (fruit) flan
   Das Brautpaar schnitt die Hochzeitstorte an.

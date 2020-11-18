@@ -184,6 +184,8 @@ verdutzt /fɛɐˈdʊʦt/: baffled 困惑
 Verein /fɛɐˈ|ain/, der, -e: association, club, society
   Mitglied im Sportverein sein: to be a member of the sports club
 
+Vereinbarung /fɛɐˈ|ainbaːrʊŋ/, die: agreement, arrangement
+
 Vereinsmeierei, die: club fanaticism
 
 vereinbaren /fɛɐˈ|ainbaːrən/: to agree, to arrange
@@ -459,7 +461,9 @@ Verlangen /fɛɐˈlaŋən/, das: desire, craving, request, demand
   Die Eintrittskarte ist auf Verlangen vorzuzeigen.
   Tickets must be shown on request/demand.
   
-verlangen: to demand, to ask for
+verlangen: to demand, to ask for, to require
+  jdm deutlich sagen, was man von ihm will; mit einer Voraussetzung verbunden sein
+  ≈ fordern
   Sie verlangte von ihren Kindern, ihr Zimmer aufzuräumen.
   She told her kids to tidy their room.
   Der kleine Junge verlangte nach seiner Mama.
@@ -907,6 +911,7 @@ vertiefen /fɛɐˈtiːfən/: to strengthen, to extend, to deepen
 vertikal /vɛrtiˈkaːl/
 
 Vertrag /fɛɐˈtraːk/, der, -(e)s|..e: contract, treaty
+  meist schriftliche Vereinbarung, an die sich alle Beteiligten halten müssen
   einen Vertrag mit jdm schließen: to sign a contract with sb
   Arbeitsvertrag
 
@@ -964,6 +969,8 @@ vertreten /fɛɐˈtreːtən/: to stand in/deputize for, to represent, to support
 Vertreter /fɛɐˈtreːtɐ/, -s|~, -in: deputy
   Während meines Urlaubs wenden Sie sich bitte an meine Vertreterin.
   Please contact my deputy whilst I'm away on vacation.
+
+vertritt => vertreten
 
 vertuschen /fɛɐˈtʊʃən/: to cover up
   Er versuchte seinen Fehler zu vertuschen.
@@ -1195,7 +1202,7 @@ vollkommen /fɔlˈkɔmən/: complete, perfect
   There was complete silence in the hall.
 
 Vollkorn- /ˈfɔlkɔrn/: whole-wheat
-  Vollkornbrot: whole-wheat bread 
+  Vollkornbrot: whole-wheat/wholegrain bread 
 
 vollständig /ˈfɔlʃtɛndɪç/: complete
   Leider ist das Puzzle nicht mehr vollständig.
@@ -1483,6 +1490,12 @@ vortragen /ˈfoːɐtraːɡən/: to present, to make, to express
   Have you expressed your concerns to the boss yet?
   Sie trug dem Publikum ihre Gedichte vor.
   She recited her poems to the audience.
+
+vorübergehen /foˈryːbɐɡeːən/: to pass, to be over, to go/walk past
+  zu Ende gehen; an jdm / etw. vorbei irgendwohin gehen
+
+vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
+  nur für relativ kurze Zeit
 
 vortreten /ˈfoːɐtreːtən/: to step forward(s)
   Bitte treten Sie einen Schritt vor.

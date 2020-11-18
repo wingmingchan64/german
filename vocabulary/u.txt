@@ -153,6 +153,7 @@ übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open,
   I think it'll work but I can't guarantee it.
 
 überprüfen /yːbɐˈpryːfən/: to check
+  (noch einmal) prüfen, ob etw. in Ordnung ist
   Überprüf doch noch mal, ob die Fenster wirklich alle zu sind.
   Can you double-check that all the windows are really closed?
 
@@ -455,15 +456,18 @@ Umsetzung /ˈʊmzɛʦʊŋ/, die, -en: implementation
   Die Umsetzung des Gesetzes brachte Probleme mit sich.
   The implementation of the the law led to problems.
 
-Umsichtig /ˈʊmzɪçtɪç/: prudent
-  eine umsichtige Angestellte: a prudent employee
-
 Umschlag /ˈʊmʃlaːk/, der, -(e)s|..e: envelope, cover, jacket, transfer, trans-shipment, (sudden) change
   eine CD in einem wattierten Umschlag verschicken
   to send a CD in a padded envelope
   Der Hafen ist ein wichtiger Umschlagplatz.
   The port is an important trans-shipment point.
   Wetterumschlag: (sudden) change in the weather
+
+Umsichtig /ˈʊmzɪçtɪç/: prudent
+  eine umsichtige Angestellte: a prudent employee
+
+umsonst /ʊmˈzɔnst/: for nothing
+  ≈ kostenlos
 
 Umstand /ˈʊmʃtant/, der, -(e)s|..e: circumstance
   unter Umständen: perhaps
@@ -754,7 +758,8 @@ Unterkunft /ˈʊntɐkʊnft/, die: accommodation, housing, lodging
   ≈ Quartier
   für Unterkunft und Verpflegung sorgen: to provide board and lodging
 
-Unterlage, die: documents, papers
+Unterlage, die, ~|-n: something to work/paint/write on, pl. documents, papers
+  Gegenstand, den man unter jdn / etw. legt; Akten, Texte oder Dokumente, die man für die Arbeit oder als Nachweis braucht
 
 unterlaufen /ʊntɐˈlaufən/: sth gets past sb
   Leider ist mir bei der Berechnung ein Fehler/Irrtum unterlaufen.

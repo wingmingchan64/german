@@ -287,6 +287,8 @@ schauerlich: dreadful, horrible, lousy
   The people out for a walk were faced with a dreadful sight.
   Er spricht ein schauerliches Englisch.
 
+Schaufel, die: shovel
+
 schaufeln /ˈʃaufəln/: to shovel
   viel Geld von einem Konto auf ein anderes schaufeln
   to shovel lots of money from one account to another
@@ -381,7 +383,7 @@ Schicksal /ˈʃɪkzaːl/, das, -s|-e: fate, destiny
   ein schweres Schicksal haben: to be fated to have a hard life
   das Schicksal entscheiden lassen: to leave it to fate
 
-schieben /ˈˈʃiːbən/: to push, to put, to blame, to reject
+schieben /ˈʃiːbən/: to push, to put, to blame, to reject
   einen Tisch zur Seite schieben: to push a table aside
   Er schob sich durch das Gedränge nach vorn zur Theke.
   He pushed his way through the crowd to the bar at the front.
@@ -402,6 +404,7 @@ schießen /ˈʃiːsən/: to shoot, to kick
   schieße, schoss, schossest, schosst, geschossen
   auf einen Hasen schießen: to shoot at a hare
   den Ball über den Zaun schießen: to kick the ball over the fence
+  aufs / ins Tor schießen
 
 Schiff /ʃɪf/, das: ship, boat
 
@@ -1746,6 +1749,9 @@ Sprechstunde /ˈʃprɛçʃtʊndə/, die, -n: consultation, consultation hours
   zum Deutschlehrer in die Sprechstunde gehen
   to go to see the German teacher outside of class
 
+Sprint, der: sprint
+  schneller Lauf über eine kurze Strecke
+
 spritzen /ˈʃprɪʦən/: to spray
   jdm Wasser ins Gesicht spritzen: to spray water in sb's face
 
@@ -1884,6 +1890,7 @@ statt /ʃtat/: instead of
 stattdessen /ʃtatˈdɛsən/: instead
 
 stattfinden /ˈʃtatfɪndən/: to take place
+  planmäßig erfolgen, sich ereignen
   Die Wahlen finden im Oktober statt.
   The elections take place in October.
 
@@ -1910,6 +1917,8 @@ staubig /ˈʃtaubɪç/: dusty
   The books were very dusty.
 
 Staubigkeit: dustiness
+
+Staubsauger/ˈʃtaupzauɡɐ/, der: vacuum
 
 staubsaugen /ˈʃtaupzauɡən/: to vacuum
   Sie hat im Wohnzimmer gestaubsaugt / Staub gesaugt.

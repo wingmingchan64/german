@@ -324,6 +324,8 @@ gefallen: to please
 
 gefällt => fällen, gefallen
 
+gefaltet => falten
+
 gefangen: captive
 
 Gefangene /ɡəˈfaŋənə/, der / die: prisoner
@@ -603,6 +605,7 @@ Gemecker: grouse 牢騷
   => mecken
 
 gemein /ɡəˈmain/: mean, nasty, cruel, annoying
+  andere mit Absicht ärgernd, ihnen schadend
   eine gemeine Lüge: a cruel lie
   Jetzt fängt es auch noch zu regnen an, wie gemein!
   And now it's starting to rain as well – how annoying!
@@ -994,6 +997,8 @@ getigert /ɡeˈtiːɡɐt/: striped
 
 Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
 
+*Getreide /ɡəˈtraidə/, das: grain, crop
+
 getrennt: separated, apart
   Sie führten getrennte Kasse.
   They each paid for themselves.
@@ -1376,6 +1381,7 @@ grinsen: to grin
   She sneered/gave an impudent grin.
 
 großartig /ˈɡroːs|artɪç/: wonderful, terrific, great
+  sehr eindrucksvoll
   eine großartige Künstlerin / Leistung: a wonderful artist / a terrific performance
   Das macht keinen großartigen Unterschied.
   It doesn't make much of a difference.
@@ -1474,7 +1480,7 @@ günstig /ˈgʏnstɪç/: favorable, convenient, reasonable
   eine Veränderung, die sich günstig auswirkt: a change with favorable consequences
   günstig einkaufen: to buy things at attractive prices
 
-Gurke /ˈɡʊrkə/, die, -n: cucumber
+Gurke /ˈɡʊrkə/, die, ~|-n: cucumber
   Gurken anbauen: to grow cucumbers
 
 Gürtel /ˈɡʏrtəl/, der, -: belt

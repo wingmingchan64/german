@@ -47,6 +47,8 @@ Abend /ˈaːbənt/, der, -s|-e: evening
   am Abend
   zu Abend essen
 
+Abendbrot /ˈaːbəntbroːt/, das: supper, light evening meal
+
 Abendessen /ˈaːbənt|ɛsən/, das, -s|~: supper
 
 Abenteuer /ˈaːbəntɔʏɐ/, das, -s|~: adventure
@@ -481,6 +483,8 @@ abwarten /ˈapvartən/: to wait
 
 abwärts: down, downwards
   vom Hals abwärts gelähmt sein
+
+abwaschen /ˈapvaʃən/: to wash up
 
 Abwasser /ˈapvasɐ/, das, -s|..: waste water
   Abwasserkanal: gully
@@ -1065,10 +1069,13 @@ Angeklagte /ˈanɡəklaːktə/, der-die, -n|-n: defendant
   Der Angeklagte bestritt die Tatvorwürfe.
   The defendant disputed the alleged crimes.
 
+Angel /ˈaŋəl/, die: fishing rod
+
 Angelegenheit: affair
   Der Fall ist eine komplizierte Angelegenheit.
 
 angeln /ˈaŋəln/: to fish
+  Fische mit der Angel fangen
 
 angemessen /ˈanɡəmɛsən/: suitable, appropriate
   In diesem Fall fände ich es angemessener zu schweigen.
@@ -1445,6 +1452,7 @@ antworten /ˈantvɔrtən/ [dative]: to answer
   mit Ja/Nein antworten: to answer yes/no
 
 Anwalt /ˈanvalt/: lawyer
+
 
 Anweisung /ˈanvaizʊŋ/, die, -en: instruction
   auf jds Anweisung handeln: to act on sb's instructions
@@ -2076,7 +2084,7 @@ auftreiben /ˈauftraibən/: to rustle up, to get hold of
 
 Auftreten /ˈauftreːtən/, das: occurrence, appearance, behavior
 
-auftreten /ˈauftreːtən/: to perform, to appear, to arise, to occur, to act
+auftreten /ˈauftreːtən/: to perform, to appear, to arise, to occur, to act, to tread
   Zahlreiche Künstler haben angekündigt, ohne Gage aufzutreten.
   A large number of artists have announced that they will be performing for free.
   Bei höheren Temperaturen tritt dieser Effekt nicht auf.
@@ -2433,6 +2441,7 @@ ausrücken /ˈausrʏkən/: zum Einsatz gehen / fahren; weglaufen, ausreißen
   Der Hamster ist schon wieder mal ausgerückt; wir müssen ihn suchen.
 
 ausruhen /ˈausruːən/: to rest
+  nichts tun, um wieder Kraft zu bekommen
   Ich muss mich mal kurz ausruhen.
   I need to have a short rest.
   Ruh bei der Bildschirmarbeit zwischendrin mal deine Augen aus!

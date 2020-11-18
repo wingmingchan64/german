@@ -799,6 +799,8 @@ bepacken: to load
 berauschend /bəˈrauʃənt/: intoxicating
   => Rausch, der: intoxication
 
+beraten /bəˈraːtən/: to advise
+
 Bereich /bəˈraiç/, der: area
   ein verkehrsberuhigter Bereich: a traffic-calmed neighborhood
 
@@ -949,6 +951,7 @@ Bescheid /bəˈʃait/, der: notification
   to lodge an objection against a negative decision
   Bitte sag mir rechtzeitig Bescheid, ob du kommen kannst.
   Please let me know in good time whether you can come. 
+  Bescheid wissen: to know (about sb/sth)
 
 bescheiden: to content yourself, to give, to inform
   Sie ging nicht auf seine Ausführungen ein, sondern beschied sich damit, bedächtig zu nicken.
@@ -1012,6 +1015,9 @@ Beschwerde /bəˈʃveːɐdə/, die, -n: complaint, appeal, trouble, discomfort
 beschweren /bəˈʃveːrən/: to complain
   Ich werde mich bei Ihrem Vorgesetzten über Sie beschweren!
   I'm going to complain to your boss about you!
+
+Besen /ˈbeːzən/, der: broom
+  Gegenstand, mit dem man den Boden kehrt
 
 besessen /bəˈzɛsən/: possessed
   ≈ besitzen
@@ -1385,6 +1391,8 @@ Bewerbung, die: application
   eine Bewerbung um einen Ausbildungsplatz
   an application for an apprenticeship
 
+Bewerbungsgespräch, die: job interview
+
 Bewerbungsmappe, die: application documents
 
 bewerfen: to throw at
@@ -1548,6 +1556,8 @@ binnen: within
   binnen einem Monat/eines Monats: within a month
 
 Biologe /bioˈloːɡə/: biologist
+
+Birne /ˈbɪrnə/, die: pear
 
 △bis /bɪs/: until
   Ich bin noch bis übermorgen in der Stadt.

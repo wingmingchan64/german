@@ -181,6 +181,9 @@ Dativ /ˈdaːtiːf/, der: dative
   Das Objekt steht hier im Dativ.
   The object is in the dative here.
 
+Dattel /ˈdatəl/, die, ~|-n: date
+  braune, süße Frucht einer bestimmten Palmenart
+
 Datum /ˈdaːtʊm/, das, Daten: date
   Welches Datum haben wir heute?
   What's today's date? 
@@ -661,7 +664,8 @@ drücken /ˈdrʏkən/: to push, to press
   jdn / etw. an sich drücken: to hug sb/sth
   sich an jdn / etw. drücken: to snuggle up to sb/to squeeze up against sth
 
-Drucker /ˈdrʊkɐ/: jd, der in einer Druckerei arbeitet
+Drucker /ˈdrʊkɐ/, der: printer
+  jd, der in einer Druckerei arbeitet; Gerät, mit dem man Texte auf Papier drucken kann
   Drucker ist ein aussterbender Beruf.
   Printers are a dying breed.
 

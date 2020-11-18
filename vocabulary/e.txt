@@ -269,6 +269,9 @@ Eindruck /ˈaindrʊk/, der, ..e: impression
 
 eindrücken: to impress
 
+eindrucksvoll /ˈaindrʊksfɔl/: impressive
+  großen Eindruck machend
+
 eineinhalb /ˈain|ainˈhalp/: one and a half
   Sie hat eineinhalb Scheiben Brot gegessen.
   She ate one and a half slices of bread.
@@ -1226,6 +1229,9 @@ Erfindung /ɛɐˈfɪndʊŋ/, die, -en: invention, fiction
 
 Erfolg /ɛɐˈfɔlk/, der: success
   => Folge: consequence, result
+
+erfolgen /ɛɐˈfɔlɡən/: to follow, to take place
+  als Folge von etw. geschehen; getan, durchgeführt werden 
 
 erfolgreich /ɛɐˈfɔlkraiç/: successful
   ein erfolgreicher Filmstar: a successful film star

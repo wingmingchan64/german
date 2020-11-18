@@ -679,6 +679,10 @@ Rock /rɔk/, der: skirt
   Sie trug einen kurzen Rock.
   She was wearing a short skirt.
 
+Roggen /ˈrɔɡən/, der: rye
+  Getreidesorte, aus der bes. dunkles Brot gemacht wird
+  Roggenbrot
+
 roh /roː/: raw
   Bohnen sind roh giftig.
   Raw beans are poisonous.
@@ -720,6 +724,9 @@ romantisch /roˈmantɪʃ/
   Die Romantische Straße berührt zahlreiche mittelalterliche Städte.
   The Romantic Road goes through numerous medieval towns.
   der romantische Maler Caspar David Friedrich: the Romantic artist Caspar David Friedrich
+
+röntgen /ˈrœntɡən/: to X-ray
+  mit Strahlen Bilder vom Inneren des Körpers machen
 
 rosa /ˈroːza/: pink
   rosa Nelken: pink carnations
