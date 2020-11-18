@@ -450,6 +450,8 @@ Klasse, die, ~|-n: class, classroom
   die Klasse betreten
   die Klasse der Arbeiter / Bauern
 
+klasse: awesome
+
 Klassenraum, der: classroom
 
 Klassik /ˈklasɪk/, die, ~|uncountable
@@ -973,6 +975,9 @@ kränkeln /ˈkrɛnkəln/: to be not too well, to be sickly
 Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 
 Krapfen /ˈkrapfən/, der, -s|~: jelly doughnut
+
+krass
+  extrem; bes. von jungen Leuten verwendet, um ein starkes positives oder negatives Urteil abzugeben
 
 kratzen /ˈkraʦən/: to scratch
   sich am Kopf kratzen: to scratch your head

@@ -393,6 +393,10 @@ begabt /bəˈɡaːpt/: talented, gifted
   Sie ist musikalisch begabt.
   She's gifted musically. 
 
+begeben, sich
+  sich in eine bestimmte Situation bringen;
+  mit einer Aktion beginnen; irgendwohin gehen; sich ereignen, geschehen
+
 begegnen /bəˈɡeːɡnən/ [dative]: to meet, to confront, to face
   Ich bin ihm zum ersten Mal auf einer Party begegnet.
   I first met him at a party.
@@ -519,6 +523,11 @@ behandeln /bəˈhandəln/: to treat
   He treated me very impolitely.
   eine Krankheit mit Medikamenten behandeln
   to treat an illness with medication
+
+Behandlung, die: treatment
+  die grausame Behandlung von Gefangenen
+  the cruel treatment of prisoners
+  sich in ärztliche Behandlung begeben
 
 behaupten /bəˈhauptən/: to claim, to contend, to maintain
   Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.
@@ -1898,6 +1907,9 @@ breiten /ˈbraitən/: to spread sth over sb/sth
   eine Decke über den Verletzten breiten: to spread a blanket over the injured man
   Nebel breitete sich über die Felder.
   Fog spread over the fields.
+
+Bremse /ˈbrɛmzə/, die: brake
+  Vorrichtung, mit der man Fahrzeuge verlangsamen oder anhalten kann
 
 bremsen /ˈbrɛmzən/: to brake, to slow down, to curb, to stop, to rein
   scharf bremsen müssen: to have to brake sharply

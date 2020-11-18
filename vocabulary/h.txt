@@ -382,6 +382,9 @@ Heiligabend /hailɪçˈ|abənt/, der, -e: Christmas Eve
 Heiligtum /ˈhailɪçtuːm/, das, Heiligtümer: shrine, holy place
   ein ägyptisches Heiligtum: an Egyptian shrine 
 
+Heilzweck, der
+  zu Heilzwecken: for medicinal purposes
+
 Heimat /ˈhaimaːt/, die: home (country)
   Sehnsucht nach der Heimat haben: to be homesick
   
@@ -1088,6 +1091,12 @@ Hunger /ˈhʊŋɐ/, der, -s: hunger, starvation, yearning
 hungrig /ˈhʊŋrɪç/: hungry
   Bist du auch so hungrig?
   Are you really hungry, too? 
+
+Hupe, die: horn
+  auf die Hupe drücken
+
+hupen /ˈhuːpən/: to sound your horn
+  die Hupe betätigen
 
 hüpfen /ˈhʏpfən/: to hop
   auf einem Bein hüpfen: to hop on one leg

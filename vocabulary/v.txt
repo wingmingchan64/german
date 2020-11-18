@@ -623,6 +623,9 @@ vernünftig /fɛɐˈnʏnftɪç/: sensible
   Jetzt sei doch mal vernünftig!
   Be sensible/reasonable!
 
+verordnen: to prescribe
+  ärztlich anordnen
+
 veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
 
 Veröffentlichung /fɛɐˈ|œfəntlɪçʊŋ/, die: publication
@@ -727,6 +730,9 @@ verschmäht: jilted lover
 verschmitzt /fɛɐˈʃmɪʦt/: mischievous
   Er lächelte verschmitzt.
   He smiled mischievously.
+
+verschreiben: to prescribe
+  ≈ verordnen
 
 verschwand => verschwinden
 
