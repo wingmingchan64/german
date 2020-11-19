@@ -176,6 +176,9 @@ Kasus /ˈkaːzʊs/, der, ~|~: case
   In welchem Kasus steht das Subjekt des Satzes?
   What case is the subject of the sentence in?
 
+Katastrophe /kataˈstroːfə/, die: disaster, catastrophe
+  sehr schlimmes Ereignis
+
 Kater /ˈkaːtɐ/, der, -s|~: tomcat, hangover
   Kater haben ein größeres Revier als weibliche Katzen.
   Tomcats have a larger territory than female cats.
@@ -713,7 +716,7 @@ kommen /ˈkɔmən/: to come
   komme, kommst, kommt, bin gekommen
   ums Leben kommen: to die
 
-Kommentar /kɔmɛnˈtaːɐ/, der, -e: comment, commentary
+Kommentar /kɔmɛnˈtaːɐ/, der, -s|-e: comment, commentary
   Auf solche unsachlichen Kommentare kann ich verzichten!
   I can do without uncalled-for comments like that!
   einen Kommentar zum Wahlergebnis schreiben

@@ -535,7 +535,7 @@ schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, s
   What time does the bank close?
   jdn/sich in ein Zimmer schließen: to lock sb/yourself in a room
   einen Vertrag mit jdm schließen: to sign a contract with sb
-  ... nach zu schließen: judging by ...
+  … nach zu schließen: judging by …
   Aus seinem Verhalten kann man schließen, dass er nervös ist.
   From his behavior one can conclude that he’s nervous.
 
@@ -1177,7 +1177,7 @@ sehen
 sehenswert /ˈzeːənsveːɐt/: worth seeing
   ein sehenswerter Kinofilm: a movie that is worth seeing
 
-Sehenswürdigkeit /ˈzeːənsvʏrdɪçkait/, die, Sehenswürdigkeiten: tourist attraction
+Sehenswürdigkeit /ˈzeːənsvʏrdɪçkait/, die: tourist attraction
   Die Touristen bestaunten die Sehenswürdigkeiten der Stadt.
   The tourists were marveling at the city sights.
 
@@ -1223,7 +1223,7 @@ sein /zain/: to be
   wenn ich Sie/er wäre: if I were or was you/him or he (form)
   er war es nicht: it wasn't him
   Wer ist da? Who's there?
-  wie wäre es mit ...
+  wie wäre es mit …
   mir ist kalt: I'm cold
 
 sein: his, its, her

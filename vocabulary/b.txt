@@ -106,6 +106,8 @@ Bar /baːɐ/, die, -s: bar
   mit Freunden in eine Bar gehen: to go to a bar with friends
   sich an die Bar setzen: to sit down at the bar  
 
+bar adj: cash
+
 Bär /bɛːɐ/, der, Bärin, Bären: bear
 
 barmherzig /barmˈhɛrʦɪç/: compassionate, kind-hearted
@@ -1065,6 +1067,9 @@ besinnen /bəˈzɪnən/
   sich einen Moment / kurz / … besinnen: to reflect for a moment
   Er besann sich einen Moment und schrieb dann weiter.
   He reflected for a moment then continued writing.
+
+Besitz /bəˈzɪʦ/, der, -es|-e: property, belongings
+  das Geld und alle Dinge, die jdm gehören
 
 besitzen /bəˈzɪʦən/: to own, to have
   habe besessen, besaß, besaßest

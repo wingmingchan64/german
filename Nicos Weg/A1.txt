@@ -1,4 +1,4 @@
-Alle Folgen
+Alle Folgen line 737
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=9s]
 - Guten Morgen, Herr Müller, wie geht es Ihnen?
 - Guten Morgen, Frau Schneider. Danke, gut! Und Ihnen?
@@ -24,7 +24,8 @@ Alle Folgen
   Du kannst mir die Unterlagen für das Meeting im Hotel hinterlegen.
 - Cool! Noch mal!
 - Ins Zentrum, bitte. Zum Königshof.
-- Ins Zentrum, zum Königshof. Ins Restaurant Königshof oder zum Hotel Königshof?
+- Ins Zentrum, zum Königshof.
+  Ins Restaurant Königshof oder zum Hotel Königshof?
 - Hotel Königshof.
 - Okay, kein Problem.
 - Hey, Stopp!
@@ -123,6 +124,7 @@ Alle Folgen
 - Sevilla!
 - Du wohnst in Sevilla?
 - Ich wohne in Sevilla.
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=467s]
 - Nico war auch am Flughafen. Er hat ein Problem: Seine Tasche ist weg.
 - Oh. Und was machst du jetzt?
 - Ich suche meine Tante.
@@ -149,8 +151,8 @@ Alle Folgen
   Sie wohnt auch hier in Deutschland, aber Nico hat die Adresse nicht.
 - Meine Tante … she has a bicycle shop.
 - Seine Tante hat ein Geschäft, ein Fahrradgeschäft.
-- Wir suchen also eine Adresse. Die Frau hat ein Fahrradgeschäft. Richtig?
-  Okay. Dann komm doch mit Nico zur Polizei.
+- Wir suchen also eine Adresse. Die Frau hat ein Fahrradgeschäft.
+  Richtig? Okay. Dann komm doch mit Nico zur Polizei.
 - Danke, Papa!
 - Gerne. Bis später.
 - Bis später!
@@ -174,6 +176,7 @@ Alle Folgen
 - Eins, zwei, drei, vier, fünf.
 - Sechs, sieben, acht, neun, zehn, elf, zwölf.
 - Sechs, sieben, acht, neun, zehn, elf, zwölf.
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=641s]
 - Was ist das?
 - Eine Einladung zum Geburtstag von Charlotte.
 - Geburtstag?
@@ -192,6 +195,7 @@ Alle Folgen
 - Sie ist acht.
 - Ah, Emma ist auch acht Jahre alt. Ich hab hier Emmas Schlafsack und ihre Isomatte.
 - Super, danke!
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=702s]
 - Wo hast du deine Traumfrau kennengelernt?
 - Im Fundbüro? Hat sie jemand abgegeben?
 - Nein, auf gar keinen Fall. Nein, sie arbeitet da.
@@ -199,10 +203,13 @@ Alle Folgen
   Dieser Mann war unser Amor.
 - Und den Finder der Tasche willst du suchen?
 - Tasche verloren?
-- Ganz genau. Er hat mein Leben verändert und ich würde mich gerne bedanken.
-- Also, wenn du das hörst, edler Finder, dann greif zum Telefon und ruf an. Die Telefonnummer ist 08007773344.
+- Ganz genau.
+  Er hat mein Leben verändert und ich würde mich gerne bedanken.
+- Also, wenn du das hörst, edler Finder,
+  dann greif zum Telefon und ruf an. Die Telefonnummer ist 08007773344.
 - 7773344 … 7773344. Tasche verloren.
-- Wir machen kurz Werbung und dann wollen wir wissen, wen ihr sucht! Ruft an!
+- Wir machen kurz Werbung und dann wollen wir wissen, wen ihr sucht!
+  Ruft an!
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=756s]
 - So, hier ist noch meine Handynummer.
 - Ist das eine Zwei oder eine Sieben?
@@ -219,11 +226,13 @@ Alle Folgen
 - Nicht so gut? Warum nicht so gut?
 - Meine Tasche. Meine Tasche … Tasche verloren …
 - Oh, okay, Moment … Du hast deine Tasche verloren? Wie ist das passiert?
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=801s]
 - Hallo?
 - Oh, hallo … Wer bist du denn?
 - Eh, Entschuldigung. Ich bin nicht Nico. Mein Name ist Lisa.
   Nico spricht nicht so gut Deutsch. Er sucht seine Tasche.
-  Seine Tasche ist schwarz und … Eh. Sie hat einen Aufnäher mit einem Fahrrad.
+  Seine Tasche ist schwarz und … Eh.
+  Sie hat einen Aufnäher mit einem Fahrrad.
 - Okay.
 - Nicos Pass ist in der Tasche. Also wenn ihr die Tasche findet,
   dann gebt sie bitte bei der Polilzeistelle Ost ab.
@@ -241,7 +250,8 @@ Alle Folgen
 - Ja. Ich heiße Nicolás González.
 - Herr González, freut mich sehr. Setzen Sie sich doch bitte.
   Wie kann ich Ihnen helfen?
-- Wie ist Ihr Geburtsdatum? Ich meine: Wann haben Sie Geburtstag? Geburtstag?
+- Wie ist Ihr Geburtsdatum?
+  Ich meine: Wann haben Sie Geburtstag? Geburtstag?
 - Geburtstag. Adresse?
 - Wir nehmen meine Adresse. Ich wohne in der Wagnergasse 136.
 - Ihre Passnumber! Passnumber.
@@ -274,7 +284,8 @@ Alle Folgen
 - Hallo, ich bin Nico.
 - Hallo, Nico. Ich bin Sebastian. Was machst du hier?
 - Ich habe ein Problem: Meine Tasche ist weg
-  und mein Handy und mein Pass sind auch weg. Und Yaras Adresse ist auch weg.
+  und mein Handy und mein Pass sind auch weg.
+  Und Yaras Adresse ist auch weg.
 - Okay, das ist nicht so gut. Und woher kommst du?
 - Ich komme aus Spanien. Ich wohne in Sevilla. 
 - Schön. Und wer ist Yara?
@@ -283,13 +294,13 @@ Alle Folgen
 - Auch nicht so gut. Und wie alt bist du?
 - Ich bin 22 Jahre alt. Und du? Kommst du aus Deutschland?
 - Ich bin 25 Jahre. Und ja, ich komme aus Deutschland.
-- Und ich heiße Nina. Ich komme auch aus Deutschland
-  und bin 23 Jahre alt. Hi!
+- Und ich heiße Nina.
+  Ich komme auch aus Deutschland und bin 23 Jahre alt. Hi!
 - Kann Nico zwei Tage hier wohnen?
 - Klar.
 - Kein Problem!
 - Willkommen in der Wagnergasse!
-- Dankeschön!
+- Danke schön!
 - Herzlich willkommen!
 - Und es gibt eine Party?
 - Ja, aber wir haben ein kleines Problem.
@@ -297,7 +308,8 @@ Alle Folgen
 - Kann ich?
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=1046s]
 - Klar. Hat am Flughafen alles geklappt? Geht es Emma gut?
-- Ja. Emmas Mutter sitzt im Flugzeug und Emma geht es gut, die ist bei Lotte.
+- Ja. Emmas Mutter sitzt im Flugzeug und Emma geht es gut,
+  die ist bei Lotte.
 - Ey, wow! Die Lampe funktioniert wieder.
 - Super, Nico! Danke! Möchtest du etwas trinken?
 - Trinken?
@@ -336,6 +348,7 @@ Alle Folgen
 - Prost!
 - Prost!
 - Wo ist denn Nawin? Ist er nicht hier?
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=1190s]
 - Hey, Nawin. Möchtest du etwas essen?
 - was gibt es denn?
 - Sushi, Pizza, Salat.
@@ -350,6 +363,7 @@ Alle Folgen
 - Ja, Nico war im Radio.
 - Du suchst deine Tasche!
 - Ja.
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=1226s]
 - Leute, die Speisekarte. Was nehmt ihr?
 - Ich möchte eine Pizza mit Thunfisch.
 - Sehr gut. Ich nehme auch eine Pizza mit Salami.
@@ -359,8 +373,8 @@ Alle Folgen
 - Gut. Und ich nehm' wie immer meine Pizza Hawaii ohne Schinken.
 - Pizza Hawaii?
 - Das ist eine Pizza mit Ananas und Schinken.
-  Nina liebt Ananas, sie ist aber Vegetarierin und deshalb nimmt sie
-  die Pizza jedes Mal ohne Schinken.
+  Nina liebt Ananas, sie ist aber Vegetarierin
+  und deshalb nimmt sie die Pizza jedes Mal ohne Schinken.
 - So und ich bestelle. Wo ist mein Handy?
 - Danke!
 - Ach, eine Nachricht auf Book!
@@ -370,11 +384,13 @@ Alle Folgen
 - Guten Tag, Ihre Bestellung. Zahlen Sie zusammen oder getrennt?
 - Zusammen. Was kostet das?
 - Gut, Moment. Die drei Pizzen mit Salami sind 22,50 Euro.
-  Dann haben wir eine Pizza Thunfisch, eine Pizza Hawaii ohne Schinken,
-  18 Euro. Das macht zusammen … 40,50 Euro. Zahlen Sie bar oder mit Karte?
+  Dann haben wir eine Pizza Thunfisch,
+  eine Pizza Hawaii ohne Schinken, 18 Euro.
+  Das macht zusammen … 40,50 Euro. Zahlen Sie bar oder mit Karte?
 - Ähm, ich zahle bar. Hier sind 45 Euro. Das stimmt so.
 - Danke! Hier ist die Rechnung. Tschüss.
 - Danke.
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=1313s]
 - So … bekommt die Hawaii ohne Schinken?
 - Ich!
 - Tonno?
@@ -402,23 +418,28 @@ Alle Folgen
 - Das? Das ist eine Sehenswürdigkeit in Köln: der Kölner Dom.
   Warst du schon mal in Köln? Kennst du die Stadt?
 - Nein.
-- Warst du noch nie in Deutschland? Oder in Österreich oder in der Schweiz?
-- Jetzt habe ich Geschenke aus Köln, Hamburg, Düsseldorf, Heidelberg und Berlin.
+- Warst du noch nie in Deutschland?
+  Oder in Österreich oder in der Schweiz?
+- Jetzt habe ich Geschenke aus Köln, Hamburg, Düsseldorf, Heidelberg
+  und Berlin.
 - Und welche Städte kennst du schon?
-- Ich war schon mal in Hamburg und in Köln. In Heidelberg war ich noch nie. Nächste Woche fahre ich nach München!
+- Ich war schon mal in Hamburg und in Köln.
+  In Heidelberg war ich noch nie. Nächste Woche fahre ich nach München!
 - Was ist das?
 - Das ist das Brandenburger Tor. Eine Sehenswürdigkeit in Berlin.
 - Kennst du Berlin?
 - Nein. Aber Nina war schon mal in Berlin. Und Sebastian.
   Ihr wart schon mal in Berlin, oder?
-- Wir beide waren schon mal in Berlin, ja. Wir waren sogar am Brandenburger Tor.
+- Wir beide waren schon mal in Berlin, ja.
+  Wir waren sogar am Brandenburger Tor.
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=1445s]
 - Nico?
 - Hm …
 - Alles gut?
 - Kein Kommentar? Komm! Wir spielen ein Spiel.
 - So.
-- Also, es gibt vier Teams: Team Osten, Team Süden, Team Westen und Team Norden.
+- Also, es gibt vier Teams: Team Osten, Team Süden,
+  Team Westen und Team Norden.
 - Team Süden!
 - Süden?
 - Hier! Das ist Süden, das ist Norden, das ist Osten und das ist Westen.
@@ -441,7 +462,8 @@ Alle Folgen
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=1564s]
 - Tada!
 - Wow, was ist das denn?
-- Spezialitäten aus verschiedenen Ländern. Ihr müsst die Fähnchen zuordnen.
+- Spezialitäten aus verschiedenen Ländern.
+  Ihr müsst die Fähnchen zuordnen.
 - Das ist ja einfach! Also, Köttbullar … isst man in Schweden! So.
 - Warst du schon mal in Schweden?
 - Nee, aber ich fahre nächstes Jahr nach Norwegen!
@@ -451,7 +473,8 @@ Alle Folgen
 - In Frankreich isst man gern Käse.
 - Ja, gar nicht so schlecht!
 - Und du, Sebastian?
-- Hier, gib her. So. Also, Sushi isst man in Japan und in Italien isst man Pizza!
+- Hier, gib her. So.
+  Also, Sushi isst man in Japan und in Italien isst man Pizza!
 - Super!
 - Und Nico, was isst man in Spanien?
 - In Spanien isst man Gazpacho!
@@ -465,7 +488,7 @@ Alle Folgen
 - War die Party gut?
 - Sehr gut! Die Party war super!
 - International, oder? Marc kommt aus Frankreich,
-Sascha aus Russland und Selma aus Syrien.
+  Sascha aus Russland und Selma aus Syrien.
 - Selma … ist sie … refugee?
 - Ja, sie ist ein Flüchtling.
 - Flüchtling.
@@ -476,7 +499,8 @@ Sascha aus Russland und Selma aus Syrien.
 - Und welche Sprachen sprichst du, Nico?
 - Englisch … Naja … ein bisschen.
 - Und Spanisch und ein bisschen Deutsch.
-- Ja, ich spreche Spanisch, ein bisschen Englisch und ein bisschen Deutsch. Welche Sprachen sprichst du?
+- Ja, ich spreche Spanisch, ein bisschen Englisch
+  und ein bisschen Deutsch. Welche Sprachen sprichst du?
 - Ich spreche Deutsch, Englisch und Italienisch, aber sehr schlecht.
 - Woher kommst du? Welche Sprachen sprichst du?
 - Ich komme aus Thailand. Ich spreche Thai, Chinesisch, Englisch, 
@@ -518,7 +542,8 @@ Sascha aus Russland und Selma aus Syrien.
 - Das Tafel?
 - Die Tafel.
 - Nomen und Artikel gehören immer zusammen:
-  der Stuhl, die Tafel, das Buch. Kennt ihr noch andere Nomen mit Artikeln?
+  der Stuhl, die Tafel, das Buch.
+  Kennt ihr noch andere Nomen mit Artikeln?
 - Die Tasche!
 - Richtig. Die Tasche. Das ist eine Tasche. Das ist auch eine Tasche.
   Und das ist die Tasche von Jenny. Die Tasche, eine Tasche …
@@ -529,6 +554,7 @@ Sascha aus Russland und Selma aus Syrien.
 - Tschüss!
 - Bis bald! Tschüss!
 - Wiedersehen!
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=1889s]
 - Oh, entschuldige!
 - Hallo, hier Lisa Brunner.
   Ah ja, die Anzeige im Internet. Ja, wir suchen immer noch.
@@ -543,8 +569,8 @@ Sascha aus Russland und Selma aus Syrien.
   Okay. Alles klar. Bis dann. Tschüss!
   Das war ein Bewerber für Nawins Zimmer.
 - Bewerber?
-- Ja, Nawin geht doch nach Frankreich. Wir suchen also einen Mieter für
-  Nawins Zimmer. Er kommt heute noch.
+- Ja, Nawin geht doch nach Frankreich.
+  Wir suchen also einen Mieter für Nawins Zimmer. Er kommt heute noch.
   Aber jetzt gehen wir erst mal zu deiner Tante!
 - Die Tür.
 - Die Tür. Richtig!
@@ -559,7 +585,8 @@ Sascha aus Russland und Selma aus Syrien.
 - Ah … ich sehe was, was du nicht siehtst, und das ist groß und gelb.
 - Das Haus.
 - Ja.
-- Das hier ist die August-Straußeberg-Gasse 23. Aber wo ist der Fahrradladen?
+- Das hier ist die August-Straußeberg-Gasse 23.
+  Aber wo ist der Fahrradladen?
 - Hier ist kein Fahrradladen.
 - Ja, aber wir sind richtig.
 - Ich sehe was, was du nicht siehst, … und das ist nicht da.
@@ -573,13 +600,16 @@ Sascha aus Russland und Selma aus Syrien.
 - Ja, ein Problem. Du kannst nur noch zwei Tage in der WG bleiben.
   Dann musst du umziehen. Verstehst du?
 - Okay. Kein Problem.
-- Unsere Heizung ist kaputt. Sebastian, Nina, Nawin und ich fahren dann in Urlaub.
+- Unsere Heizung ist kaputt.
+  Sebastian, Nina, Nawin und ich fahren dann in Urlaub.
 - Du bist nicht da? Ich suche mir ein Hotel.
 - Nein. Das ist sehr teuer. Eine Jugendherberge ist besser.
 - Jugendherberge.
 - Ja. Eine Jugendherberge oder ein Hostel.
   Jugendherberge und Hostels sind nicht so teuer wie ein Hotel.
-  Viele junge Leute übernachten dort. Und ich frage meine Freunde und Bekannten. Vielleicht haben sie ein Zimmer frei.
+  Viele junge Leute übernachten dort.
+  Und ich frage meine Freunde und Bekannten.
+  Vielleicht haben sie ein Zimmer frei.
 - Okay, danke …
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=2143s]
 - Du willst dir das Zimmer anschauen?
@@ -612,7 +642,8 @@ Sascha aus Russland und Selma aus Syrien.
 - Äh, das Zimmer hat elf Quadratmeter.
 - Ah.
 - Ja, und es ist sehr ruhig. Keine Autos.
-- So, das ist die Küche. Die Küche ist sehr gemütlich. Hier sitzen wir oft.
+- So, das ist die Küche.
+  Die Küche ist sehr gemütlich. Hier sitzen wir oft.
 - Wie teuer ist das Zimmer?
 - Die Miete kostet mit Nebenkosten 400 Euro im Monat.
 - Okay.
@@ -627,7 +658,8 @@ Sascha aus Russland und Selma aus Syrien.
 - Hi, Wolf.
 - Nice. Das ist das Wohnzimmer, hm?
 - Ja, genau.
-- Der Tisch, der ist nicht schön. Die Stühle sind alt und der Schrank ist viel zu groß.
+- Der Tisch, der ist nicht schön.
+  Die Stühle sind alt und der Schrank ist viel zu groß.
   Das Sofa, das stellen wir da an die Wand.
   Und in die Ecke kommt mein Schlagzeug. Die Drums.
   Das ist doch super. Dann können wir zusammen jammen.
@@ -652,6 +684,7 @@ Sascha aus Russland und Selma aus Syrien.
 - Okay. Tschüss!
 - Was für eine Katastrophe!
 - Ich glaube, wir finden nie einen Mieter für Nawins Zimmer!
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=2392s]
 - Ah, die Sprachschule … Oh nein!
 - Was ist?
 - Meine Kollegin Manja ist krank. Ich mache morgen Manjas Unterricht.
@@ -735,7 +768,8 @@ Sascha aus Russland und Selma aus Syrien.
 - Pf. Müsli!
 - Emma, machst du jetzt bitte die Hausaufgeben?
 - Keine Lust. Es sind Ferien! Sehen wir fern?
-- Nein. Zuerst machen wir die Hausaufgaben, dann räumen wir auf und dann sehen wir fern.
+- Nein. Zuerst machen wir die Hausaufgaben,
+  dann räumen wir auf und dann sehen wir fern.
 - So, ich hab' Lust auf Eis!
 - Oh, mir ist schlecht!
 - Was ist das?
@@ -1756,13 +1790,48 @@ zwei Wochen vorher
 ========================================================
 New words:
 
+Aufenthaltserlaubnis, die: resident permit
+
 Aufnäher /ˈaufnɛːɐ/, der: (sew-on) badge/patch
+
+aufräumen /ˈaufrɔymən/: to tidy (up)
+
+bar adj: cash
+
+Fähnchen /ˈfɛːnçən/, das => Fahne: flag
+
+Flüchtling /ˈflʏçtlɪŋ/, der, -s|-e: refugee
 
 Fundbüro, das: lost and found
 
+gemütlich /ɡəˈmyːtlɪç/: comfortable, cozy
+
+Heizung, die: heating
+
+Jugendherberge /ˈjuːɡənthɛrbɛrɡə/, die: youth hostel
+
+klappen /ˈklapən/: to work out, to go all right
+
+Mädel /ˈmɛːdəl/, das: girl
+
+Miete /ˈmiːtə/, die, ~|-n: rent
+
+Nebenkosten /ˈneːbənkɔstən/, pl: extras, extra charges/costs
+
 Polizeirevier, das: police station
 
+Sehenswürdigkeit /ˈzeːənsvʏrdɪçkait/, die: tourist attraction
+
+Thunfisch, Tonno /ˈtuːnfɪʃ/, der: tuna
+
+Trinkgeld, das: tip
+
 Unterlagen, pl: documents
+
+WG /veːˈɡeː/, die: shared apartment
+
+Zettel, der: piece of paper
+
 ========================================================
 Topics:
 
@@ -1774,11 +1843,31 @@ Age
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=689s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1009s
 
+Apartment
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1895s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=2143s
+
 Birthday, gift
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=646s
   
 Birthday, happy
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=689s
+
+Colors & sizes
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1987s
+
+Countries & cities
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1370s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1655s
+
+Countries & food
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1572s
+
+Days of the week
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=2570s
+
+Directions, four
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1465s
 
 Drinks & beverage, offering
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1061s
@@ -1797,6 +1886,12 @@ Help, offering
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=195s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=866s
 
+Invitation, thanking
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1356s
+
+Languages
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1690s
+
 Name, self-introduction
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=279s
 
@@ -1813,6 +1908,9 @@ Place of origin, hometown
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=415s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1009s
 
+Schedule, daily routine
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=2473s
+
 Shopping, bread
 
 Shopping, clothing
@@ -1821,6 +1919,7 @@ Shopping, fruit and vegetable
 
 Spelling
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=831s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1356s
 
 Taxi
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=142s
@@ -1828,6 +1927,12 @@ Taxi
 Telephone number
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=732s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=756s
+
+Time
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=2392s
+
+Vegetables
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=2491s
 
 Welcome
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1027s

@@ -431,6 +431,8 @@ Heiterkeit /ˈhaitɐkait/, die: cheerfulness, merriment
 
 Heizkraftwerk, das: thermal power station
 
+Heizung, die: heating
+
 Held /hɛlt/, Heldin, Helden: hero
   Nach der Rettungsaktion wurde er als Held gefeiert.
   After the rescue operation he was celebrated as a hero.
@@ -551,6 +553,9 @@ herb /hɛrp/, bitter, sour, dry
   Das war eine herbe Enttäuschung für mich.
   That was a bitter disappointment for me.
   der herbe Reiz der Steppe: the austere beauty of the steppe
+
+Herberge /ˈhɛrbɛrɡə/, die: accommodation, lodging
+  einfaches Gasthaus mit Übernachtungsmöglichkeit
 
 Herbst /hɛrpst/, der: autumn
    Bald wird es Herbst.
@@ -1029,6 +1034,8 @@ Hose /ˈhoːzə/, Hosen, die: trousers
 Hosen-: trouser-
 
 Hosentasche, die: trouser pocket
+
+Hostel, das
 
 Hotel /hoˈtɛl/, das
 

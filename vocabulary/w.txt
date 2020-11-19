@@ -551,6 +551,8 @@ Wetteransage, die: weather report/forecast
 Wettkampf /ˈvɛtkampf/, der, ..e: competition, contest
   an einem Wettkampf teilnehmen: to take part in a competition
 
+WG /veːˈɡeː/, die: shared apartment
+
 wichtig /ˈvɪçtɪç/: important
   ↔ nebensächlich
   Diese Arbeit ist sehr wichtig für mich.
@@ -609,7 +611,7 @@ widmen /ˈvɪtmən/: to dedicate, to devote
 wie /viː/: how, as, like, such as
   Menschen in Deutschland sind nicht wie wir.
   People in Germany are not like us.
-  so ... wie ...: as ... as ...
+  so … wie …: as … as …
   so langsam wie eine Schnecke: as slow as a snail
   wie wenn: as if
   alkoholische Getränke wie Wein und Bier: alcoholic beverages such as/like wine and beer
@@ -805,6 +807,9 @@ Wodka /ˈvɔtka/, der, -s: vodka
 woher /voˈheːɐ/: from where
   Woher kommt er?
   das Land, woher er kommt: the country which he comes from
+
+wohin /voˈhɪn/: where … to
+  Wohin fahren Sie?
 
 Wohl /voːl/, das, -(e)s|uncountable: welfare
   um jds Wohl besorgt sein: to be concerned about sb's welfare

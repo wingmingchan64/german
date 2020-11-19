@@ -316,6 +316,8 @@ Taxi /ˈtaksi/, das, -s|-s
 
 Taxistand, der
 
+Teppich /ˈtɛpɪç/, der, -s|-e: carpet
+
 Theater /teˈaːtɐ/, das, -s|~: theater
   Er wartete vor dem Theater auf sie.
   He waited for her outside the theater.
@@ -335,6 +337,8 @@ Therapie /teraˈpiː/, die
 thronen /ˈtroːnən/: to sit enthroned
   Sie thronte in ihrem Sessel und behielt uns alle im Blick.
   She sat enthroned in her armchair, keeping us all under her gaze.
+
+Thunfisch /ˈtuːnfɪʃ/, der: tuna
 
 Ticket /ˈtɪkət/, das
   Karte für eine Reise, bes. mit dem Flugzeug; Eintrittskarte
@@ -460,6 +464,8 @@ Tonne /ˈtɔnə/, die, -n: barrel, drum, trash can, ton
   He threw the garbage in the trash can.
   Das Fahrzeug wiegt über acht Tonnen.
   The vehicle weighs more than eight tonnes.
+
+Tonno: tuna
 
 Topf /tɔpf/, der, Töpfe: pot, (sauce)pan
   die Nudeln aus dem Topf schütten
@@ -640,6 +646,8 @@ trinken: to drink
   trinke, trinkst, trinkt, habe getrunken
   Zum Trinken?
 
+Trinkgeld, das: tip
+
 trist /trɪst/: dreary
   ≈ trostlos
   Wir trafen uns an einem tristen, grauen Novembertag.
@@ -748,7 +756,7 @@ Tulpe /ˈtʊlpə/, die, -n: tulip
 tun /tuːn/: to do, to pretend
   Hast du nichts Besseres zu tun?
   Don't you have anything better to do?
-  so tun, als ob ...: to pretend that ...
+  so tun, als ob …: to pretend that …
   sie tut nur so: she's only pretending
 
 Tupfen /ˈtʊpfən/, der, -s|~: dot, spot
