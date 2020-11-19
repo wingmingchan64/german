@@ -65,6 +65,8 @@ Zehner /ˈʦeːnɐ/, der, -: ten
 
 zehntausend /ˈʦeːnˈtauzənt/
 
+zehnte
+
 Zeichen, das, -s|~: sign, signal, symbol
   Er gab dem Ober ein Zeichen, dass er zahlen wolle.
   He signaled to the waiter that he wanted to pay.
@@ -690,6 +692,7 @@ zweit /ʦvait/
   It takes two people to carry the closet.
 
 zweite /ˈʦvaitə/: second
+  am Zweiten
 
 Zwetschge /ˈʦvɛtʃɡə/, die: plum
 
@@ -728,5 +731,7 @@ zwo /ʦvoː/: two
   Die Nummer lautet: vier – zwo – zwo – drei.
 
 zwölf /ʦvœlf/
+
+zwölfte
 
 Zylinder /ʦiˈlɪndɐ/, der, -s|~: top hat

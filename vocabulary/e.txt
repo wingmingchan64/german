@@ -825,6 +825,8 @@ elend /ˈeːlɛnt/: miserable, wretched, horrible, terrible
 
 elf /ɛlf/: eleven
 
+elfte
+
 Elftel: eleventh
 
 Ell(en)bogen /ˈɛl(ən)boːɡən/, der: elbow
@@ -1631,6 +1633,7 @@ Erste /ˈeːɐstə/ m/f, kein pl: first
   etwas als Erstes tun: to do sth first
 
 erste /ˈeːɐstə/: first
+  jeden Ersten des Monats
 
 erstellen /ɛɐˈʃtɛlən/: to draw up, to create, to construct
   für eine Kontaktbörse im Internet sein Profil erstellen

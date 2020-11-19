@@ -1154,6 +1154,7 @@ Vielzahl /ˈfiːlʦaːl/, die, ~|uncountable: large number, multitude
 vier /fiːɐ/
 
 vierte /ˈfiːɐtə/: fourth
+  am Vierten
 
 △Viertel /ˈfirtəl/, das, -: quarter
   Viertel nach eins
@@ -1507,6 +1508,9 @@ vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
 vortreten /ˈfoːɐtreːtən/: to step forward(s)
   Bitte treten Sie einen Schritt vor.
   Please take one step forwards.
+
+vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
+  nur für relativ kurze Zeit
 
 Vorurteil /ˈfoːɐ|ʊrtail/, das, -e: prejudice, bias
   Vorurteile gegen Minderheiten haben

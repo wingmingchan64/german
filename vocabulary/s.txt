@@ -1143,6 +1143,8 @@ schwur => schwören
 
 sechs /zɛks/
 
+sechste /ˈzɛkstə/
+
 sechzehn /ˈzɛçʦeːn/
 
 sechzig /ˈzɛçʦɪç/
@@ -1377,6 +1379,8 @@ sie: she, it, they
   Sie wollen heiraten. They want to get married.
 
 sieben /ˈziːbən/
+
+siebente
 
 siebzehn /ˈziːpʦeːn/
 
