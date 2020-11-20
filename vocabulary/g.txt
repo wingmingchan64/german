@@ -339,7 +339,8 @@ Gefängnis /ɡəˈfɛŋnɪs/, das, -ses|-se: prison
   Auf Fahrerflucht steht Gefängnis.
   Hit-and-run drivers face prison.
 
-Gefäß /ɡəˈfɛːs/, das, -es|-e: vessel
+Gefäß /ɡəˈfɛːs/, das, -es|-e: vessel, jar
+  ein relativ kleiner Behälter, bes. für Flüssigkeiten
   das Wasser / Salz in ein Gefäß füllen
   to put the water into a jar/the salt into a vessel
 
@@ -529,6 +530,8 @@ gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to, to reach
   How did that letter find its way into your hands?
   an die Macht / zu Ruhm gelangen
   to come to power/to rise to fame
+
+gelangt => langen, gelangen
 
 gelassen: calm, unruffled
   eine gelassene Miene zur Schau tragen: to put on a relaxed face
@@ -945,7 +948,6 @@ Gespräch /ɡəˈʃprɛːç/, das, -e: conversation
   to have a conversation with sb about private matters
   Ich möchte ein R-Gespräch.
 
-
 gesprächig /ɡəˈʃprɛːçɪç/: talkative
   Er ist heute nicht sehr gesprächig.
   He's not very talkative today.
@@ -1121,6 +1123,8 @@ gezwungen /ɡəˈʦvʊŋən/: forced, strained
 Gier /ɡiːɐ/, die, |uncountable: greed
   Sie stürzten sich voller Gier aufs Essen.
   Driven by greed, they made a dive for the food.
+
+gießen /ˈɡiːsən/: to pour, to water
 
 Gift, das: poison
 

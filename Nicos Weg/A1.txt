@@ -1,4 +1,4 @@
-Alle Folgen line 737
+Alle Folgen
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=9s]
 - Guten Morgen, Herr Müller, wie geht es Ihnen?
 - Guten Morgen, Frau Schneider. Danke, gut! Und Ihnen?
@@ -1132,14 +1132,15 @@ Alle Folgen line 737
 - Ach herrje!
 - Danke noch mal, dass Nico ein paar Tage bei Ihnen wohnen kann.
 - Jaja. Das ist doch kein Problem. Möchten Sie etwas trinken?
-- Ich muss leider sofort wieder gehen. Ich fahre heute noch in den Urlaub.
+- Ich muss leider sofort wieder gehen.
+  Ich fahre heute noch in den Urlaub.
 - Ähm, ich komme bald wieder.
 - Okay. Danke, Lisa, für alles.
 - Tschüss!
 - Wiedersehen.
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=3848s]
 - So, und du! Was möchtest du denn trinken?
-- Möchtest du Apfelsaft oder lieber eine Apfelsaftschorle?
+  Möchtest du Apfelsaft oder lieber eine Apfelsaftschorle?
 - Schorle? Was ist das?
 - Das ist Saft mit Mineralwasser.
 - Dann nehme ich eine Schorle, bitte.
@@ -1171,8 +1172,8 @@ Alle Folgen line 737
 - Nico? Alles in Ordnung?
 - Entschuldigung!
 - Kein Problem. Ich hole den Staubsauger.
-- Ich sauge nicht so oft. Ich hasse Hausarbeit: Abwaschen, abtrocknen,
-  kochen, stausaugen, waschen, putzen!
+- Ich sauge nicht so oft. Ich hasse Hausarbeit:
+  Abwaschen, abtrocknen, kochen, stausaugen, waschen, putzen!
   Und dann alles wieder von vorn? Furchtbar!
 - Ich mag Hausarbeit auch nicht.
 - Ach … ich hab' keine Beutel mehr. Wo ist der Besen?
@@ -1189,7 +1190,7 @@ Alle Folgen line 737
 - Bald spielst du mit uns zusammen Fußball. Nächste Woche!
 - Was machst du denn noch in deiner Freizeit? Joggst du gerne?
 - Nein, ich jogge nicht gern.
-- Aber ich schwimme manchmal. Ich höre viel Musik und fahre viel Fahrrad.
+  Aber ich schwimme manchmal. Ich höre viel Musik und fahre viel Fahrrad.
   Aber am liebsten mache ich … das da
 - Angeln? Du angelst gern?
 - Angeln, ja. Ich gehe gern angeln.
@@ -1311,7 +1312,7 @@ Alle Folgen line 737
 - Meine Schwester kann sehr gut kochen und backen. Ich leider nicht.
 - Ich auch nicht. Aber Pizza backen ist leicht!
 - Ja.
-- Guten Aoppetit.
+- Guten Appetit.
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=4422s]
 Die Geschichte von Nicos Tasche
 - Auf jeden Fall. Ich freue mich auch, dass ich wieder da bin.
@@ -1352,7 +1353,7 @@ Die Geschichte von Nicos Tasche
   Wir haben die Hochzeit von meinem Onkel gefeiert.
 - Cool.
 - Ja! Und wir haben toll gegessen und gesungen und getanzt.
-  es gab auch einen See. Wir sind geschwommen und wir haben gegrillt
+  Es gab auch einen See. Wir sind geschwommen und wir haben gegrillt
   und haben Spaziergänge gemacht.
 - Das klingt schön.
 - Wo habt ihr gefeiert?
@@ -1361,13 +1362,14 @@ Die Geschichte von Nicos Tasche
   Aber der letzte richtige Urlaub ists sehr lange her …
 - Wir sehen uns, wenn ich wiederkomme, okay?
 - Okay!
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=4630s]
 - Lisa! Ja, kein Problem.
   Ich habe noch genug Deutschübungen, die ich machen kann.
   Ich freue mich aber schon, wenn du wiederkommst.
   Wie ist denn der Urlaub? Hat ihr tolles Wetter?
   Toll! Das klingt super!
-  Das Wetter bei mir? Ich glaube, es sind so um die 7 Grad
-  und es ist bewölkt.
+  Das Wetter bei mir?
+  Ich glaube, es sind so um die 7 Grad und es ist bewölkt.
   Abends soll es vielleicht noch regnen.
   Und morgen wird es noch kälter.
   Der Himmel ist einfach immer grau.
@@ -1479,6 +1481,7 @@ Die Geschichte von Nicos Tasche
   Das steht dir ganz toll. Sehr elegant.
   Ein gestreiftes Hemd und eine warme Hose und ganz schicke Schuhe!
 - Na ja, ich weiß nicht.
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=5077s]
 - Wer ist das denn?
 - Hallo?
 - Hallo, ich bin die Selma. Ist Nico da?
@@ -1486,14 +1489,16 @@ Die Geschichte von Nicos Tasche
 - Danke.
 - Was kann ich für dich tun?
 - Ist Nico da?
-- Ja sicher … Nico?
-  Er wird sicher gleich kommen.
+- Ja sicher … Nico? Er wird sicher gleich kommen.
 - Vielen Dank, aber ich suche nur mein Portemonnaie.
-  Ich glaube, Nico hat es noch. Ich habe es in die schwarze Tasche gesteckt.
+  Ich glaube, Nico hat es noch.
+  Ich habe es in die schwarze Tasche gesteckt.
 - Wir werden es sicher finden.
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=5112s]
   Aber erzähl mal: Woher kommst du?
   Du kommst nicht aus Deutschland, oder?
-- Nein, ich komme aus Syrien und lebe seit fast einem Jahr in Deutschland.
+- Nein, ich komme aus Syrien
+  und lebe seit fast einem Jahr in Deutschland.
 - Bist du alleine in Deutschland?
 - Nein, ich bin mit meinen Eltern hier.
 - Und hast du Geschwister?
@@ -1512,6 +1517,7 @@ Die Geschichte von Nicos Tasche
 - Na ja. Jeder kann mal zwei Wochen weg sein, oder?
 - Haben Sie ihre Handynummer? Haben Sie sie angerufen?
 - Ja, aber ich erreiche sie nicht.
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=5182s]
 - Das sind meine Eltern.
 - Was machen denn Ihre Eltern?
 - Mein Vater ist Anwalt und meine Mutter Ingenieurin.
@@ -1556,7 +1562,7 @@ zwei Wochen vorher
 - Aber er kann dir sicher helfen!
 - Ich brauche keine Hilfe von meinen Bruder!
 - Okay.
-- Also hier ists nichts.
+- Also hier ist nichts.
 - Sollen wir weitersuchen?
 - Nein, ich glaube, wir finden nichts.
   Sind Sie sicher, dass Sie keine Verwandten in Zürich haben?
@@ -1812,7 +1818,11 @@ New words:
 
 angeln /ˈaŋəln/: to fish
 
+Anwalt /ˈanvalt/: lawyer
+
 Aufenthaltserlaubnis, die: resident permit
+
+auflegen /ˈaufleːɡən/: to hang up
 
 Aufnäher /ˈaufnɛːɐ/, der: (sew-on) badge/patch
 
@@ -1824,6 +1834,8 @@ Besen /ˈbeːzən/, der: broom
 
 Birne /ˈbɪrnə/, die: pear
 
+Dattel /ˈdatəl/, die, ~|-n: date
+
 Fähnchen /ˈfɛːnçən/, das => Fahne: flag
 
 Flüchtling /ˈflʏçtlɪŋ/, der, -s|-e: refugee
@@ -1833,6 +1845,8 @@ Fundbüro, das: lost and found
 gemütlich /ɡəˈmyːtlɪç/: comfortable, cozy
 
 Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
+
+gießen /ˈɡiːsən/: to pour, to water
 
 Heizung, die: heating
 
@@ -1846,11 +1860,15 @@ Mädel /ˈmɛːdəl/, das: girl
 
 Miete /ˈmiːtə/, die, ~|-n: rent
 
+Mütze /ˈmʏʦə/, die, ~|-en: cap
+
 Nebenkosten /ˈneːbənkɔstən/, pl: extras, extra charges/costs
 
 Polizeirevier, das: police station
 
 Rotkraut, das: red cabbage
+
+schieben /ˈʃiːbən/: to push, to put, to blame, to reject
 
 Sehenswürdigkeit /ˈzeːənsvʏrdɪçkait/, die: tourist attraction
 
@@ -1859,6 +1877,8 @@ spülen /ˈʃpyːlən/: to wash, to rinse, to flush
 Staubsauger/ˈʃtaupzauɡɐ/, der: vacuum
 
 Tastatur /tastaˈtuːɐ/, die: keyboard
+
+Teig /taik/, der, -(e)s|-e: dough, batter
 
 Thunfisch, Tonno /ˈtuːnfɪʃ/, der: tuna
 
@@ -1870,9 +1890,15 @@ Unterlagen, pl: documents
 
 vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
 
+Wahl /vaːl/, die, ~|-n: choice
+
 WG /veːˈɡeː/, die: shared apartment
 
+Würfel /ˈvʏrfəl/, der, -s|~: dice, die
+
 Zettel, der: piece of paper
+
+Zwiebel /ˈʦviːbəl/, die, ~|-n: onion
 
 ========================================================
 Topics:
@@ -1902,6 +1928,11 @@ Career
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3041s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3075s
 
+Clothing
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4694s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4794s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=5035s
+  
 Colors & sizes
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1987s
 
@@ -1931,6 +1962,10 @@ Drinks & beverage, offering
 
 Euro
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1280s
+
+Family
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=5112s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=5182s
 
 Food
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3730s
@@ -1971,6 +2006,7 @@ Opening hours
 
 Pizza
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1201s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4350s
 
 Pizza delivery, paying the bill
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1280s
@@ -1986,6 +2022,7 @@ Shopping, bakery
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=4168s
 
 Shopping, clothing
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4877s
 
 Shopping, fruit and vegetable
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=4266s
@@ -2007,7 +2044,18 @@ Time
 Vegetables
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=2491s
 
+Vacation
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4422s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4571s
+
+Weather
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4506s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4645s
+
 Welcome
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1027s
 
+Winter
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=4506s
+  
 ========================================================
