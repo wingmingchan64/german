@@ -1576,11 +1576,11 @@ zwei Wochen vorher
 - Sie liegen hinter dir.
 - Oh!
 - Ich hab' zwei neue gekauft und Würste zum Grillen,
-  Getränke und  zum Trainieren.
+  Getränke und Hütchen zum Trainieren.
 - Toll! Waren die Fußbälle teuer?
 - Nein, die waren superbillig.
   Ein Ball hat 4,99 Euro gekostet, weniger als die Getränke.
-- Tja, Verpflegung ist immer am terersten.
+- Tja, Verpflegung ist immer am teuersten.
 - Hey, Nico. Bist du bereit?
 - Na ja, ich hab' keine Fußballschuhe mit, aber es geht schon.
 - Welche Schuhgröße hast du?
@@ -1639,6 +1639,7 @@ zwei Wochen vorher
 - Wir sind nicht im Urlaub. Wir spielen Fußball.
 - Ab morgen essen wir gesund!
 - Ah!
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=5605s]
 - Alles okay, Nico? Geht es dir gut?
 - Ich habe Schmerzen.
 - Wir sehen uns das mal an.
@@ -1655,7 +1656,7 @@ zwei Wochen vorher
 - Wir bringen dich zum Arzt.
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=5661s]
 - Vorsicht, Nico. Du darfst nicht so stark auftreten.
-- Schon gut. Ich kann aleine laufen …
+- Schon gut. Ich kann alleine laufen …
 - Der Arzt schaut sich den Fuß jetzt erst mal an.
 - Hoffentlich müssen wir nicht lange warten.
 - Das glaube ich nicht. Wir haben ja einen Termin.
@@ -1683,6 +1684,7 @@ zwei Wochen vorher
 - Okay. Danke!
 - Bitte. Einmal hier lang. Die brauch' ich noch. Die bring' ich Ihnen.
 - Komm!
+[https://www.youtube.com/watch?v=4-eDoThe6qo&t=5741s]
 - Wo ist Dr. Grube gerade? Ah, er ist noch beim Patienten.
 - Guten Tag.
 - Guten Tag. Was kann ich für Sie tun?
@@ -1830,13 +1832,21 @@ aufräumen /ˈaufrɔymən/: to tidy (up)
 
 bar adj: cash
 
+Behandlung, die: treatment
+
 Besen /ˈbeːzən/, der: broom
 
 Birne /ˈbɪrnə/, die: pear
 
+Bremse /ˈbrɛmzə/, die: brake
+
 Dattel /ˈdatəl/, die, ~|-n: date
 
+Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
+
 Fähnchen /ˈfɛːnçən/, das => Fahne: flag
+
+fleißig /ˈflaisɪç/: hardworking, diligent
 
 Flüchtling /ˈflʏçtlɪŋ/, der, -s|-e: refugee
 
@@ -1850,11 +1860,15 @@ gießen /ˈɡiːsən/: to pour, to water
 
 Heizung, die: heating
 
+hupen /ˈhuːpən/: to sound your horn
+
 Jugendherberge /ˈjuːɡənthɛrbɛrɡə/, die: youth hostel
 
 Kehrblech, das: shovel, dust pan
 
 klappen /ˈklapən/: to work out, to go all right
+
+krass: wicked
 
 Mädel /ˈmɛːdəl/, das: girl
 
@@ -1864,9 +1878,17 @@ Mütze /ˈmʏʦə/, die, ~|-en: cap
 
 Nebenkosten /ˈneːbənkɔstən/, pl: extras, extra charges/costs
 
+Pflaster /ˈpflastɐ/, das, -s|~: adhesive bandage, Band-Aid
+
 Polizeirevier, das: police station
 
+Rezept /reˈʦɛpt/, das: recipe, prescription
+
+röntgen /ˈrœntɡən/: to X-ray
+
 Rotkraut, das: red cabbage
+
+Salbe /ˈzalbə/, die: ointment
 
 schieben /ˈʃiːbən/: to push, to put, to blame, to reject
 
@@ -1887,6 +1909,10 @@ Trinkgeld, das: tip
 umsonst /ʊmˈzɔnst/: for nothing, for free
 
 Unterlagen, pl: documents
+
+Verband /fɛɐˈbant/, der, -(e)s|..e: bandage, dressing
+
+Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
 
 vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
 
@@ -1927,6 +1953,7 @@ Birthday, happy
 Career
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3041s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3075s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=6122s
 
 Clothing
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=4694s
@@ -1956,6 +1983,9 @@ Direction, asking for
 Directions, four
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1465s
 
+Doctor's office, visiting
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=5661s
+
 Drinks & beverage, offering
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1061s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1090s
@@ -1966,9 +1996,14 @@ Euro
 Family
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=5112s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=5182s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=5898s
 
 Food
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3730s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=5959s
+
+Football
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=5436s
 
 Football training, arranging
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=2905s
@@ -1985,6 +2020,10 @@ Help, offering
   
 Hobbies
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3984s
+
+Homesickness
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=6002s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=6037s
 
 House chores
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3903s
@@ -2014,6 +2053,10 @@ Pizza delivery, paying the bill
 Place of origin, hometown
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=415s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=1009s
+
+Restaurant
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=2889s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=5959s
 
 Schedule, daily routine
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=2473s
