@@ -1,4 +1,3 @@
-Alle Folgen
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=9s]
 - Guten Morgen, Herr Müller, wie geht es Ihnen?
 - Guten Morgen, Frau Schneider. Danke, gut! Und Ihnen?
@@ -676,8 +675,7 @@ Alle Folgen
 - Äh … Nein, wir haben nur ein Bad. Hier duschen alle.
 - Alle? Hier ist es nicht sehr sauber. Wie oft putzt ihr denn?
 - Naja, das kommt drauf an. Ist es dreckig, dann putzen wir.
-- Und wie sind die Nachbarn?
-- Die sind nicht zu laut, oder?
+- Und wie sind die Nachbarn? Die sind nicht zu laut, oder?
 - Doch! Die sind super laut und nicht nett!
 - Na dann …
 - Na dann. Wir rufen dich an.
@@ -780,7 +778,8 @@ Alle Folgen
 - Magst du noch eine Limonade, Nico?
 - Ja, ich nehme noch eine Limonade.
 - So! Es ist zwölf Uhr. Das Mittagsangebot beginnt jetzt.
-- Ja! Was gibt's denn heute?
+- Ja!
+- Was gibt's denn heute?
 - Heute gibt es Rouladen mit Rotkraut und Kartoffeln
   oder Fisch mit Gemüse oder die türkische Linsensuppe.
 - Vielleicht nehme ich die … den Fisch.
@@ -2024,6 +2023,10 @@ Hobbies
 Homesickness
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=6002s
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=6037s
+
+Hometown
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=415s
+  https://www.youtube.com/watch?v=4-eDoThe6qo&t=1009s
 
 House chores
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=3903s
