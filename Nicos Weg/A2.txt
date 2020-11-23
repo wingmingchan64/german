@@ -668,7 +668,6 @@ Schönen Tag, Frau González!
 - Entschuldigung. Kann nicht kommen.
 - Was?
 [https://www.youtube.com/watch?v=Lg5P2w_Ro1c&t=2498s]
-- Mailbox speichern. So, der Nächste.
 - Ja.
 - Guten Tag, González hier …
 - Na, endlich! Wissen Sie, wie oft ich heute schon angurufen habe?
@@ -676,6 +675,17 @@ Schönen Tag, Frau González!
 - Das hoffe ich. Ich möchte mich beschweren.
 - Ja, das haben Sie in der Mail schon geschrieben.
 - Ich bin extrem unzufrieden.
+Die App funktioniert nicht. Die Website ist viel zu unübersichtlich. Wie soll man sich denn noch orientieren?
+- Ich verstehe Ihr Problem. Wir können die Website nach Ihren Wünschen ändern.
+- Sie ändern gar nichts mehr. Unsere Zusammenarbeit ist beendet.
+- Aber Herr Troyzig …
+- Die Tablets, die Sie uns empfohlen haben: auch Mist! Die sind viel zu langsam. Ich möchte sie umtauschen. Die Rechnung habe ich noch.
+- Das ist Ihr gutes Recht …
+- Was soll das heißen? Ich bekomme mein Geld doch zurück, oder? Ich habe doch eine Rückgabegarantie.
+- Das ist leider nicht möglich, Herr Troyzig.
+- Nicht möglich? Das werden wir ja sehen!
+- Der Nächste …
+[https://www.youtube.com/watch?v=Lg5P2w_Ro1c&t=2579s]
 
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ á à → ↔ ≈
@@ -731,9 +741,13 @@ stinksauer /ˈʃtɪŋkzauɐ/: sehr verärgert
 
 überhaupt /yːbɐˈhaupt/: at all
 
+übersichtlich /ˈyːbɐzɪçtlɪç/: clear
+
 überweisen /yːbɐˈvaizən/: to transfer, to refer
 
 Umschlag /ˈʊmʃlaːk/, der: envelope, cover, jacket
+
+umtauschen: to exchange
 
 unterstützen /ʊntɐˈʃtʏʦən/: to support
 
