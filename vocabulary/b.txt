@@ -178,6 +178,8 @@ baumeln /ˈbauməln/: to dangle, to swing
   auf der Schaukel sitzen und die Beine baumeln lassen
   to sit on the swing and dangle your legs
 
+Baustelle, die: construction site
+
 bayerisch /ˈbaiərɪʃ/: Bavarian
 
 Bayreuth /baiˈrɔyt/
@@ -302,6 +304,9 @@ Bedienung /bəˈdiːnʊŋ/, die: waiter, waitress, service, operation
   Die Bedienung ist ganz einfach.
   It's really easy to operate.
 
+Bedingung, die: condition
+  etw., wovon man seine Zustimmung o. Ä. abhängig macht
+
 bedrohen /bəˈdroːən/: to threaten
   sich von jdm bedroht fühlen: to feel threatened by sb
 
@@ -318,6 +323,8 @@ beeilen /bəˈ|ailən/: to hurry (up)
 beeindrucken /bəˈ|aindrʊkən/: to impress
   Seine Worte haben mich schwer beeindruckt.
   His words made a big impression on me.
+
+beeindruckend: impressive
 
 beeinflussen /bəˈ|ainflʊsən/: to influence
   Er lässt sich von seinen Freunden negativ beeinflussen.
@@ -384,6 +391,8 @@ befriedigend /bəˈfriːdɪɡənt/: satisfactory
 
 Befriedigung /bəˈfriːdɪɡʊŋ/: satisfaction
 
+befristet /bəˈfrɪstət/: temporary, fixed-term
+
 befürchten /bəˈfʏrçtən/: to fear
   Der Arzt befürchtet das Schlimmste.
   The doctor fears the worst.
@@ -426,7 +435,7 @@ begeistern /bəˈɡaistɐn/: to be enthusiastic about, to delight, to thrill, to
   Die Band begeisterte das Publikum.
   The band had the audience in raptures.
 
-begeistert /bəˈɡaistɐt/: enthusiastic, excited
+begeistert /bəˈɡaistɐt/: enthusiastic, excited, thrilled
   Das Publikum applaudierte (dem Sänger) begeistert.
   The audience applauded (the singer) enthusiastically.
 
@@ -885,6 +894,8 @@ berücksichtigen /bəˈrʏkzɪçtɪɡən/: to take into account/consideration, t
 Beruf /bəˈruːf/, der, -e: occupation
   einen Beruf erlernen, ausüben: to train for / do a job
 
+Berufserfahrung /bəˈruːfs|ɛɐfaːrʊŋ/, die: work experience, professional experience
+
 beruflich: professional
 
 berufstätig /bəˈruːfstɛːtɪç/: working
@@ -1192,6 +1203,8 @@ bestreiten /bəˈʃtraitən/: to deny, to dispute
 bestücken /bəˈʃtʏkən/: to equip, to load
   einen Füller mit Patronen bestücken: to equip a fountain pen with cartridges
 
+Besuch, Besucher
+
 besuchen /bəˈzuːxən/: 
   zu Freunden, Verwandten o. Ä. ins Haus gehen, um den Kontakt zu pflegen
 
@@ -1394,6 +1407,8 @@ Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement, exercise, emotion, movement
   Der Angeklagte zeigte bei der Urteilsverkündung keinerlei Bewegung.
   The accused showed no emotion when the verdict was being read.
   Arbeiterbewegung: labor movement
+
+beweisen: to prove, to show
 
 bewerben /bəˈvɛrbən/: to apply
   bewarb
@@ -1672,6 +1687,8 @@ Bleistift /ˈblaiʃtɪft/, der, -e: pencil
 blenden /ˈblɛndən/: to dazzle, to blind
   Die Sonne blendete mich.
   The sun is blinding me.
+
+blendend /ˈblɛndənt/: splendid
 
 Blick /blɪk/, der, -(e)s|-e: look, glance, look, expression, eye, view
   einen flüchtigen Blick ins Buch werfen: to have a quick glance at the book

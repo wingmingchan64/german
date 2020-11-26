@@ -34,6 +34,8 @@ Lack /lak/, der, Lacke: varnish, paint
 
 Lade, die, Laden: drawer, trunk, chest
 
+Ladefläche, die: load area
+
 Ladegerät /ˈlaːdəɡərɛːt/, das, -(e)s|-e: charger
   Gerät mit Netzkabel zum Aufladen von Akkus
   das Ladegerät für den Akku der Digitalkamera
@@ -74,6 +76,7 @@ Lager, das, Lager /ˈlaːɡɐ/: camp, store, depot
 Lagerfeuer, das: camp fire
 
 lagern /ˈlaːɡɐn/: to store, to put, to camp
+  ≈ speichern
   aufbewahren; in eine bestimmte Stellung bringen; an einem bestimmten Ort im Freien übernachten
   ≈ aufbewahren
   ≈ übernachten
@@ -108,7 +111,7 @@ Lamm /lam/, das, Lämmer /ˈlɛmɐ/: lamb
 Lampe /ˈlampə/, die, Lampen: lamp
   die Lampe einschalten/ausschalten: to switch the lamp on/off 
 
-Land /lant/, das, -(e)s|..er: land, state, country
+Land /lant/, das, -(e)s|..er: land, state, country, countryside
   Die Passagiere gehen an Land.
   The passengers are going ashore.
 
@@ -141,7 +144,7 @@ Landsmann, Landsleute: fellow countryman/countrywoman, compatriot
 lang /laŋ/: long
   Sie hat lange Beine/Haare.
   She has long legs/hair.
-
+ 
 lange /ˈlaŋə/: a long time
 
 Länge /ˈlɛŋə/, die
@@ -334,6 +337,8 @@ Lebensgefahr /ˈleːbənsɡəfaːɐ/, die: mortal danger
 
 Lebensjahr: year of ones life
 
+Lebenslauf, der: life, résumé
+
 Lebensmittel /ˈleːbənsmɪtəl/, das, -s|~ (seldom singular): food
   Lebensmittel einkaufen gehen: to go and buy some groceries
 
@@ -343,6 +348,7 @@ Leber /ˈleːbɐ/, die, Lebern: liver
   eine vergrößerte Leber haben: to have an enlarged liver
 
 Lebewesen /ˈleːbəveːzən/, das: living being
+  alles, was lebt
   einzellige Lebewesen: single-cell organisms
 
 lebhaft /ˈleːphaft/: lively, vivid, vigorous, keen
@@ -539,6 +545,10 @@ Lenkrad /ˈlɛŋkraːt/, das, -(e)s|..er /ˈlɛŋkrɛːdɐ/: steering wheel
   ≈ Steuer
   Wer saß bei dem Unfall am/hinter dem Lenkrad?
   Who was at the wheel when the accident happened?
+
+lesen /ˈleːzən/
+  lese, liest, lest, habe gelesen
+  las, lasest, las, last, lasen
 
 letzte /ˈlɛʦtə/: last, final
    in der letzten Reihe sitzen: to sit in the last row 

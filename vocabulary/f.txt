@@ -38,6 +38,9 @@ Faden /ˈfaːdən/, der, -s|..: thread
   
 Faden /ˈfaːdən/, der, -s|~: fathom
 
+fähig: capable, competent, able
+  teamfähig
+
 Fähigkeit /ˈfɛːɪçkait/, die, -en: ability, capability, skill
   gute handwerkliche Fähigkeiten haben: to be good at working with your hands
 
@@ -86,6 +89,9 @@ Fahrpreis, der, -es|-e: fare
 
 Fahrrad /ˈfaːɐraːt/, das, -(e)s|..er /ˈfaːɐrɛːdɐ/: bicycle
   Sie kann nicht Fahrrad fahren.
+
+Fahrschein /ˈfaːɐʃain/, der, -(e)s|-e: ticket
+  ≈ Fahrkarte
 
 Fahrstuhl /ˈfaːɐʃtuːl/, der: elevator
   Kasten, in dem man in einem Gebäude senkrecht nach oben oder unten fahren kann
@@ -987,7 +993,7 @@ fuhr => fahren
 
 fühlen /ˈfyːlən/: to feel
 
-führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to carry out
+führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to carry out, to conduct
   jdn zu seinem Platz führen: to show sb to their seat
   Der Weg führte über Felder und durch Wälder zum See.
   The path led over fields and through forests to the lake.

@@ -18,6 +18,7 @@ Wachs /vaks/, das, -es|uncountable: wax
   echte Bienenwachskerzen: real beeswax candles
 
 wachsen /ˈvaksən/: to grow
+  als Lebewesen oder Teil eines Lebewesens größer oder länger werden
 
 wächst => wachsen 
 
@@ -65,6 +66,10 @@ Wahn /vaːn/, der: delusion, mania
 wähnen /ˈvɛːnən/: o believe (wrongly)
   Er wähnte die Sache als erledigt.
   He wrongly believed the matter to be settled.
+
+Wahnsinn /ˈvaːnzɪn/, der: madness, insanity, awesome thing
+
+wahnsinnig: mad, crazy
 
 wahr /ˈvaːɐ/: true
   Das darf/kann doch nicht wahr sein!
@@ -509,6 +514,7 @@ Wertstoff /ˈveːɐtʃtɔf/, der, -e: recyclable material
   Recyclable materials are collected in special containers or yellow bags.
 
 Wesen /ˈveːzən/, das, Wesen: being, nature, character, system
+  etw., das lebt oder existiert, denkt und handelt
   Ich glaube nicht an ein höheres Wesen.
   I don't believe in a higher being.
   Es liegt im Wesen dieser Sache, dass sie kompliziert ist.
@@ -630,6 +636,8 @@ wiedererkennen /ˈviːdɐ|ɛɐkɛnən/: to recognize
   
 Wiedererkennung /ˈviːdɐ|ɛɐkɛnʊŋ/, die, |uncountable: recognition
   der Wiedererkennungswert einer Marke: how well a brand is recognized
+
+wiedergutmachen: to compensate for, to rectify
 
 Wiederholung /viːdɐˈhoːlʊŋ/, die, ~|-en: repetition
   Ich wünsche keine Wiederholungen dieses Vorfalls!
@@ -895,6 +903,9 @@ Wörterverzeichnis, das: vocabulary
 
 Wortschatz /ˈvɔrtʃaʦ/, der, Wortschätze: vocabulary
   der deutsche Wortschatz: German vocabulary
+
+wortwörtlich /ˈvɔrtˈvœrtlɪç/: word-for-word, exact, literal
+  Wort für Wort so, wie es ursprünglich gesagt oder geschrieben wurde
 
 worum 4.21.06:08
 

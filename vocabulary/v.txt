@@ -70,6 +70,8 @@ verantwortlich /fɛɐˈ|antvɔrtlɪç/: responsible
   Wer ist für diese Entscheidung verantwortlich?
   Who is responsible for this decision?
 
+verantwortungslos /fɛɐˈ|antvɔrtʊŋsloːs/: irresponsible
+
 verarbeiten /fɛɐˈ|arbaitən/: to use, to process
   Wir verarbeiten nur frische Zutaten.
   We only use fresh ingredients.
@@ -547,6 +549,8 @@ verlieren /fɛɐˈliːrən/: to lose, to disappear, to fade away
   They lost their last match 2-1.
 
 verließ => verlassen
+
+verlobt /fɛɐˈloːpt/: engaged
 
 verlor => verlieren
   ich verlor, du verlorst, er verlor, wir verloren, ihr verlort
@@ -1269,6 +1273,8 @@ Vorausverfügung: advance directive, living will, advance disposal
 vorbei /foːɐˈbai/: past, by
   Wenn der Traktor vorbei ist, gehen wir über die Straße.
   When the tractor is past, we'll cross the road.
+
+vorbeifahren: to pass
 
 vorbeikommen: to get past, to avoid, to stop by
   Auf dem Rückweg kamen wir an einem schönen alten Bauernhaus vorbei.

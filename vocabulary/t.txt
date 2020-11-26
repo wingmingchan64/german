@@ -473,7 +473,7 @@ Topf /tɔpf/, der, Töpfe: pot, (sauce)pan
 Tor /toːɐ/, das: goal
   Gestell aus Pfosten mit einem Netz, in das man mit dem Ball o. Ä. treffen muss
 
-Torte /ˈtɔrtə/, die: gateau, (fruit) flan
+Torte /ˈtɔrtə/, die: gâteau, (fruit) flan
   Das Brautpaar schnitt die Hochzeitstorte an.
   The bride and groom cut into the wedding cake.
 
@@ -526,6 +526,10 @@ Tragfläche /ˈtrakflɛçə/, die, Tragflächen: wing
 
 Tragödie /traˈɡøːdjə/, die: tragedy
 
+Trainer: coach
+  jd, der Sportler ausbildet
+  Fußballtrainer
+
 trainieren /trɛˈniːrən/: to train, to coach
   Er trainiert für die Olympiade.
   He's training for the Olympics.
@@ -548,7 +552,7 @@ trat => treten: to enter
 Traube /ˈtraubə/, die, Trauben: grape
   ein Pfund Trauben kaufen: to buy a pound of grapes
 
-trauen /ˈtrauən/: to trust, to dare, to marry
+trauen /ˈtrauən/: to trust, to dare, to marry; sich: to dare
   ≈ vertrauen
   Ich glaube nicht, dass man ihr trauen kann.
   I don't think she can be trusted.
@@ -556,6 +560,7 @@ trauen /ˈtrauən/: to trust, to dare, to marry
   Do you dare jump from the three-meter board?
   Von welchem Pfarrer wollt ihr euch trauen lassen?
   Which priest do you want to be married by?
+  sich (accusative or (rare) dative) trauen, etw zu tun: to dare (to) do sth
 
 traurig /ˈtraurɪç/: sad, unhappy
   Warum bist du heute so traurig?
@@ -770,13 +775,15 @@ Tür /tyːɐ/, Türen, die: door
 
 Türkei /tʏrˈkai/, die, ~|uncountable
 
+Turnschuh /ˈtʊrnʃuː/, der: sneaker, gym shoe
+
+Türschwelle, die: threshold, sill 窗臺；門檻
+
 Tuscheln, das, -s: whisper, backbiting
 
 tuscheln /ˈtʊʃəln/: to whisper
   Sie hörte die Leute hinter ihrem Rücken über sie tuscheln.
   She could hear people whispering about her behind her back.
-
-Türschwelle, die: threshold, sill 窗臺；門檻
 
 Tüte /ˈtyːtə/, die, -n: bag
   eine Tüte Zucker / Mehl: a bag of sugar/flour

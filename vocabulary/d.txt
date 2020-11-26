@@ -28,6 +28,8 @@ Dach, das: roof
 Dachboden /ˈdaxboːdən/, der, ..: attic, loft
   Kisten auf dem Dachboden lagern: to store boxes in the attic
 
+Dachgeschoss /ˈdaxɡəʃɔs/, das: attic, top floor
+
 Dachrinne /ˈdaxrɪnə/, die: gutter
 
 Dachs /daks/, der, -es|-e: badger 獾
@@ -156,7 +158,7 @@ Darlehen /ˈdaːɐleːən/, das, -: loan
 
 darunter: among them, including
 
-darstellen /ˈdaːɐʃtɛlən/: to describe, to portray, to show, to depict, to pose
+darstellen /ˈdaːɐʃtɛlən/: to describe, to portray, to show, to depict, to pose, to represent
   die Probleme völlig falsch / realistisch / übertrieben darstellen
   to give a completely wrong/a realistic/an exaggerated depiction of the problems
   Was soll dieses Bild darstellen?
@@ -271,6 +273,9 @@ Deich /daiç/, der, -(e)s|-e: levee, dike
 dein /dain/
   Ist das dein Kugelschreiber?
   Ist diese Tasche dort deine?
+
+dekorieren /dekoˈriːrən/
+  ≈ schmücken
 
 Delikt /deˈlɪkt/, das: offense
 
@@ -776,6 +781,8 @@ durchführen /ˈdʊrçfyːrən/: to carry out, to perform, to execute
 Durchgang, der: passage, thoroughfare
   Durchgang verboten!
   No trespassing!
+
+durchkommen: to pass through, to make it through, to get away with
 
 durchmachen /ˈdʊrçmaxən/: to experience, to go through, to work/party/etc. nonstop
   Sie hat in den letzten Jahren eine positive Entwicklung durchgemacht.

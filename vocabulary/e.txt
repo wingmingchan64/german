@@ -116,6 +116,8 @@ Ehre /ˈeːrə/, die, ~|-n: honor
   Wir wollen Großvater zu Ehren ein Fest veranstalten.
   We plan to have a big party in honor of grandfather.
 
+ehrenamtlich /ˈeːrən|amtlɪç/: honorary, volunteer
+
 ehrgeizig /ˈeːɐɡaiʦɪç/: ambitious
   ehrgeizige Pläne haben: to have ambitious plans
 
@@ -416,6 +418,8 @@ einig /ˈainɪç/: agreed, unanimously
 
 einige /ˈainɪɡə/: some, a few
 
+einiges: a lot, some things
+
 einigeln /ˈain|iːɡəln/: to curl up (into a ball), to hunker down
   Sie igelte sich mit einer Decke auf dem Sessel ein.
   She curled up in a blanket on the armchair.
@@ -481,6 +485,9 @@ einlaufen /ˈainlaufən/: to break in, to shrink, to run in(to), to finish
   The match is about to begin, The teams are coming onto the pitch.
   In welcher Reihenfolge sind die Pferde ins Ziel eingelaufen?
   What order did the horses finish in?
+
+einleben, sich: to settle down
+  Sie hat sich schon ganz gut in der neuen Stadt eingelebt.
 
 einlegen: to insert, to preserve, to take, to file
   Er legte den Film in die Kamera ein.
@@ -726,6 +733,11 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Admission to the exhibition is free.
   Eintritt verboten!
 
+einverstanden, adj: to agree
+
+Einverständnis /ˈainfɛɐʃtɛntnɪs/, das: consent, understanding
+  ≈ Zustimmung
+
 Einwand /ˈainvant/, der, -(e)s|..e: objection
   Hat jemand einen Einwand gegen diesen Vorschlag?
   Does anyone have any objections to this suggestion?
@@ -911,6 +923,8 @@ Endstation /ˈɛntʃtaʦjoːn/, die, -en: terminal, last stop
 eng /ɛŋ/: narrow, tight
   Die Hose ist mir zu eng.
   These pants are too tight for me.
+
+engagieren /ãɡaˈʒiːrən/: to be involved, to be committed
 
 Enge /ˈɛŋə/, die: narrowness, tightness
   die Enge in der überfüllten U-Bahn
@@ -1099,11 +1113,12 @@ entsprechend /ɛntˈʃprɛçənt/: appropriate, relevant
   ≈ passend
   ein den Leistungen entsprechendes Gehalt: a performance-related salary
 
-entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created
+entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created, to develop
   Wie entstehen Blitz und Donner?
   How does thunder and lightning form?
   Welche Kosten entstehen uns dadurch?
   What costs will we incur through this?
+  Vertrauen entsteht nicht von heute auf morgen.
 
 enttäuschen /ɛntˈtɔyʃən/: to disappoint
    Sie ist in ihrem Leben schon oft enttäuscht worden.
@@ -1562,6 +1577,8 @@ erringen /ɛɐˈrɪŋən/: to achieve
 Errungenschaft /ɛɐˈrʊŋənʃaft/, die: achievement
   medizinische / technische Errungenschaften
 
+Ersatz /ɛɐˈzaʦ/, der: substitute, replacement, compensation
+
 erschaffen /ɛɐˈʃafən/: to create
   Gott erschuf die Welt und den Menschen.
   God created the world and humankind.
@@ -1732,6 +1749,9 @@ erwirken /ɛɐˈvɪrkən/: to obtain, to take out
 erwirtschaften /ɛɐˈvɪrtʃaftən/: to earn, to make
   ein Vermögen / hohe Gewinne erwirtschaften
   to earn a fortune/high profits
+
+erwischen /ɛɐˈvɪʃən/: to catch
+  Wenn du dich beeilst, erwischst du den 5-Uhr-Bus noch.
 
 erwünscht /ɛɐˈvʏnʃt/: desired, welcome
   den erwünschten Erfolg erzielen: to have the desired success

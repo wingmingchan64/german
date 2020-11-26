@@ -33,6 +33,8 @@ U-Bahnstation, die
 
 überall /yːbɐˈ|al/: everywhere
 
+überarbeitet: overworked
+
 Überblick /ˈyːbɐblɪk/, der, -e: view, perspective, overview
   Von der Burg aus hat man einen guten Überblick über die Stadt.
   From the castle you have a good view over the city.
@@ -211,6 +213,8 @@ übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open,
   Das Buch gibt eine gute Übersicht über das Thema.
   The book presents a good overview of the subject.
 
+übersichtlich /ˈyːbɐzɪçtlɪç/: clear
+
 übertragen /yːbɐˈtraːɡən/: to broadcast, to transmit, to be communicated, to give, to entrust
   Das Fußballspiel wird live übertragen.
   They are broadcasting the soccer match live.
@@ -357,6 +361,8 @@ umgeben /ʊmˈɡeːbən/: to surround
 
 umgebracht => umbringen
 
+Umgebung /ʊmˈɡeːbʊŋ/, die: environment
+
 umgehen /ˈʊmɡeːən/: to deal with, to circulate, to avoid, to get around
   Er kann nicht mit Geld umgehen.
   He's no good with money.
@@ -436,6 +442,8 @@ umrühren /ˈʊmryːrən/: to stir
   Sie rührte (den Tee) mit einem Löffel um.
   She stirred (the tea) with a spoon.
 
+umschauen, sich: to look around
+
 Umschlag /ˈʊmʃlaːk/, der: envelope, cover, jacket
   eine CD in einem wattierten Umschlag verschicken: to send a CD in a padded envelope
 
@@ -492,6 +500,8 @@ umstoßen /ˈʊmʃtoːsən/: to knock over, to reverse, to change
 umstritten /ʊmˈʃtrɪtən/: controversial
   Diese Theorie ist ziemlich umstritten.
   This theory is pretty controversial.
+
+umtauschen: to exchange
 
 Umwelt /ˈʊmvɛlt/, die: environment
   Schadstoffe verschmutzen die Umwelt.
@@ -814,6 +824,8 @@ untersuchen /ʊntɐˈzuːxən/: to examine
   Mir gehts nicht gut. Ich glaube, ich sollte mich mal untersuchen lassen.
   I don't feel well. I think I should get someone to take a look at me.
 
+Untersuchung /ʊntɐˈzuːxʊŋ/, die: examination
+
 Untersuchungshaft /ʊntɐˈzuːxʊŋshaft/, die: pretrial detention
 
 Untertasse /ˈʊntɐtasə/, die, ~|-n: saucer
@@ -855,6 +867,8 @@ unzählig: innumerable, umpteen
 unzählige /ʊnˈʦɛːlɪɡə/: countless
   Ich habe in seinem Aufsatz unzählige Fehler gefunden.
   I found countless mistakes in his essay.
+
+unzufrieden: dissatisfied, discontented, unhappy
 
 unzustellbar: undeliverable
 

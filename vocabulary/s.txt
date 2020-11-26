@@ -43,6 +43,7 @@ saftig /ˈzaftɪç/: juicy, lush, steep, hefty
 
 sagen: to say
   sage, sagst, sagt, habe gesagt
+  sagte, sagtest, sagte, sagten, sagtet
   Ehrlich gesagt: Ich weiß es nicht.
   To be honest, I don't know.
 
@@ -218,6 +219,9 @@ Schale /ˈʃaːlə/, Schalen: (fruit) skin, shell
   Muschelschalen sammeln: to collect shells
   Bananenschalen: banana peels
 
+Schal, der: scarf
+  langes schmales Tuch für den Hals
+
 schalten: to switch, to turn, to shift gear, to connect
   den Fernseher auf Standby schalten: to turn the TV to standby
   Die Heizung hat schon auf Nachtbetrieb geschaltet.
@@ -335,6 +339,8 @@ Scheinwerfer /ˈʃainvɛrfɐ/, der, -s|~: headlight, floodlight, spotlight
   Von den Scheinwerfern geblendet, blieb das Reh auf der Straße stehen.
   The deer stopped in the road, blinded by the headlights.
 
+Scheiße, die: shit, crap
+
 Scheit /ʃait/, das, -(e)s|-e/-er: piece of wood, log
   Leg noch ein paar Scheite nach, damit das Feuer nicht ausgeht.
   Put another couple of pieces of wood on so that the fire doesn't go out.
@@ -369,6 +375,8 @@ scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
   We haven't spared any cost or effort with the party.
   Sie scheut sich (davor), ihn zu kritisieren.
   She shrank from criticizing him. 
+
+Schichtdienst, der: shiftwork
 
 schick /ʃɪk/: stylish, fashionable
   schicke Schuhe anhaben
@@ -686,6 +694,7 @@ schmuck: smart
   ein schmuckes Paar
 
 schmücken /ˈʃmʏkən/: to decorate, to adorn
+  ≈ dekorieren
   den Tisch mit Blumen schmücken: to decorate the table with flowers
 
 Schmutz /ʃmʊʦ/, der, -es|uncountable: dirt
@@ -920,7 +929,11 @@ schuften /ˈʃʊftən/: to slave away
 Schuh /ʃuː/, der: shoe
   ein Paar Schuhe: a pair of shoes
 
+Schulabschluss, der: school-leaving qualification, ≈ high school diploma 
+
 Schulart, die, Schultyp, der: type of school
+
+Schulbildung /ˈʃuːlbɪldʊŋ/, die: education
 
 Schuld, die: guilt, fault, debt
 
@@ -1166,6 +1179,8 @@ Seetang, der: seaweed, kelb
 Segel /ˈzeːɡəl/, das, -s|~: sail
   die Segel setzen: to set the sails
 
+segeln /ˈzeːɡəln/: to sail
+
 segnen /ˈzeːɡnən/: to bless
   Der Pfarrer segnete das Brautpaar / die Speisen.
   The priest blessed the bride and groom / meal.
@@ -1175,6 +1190,7 @@ segnen /ˈzeːɡnən/: to bless
 
 sehen
   sehe, siehst, sieht, ihr seht, habe gesehen
+  sah, sahst, sah, sahen, saht
 
 sehenswert /ˈzeːənsveːɐt/: worth seeing
   ein sehenswerter Kinofilm: a movie that is worth seeing
@@ -1668,6 +1684,10 @@ Speck /ʃpɛk/, der, -(e)s|uncountable: bacon
 Spedition /ʃpediˈʦjoːn/, die, -en: haulage contractor
   Speditionsfahrer: truck driver
 
+speichern: to store, to save
+  ≈ lagern
+  für längere Zeit aufbewahren, 
+
 Speise /ˈʃpaizə/, die, -n: dish
   Speisen und Getränke sind im Preis enthalten.
   Food and drink are included in the price.
@@ -1732,6 +1752,8 @@ Spitze /ˈʃpɪʦə/, die, -n: point, tip, top, peak, front
   ein Messer mit einer scharfen Spitze: a knife with a sharp point
   die Spitze des Eisbergs: the tip of the iceberg
   an der Spitze des Trauerzuges: at the front/head of the funeral procession
+
+spitze: cool, great
 
 Spitzname /ˈʃpɪʦnaːmə/, der: nickname
 
@@ -1810,6 +1832,8 @@ stabil /ʃtaˈbiːl/: stable, sturdy
 Stadion /ˈʃtaːdjɔn/, das, -s|Stadien: stadium
 
 Stadt /ʃtat/, die, ~|..e: town, city
+
+Stadtführer, der: city guide
 
 Stadtrand /ˈʃtatrant/, der, Stadtränder /ˈʃtatrɛndɐ/: outskirts
 
@@ -2163,6 +2187,8 @@ stinken /ˈʃtɪŋkən/: to stink
   Im Kühlschrank stinkt irgendetwas.
   Something in the fridge stinks.
 
+stinksauer /ˈʃtɪŋkzauɐ/: sehr verärgert
+
 Stirn /ʃtɪrn/, die, -en: forehead
   eine hohe Stirn haben: to have a high forehead
 
@@ -2352,7 +2378,7 @@ streifen: to brush against, to graze
 
 Streik /ʃtraik/, der, -(e)s|-s: strike
 
-Streit /ʃtrait/, der: argument, quarrel, dispute
+Streit /ʃtrait/, der, -(e)s|uncountable: argument, quarrel, dispute
   Ich bekam mit den Nachbarn Streit wegen der Katze.
   I got into an argument with the neighbors over the cat.
 

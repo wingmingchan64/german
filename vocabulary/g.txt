@@ -199,11 +199,6 @@ Gebot /ɡəˈboːt/, das, -e: commandment, imperative, law, rule
 
 geboten => bieten
 
-Gebrauch /ɡəˈbraux/, der, ..e: use
-  Der Polizist machte von seiner Schusswaffe Gebrauch.
-  The policeman made use of his weapon.
-  christliche Gebräuche rund um das Osterfest: Christian conventions surrounding Easter
-
 gebracht => bringen
 
 gebrannt => brennen
@@ -216,6 +211,9 @@ gebratenes [gedünstetes, gegrilltes, gekochtes, geschmortes] Fleisch:
 Gebrauch /ɡəˈbraux/, der, -(e)s|..e: use
   Der Polizist machte von seiner Schusswaffe Gebrauch.
   The policeman made use of his weapon.
+  christliche Gebräuche rund um das Osterfest: Christian conventions surrounding Easter
+
+gebraucht: used
 
 Gebrüll /ɡəˈbrʏl/, das, -(e)s: roaring, screaming
   => brüllen
@@ -270,6 +268,8 @@ Gedanke /ɡəˈdaŋkə/, der, -ns|-n: thought, idea
 gedankenverloren: absentminded, abstracted
 
 Gedenkminute, die: minute’s silence
+
+Gedicht, das, -(e)s|-e: poem, poetry
 
 gediegen: solid, tasteful
   Das Restaurant hat eine gediegene Atmosphäre.
@@ -363,6 +363,9 @@ gegen /ˈɡeːɡən/: against, toward, at about
 
 Gegenangriff, der: counter-attack
 
+Gegensatz /ˈɡeːɡənzaʦ/, der, -es|-e: difference, opposite, contradiction
+  im Gegensatz zu: unlike, in contrast to
+
 Gegenschlag /ˈɡeːɡənʃlaːk/, der: counter-strike
 
 gegenseitig /ˈɡeːɡənzaitɪç/: mutual
@@ -442,6 +445,8 @@ geheimnisvoll /ɡəˈhaimnisfɔl/: mysterious
   ≈ rätselhaft
   ein geheimnisvoller Fremder: a mysterious stranger 
 
+Geheimtipp /ɡəˈhaimtɪp/, der: insiders' tip
+
 gehen /ˈɡeːən/: to go, to walk, to leave
   gehe, gehst, geht, geht, bin gegangen
   es geht um jdn/etw: it's about sb/sth
@@ -472,6 +477,8 @@ Gehorsam /ɡəˈhoːɐzaːm/, der, -s|uncountable: obedience
   bedingungslosen Gehorsam verlangen: to demand unquestioning obedience
 
 gehorsam: obedient
+
+Geige, die: violin
 
 geil /ɡail/: awesome, obsessed, horny, hot
   Er fährt einen geilen Wagen.
@@ -601,7 +608,7 @@ Gelübte => Gelübde
 
 gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
-*Gemälde /ɡəˈmɛːldə/, das, -: painting
+*Gemälde /ɡəˈmɛːldə/, das, -|~: painting
   ein Gemälde von Picasso: a painting by Picasso
 
 Gemecker: grouse 牢騷
@@ -639,6 +646,8 @@ gemessen /ɡəˈmɛsən/: measured, appropriate
 Gemisch /ɡəˈmɪʃ/, das, -e: mixture
   Luft ist ein Gemisch aus verschiedenen Gasen.
   Air is a mixture of various gases.
+
+gemischt: mixed
 
 Gemüse /ɡəˈmyːzə/, das, -s|~: vegetable
 
@@ -1081,6 +1090,8 @@ gewiss /ɡəˈvɪs/: certain, certainly
   Gewiss hat der Zug Verspätung.
   The train's bound to be late.
 
+Gewissen, das: conscience
+
 *Gewitter /ɡəˈvɪtɐ/, das: thunderstorm
   Draußen tobte ein heftiges Gewitter.
   A heavy thunderstorm was raging outside.
@@ -1253,6 +1264,9 @@ glitt => gleiten
 Glosse /ˈɡlɔsə/, die, -n: commentary
   eine Glosse in der Zeitung lesen: to read a commentary in the newspaper
 
+Glück, das
+  zum Glück: fortunately
+
 glücklich /ˈɡlʏklɪç/: happy, lucky, fortunate
   Ich bin so glücklich mit dir!
   I'm so happy for you.
@@ -1346,7 +1360,9 @@ grässlich: hideous, dreadful, dreadful, terrible, horrible
 Gratulation /ɡratulaˈʦjoːn/, die, -en: congratulations
   Gratulation zum bestandenen Examen!
   Congratulations on passing your exam!
-   
+
+gratulieren: to congratulate
+
 grau /ɡrau/: grey
   graue Haare bekommen: to get gray hair 
 
@@ -1368,6 +1384,8 @@ Grenze /ˈɡrɛnʦə/, die, ~|-n: border, frontier, mark, threshold, limit
   The number of inhabitants exceeded the one billion mark.
 
 griechisch: greek
+
+Grieß, der: semolina 粗麵粉
 
 griff => greifen
 

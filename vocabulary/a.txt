@@ -51,6 +51,8 @@ Abendbrot /ˈaːbəntbroːt/, das: supper, light evening meal
 
 Abendessen /ˈaːbənt|ɛsən/, das, -s|~: supper
 
+Abendkasse /ˈaːbəntkasə/, die: box office
+
 Abenteuer /ˈaːbəntɔʏɐ/, das, -s|~: adventure
   Er hat auf seinen Reisen manches Abenteuer erlebt.
   On his travels he had many an adventure.
@@ -159,11 +161,16 @@ abhauen /ˈaphauən/: to cut off, to split, to vamoose
   He ran away from home.
   Hau ab! Get lost!
 
+abhängig /ˈaphɛŋɪç/: dependent on
+  von etw. bestimmt
+
 abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
   Ich rufe dauernd an, aber keiner hebt ab.
   I keep calling but no one is answering.
   Ich möchte gern 300 Euro von meinem Sparbuch abheben.
   I'd like to withdraw 300 euros from my savings account.
+
+abholen: to pick up
 
 Abitur /abiˈtuːɐ/, das, -s|-e: high school graduation (exam)
   Hast du Abitur?
@@ -184,7 +191,7 @@ Abkürzung /ˈapkʏrʦʊŋ/, die, ~|-en: abbreviation, shortcut
 Ablauf /ˈaplauf/, der: sequence, course, procedure
   der genaue zeitliche Ablauf der Ereignisse
 
-ablaufen: to expire, to run out, to drain
+ablaufen: to expire, to run out, to go, to drain
   Die Frist läuft nächsten Monat ab.
   The deadline expires next month.
 
@@ -795,6 +802,8 @@ altbewährt: well-proven
   => bewährt: proven
   => bewähren: to prove
 
+Altenheim, Altersheim, das: retirement home
+
 Alter /ˈaltɐ/, das, -s|uncountable: age, old age
   im Alter von 50 Jahren: at the age of 50
   im Alter gesund bleiben: to remain healthy in old age
@@ -998,6 +1007,8 @@ anfassen /ˈanfasən/: to touch
 
 anfauchen: (cat) to spit at, to snap at
 
+aufbewahren: to keep
+
 anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
 
@@ -1057,6 +1068,7 @@ angehen /ˈanɡeːən/: to begin, to go on, to burn, to light, to be acceptable,
   It's none of your business what I do with my money!
   Du solltest das Aufräumen endlich mal angehen.
   It's about time you started clearing up at last.
+  etw. geht jdn (et)was / nichts an: etw. ist (nicht) jds Angelegenheit
 
 angehören /ˈanɡəhøːrən/: to be a member (of), to belong
   Der Regierung gehören derzeit 15 Minister an.
@@ -1075,7 +1087,7 @@ Angeklagte /ˈanɡəklaːktə/, der-die, -n|-n: defendant
 
 Angel /ˈaŋəl/, die: fishing rod
 
-Angelegenheit: affair
+Angelegenheit: affair, business
   Der Fall ist eine komplizierte Angelegenheit.
 
 angeln /ˈaŋəln/: to fish
@@ -1261,6 +1273,9 @@ anonym /anoˈnyːm/: anonymous
 anordnen /ˈan|ɔrdnən/: to arrange, to order
   in eine bestimmte Ordnung, Reihenfolge bringen;
   etw. offiziell beschließen und verkünden
+
+anpacken: to take hold of, to tackle, to treat
+  mit anpacken: helfen
 
 anpflanzen /ˈanpflanʦən/: to plant
   im Garten Erdbeeren/einen Baum anpflanzen: to plant strawberries/a tree in the yard
@@ -1553,9 +1568,9 @@ archivieren /arçiˈviːrən/: to archive
 
 angegraut: graying, grayish
 
-Ärger /ˈɛrɡɐ/, der: anger
+Ärger /ˈɛrɡɐ/, der: anger, trouble
 
-ärgerlich /ˈɛrɡɐlɪç/: angry
+ärgerlich /ˈɛrɡɐlɪç/: angry, annoying
   Als er zum vierten Mal anrief, wurde sie ärgerlich.
   When he called for the fourth time, she got angry.
   Lange Wartezeiten sind besonders ärgerlich.
@@ -1819,7 +1834,7 @@ aufgehen: to rise, to open, to work, sb realizes sth
   Ihm ging auf, dass er einen Fehler gemacht hatte.
   He realized that he had made a mistake.
 
-aufgeregt /ˈaufɡəreːkt/: excited, nervous
+aufgeregt /ˈaufɡəreːkt/: excited, nervous, upset
   vor einer Prüfung sehr aufgeregt sein
   to be very nervous before an exam
   Die Kinder erzählten ihr aufgeregt von ihrem Fund.
@@ -2328,11 +2343,15 @@ aushöhlen /ˈaushøːlən/: to hollow out, to undermine
   to hollow out a melon and fill it with fruit
   jds Autorität aushöhlen: to undermine sb's authority
 
+auskennen, sich
+  sich zurechtfinden und wissen, wo alles ist
+
 Auskommen /ˈauskɔmən/, das, -s|uncountable: living
   ein gutes / bescheidenes Auskommen haben
   to make a decent living/have a modest income
 
 auskommen /ˈauskɔmən/: to get by, to get along with
+  ≈ zurechtkommen
   mit wenig Geld auskommen müssen: to have to get back without much money
   gut mit den Nachbarn auskommen: to get along well with the neighbors
 

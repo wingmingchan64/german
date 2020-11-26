@@ -227,6 +227,8 @@ Ziegel /ˈʦiːɡəl/, der, -s|~: brick, tile
 
 Ziegelstein: brick
 
+Ziegenkäse, der: goat cheese
+
 ziehen /ˈʦiːən/: to pull, to move, to go
   ziehe, ziehst, zieht, habe gezogen
   etw. nach sich ziehen: to result in/entail sth
@@ -492,14 +494,20 @@ zupfen /ˈʦʊpfən/: to pull (at), to tug (at), to pluck
 
 zur /ʦuːɐ/
 
+zurechnen /ˈʦuːrɛçnən/: to class sb/sth as sb/sth
+  Diesen Maler kann man den Expressionisten zugerechnen.
+  This painter can be classed as an expressionist.
+
+zurechtfinden
+  mit einer bestimmten Umgebung / Sache / Situation vertraut werden
+
+zurechtkommen: to manage, to cope, to get on
+  ≈ auskommen
+
 zurechtlegen: to lay out ready, to prepare
   Sie hatte sich das Manuskript ihrer Rede zurechtgelegt.
   She had laid out the script of her speech ready.
   sich eine Ausrede / Entschuldigung zurechtlegen: to prepare an excuse/apology
-
-zurechnen /ˈʦuːrɛçnən/: to class sb/sth as sb/sth
-  Diesen Maler kann man den Expressionisten zugerechnen.
-  This painter can be classed as an expressionist.
 
 zurechtmachen /ʦuˈrɛçtmaxən/: to get ready, to prepare, to make up
   Ich mache uns noch ein paar Brote zum Mitnehmen zurecht.
@@ -604,6 +612,12 @@ zustellen /ˈʦuːʃtɛlən/: to deliver, to block
   Jemand hatte den Gehweg mit Kisten zugestellt.
   Someone had blocked the sidewalk with boxes.
 
+zustimmen /ˈʦuːʃtɪmən/: to agree
+
+Zustimmung, die: agreement, approval, consent
+  ≈ Einverständnis
+  jds Zustimmung brauchen / einholen
+
 Zutat /ˈʦuːtaːt/, die, ~|-en: ingredient
   etw., das man als Teil einer Speise beim Kochen, Backen usw. verwendet
   Wir verwenden für unsere Speisen nur beste frische Zutaten.
@@ -665,8 +679,11 @@ zwar /ʦvaːɐ/: indeed, admittedly
   My son only likes one kind of fruit, bananas, to be precise.
 
 Zweck /ʦvɛk/, der: purpose, point
+  Ziel der Handlung
   Welchen Zweck hat diese Maßnahme?
   What is the purpose of this measure?
+  Der Zweck heiligt die Mittel.
+  The end justifies the means.
 
 zwei /ʦvai/: two
 

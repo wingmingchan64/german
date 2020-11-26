@@ -315,6 +315,9 @@ nerven: to bug
   Die Musik / Der Typ nervt doch!
   That music/guy is such a pain!
 
+nervig /ˈnɛrfɪç/: annoying
+  ein nerviges Kind
+
 Nessel /ˈnɛsəl/, die, Nesseln: nettle 荨麻
 
 Netz, das, -es|-e: net, web
@@ -428,6 +431,8 @@ nirgendwohin /ˈnɪrɡəntvohɪn/: nowhere
 
 Niveau /niˈvoː/, das: level
 
+nix /niks/: nichts
+
 Nomen /ˈnoːmən/, das, -s|~ od Nomina: noun
   Nomen werden im Deutschen großgeschrieben.
   Nouns in German start with a capital.
@@ -450,6 +455,8 @@ Nörgelei /nœrɡəˈlai/, die, ~|-en: moaning, grumbling
 nörgeln /ˈnœrɡəln/: to moan
   Musst du ständig über das Essen nörgeln?
   Must you always moan about the food?
+
+Nörgler: moaner
 
 normal /nɔrˈmaːl/: normal
   unter normalen Umständen: under normal circumstances

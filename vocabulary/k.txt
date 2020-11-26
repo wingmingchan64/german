@@ -136,6 +136,8 @@ Kartei /karˈtai/, die, ~|-en: (card) file, (card) index
 
 Kartoffel /karˈtɔfəl/, die, Kartoffeln: potato
 
+Kartoffelpüree: mashed potatoes
+
 Kartoffelsalat: potato salad
 
 Karton /karˈtɔŋ/, der, -s: cardboard, box
@@ -566,6 +568,9 @@ klopfen /ˈklɔpfən/: to knock, to pat, to tap, to pound, to tenderize, to hamm
   Es hat geklopft, machst du bitte auf?
   There was a knock at the door. Could you go and answer it, please?
 
+Kloß /kloːs/, der, -es|..e: dumpling
+  Teigkugel aus Kartoffeln, Hefeteig, Grieß o. Ä
+
 Kloster /ˈkloːstɐ/, das, -s|..: monastery, convent
   Klosterkirche: monastery church
   ins Kloster gehen: to become a monk/nun
@@ -806,6 +811,7 @@ Konkurrenz /kɔnkuˈrɛnʦ/, die, -en: rivalry, competition
 
 können /ˈkœnən/: to be able to
   kann, kannst, kann, ihr könnt, habe gekonnt/können
+  konnte, konntest, konnte, konntet, konnten
 
 konsequent /kɔnzeˈkvɛnt/: consistently
   eine konsequente Strategie verfolgen: to pursue a consistent strategy
@@ -1032,6 +1038,9 @@ kreisen /ˈkraizən/: to circle
   mit etw. kreisen: to move sth around in a circle
   mit den Armen / dem Kopf kreisen: to move your arms/head around in a circle
 
+Kreislauf /ˈkraislauf/, der: circulation
+  die Bewegung des Blutes im Körper
+
 Kreissäge, die: boater
 
 Kreisverkehr /ˈkraisfɛɐkeːɐ/, der: traffic circle
@@ -1074,6 +1083,8 @@ Krippe /ˈkrɪpə/, die, -n: daycare center, manger, crèche
   Futter in die Krippe tun: to put some food in the manger
   Krippenfiguren: crèche figures
 
+kritisch /ˈkriːtɪʃ/: critical
+
 kritisieren /kritiˈziːrən/: to criticize
   Die Regierung wurde wegen dieses Vorfalls/für diesen Fehler scharf kritisiert.
   The government was sharply criticized for this incident/mistake.
@@ -1084,6 +1095,8 @@ krochen => kriechen
 Krücke /ˈkrʏkə/, die, ~|-n: crutch
   nach einem Unfall an Krücken gehen
   to walk on crutches after an accident
+
+Krokette /kroˈkɛtə/, die: croquette
 
 Krug /kruːk/, -es|..e: jug, pitcher
   Kanne für kalte Getränke
@@ -1221,6 +1234,8 @@ kurz /kʊrʦ/, kürzer or kürzeste: short, briefly
 Kürze /ˈkʏrʦə/, die: shortness, brevity
   in Kürze: shortly
 
+kurzfristig: short-term, at short notice
+
 kürzlich /ˈkʏrʦlɪç/: recently
   Ich habe ihn erst kürzlich in der Stadt getroffen.
   I met him just recently in town.
@@ -1242,7 +1257,7 @@ küssen /ˈkʏsən/: to kiss
 Küste /ˈkʏstə/, die, -n: coast
   an der Küste entlangfahren: to drive along the coast
 
-Kutsche /ˈkʊtʃə/, die, -n: carriage, coach
+Kutsche /ˈkʊtʃə/, die, ~|-n: carriage, coach
   Das Brautpaar fuhr in einer Kutsche vor.
   The bride and groom drove up in a carriage.
   Pferdekutsche: horse-drawn carriage
