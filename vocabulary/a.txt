@@ -263,6 +263,7 @@ absäbeln: to hack off, to cut off
 
 Absage, die: refusal, rejection
   ablehnende Mitteilung
+  ↔ Zusage
 
 absagen /ˈapzaːɡən/: to cancel
   Das Konzert wurde wegen Krankheit abgesagt.
@@ -1955,6 +1956,8 @@ aufmuntern /ˈaufmʊntɐn/: to cheer up, to encourage
 Aufnäher /ˈaufnɛːɐ/, der: (sew-on) badge/patch
 
 Aufnahme /ˈaufnaːmə/, die: photo, shot
+
+Aufnahmeleiter: film producer
 
 aufnehmen /ˈaufneːmən/: to take up, to take in, to admit, to record
   Der Polizist nahm die Verfolgung des Diebes auf.

@@ -1971,6 +1971,9 @@ Brille /ˈbrɪlə/, die, ~|-n: glasses
   eine Brille tragen: to wear glasses
   Brillenglas: spectacle glass
 
+bringen
+  brachte, brachtest, brachte, brachten, brachtet
+
 *Brise /ˈbriːzə/, die: breeze
 
 brisant /brɪˈzant/: explosive, controversial
@@ -2064,6 +2067,8 @@ Buchstabe /ˈbuːxʃtaːbə/, der, -n(s)|-n: character, letter 字母
 buchstabieren /buːxʃtaˈbiːrən/: to spell
   Mein Name ist Mayr – ich buchstabiere: Martha, Anton, Ypsilon, Richard.
   My name is Mayr – I'll spell it: Mike, Alpha, Yankee, Romeo.
+
+Buchverfilmung, die: book adaptation
 
 Bückling /'bʏklɪŋ/, der, -s|-e: smoked herring, kipper, bow
   Bücklingsfilets: smoked herring filets
