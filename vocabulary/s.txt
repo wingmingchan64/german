@@ -778,6 +778,7 @@ Schneider /ˈʃnaidɐ/, Schneiderin, -s|~: tailor
   einen Anzug vom Schneider anfertigen lassen: to have a suit tailored
 
 schneien /ˈʃnaiən/: to snow
+  Es schneit.
 
 schniefen /ˈʃniːfən/: to sniff
   Der Junge schniefte noch ein wenig, beruhigte sich dann aber wieder.
@@ -1547,7 +1548,7 @@ Sonnenuntergang, der: sunset
 Sonntag /ˈzɔntaːk/, der, -s|-e
   Ich arbeite sonntags.
 
-sonst /zɔnst/: normally, else, otherwise
+sonst /zɔnst/: normally, else, otherwise, in other ways
   Was ist denn heute los mit ihm, er ist doch sonst nicht so empfindlich.
   What's up with him today, he's not normally so touchy.
   Kommt sonst noch jemand?
@@ -1555,6 +1556,7 @@ sonst /zɔnst/: normally, else, otherwise
   Setz eine Mütze auf, sonst friert es dich an den Ohren.
   Put a hat on or your ears will get cold.
   Sonst noch etwas?
+  wenn ich Ihnen sonst noch behilflich sein kann
 
 Sorge /ˈzɔrɡə/, die, ~|-n: worry
   jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
