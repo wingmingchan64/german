@@ -319,6 +319,8 @@ Weihnachtsfeiertag, Weihnachtstag /ˈvainaxʦtaːk/, der: Christmas Day
 
 Weihnachtsgeschenk, das, -e: Christmas present
 
+Weihnachtslied, das: carol
+
 Weihwasser /ˈvaivasɐ/, das, |uncountable: holy water
   Er bekreuzigte sich mit Weihwasser.
   He crossed himself with holy water.
@@ -908,7 +910,8 @@ Wortschatz /ˈvɔrtʃaʦ/, der, Wortschätze: vocabulary
 wortwörtlich /ˈvɔrtˈvœrtlɪç/: word-for-word, exact, literal
   Wort für Wort so, wie es ursprünglich gesagt oder geschrieben wurde
 
-worum 4.21.06:08
+worum /voˈrʊm/: what … about
+  Worum geht es denn?
 
 wovon /voˈfɔn/: from what, from which
   Wovon soll ich das bezahlen?

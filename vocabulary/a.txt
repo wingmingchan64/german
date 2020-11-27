@@ -301,6 +301,8 @@ abscheulich /apˈʃɔylɪç/: hideous, disgusting
   Sie findet Spinnen abscheulich.
   She finds spiders repulsive.
 
+abschicken: to send
+
 Abschied /ˈapʃiːt/, der, -(e)s|-e: leave, farewell
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
@@ -363,6 +365,9 @@ absehen /ˈapzeːən/: to foresee, to learn
   With the exception of the long commute, the job is ideal.
   Bitte sehen Sie von telefonischen Nachfragen ab.
   Please do not call with inquiries.
+
+absenden: to send
+  abschicken
 
 Absender /ˈapzɛndɐ/, -in, -s|~: sender
   ↔ Empfänger
