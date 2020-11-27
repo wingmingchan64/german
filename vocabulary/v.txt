@@ -148,6 +148,8 @@ Verdächtige(r): suspect
 verdächtigen /fɛɐˈdɛçtɪɡən/: to suspect
   jdn des Mordes verdächtigen: to suspect sb of murder
 
+verdammen: to damn, to condemn
+
 verdattert /fɛɐˈdatɐt/: dazed
   jdn verdattert ansehen: to look at sb in a daze
 
@@ -936,6 +938,8 @@ Vertrag /fɛɐˈtraːk/, der, -(e)s|..e: contract, treaty
   Arbeitsvertrag
 
 vertragen: to tolerate, to bear
+  vertrage, verträgst, verträgt, vertragt, habe vertragen
+  sich wieder vertragen: to be friends again
 
 verträglich /fɛɐˈtrɛːklɪç/: easy to get on with, easy to digest, well-tolerated
   Sonst ist sie eigentlich recht verträglich.
