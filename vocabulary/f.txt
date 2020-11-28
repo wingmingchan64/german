@@ -23,7 +23,7 @@ Facharbeit, die: skilled work, paper
 Fächer /ˈfɛçɐ/, der, -: fan
   ein japanischer Fächer: a Japanese fan
 
-fächern
+fächern: to fan out, to diversity
 
 Fachmann /ˈfaxman/, der, -(e)s|..er: expert
   => Fachleute, Experte
@@ -247,6 +247,7 @@ faul: lazy, rotten, bad, feeble
   The apple's rotten on the inside.
 
 Faulheit /ˈfaulhait/, die, |uncountable: laziness, idleness, sloth
+  ↔ Fleiß
   Der Grund für seine schlechten Noten ist einfach nur Faulheit.
   The reason for his bad grades is quite simply laziness.
 
@@ -564,6 +565,9 @@ Fleisch /flaiʃ/, das, -(e)s|uncountable: meat
 
 Fleischer: butcher
 
+Fleiß, der: diligence, application
+  ↔ Faulheit
+
 fleißig /ˈflaisɪç/: hardworking, diligent
   ein fleißiger Schüler: a diligent student
 
@@ -629,7 +633,7 @@ Floß /floːs/, das, -es|..e: raft
   Du sollst nicht dauernd fluchen!
   Stop swearing all the time.
 
-Flucht /flʊxt/, die, ~|uncountable: flight
+Flucht /flʊxt/, die, ~|uncountable: flight, getaway
   sich auf der Flucht befinden: to be on the run
 
 Flüchtling /ˈflʏçtlɪŋ/, der, -s|-e: refugee
@@ -1049,7 +1053,7 @@ füllen /ˈfʏlən/: to fill
 
 Füller, der, -: fountain pen
 
-Fund /fʊnt/, der, -(e)s|-e: finding
+Fund /fʊnt/, der, -(e)s|-e: finding, discovery
   archäologische Funde ausstellen: to exhibit archeological findings
   Die Zeitungen berichteten über den grausigen Fund eines Massengrabs.
   The newspapers had reports on the grim discovery of a mass grave.

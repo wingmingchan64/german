@@ -1753,6 +1753,9 @@ aufdrücken: to press sth on, to stamp sth on sth, to push open
 
 Aufeinanderfolge: sequence, succession
 
+Aufenthalt /ˈauf|ənthalt/, der, -(e)s|-e: stay, stop, whereabouts, residence
+  das Bleiben an einem Ort für eine bestimmte Zeit; Unterbrechung einer Fahrt; Ort, an dem jd gerade ist oder lebt
+
 Aufenthaltserlaubnis, die: resident permit
 
 aufessen /ˈauf|ɛsən/: to eat up, to finish off
@@ -1963,6 +1966,7 @@ aufmuntern /ˈaufmʊntɐn/: to cheer up, to encourage
   He nodded at her encouragingly.
 
 Aufnäher /ˈaufnɛːɐ/, der: (sew-on) badge/patch
+  => nähen
 
 Aufnahme /ˈaufnaːmə/, die: taking up, reception, admission, photo, shot, recording
 

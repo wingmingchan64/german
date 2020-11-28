@@ -106,7 +106,9 @@ Bar /baːɐ/, die, -s: bar
   mit Freunden in eine Bar gehen: to go to a bar with friends
   sich an die Bar setzen: to sit down at the bar  
 
-bar adj: cash
+bar adj: cash, utter
+  in Münzen oder Scheinen; bloß, rein
+  Ich habe noch 100 Euro in bar.
 
 Bär /bɛːɐ/, der, Bärin, Bären: bear
 

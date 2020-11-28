@@ -660,6 +660,9 @@ Einsicht, die: view, insight, conclusion
 
 einsingen: to get oneself into voice
 
+einsperren /ˈainʃpɛrən/: to lock in, to jail
+  aus einem Raum nicht mehr herauslassen; zu Gefängnis verurteilen
+
 einst: once, long ago
   Einst lebten hier Dinosaurier.
   Dinosaurs once lived here.
@@ -1494,6 +1497,10 @@ ermorden /ɛɐˈmɔrdən/: to murder
   He was murdered in cold blood.
 
 Ermordung /ɛɐˈmɔrdʊŋ/, die, ~|-en: murder, homicide
+
+ernähren: to eat
+  => Nahrung
+  sich gesund / vegetarisch ernähren
 
 Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
 

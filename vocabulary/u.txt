@@ -715,6 +715,8 @@ unter-: under, in(to), through, sub-
 unterbrechen: to interrupt, discontinue
   Unterbrich mich doch nicht immer!
 
+Unterbrechung, die: interruption, break
+
 unterbringen /ˈʊntɐbrɪŋən/: to put up, to find room for, to fit in
   Die Austauschschüler sind bei einheimischen Familien untergebracht.
   The exchange students are put up with local families.
