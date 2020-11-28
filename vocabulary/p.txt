@@ -254,6 +254,9 @@ Pfund /pfʊnt/, das: pound
   In England kostet das 25 Pfund.
   That costs 25 pounds in England. 
 
+Phänomen, das, Phänomens|Phänomene
+  etw. (Außergewöhnliches), das man in der Natur beobachten kann
+
 Phobie /foˈbiː/, die, ~|-n: phobia
   Sie hat eine Spinnenphobie.
   She has a spider phobia.
@@ -408,6 +411,8 @@ Prädikat /prɛdiˈkaːt/, das, -(e)s|-e: rating, predicate
   Das Prädikat enthält das Verb.
   The predicate contains the verb.
 
+Praktikant /praktiˈkant/: trainee
+
 Praktikum /ˈpraktikʊm/ das, Praktika: practical training
   ein Praktikum absolvieren / machen
   to complete/do a period of practical training
@@ -431,7 +436,7 @@ präsentieren /prɛzɛnˈtiːrən/: to present
 Präsident /prɛziˈdɛnt/, -en|-en, -in
   der Präsident der Vereinigten Staaten
 
-Praxis /ˈpraksɪs/, die, ~|Praxen / Praktiken
+Praxis /ˈpraksɪs/, die, ~|Praxen / Praktiken: practice
   konkretes Handeln, Anwendung von Methoden und Wissen
 
 Preis /prais/, der: price

@@ -1176,7 +1176,7 @@ anheben /ˈanheːbən/: to lift up, to raise
   Legen Sie sich auf den Rücken, spannen die Bauchmuskeln und heben die Füße leicht an.
   Lie on your back, tense your stomach muscles and lift your feet up a little.
 
-anhören /ˈanhøːrən/: to listen to
+anhören /ˈanhøːrən/: to listen to, to sound
   Dieses Geschwätz höre ich mir nicht länger an!
   I'm not going to listen to this nonsense any longer!
   Bitte hören Sie mich an!
@@ -1486,6 +1486,10 @@ Anweisung /ˈanvaizʊŋ/, die, -en: instruction
   auf jds Anweisung handeln: to act on sb's instructions
   Gebrauchsanweisung: instructions for use
 
+anwenden: to use, to apply
+  benutzen
+  ein neues Verfahren anwenden
+
 Anwendung /ˈanvɛndʊŋ/, die: use, application
   ≈ Benutzung
   ≈ Umsetzung
@@ -1511,6 +1515,9 @@ anzapfen: to broach, to tap
 
 Anzeichen, das: indication
   Alle Anzeichen deuten darauf hin, dass es einen kalten Winter geben wird.
+
+Anzeige /ˈanʦaiɡə/, die: advertisement, announcement, complaint
+  eine Anzeige aufgeben
 
 anziehen /ˈanʦiːən/: to attract, to get dressed
   Salz zieht Feuchtigkeit an.
@@ -2571,6 +2578,9 @@ aussehen /ˈauszeːən/: to look, to appear
 aussehend
   eine blendend aussehende Dame: an extremely good-looking lady
   in verdächtig aussehendes Individuum: a suspicious(-looking) character
+
+außergewöhnlich /ˈausɐɡəˈvøːnlɪç/: exceptional
+  nicht normal
 
 Äußerung, die: statement
   das, was jd sagt oder schreibt
