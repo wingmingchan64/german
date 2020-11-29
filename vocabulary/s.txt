@@ -623,6 +623,7 @@ schlurfen /ˈʃlʊrfən/: to shuffle 拖著腳走，曳足而行, to slurp
 Schluss /ʃlʊs/, der: end, conclusion
   der Zeitpunkt, an dem etw. aufhört; letzter Teil einer Geschichte, eines Filmes; Ergebnis des Nachdenkens
   zu dem Schluss kommen, dass …: to come to the conclusion that …
+  Schluss machen: to stop
 
 Schlüssel /ˈʃlʏsəl/, der: key
 
@@ -2257,6 +2258,9 @@ stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to 
   Does it bother you if I smoke?
   Das Gewitter stört den Empfang des Senders.
   The thunderstorm is disrupting the reception of this station.
+
+stornieren: to cancel
+  rückgängig machen
 
 Störung /ˈʃtøːrʊŋ/, die, ~|-en: disturbance, disruption, fault
   Entschuldigen Sie bitte die Störung!

@@ -72,6 +72,8 @@ verantwortlich /fɛɐˈ|antvɔrtlɪç/: responsible
 
 verantwortungslos /fɛɐˈ|antvɔrtʊŋsloːs/: irresponsible
 
+verantwortungsvoll /fɛɐˈ|antvɔrtʊŋsfɔl/: responsible
+
 verarbeiten /fɛɐˈ|arbaitən/: to use, to process
   Wir verarbeiten nur frische Zutaten.
   We only use fresh ingredients.
@@ -556,6 +558,8 @@ verließ => verlassen
 
 verlobt /fɛɐˈloːpt/: engaged
 
+Verlobte: fiancé/fiancée
+
 verlor => verlieren
   ich verlor, du verlorst, er verlor, wir verloren, ihr verlort
 
@@ -851,6 +855,10 @@ Verständnis /fɛɐˈʃtɛntnɪs/, das, -se: understanding, sympathy, comprehens
   Ich habe ein anderes Verständnis von moderner Musik als du.
   My appreciation of modern music is different to yours.
 
+verständnislos: etw. nicht begreifend
+
+verständnisvoll: understanding, sympathetic
+
 verstärken /fɛɐˈʃtɛrkən/: to strengthen, to reinforce, to increase, to increase
   den Deich mit Sandsäcken verstärken: to reinforce the dyke with sandbags
   Ein neuer Mitarbeiter wird unser Team demnächst verstärken.
@@ -1006,6 +1014,8 @@ vertuschen /fɛɐˈtʊʃən/: to cover up
   He tried to cover up his mistake.
 
 verunglimpfen /fɛɐˈ|ʊnɡlɪmpfn/: to disparage, to belittle
+
+verunsichern: to make uncertain, to unnerve
 
 verursachen /fɛɐˈ|uːɐzaxən/: to cause
   die Ursache / der Urheber von etw. sein

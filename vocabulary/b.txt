@@ -210,6 +210,8 @@ beantworten /bəˈ|antvɔrtən/: to answer
   eine Antwort darauf geben
   eine Frage richtig beantworten: to answer a question correctly
 
+bearbeiten: to work, to edit, to pester, to process, to deal with
+
 beauftragen /bəˈ|auftraːɡən/: to commission, to engage, to hire
   Wen haben Sie mit dem Bau Ihres Hauses beauftragt?
   Who have you engaged to build the house?
@@ -308,6 +310,7 @@ Bedienung /bəˈdiːnʊŋ/, die: waiter, waitress, service, operation
 
 Bedingung, die: condition
   etw., wovon man seine Zustimmung o. Ä. abhängig macht
+  Die Genehmigung ist an bestimmte Bedingungen geknüpft.
 
 bedrohen /bəˈdroːən/: to threaten
   sich von jdm bedroht fühlen: to feel threatened by sb
@@ -840,7 +843,10 @@ Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
   Der Flug wurde ohne Berechnung von Gebühren umgebucht.
   The flight was changed at no additional charge.
 
+berechtigen: to entitle
+
 Berechtigung /bəˈrɛçtɪɡʊŋ/, die: entitlement, right, justification
+  Gleichberechtigung: equal rights
 
 beredt: expressive
 

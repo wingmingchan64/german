@@ -42,6 +42,8 @@ rammen /ˈramən/: to ram
   Er drängte sich an uns vorbei und rammte mich dabei mit der Schulter.
   He pushed past us and as he did so he rammed me with his shoulder.
 
+ran: up, close, go on
+
 Rand /rant/, der, -(e)s|..er: edge
   am Stadtrand 近郊
   jdn an den Rand drängen: to drive sb to the brink
@@ -799,6 +801,8 @@ Rückfahrt, die: return journey
 Rückgabe, die: return
   das Zurückgeben
 
+etw. rückgängig machen: to cancel sth
+
 Rückkehr ˈrʏkkeːɐ/, die: return
   die Rückkehr der Flüchtlinge in die Heimat: the refugees' return home
 
@@ -808,6 +812,8 @@ Rückschein, der:
 
 Rücksicht /ˈrʏkzɪçt/, die, -en: consideration
   Rücksicht üben / zeigen: to be considerate
+
+rücksichtsvoll: considerate
 
 rücksichtslos /ˈrʏkzɪçtsloːs/: inconsiderate, reckless
 

@@ -95,7 +95,7 @@ übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open,
   Es gibt immer mehr übergewichtige Kinder.
   There are more and more overweight children.
 
-überhaupt /yːbɐˈhaupt/: in general, of all, anyhow, anyway, at all, actually
+überhaupt /yːbɐˈhaupt/: in general, of all, anyhow, anyway, at all, actually, even
   überhaupt keine Fehler machen: to make no mistakes at all
 
 überholen /yːbɐˈhoːlən/: to overtake
@@ -247,6 +247,8 @@ übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open,
   The rent is transferred to his account automatically at the beginning of the month.
   Mein Hausarzt hat mich zur Weiterbehandlung an einen Spezialisten überwiesen.
   My family doctor referred me to a specialist for further treatment.
+
+Überweisung, die
 
 überwintern /yːbɐˈvɪntɐn/: to overwinter, to spend the winter
   Die Störche haben in Afrika überwintert.
@@ -651,6 +653,8 @@ ungläubig /ˈʊnɡlɔybɪç/: disbelieving, incredulous, unbelieving
   ein heiliger Krieg gegen Ungläubige: a holy war against unbelievers
 
 Unglück /ˈʊnɡlʏk/, das: disaster, bad luck, unhappiness
+
+ungültig: invalid
 
 ungünstig: unfavorable
 

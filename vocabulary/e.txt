@@ -336,6 +336,8 @@ einfallen /ˈainfalən/: to remember, to think of, to sink in, to invade, to att
   Enemy troops invaded the country.
   Er hörte erst eine Weile zu und fiel dann in das Lied mit ein.
   First he listened for a while and then he joined in the song.
+  Was fällt dir eigentlich ein, meine Verlobte anzufassen?
+  What made you think that you could put your hands on my fiancée?
 
 einfärben: to dye
   => Farbe
@@ -1470,6 +1472,9 @@ erledigen /ɛɐˈleːdɪɡən/: to take care of, to deal with, to carry out, to 
   Der Fall hat sich erledigt.
   The matter has been resolved.
 
+erleichtern /ɛɐˈlaiçtɐn/: to relieve, to make easier, to facilitate
+  von Sorgen oder seelischem Druck befreien; einfacher, bequemer machen
+
 erleichtert /ɛɐˈlaiçtɐt/: relieved
   Wir waren alle sehr erleichtert, dass dem Jungen nichts passiert war.
   We were all very relieved that nothing had happened to the boy.
@@ -1786,6 +1791,8 @@ erzählen /ɛɐˈʦɛːlən/: to tell, to narrate, to recount, to relate
 erziehen /ɛɐˈʦiːən/: to bring up
   Ich möchte meine Kinder zu toleranten Menschen / zur Toleranz erziehen.
   I’d like to bring up my children to be tolerant.
+  
+Erzieher: jd, der in einem Kindergarten, Heim, Hort o. Ä. Kinder erzieht
 
 erzieherisch: parenting, disciplinary, educational
   ein Vater / eine Mutter mit wenig erzieherischem Können
