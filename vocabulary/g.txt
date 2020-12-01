@@ -180,6 +180,7 @@ Gebet /ɡəˈbeːt/, das, -e: prayer
 gebeten /ɡəˈbeːtən/ => bitten
 
 Gebiet /ɡəˈbiːt/, das: region, area
+  größerer räumlicher Bereich mit einheitlichen Merkmalen
 
 gebieterisch: imperious, domineering, despotic, peremptory, authoritative
 
@@ -847,6 +848,8 @@ gesammelt: collected
 
 Gesamt-: total
   der Gesamtbetrag der Ausgaben: the total sum of the expenditures
+
+gesamte: whole, total, entire
 
 Gesamtschule /ɡəˈzamtʃuːlə/, die, ~|-n: comprehensive/integrated school
 

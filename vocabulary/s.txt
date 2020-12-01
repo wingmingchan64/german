@@ -280,7 +280,7 @@ schaudern /ˈʃaudɐn/: to shiver
   Mich / Mir schaudert (es) bei dem Gedanken, dass manche Völker Insekten essen.
   It makes me shudder to think that lots of people eat insects.
 
-schauen /ˈʃauən/: to look, to look for
+schauen /ˈʃauən/: to look, to look for, to check
   auf die Uhr schauen: to look at the clock
   Ich habe schon überall nach dem Schlüssel geschaut.
   I've already looked all over for the key.
@@ -931,7 +931,8 @@ schuften /ˈʃʊftən/: to slave away
 Schuh /ʃuː/, der: shoe
   ein Paar Schuhe: a pair of shoes
 
-Schulabschluss, der: school-leaving qualification, ≈ high school diploma 
+Schulabschluss, der: school-leaving qualification, school-leaving certificate
+  ≈ high school diploma 
 
 Schulart, die, Schultyp, der: type of school
 
@@ -1282,7 +1283,7 @@ selbst /zɛlpst/: in person, self, even
   Even if he wanted to, he couldn't do it.
   selbst gebackenes Gebäck: homemade cookies
 
-selbstständig /ˈzɛlpstʃtɛndɪç/: independent
+selbstständig /ˈzɛlpstʃtɛndɪç/: independent, self-employed
   an selbstständiges Arbeiten gewöhnt sein: to be used to working independently
   
 selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, of course
@@ -1655,6 +1656,8 @@ Spargel /ˈʃparɡəl/, der, -: asparagus
   We reckon on five spears of asparagus per person.
 
 Sparkasse /ˈʃpaːɐkasə/, die, -n: savings bank
+
+Spaß, der: joke, fun
 
 spät /ʃpɛːt/: late
   im späten Mittelalter: in the late Middle Ages
@@ -2455,6 +2458,11 @@ Student /ʃtuˈdɛnt/, -in, -en|-en: student
   She is a student at Leipzig University.
 
 Studienfach, das: subject
+
+Studiengang, der: course
+  Fach mit einem bestimmten Abschluss, das man an der Universität studieren kann
+
+Studiengebühren, pl: tuition fees
 
 studieren /ʃtuˈdiːrən/: to study
   studiere, studierst, studiert, habe studiert

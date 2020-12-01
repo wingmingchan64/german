@@ -396,6 +396,9 @@ befriedigend /bəˈfriːdɪɡənt/: satisfactory
 
 Befriedigung /bəˈfriːdɪɡʊŋ/: satisfaction
 
+befristen: to limit, to restrict 
+  befriste, befristest, befristet, habe befristet
+
 befristet /bəˈfrɪstət/: temporary, fixed-term
 
 befürchten /bəˈfʏrçtən/: to fear
@@ -1301,6 +1304,7 @@ Betreuung /bəˈtrɔyʊŋ/, die, -en: supervision, care
 Betrieb /bəˈtriːp/, der, -e: operation, company, business
   Firma, die Waren produziert oder Dienstleistungen anbietet
   ein privater Betrieb mit 50 Angestellten: a private company with 50 employees
+  Meisterbetrieb: master workshop
 
 betrinken: to get drunk
 
@@ -1600,6 +1604,8 @@ binden /ˈbɪndən/: to tie, to bind
 
 binnen: within
   binnen einem Monat/eines Monats: within a month
+
+Bio /ˈbiːo/, die
 
 Biologe /bioˈloːɡə/: biologist
 
@@ -2042,6 +2048,9 @@ Brust /brʊst/, die, ~|..e: chest, breast
 Brut, die: brood, breeding
 
 brüten /ˈbryːtən/: incubate
+
+brutto: gross
+  Er verdient 3000 Euro brutto im Monat.
 
 Bub /buːp/, der, Buben: boy
   In der Klasse sind 15 Mädchen und 13 Buben.

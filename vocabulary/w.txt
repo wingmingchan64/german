@@ -548,7 +548,7 @@ Westen /ˈvɛstən/, der, -s|uncountable: west
   Er ist über die Mauer in den Westen geflüchtet.
   He fled across the Wall to the West.
 
-Wettbewerb /ˈvɛtbəvɛrp/, der, -e: competition
+Wettbewerb /ˈvɛtbəvɛrp/, der, -(e)s|-e: competition
   an einem Wettbewerb teilnehmen: to take part in a competition
   sich im internationalen Wettbewerb behaupten können: to be able to compete globally
 
@@ -917,6 +917,7 @@ wortwörtlich /ˈvɔrtˈvœrtlɪç/: word-for-word, exact, literal
 
 worum /voˈrʊm/: what … about
   Worum geht es denn?
+  What is it all about?
 
 wovon /voˈfɔn/: from what, from which
   Wovon soll ich das bezahlen?

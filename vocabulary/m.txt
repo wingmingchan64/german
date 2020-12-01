@@ -185,6 +185,8 @@ Mast /mast/, der, Maste: mast, pole
   Er stand im Mastkorb und hielt Ausschau.
   He stood in the crow's nest and kept a lookout.
 
+Mathe, die
+
 Mathematik /matemaˈtiːk/, die: mathematics
 
 Matratze /maˈtraʦə/, die: mattress
@@ -325,6 +327,8 @@ meistens /ˈmaistəns/: mostly
   Ich gehe meistens früh ins Bett.
   I go to bed early most of the time.
 
+Meisterbetrieb, der: master business, master workshop
+
 melden /ˈmɛldən/: to report, to get in touch, to sign up, to enter
   Die Zeitungen meldeten eine Geiselnahme.
   The newspapers reported a hostage-taking.
@@ -369,6 +373,9 @@ merken /ˈmɛrkən/: to notice, to feel, to remember
   He immediately noticed that something was wrong.
   Hast du dir seine Telefonnummer gemerkt?
   Did you make a note of his phone number?
+
+Merkmal, das: characteristic, feature
+  besondere, typische Eigenschaft
 
 merkwürdig /ˈmɛrkvʏrdɪç/: strange, odd
   Das kommt mir merkwürdig vor.
@@ -606,7 +613,7 @@ möglich /ˈmøːklɪç/: possible
   „Ist das denn wahr?‟ – „Schon möglich!‟
   “Is it true?” – “It's possible.”
 
-möglicherweise /ˈmøːklɪçɐˈvaizə/: possibly
+möglicherweise /ˈmøːklɪçɐˈvaizə/: possibly, perhaps
 
 Möglichkeit /ˈmøːklɪçkait/, die: possibility, chance, opportunity, option
   Ich hatte leider keine Möglichkeit, dich anzurufen.

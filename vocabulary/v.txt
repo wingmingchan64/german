@@ -642,6 +642,8 @@ vernünftig /fɛɐˈnʏnftɪç/: sensible
 verordnen: to prescribe
   ärztlich anordnen
 
+Verordnung, die: prescription
+
 veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
 
 Veröffentlichung /fɛɐˈ|œfəntlɪçʊŋ/, die: publication
@@ -1388,6 +1390,8 @@ Vorhang /ˈfoːɐhaŋ/, der, -(e)s|..e: curtain
 Vorherrschaft /ˈfoːɐhɛrʃaft/, die: domination, supremacy
 
 Vorhersage /foːɐˈheːɐzaːɡə/, die: forecast, prediction
+
+vorhin: just now, a little while ago
 
 vorknöpfen /'foːɐknœpfən/: to give sb a good talking-to, to take care of sth
   Ich werde mir den Jungen mal vorknöpfen!

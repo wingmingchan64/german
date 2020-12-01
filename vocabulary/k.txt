@@ -996,6 +996,9 @@ kränkeln /ˈkrɛnkəln/: to be not too well, to be sickly
 
 Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 
+krankgeschrieben: on sick leave
+  krankgeschrieben sein
+
 Kranz, der: wreath
 
 Krapfen /ˈkrapfən/, der, -s|~: jelly doughnut
@@ -1149,15 +1152,6 @@ Kühlschrank /ˈkyːlʃraŋk/, der, -(e)s|..e: refrigerator, fridge
 Kultur /kʊlˈtuːɐ/, die, Kulturen: culture
   die Kultur fördern: to promote culture
 
-kümmern /ˈkʏmɐn/: to take care of sb/sth
-  sich gut um die Kinder kümmern: to take good care of the children
-
-kündigen /ˈkʏndɪɡən/: to cancel, to terminate, 
-  Hast du das Abo schon gekündigt?
-  Have you canceled the subscription yet?
-  Wegen der schlechten Auftragslage musste er mehreren Mitarbeitern kündigen.
-  He had to dismiss several employees because of the lack of orders.
-
 Kugel, die: bullet
 
 Kuh /kuː/, die: cow
@@ -1193,12 +1187,18 @@ Kundgebung /ˈkʊntɡeːbʊŋ/, die, ~|-en: rally
   Im Anschluss an die Demonstration findet eine Kundgebung statt.
   After the demonstration there's going to be a rally.
 
+kindig /ˈkʊndɪç/: knowledgeable, expert
+  auf einem bestimmten (Wissens-)Gebiet sehr kompetent
+
 kündigen /ˈkʏndɪɡən/: to cancel, to terminate, to give notice, to quit
   Hast du das Abo schon gekündigt?
   Have you canceled the subscription yet?
   fristgerecht kündigen: to give proper notice
   Uns wurde wegen Eigenbedarf gekündigt.
   We were given notice to quit because the landlord needed the apartment for his own use.
+  Wegen der schlechten Auftragslage musste er mehreren Mitarbeitern kündigen.
+  He had to dismiss several employees because of the lack of orders.
+
 
 Kündigung /ˈkʏndɪɡʊŋ/, die, ~|-en: notice
   Er reichte seine Kündigung ein.

@@ -259,6 +259,9 @@ abreißen /ˈapraisən/: to tear off, to tear down, to rip off, to come to a sto
   Der Turm war baufällig und musste abgerissen werden.
   The tower was in disrepair and had to be torn down.
 
+Abriss /ˈaprɪs/, der: demolition, outline
+  ≈ Übersicht
+
 absäbeln: to hack off, to cut off
 
 Absage, die: refusal, rejection
@@ -553,6 +556,9 @@ abziehen /ˈapʦiːən/: to subtract, to deduct, to strip off, to withdraw, to m
 abzocken /ˈapʦɔkən/: to rip off
   Vorsicht, bei solchen Angeboten wird man nur abgezockt!
   Be careful – offers like that are one big rip-off!
+
+Abzug, der, -(e)s|..e: deduction
+  nach Steuern und anderen Abzügen
 
 Achsel /ˈaksəl/, die, ~|-n: shoulder, armpit
 
@@ -929,6 +935,7 @@ andere /ˈandərə/: other, else
   Es tut mir leid, ich liebe einen anderen.
   I'm sorry, but I love someone else.
   unter anderem: among other things
+  alles andere: everything else
 
 anderenfalls /ˈandərənfals/: otherwise
   Sie muss einen Kredit aufnehmen, anderenfalls muss sie ihr Geschäft schließen.
@@ -968,6 +975,8 @@ andeuten /ˈandɔytən/: to hint at, to sketch out
   The artist didn't finish the background – he just outlined it.
 
 Andeutung: insinuation, hint
+
+anerkennen /ˈan|ɛɐkɛnən/: to recognize
 
 ahfahren /ˈanfaːrən/: to hit, to snap at 厲聲說, to stop at, to start up
   Sie wurde von einem Auto angefahren.
@@ -1709,6 +1718,9 @@ Attentat /ˈatəntaːt/, das, -(e)s|-e: assassination attempt, attempt on sb's l
   to carry out an assassination attempt on a politician
 
 attributiv /atribuˈtiːf/: attributive
+
+ätzend /ˈɛʦənt/: corrosive, lousy, god-awful
+  so sauer oder basisch, dass die Haut bei Berührung damit verletzt wird; drückt ein starkes negatives Urteil aus
 
 auf /auf/: on, onto, at, to
   auf dem Sofa sitzen: to sit on the sofa
@@ -2552,6 +2564,8 @@ ausschließen /ˈausʃliːsən/: to exclude, to leave out, to rule out, to lock 
 ausschließlich /ˈausʃliːslɪç/: exclusively
   ein fast ausschließlich türkisches Publikum: an almost exclusively Turkish audience
 
+Ausschreibung, die: announcement
+
 Ausschuss /ˈausʃʊs/, der: committee, wastage
   Wir haben heute nur Ausschuss produziert.
   All we produced today was rejects.
@@ -2694,6 +2708,9 @@ austreiben /ˈaustraibən/: to exorcise, to cure of
 Austreibung, die, ~|uncountable: exorcism, expulsion
   ≈ Vertreibung
   die Austreibung aus dem Paradies 
+
+austreten: to leave
+  seine Mitgliedschaft in einer Gemeinschaft kündigen
 
 Auswahl /ˈausvaːl/, die: -en: selection
   Angesichts des großen Angebots fällt die Auswahl schwer.

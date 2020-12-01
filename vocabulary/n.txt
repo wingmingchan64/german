@@ -226,6 +226,8 @@ Naturerlebnis: nature experience
 
 Naturerlebnispark: wildlife park
 
+Naturwissenschaft, die: science
+
 Nebel /ˈneːbəl/, der, -: fog, mist
   Über dem Tal lag noch Nebel.
   The valley was still covered in mist.
