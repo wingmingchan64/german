@@ -461,6 +461,10 @@ Verkleidung /fɛɐˈklaidʊŋ/, die, ~|-en: disguise, fancy dress
   In dieser Verkleidung wird dich niemand erkennen.
   No-one will recognize you in this disguise.
 
+verknallen: to fall head over heels in love
+
+verkraften: to cope with, to afford, to manage
+
 verkünden /fɛɐˈkʏndən/: to announce
   öffentlich sagen
 
@@ -1281,6 +1285,8 @@ vor Kurzem: of late
 vor sich hin [ accusative ]: to yourself/himself/herself/etc.
   Sie summte fröhlich vor sich hin.
   She was humming away happily. 
+
+vorangehen: to go on ahead, to make progress
 
 voraus /foˈraus/: ahead, in front
   Andere Länder sind uns in Sachen Bildungspolitik weit voraus.

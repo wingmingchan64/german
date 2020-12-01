@@ -60,7 +60,7 @@ Takt /takt/, der, -e: time, tack
   Sie hat überhaupt keinen Takt.
   She has no tact at all.
 
-Tal /taːl/, der, Täler /ˈtɛːlɐ/: valley
+Tal /taːl/, der, -(e)s|..er: valley
 
 Tango /ˈtaŋɡo/, der, -s
 
@@ -605,6 +605,11 @@ treiben /ˈtraibən/: to drive
   What's that drifting on the water over there?
   etw. zu weit treiben: to take sth too far
   es zu bunt treiben: to go too far
+
+Treibhaus, das: greenhouse
+  Haus aus Glas für Pflanzen, in dem es schnell warm wird, wenn die Sonne scheint
+
+Treibhausgas, das: greenhouse gas
 
 Treibstoff, der: fuel
   Substanz wie Benzin, Diesel usw., die Fahrzeuge antreibt

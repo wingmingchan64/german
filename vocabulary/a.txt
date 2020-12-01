@@ -129,6 +129,8 @@ Abgabe /ˈapɡaːbə/, die, ~|-n: tax, duty, submission, sale, distribution
   
 abgabenfrei: duty-free, tax-exempt, tax-free
 
+Abgas, das: exhaust
+
 abgeben /ˈapɡeːbən/: to hand in, to check, to share sth with sb
   Wann müssen wir den Aufsatz abgeben?
   When do we have to hand in the essay?
@@ -440,6 +442,8 @@ absteigen: to get off, to go down, to stay
   Der Star steigt nur in den feinsten Hotels ab.
   The star only stays at the finest hotels.  
 
+abstellen: to park, to turn off
+
 abstempeln /ˈapʃtɛmpəln/: to stamp
   Die Fahrkarte musst du noch abstempeln.
   You still have validate to your ticket.
@@ -625,6 +629,8 @@ Affront /aˈfrõː/, der, -s|-s: affront
 Agentur /aɡɛnˈtuːɐ/, die: agency
 
 Aggressivität /aɡrɛsiviˈtɛːt/, die, ~|uncountable: aggressiveness
+
+Ägypten /ɛˈɡʏptn/, das: Egypt
 
 ähneln /ˈɛːnəln/: to resemble
   Er ähnelt seinem Vater sehr.
@@ -2210,6 +2216,9 @@ ausbeulen /ˈausbɔylən/: to bulge, to beat out, to bulge, to make baggy/floppy
 Ausbeute /ˈausbɔytə/, die: yield
   Die Mine ist noch in Betrieb, aber die Ausbeute ist mittlerweile gering.
   The mine is still in operation but the yield is now low. 
+
+ausbeuten: to exploit
+  zum eigenen Vorteil ausnutzen
 
 Ausbildung /ˈausbɪldʊŋ/, die, -en: apprenticeship, education, training, background
   eine Ausbildung zum Elektriker machen: to do an apprenticeship as an electrician

@@ -131,6 +131,8 @@ landen /ˈlandən/: to land, o put in, to land up, to pull off
 
 Landesebene, die: at the state level
 
+Landesinnere, das: interior
+
 Landkreis, der: administrative district
 
 Landschaft /ˈlantʃaft/, die, -en: landscape, scenery, countryside
@@ -207,6 +209,8 @@ Lärm /lɛrm/, der, -(e)s|uncountable: noise
   Kinder, macht nicht so viel Lärm!
   Stop making such a lot of noise, children!
   viel Lärm um nichts: much ado about nothing
+
+Lärmbelästigung, die: noise pollution
 
 lärmen /ˈlɛrmən/: to make a noise
   lärmende Kinder/Nachbarn: noisy children/neighbors 
@@ -533,6 +537,8 @@ Leiter, der: ladder, conductor
   auf eine hohe Leiter steigen: to climb up a long ladder
   Kupfer ist ein guter Leiter.
   Copper is a good conductor.
+
+lektorieren: to work as an editor, to edit
 
 lenken /ˈlɛŋkən/: to steer, to drive, to direct, to control
   die Fahrtrichtung eines Fahrzeugs bestimmen
