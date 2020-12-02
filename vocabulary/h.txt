@@ -154,6 +154,7 @@ Hand /hant/, die, ..e: hand
   zu Händen: for the attention of
   Firma Bauer, zu Händen Frau Weiss
   Bauer, for the attention of Ms. Weiss
+  etw. liegt auf der Hand: sth is obvious
 
 Handbewegung, die, -en: movement of the hand, gesture
 
@@ -726,6 +727,8 @@ heutig, heutige /ˈhɔytɪɡə/: today's, contemporary, modern
   am heutigen Nachmittag: this afternoon
 
 heutige: today's
+
+heutzutage: nowadays
 
 Hieb /hiːp/, der, -(e)s|-e: blow
   jdm einen Hieb (mit der Faust) versetzen: to deal sb a blow (with your fist)
