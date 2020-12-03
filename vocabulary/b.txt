@@ -883,6 +883,8 @@ bereitstellen /bəˈraitʃtɛlən/: to provide, to supply
 
 Berg /bɛrk/, der: mountain
 
+Bergbau, der: mining
+
 Bergwacht /ˈbɛrkvaxt/, die: mountain rescue service
   Dienst, der Menschen rettet, die in den Bergen in Not geraten sind
   Die Bergwacht setzte zwei Rettungsteams mit Suchhunden ein.
@@ -1001,6 +1003,8 @@ bescheiden: to content yourself, to give, to inform
   When asked, the spokesperson for the ministry stated that no date had yet been set.
 
 bescheiden: humbly, modestly
+
+Bescheidenheit, die: modesty
 
 bescheinigen /bəˈʃainɪɡən/: to certify, to attest
   etw. schriftlich bestätigen, feststellen; eine Aussage über Eigenschaften treffen
