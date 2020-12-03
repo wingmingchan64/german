@@ -944,6 +944,90 @@ Ohne gute bis sehr gute Deutschkenntnisse geht das nicht.
 - Hallo! Die Al-Paschas haben uns für heute Abend zum Essen eingeladen.
 - Ja? Wirklich?
 - Als Dankeschön für den Flohmarkt und das Fahrrad.
+- Bin ich auch eingeladen?
+- Ja, wieso nicht? Ich dachte, du bist mit Selma befreundet.
+- Ja, schon.
+- Was machst du?
+- Ich erkundige mich nur nach Benimmregeln in Syrien. Mir ist heute schon etwas Peinliches passiert. Das reicht. Hier steht: „Wenn Sie eine syrische Familie begrüßen, sollte der Mann der Frau nicht die Hand geben. Das ist unüblich und gilt as unhöflich. Außerdem wird sich nach dem Befinden der Familie erkundigt.‟
+- Wir kennen die Familie überhaupt nicht.
+- Ja und? Hier steht, es gehört sich so.
+- Du nimmst das ganz schön ernst.
+- Hm?
+- Hat das etwas mit dieser Selma zu tun?
+- Nö … hmhm.
+[https://www.youtube.com/watch?v=LkufozluseI&t=4705s]
+- Hallo,ich bin Yara.
+- Ich bin Aya.
+- Meine Frau.
+- Freut mich sehr. Vielen Dank für die Einladung.
+- Selma, meine Tochter.
+- Hallo!
+- Hi!
+- Hallo, ich bin NIco. Freut mich, Sie kennenzulernen.
+- Bitte, setzen Sie sich.
+- Wir können uns gerne duzen.
+- Wie geht es der Familie?
+- Welcher Familie?
+- Ja, eruer Familie.
+- Ich denke, der Familie geht's gut. Und, äh … deiner Familie?
+- Ich denke auch.
+- Hm … Nachtisch.
+- Hm … Sieht toll aus!
+- Vielen Dank!
+- Bitte! Ich möchte nicht, dass du hungrig nach Hause gehst. Du musst probieren!
+- Sind in Syrien alle Menschen so gastfreundlich?
+- Ja. Aber in Deutschland auch. Ich hab' den Eindruck, dass viele Verhaltensregeln sehr ähnlich sind.
+- Da musst du Nico fragen, er ist der Experte.
+- Hm?
+- Ich verstehe. Darum die Frage nach der Familie.
+- Ich habe gelesen, dass es höflich ist, zu fragen, wie es der Familie geht.
+- Wenn man die Familie kennt, ja. Aber es ist toll, dass du dich informiert hast.
+- Auf Wiedersehen!
+- Tschüss! Und vielen Dank für das tolle Essen.
+- Bas bald!
+- Danke.
+- Selma und du … Das ist ja wohl glasklar.
+- Leider nicht. Es ist sogar ziemlich kompliziert …
+[https://www.youtube.com/watch?v=LkufozluseI&t=4835s]
+- Nico!
+- Selma!
+- Du willst wohl heute Abend feiern?
+- Ja, na ja. Yara besteht darauf, dass Pepe, sie und ich auf unseren neuen Lebensabschnitt anstoßen.
+- Neuen Lebensabschnitt?
+- Na ja, weil wir alle in Deutschland bleiben und ich hoffentlich bald in Yaras Laden anfange zu arbeiten …
+- Das ist toll, Nico. Wirklich.
+- Ich hätte gerade eben fast den Sekt und den Wein nicht bekommen.
+- Die Verkäuferin wollte mir die Flaschen nicht verkaufen, zumindest nicht ohne Personalausweis.
+- Hat sie dir nicht geglaubt, dass du volljährig bist?
+- Mal ganz ehrlich: Sehe ich aus wie siebzehn?
+- Es ist ein Kompliment, dass die Verkäuferin dich nach deinem Ausweis gefragt hat. Du siehtst eben jünger aus, als du bist.
+- Danke …
+- Das war ein schöner Abend gestern …
+- Ja, das fand ich auch.
+- Ich vermisse dich, Nico …
+- Dann treffen wir uns morgen! Nur kurz. Egal wie, aber ich muss dich sehen.
+- Ich schreibe dir!
+- Du belügst deine Familie immer noch. Mit ihm? Das ist eine Schande!
+Als wir in Syrien lebten, hast du nie gelogen. Seit du dich mit ihm triffst, tust du das.
+- Herr Al-Pascha, wir haben uns nur zufällig getroffen.
+- Glaubst du, ich bin ein Idiot? Dieser Mann lügt mich an. Er bringt dich dazu, zu lügen. Ihr kauft sogar schon Alkohol! Er ist kein Umgang für dich!
+- Hey!
+- Seit wann seht ihr euch schon?
+- Es geht Sie überhaupt nichts an, wen Ihre Tochter sieht.
+- Es geht mich nichts an? Es geht mich nichts an, wenn meine Tochter ihr Leben wegwirft? Was sind deine Erwartungen vom Leben? Was sind deine Perspektiven? Du hast keine! Wie willst du für meine Tochter sorgen?
+- Ich liebe ihn, Papa!
+- Ich liebe dich auch, Selma. Du bist meine einzige Tochter! Deshalb verbiete ich dir, ihn zu sehen. Zu deinem eigenen Wohl!
+- Das können Sie nicht.
+- Selma!
+[https://www.youtube.com/watch?v=LkufozluseI&t=5003s]
+- Bevor ich ein Restaurant hatte, hab' ich lange als Koch gearbeitet. In einem Bistro, das ganz ähnlich aussah wie euer Restaurant.
+- Bevor wir das Restaurant aufgemacht haben, hatte ich in einer Firma als Elektriker gearbeitet.
+- Und ich war Bankkaufmann.
+- Nein, wirklich? Das ist ja erstaunlich. Da arbeiten Sie jetzt ja in einem ganz anderen Beruf.
+- Aber es hat sich gelohnt.
+- Auch wenn die Gastronomie ganz schön anstrengend ist.
+- Ja, wem sagen Sie das.
+
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ á à → ↔ ≈
 ========================================================
@@ -978,8 +1062,13 @@ beachten: to heed
 
 bedauern: to regret, to be sorry
 
+Befinden, das: health
+
 beliebt: popular
 
+Benimm /bəˈnɪm/, der: manners
+  Benimmregel, die, Benimmregeln: etiquette
+  
 Beratung, die: consultation
 
 Bereich, der: area, section
@@ -1020,6 +1109,8 @@ Gehalt, das: salary
   Bruttogehalt: gross salary
 
 Gehirn, das: brain
+
+gehören, sich: to be proper
 
 Grenze, die: border
 
