@@ -118,8 +118,7 @@
 - Spanien, ja! Ich komme aus Spanien.
 - Und woher kommst du genau?
 - Woher?
-- Wo wohnst du in Spanien?
-- Wohnst du in Barcelona oder in Madrid?
+- Wo wohnst du in Spanien? Wohnst du in Barcelona oder in Madrid?
 - Sevilla!
 - Du wohnst in Sevilla?
 - Ich wohne in Sevilla.
@@ -349,7 +348,7 @@
 - Wo ist denn Nawin? Ist er nicht hier?
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=1190s]
 - Hey, Nawin. Möchtest du etwas essen?
-- was gibt es denn?
+- Was gibt es denn?
 - Sushi, Pizza, Salat.
 - Okay.
 - Nico, was möchtest du essen?
@@ -390,7 +389,7 @@
 - Danke! Hier ist die Rechnung. Tschüss.
 - Danke.
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=1313s]
-- So … bekommt die Hawaii ohne Schinken?
+- So … Wer bekommt die Hawaii ohne Schinken?
 - Ich!
 - Tonno?
 - Ja!
@@ -1872,6 +1871,8 @@ krass: wicked
 Mädel /ˈmɛːdəl/, das: girl
 
 Miete /ˈmiːtə/, die, ~|-n: rent
+
+Mist: balls-up, a mess
 
 Mütze /ˈmʏʦə/, die, ~|-en: cap
 
