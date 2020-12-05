@@ -1769,6 +1769,8 @@ spitze: cool, great
 
 Spitzname /ˈʃpɪʦnaːmə/, der: nickname
 
+spontan /ʃpɔnˈtaːn/
+
 Sport /ʃpɔrt/, der, -(e)s|uncountable: sport, sports
 
 Sportart, die, ~|-en: (kind of) sport
@@ -2383,6 +2385,7 @@ streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel, to
   She tenderly stroked the child's hair.
 
 Streifen /ˈʃtraifən/, der: stripe
+  => gestreift
   Zebras haben schwarze Streifen.
   Zebras have black stripes.
   Die Fenster hatten nach dem Putzen noch Streifen.
@@ -2394,6 +2397,9 @@ streifen: to brush against, to graze
   Der Lkw hat das Auto nur gestreift.
   The truck only scraped the car.
   Schmutz von der Hose streifen: to brush some dirt off your pants
+
+gestreift: striped
+  eine rot-grün gestreifte Bluse
 
 Streik /ʃtraik/, der, -(e)s|-s: strike
 

@@ -1383,25 +1383,21 @@ Die Geschichte von Nicos Tasche
 - Nein, das ist kein neuer Pullover.
   Der Pullover ist von Sebastian. Meine Sachen sind …
 - … in deiner Tasche, jaja.
-  Aber der Pullover ist viel zu groß.
-  Und die Farbe? Ist das jetzt in?
+  Aber der Pullover ist viel zu groß. Und die Farbe? Ist das jetzt in?
 - Das weiß ich nicht.
 - Ich finde den Pullover nicht so schön.
   Du brauchst neue Sache zum Anziehen.
-  Du brauchst ein schickes Hemd und einen warmen Pullover
-  und eine schöne Hose.
+  Du brauchst ein schickes Hemd und einen warmen Pullover und eine schöne Hose.
   Ach Nico, kannst du gleich Brötchen kaufen?
 - Ja, gerne!
-- Das ist lieb von dir! Kauf bitte dunkle Brötchen.
-  Die schmecken am besten.
+- Das ist lieb von dir! Kauf bitte dunkle Brötchen. Die schmecken am besten.
 - Uhum.
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=4757s]
 - Nico!
 - Selma!
 - Ist das …?
 - Deine Tasche?
-- Du hast sie gefunden?
-  Wo war das denn? Welche Straße war das?
+- Du hast sie gefunden? Wo war das denn? Welche Straße war das?
 - Die Tasche stand einfach so auf der Straße vor einem großen Haus.
   Das ist ein cooles T-Shirt! Und du hast tolle Mützen!
 - Danke!
@@ -1410,8 +1406,7 @@ Die Geschichte von Nicos Tasche
 - Und welche Farbe magst du am liebsten? Blau? Grün?
 - Grün, das ist meine Lieblingsfarbe.
 - Ja, stimmt. Du hast ziemlich viele grüne Sachen:
-  Das T-Shirt ist grün. Dieses Hemd ist grün.
-  Und dieses hier auch.
+  Das T-Shirt ist grün. Dieses Hemd ist grün. Und dieses hier auch.
 - Mein warmer Pullover ist nicht in der Tasche.
 - Pullover?
 - Ja. Er ist weg.
@@ -1431,8 +1426,7 @@ Die Geschichte von Nicos Tasche
 - Ja, das gefällt mir.
 - Die Jacke auch?
 - Super.
-- Nein, die ist besser.
-  Wie süß! Wie findest du die Farbe?
+- Nein, die ist besser. Wie süß! Wie findest du die Farbe?
   Für mich! Wie findest du das Hemd?
 - Wie viel kostet das?
 - Ehm … 25 Euro. Ist das okay?
@@ -1462,10 +1456,10 @@ Die Geschichte von Nicos Tasche
 - Nein, Selma.
 - Oho, wer ist denn Selma?
 - Niemand …
-- Komm mat mit. Ich habe eine tolle Überraschung für dich.
+- Komm mal mit. Ich habe eine tolle Überraschung für dich.
 - Eine Überraschung? Was?
 - Das sind Sachen von Günther. Günther war mein Mann.
-  Er libt nicht mehr. Er hat immer sehr elelgante Kleidung getragen.
+  Er libt nicht mehr. Er hat immer sehr elegante Kleidung getragen.
   Alles ist so gut wie neu. Schau mal, dieses schicke Hemd!
   Und die braune Hose steht dir sicher sehr gut.
 - Sieht bequem aus.
@@ -1490,8 +1484,7 @@ Die Geschichte von Nicos Tasche
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=5112s]
   Aber erzähl mal: Woher kommst du?
   Du kommst nicht aus Deutschland, oder?
-- Nein, ich komme aus Syrien
-  und lebe seit fast einem Jahr in Deutschland.
+- Nein, ich komme aus Syrien und lebe seit fast einem Jahr in Deutschland.
 - Bist du alleine in Deutschland?
 - Nein, ich bin mit meinen Eltern hier.
 - Und hast du Geschwister?
@@ -1773,7 +1766,8 @@ zwei Wochen vorher
 - Aber Deutschland ist andere als die alte Heimat, als Syrien, oder?
 - Ja. Das Essen ist anders, das Wetter, die Sprache.
   Und die Menchen auch. Alles ist anders.
-- Habt ihr in Syrien denn auch Frühling, Sommer, Herbst und Winter wie in Deutschland?
+- Habt ihr in Syrien denn auch Frühling,
+  Sommer, Herbst und Winter wie in Deutschland?
 - Ja, wir haben auch Jahreszeiten. Aber in Winter ist es nicht so kalt.
 - Und das Essen?
 - Wir essen viel Fleisch. Bei uns gibt es nicht viele Vegetarier.
@@ -1847,7 +1841,11 @@ Flüchtling /ˈflʏçtlɪŋ/, der, -s|-e: refugee
 
 Fundbüro, das: lost and found
 
+gemein: annoying
+
 gemütlich /ɡəˈmyːtlɪç/: comfortable, cozy
+
+Gern geschehen. You're welcome.
 
 Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
 

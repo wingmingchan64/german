@@ -1151,6 +1151,9 @@ besprechen /bəˈʃprɛçən/: to discuss, to consult, to review
 Besprechung /bəˈʃprɛçʊŋ/, die, ~|-en: meeting
   Mein Kollege ist momentan in einer Besprechung.
 
+Besserung, die: improvement
+  Gute Besserung! Get well soon.
+
 Bestandteil /bəˈʃtanttail/, der, -(e)s|-e: component
   einer der Teile, aus denen etw. zusammengesetzt ist, besteht
   eine Maschine in ihre Bestandteile zerlegen
@@ -1486,6 +1489,9 @@ bewirken /bəˈvɪrkən/: to achieve
 
 Bewohner, Bewohnerin: occupant, resident
   Höhlenbewohner: cave dwellers
+
+bewölkt /bəˈvœlkt/: cloudy
+  => Wolke
 
 bewundern /bəˈvʊndɐn/: to admire
 
