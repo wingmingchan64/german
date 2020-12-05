@@ -538,10 +538,8 @@
 - Der Tafel.
 - Entschuldigung, kannst du das noch mal wiederholen?
 - Das Tafel?
-- Die Tafel.
-- Nomen und Artikel gehören immer zusammen:
-  der Stuhl, die Tafel, das Buch.
-  Kennt ihr noch andere Nomen mit Artikeln?
+- Die Tafel. Nomen und Artikel gehören immer zusammen:
+  der Stuhl, die Tafel, das Buch. Kennt ihr noch andere Nomen mit Artikeln?
 - Die Tasche!
 - Richtig. Die Tasche. Das ist eine Tasche. Das ist auch eine Tasche.
   Und das ist die Tasche von Jenny. Die Tasche, eine Tasche …
@@ -556,8 +554,7 @@
 - Oh, entschuldige!
 - Hallo, hier Lisa Brunner.
   Ah ja, die Anzeige im Internet. Ja, wir suchen immer noch.
-  Ja, die Wohnung hat eine Terrasse.
-  Nein, im Haus ist kein Aufzug.
+  Ja, die Wohnung hat eine Terrasse. Nein, im Haus ist kein Aufzug.
   Nein, eine Garage haben wir nicht, aber komm doch erst mal vorbei.
   Einen Moment bitte. Ein Stift … Wo ist mein Stift? Hast du einen Stift?
 - Nein, ich hab' keinen Stift.
@@ -821,8 +818,7 @@
 - Cool, okay!
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=2851s]
 - „Das Marek‟, hier ist Tarek! Hallo.
-  Ja, auch am Wochenende öffnen wir morgens um neun
-  und schließen um elf Uhr.
+  Ja, auch am Wochenende öffnen wir morgens um neun und schließen um elf Uhr.
   Ja! Heute Abend? Sie möchten einen Tisch reservieren?
   Ähm, hm. Um Viertel vor sieben … Tut mir leid.
   Wir haben leider erst um Viertel vor acht einen Tisch frei.
@@ -1921,6 +1917,8 @@ vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
 Wahl /vaːl/, die, ~|-n: choice
 
 WG /veːˈɡeː/, die: shared apartment
+
+witzig: funny
 
 Würfel /ˈvʏrfəl/, der, -s|~: dice, die
 
