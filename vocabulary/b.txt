@@ -93,6 +93,8 @@ Bank, die, Banken: bank
 Bank, die, Bänke: bench
   sich im Park auf eine Bank setzen: to sit down on a bench in the park
 
+Bankkaufmann, Bankkauffrau: bank clerk
+
 Bankwesen, das, -s|uncountable: banking (system)
 
 Bann /ban/, der: spell

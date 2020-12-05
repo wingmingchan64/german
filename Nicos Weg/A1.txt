@@ -976,8 +976,7 @@
 - Nein, da lang! Lisa! Du hast deine Bewerbungsunterlagen vergessen.
 - Oh, mein Gott! Ihr seid meine Retter! Danke, danke, danke, danke!
 [https://www.youtube.com/watch?v=4-eDoThe6qo&t=3324s]
-- Du bist so still.
-- Was ist denn?
+- Du bist so still. Was ist denn?
 - Ich will nicht mehr studieren. Nie wieder. Ich hasse es.
 - Aber?
 - Aber meine Eltern wollen das.
@@ -1167,7 +1166,7 @@
 - Entschuldigung!
 - Kein Problem. Ich hole den Staubsauger.
 - Ich sauge nicht so oft. Ich hasse Hausarbeit:
-  Abwaschen, abtrocknen, kochen, stausaugen, waschen, putzen!
+  Abwaschen, abtrocknen, kochen, staubsaugen, waschen, putzen!
   Und dann alles wieder von vorn? Furchtbar!
 - Ich mag Hausarbeit auch nicht.
 - Ach … ich hab' keine Beutel mehr. Wo ist der Besen?
@@ -1824,6 +1823,8 @@ Aufnäher /ˈaufnɛːɐ/, der: (sew-on) badge/patch
 
 aufräumen /ˈaufrɔymən/: to tidy (up)
 
+aufschreiben: to write down
+
 bar adj: cash
 
 Behandlung, die: treatment
@@ -1911,6 +1912,8 @@ Unterlagen, pl: documents
 Verband /fɛɐˈbant/, der, -(e)s|..e: bandage, dressing
 
 Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
+
+von vorn: vom Anfang
 
 vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
 

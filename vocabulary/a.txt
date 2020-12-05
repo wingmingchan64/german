@@ -1070,6 +1070,7 @@ Angebot /ˈanɡəboːt/, das, -(e)s|-e: offer, supply
   ↔ Nachfrage
   Das Angebot übersteigt derzeit die Nachfrage.
   Supply is outstripping demand at the moment.
+  im Angebot
 
 angebunden /ˈanɡəbʊndən/: tied
   kurz angebunden sein: to be brusque
@@ -1592,6 +1593,12 @@ applaudieren /aplauˈdiːrən/: to applaud, to clap
 Ära /ˈɛːra/, die, ~|Ären: era
   die Ära Adenauer: the Adenauer era
 
+Arbeit, die
+  Tätigkeit mit einem bestimmten Ziel, die man aus Pflicht oder Notwendigkeit tut
+
+Arbeitsamt, das
+  staatliche Institution, die Arbeitslose betreut und ihnen bei der Suche nach neuer Arbeit hilft
+
 arbeiten /ˈarbaitən/: to work
   Er arbeitet in einer Bank.
   He works at a bank. 
@@ -2085,6 +2092,9 @@ aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
 aufschnappen /ˈaufʃnapən/: to pick up, to snap open
   Wo hat der Junge nur wieder diese Schimpfwörter aufgeschnappt?
   Where on earth did the boy pick up those swear words?
+
+aufschreiben: to write down
+  schriftlich festhalten
 
 aufsetzen /ˈaufzɛʦən/: to put on, to don, to land, to put down, to sit up [reflexive]
   (einem Kind / sich) eine Mütze aufsetzen
