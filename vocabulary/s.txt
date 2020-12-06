@@ -1322,6 +1322,8 @@ Sender /ˈzɛndɐ/, der, -s|~: station, channel, transmitter
 
 Senf /zɛnf/, der: mustard
 
+senior /ˈzeːnioːɐ/
+
 senken /ˈzɛŋkən/: to lower, to sink, to drop
   den Kopf / die Waffe senken: to bow your head/lower your weapon
   Die Regierung versprach, die Steuern zu senken.
@@ -1433,6 +1435,7 @@ Sinn /zɪn/, der: sense, meaning, mind
   Seine Worte gingen mir nicht aus dem Sinn.
   I couldn't get his words out of my mind.
   etw. im Sinn haben: to have sth in mind
+  in jds Sinn(e): what sb intended
 
 Sinnestäuschung, die: hallucination
 
@@ -1765,7 +1768,7 @@ Spitze /ˈʃpɪʦə/, die, -n: point, tip, top, peak, front
   die Spitze des Eisbergs: the tip of the iceberg
   an der Spitze des Trauerzuges: at the front/head of the funeral procession
 
-spitze: cool, great
+spitze: cool, great, awesome
 
 Spitzname /ˈʃpɪʦnaːmə/, der: nickname
 
@@ -1850,6 +1853,8 @@ Stadt /ʃtat/, die, ~|..e: town, city
 Stadtführer, der: city guide
 
 Stadtrand /ˈʃtatrant/, der, Stadtränder /ˈʃtatrɛndɐ/: outskirts
+
+Stadtrundgang, der: walking tour of a/the town/city
 
 Stadtteil /ˈʃtattail/, der: district
 
