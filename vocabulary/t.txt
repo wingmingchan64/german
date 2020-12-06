@@ -561,12 +561,14 @@ trat => treten: to enter
 Traube /ˈtraubə/, die, Trauben: grape
   ein Pfund Trauben kaufen: to buy a pound of grapes
 
-trauen /ˈtrauən/: to trust, to dare, to marry; sich: to dare
+trauen /ˈtrauən/: to trust, to marry; sich: to dare
   ≈ vertrauen
   Ich glaube nicht, dass man ihr trauen kann.
   I don't think she can be trusted.
+  sich trauen: to dare
   Traust du dich, vom Dreimeterbrett zu springen?
   Do you dare jump from the three-meter board?
+  Ich trau' mich nicht.
   Von welchem Pfarrer wollt ihr euch trauen lassen?
   Which priest do you want to be married by?
   sich (accusative or (rare) dative) trauen, etw zu tun: to dare (to) do sth

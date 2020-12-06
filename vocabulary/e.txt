@@ -1162,6 +1162,9 @@ entweder /ˈɛntveːdɐ/: either
   Entweder es funktioniert oder nicht.
   Either it works or it doesn't.
 
+entwerfen: to design, to draft
+  etw. Neues als Skizze darstellen; (als Plan) in seinen wesentlichen Zügen festlegen
+
 entwickeln /ɛntˈvɪkəln/: to develop
   Daraus entwickelte sich ein interessantes Gespräch.
 
@@ -1169,6 +1172,8 @@ Entwicklung /ɛntˈvɪklʊŋ/, die: development
   Softwareentwicklung
 
 entwinden: to wrench
+
+entwirft => entwerfen
 
 Entwurf /ɛntˈvʊrf/, der: design, draft, sketch
 

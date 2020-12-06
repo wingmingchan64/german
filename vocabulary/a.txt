@@ -514,7 +514,7 @@ Abwechslung /ˈapvɛkslʊŋ/, die: diversion
 
 abwechslungsreich /ˈapvɛkslʊŋsraiç/: varied
 
-abwehren /ˈapveːrən/: 
+abwehren /ˈapveːrən/: to block, to ward off, to refuse
   verhindern, dass er zum Ziel führt; verhindern, dass Schlimmes geschieht oder Schaden entsteht; zurückweisen
 
 abwenden: to avert, to turn away
@@ -2380,6 +2380,8 @@ ausgiebig /ˈausɡiːbɪç/: copious, extensive
   einen ausgiebigen Mittagssschlaf machen: to have a long nap at lunchtime
   Sie gähnte und dehnte sich ausgiebig.
   She had a good yawn and stretch.
+
+Ausgleich, der: balance, equalizer
 
 ausgleichen: to balance, to settle, to make good, to compensate for, to equalize
 

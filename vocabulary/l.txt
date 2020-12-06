@@ -718,6 +718,9 @@ lokal: local
 
 △Lorbeer /ˈlɔrbeːɐ/, der, -en: laurel
 
+los: loose
+  Los! Come on!
+
 löschen /ˈlœʃən/: to extinguish, to put out, to delete
   Die Feuerwehr konnte den Brand schnell löschen.
   The fire service were able to extinguish the fire quickly.
