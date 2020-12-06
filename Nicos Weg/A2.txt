@@ -823,45 +823,67 @@
 - Und ich habe gedacht, dem Autor fällt etwas Besseres ein.
 - Leider nicht. Darf ich mich zu Ihnen setzen?
 - Weil die Kneipe voll ist?
-- Ich esse nicht gern allein. Eine gute Mahlzeit ist eine Mahlzeit, die man mit anderen netten Menschen an einem Tisch isst.
+- Ich esse nicht gern allein. Eine gute Mahlzeit ist eine Mahlzeit,
+  die man mit anderen netten Menschen an einem Tisch isst.
 - Bitte.
 - Danke. Mein Name ist übrigens Jacques.
 - Inge.
 - Freut mich sehr, Inge.
 - Machen Sie auch den Ausflug?
-- Nein, ich bin nur auf der Durchreise. Man kann sagen, dass ich hier arbeite. Ich teste deutsche Gaststätten.
+- Nein, ich bin nur auf der Durchreise.
+  Man kann sagen, dass ich hier arbeite. Ich teste deutsche Gaststätten.
 - Sie teste deutsche Restaurants?
 - Für wen arbeiten Sie? Fürs Fernsehen?
-- Nein … Nein, ich besitz drei Restaurants in Frankreich und jetzt möchte ich auch in Deutschland ein Restaurant eröffnen.
+- Nein … Nein, ich besitz drei Restaurants in Frankreich
+  und jetzt möchte ich auch in Deutschland ein Restaurant eröffnen.
 - Aber?
-- Na ja, die typischen deutschen Gerichte sind immer so … einfach. Bratwurst, Currywrust, alles immer mit Wurst. Wissen Sie, Inge, ich koche gern. Und für mich ist ein gutes Essen ein Essen, das wirklich lecker ist. Es darf ruhig ein bisschen raffiniert sein.
-- Da stimme ich Ihnen zu. Aber es stimmt nicht, dass wir hier in Deutschland immer nur Wurst essen. Die Franzosen essen ja auch nicht immer nur Baguette, oder?
-- Nein, das stimmt natürlich! Aber meine Restaurants sind etwas für Feinschmecker. Meine Köche sind topp. Köche sollten Menschen sein, die innovativ sind. Sind Sie eine Feinschmeckerin, Inge?
+- Na ja, die typischen deutschen Gerichte sind immer so … einfach.
+  Bratwurst, Currywrust, alles immer mit Wurst.
+  Wissen Sie, Inge, ich koche gern.
+  Und für mich ist ein gutes Essen ein Essen, das wirklich lecker ist.
+  Es darf ruhig ein bisschen raffiniert sein.
+- Da stimme ich Ihnen zu.
+  Aber es stimmt nicht, dass wir hier in Deutschland immer nur Wurst essen.
+  Die Franzosen essen ja auch nicht immer nur Baguette, oder?
+- Nein, das stimmt natürlich!
+  Aber meine Restaurants sind etwas für Feinschmecker.
+  Meine Köche sind topp. Köche sollten Menschen sein, die innovativ sind.
+  Sind Sie eine Feinschmeckerin, Inge?
 - Ich weiß nicht.
-- Ich denke ja. Ich bin mir sicher, Sie haben einen tollen Geschmack. Also, sollen wir bestellen?
+- Ich denke ja. Ich bin mir sicher, Sie haben einen tollen Geschmack.
+  Also, sollen wir bestellen?
 - Ja.
 - Bitte schön.
 - Danke schön.
 - Bitte.
 - Danke.
-- Meine Eltern kommen aus Frankreich. Deshalb hab' ich einen französischen Namen.
-- Das hab' ich mir schon gedacht. Sie sprechen akzentfrei Deutsch. Meine Eltern kommen aus Klein-Hellersdorf. Deshalb heiße ich Inge.
+- Meine Eltern kommen aus Frankreich.
+  Deshalb hab' ich einen französischen Namen.
+- Das hab' ich mir schon gedacht. Sie sprechen akzentfrei Deutsch.
+  Meine Eltern kommen aus Klein-Hellersdorf. Deshalb heiße ich Inge.
 - Sie haben Humor, Inge.
 - Na, das sagen nicht viele.
-- Nun, dann sehen viele nicht richtig hin. Haben Sie schon aus der Speisekarte gewählt?
+- Nun, dann sehen viele nicht richtig hin.
+  Haben Sie schon aus der Speisekarte gewählt?
 - Ja wie denn? Ich komme' ja nicht zum lesen.
 - Ach, Deutsche essen doch sowieso immer das Gleiche.
 - Ach, so ein Quatsch.
-- Natürlich. Ich beweise es Ihnen. Der Mann da drüben … Der Mann hatte gestern das Wiener Schnitzel mit Kroketten und Gemüse. Das bestellt er heute sicher wieder. Vielleicht diesmal mit Pommes frites. Und die Frau mag Tomatensuppe. Dazu nimmt sie einen gemischten Salat mit Hähnchenfleisch.
+- Natürlich. Ich beweise es Ihnen. Der Mann da drüben …
+  Der Mann hatte gestern das Wiener Schnitzel mit Kroketten und Gemüse.
+  Das bestellt er heute sicher wieder. Vielleicht diesmal mit Pommes frites.
+  Und die Frau mag Tomatensuppe.
+  Dazu nimmt sie einen gemischten Salat mit Hähnchenfleisch.
 - Ich wette, die Frau bestellt etwas anderes.
 - Sie wollen wetten?
 - Ich will wetten.
 - Wenn Sie verlieren, müssen Sie sich noch einmal mit mir treffen.
 - Einverstanden.
 - So, hallo! Was darf ich Ihnen bringen?
-- Ich nehme die Schweineleber mit Sauerkraut und Kartoffelpüree. Bitte eine kleine Portion.
+- Ich nehme die Schweineleber mit Sauerkraut und Kartoffelpüree.
+  Bitte eine kleine Portion.
 - Ja, sehr gern.
-- Und ich nehme die Wurstplatte. Äh, und ich habe noch Appetit auf den kleinen Ziegenkäse als Vorspeise.
+- Und ich nehme die Wurstplatte.
+  Äh, und ich habe noch Appetit auf den kleinen Ziegenkäse als Vorspeise.
 - Natürlich.
 - Ach, äh, noch ein Glas Wasser, bitte.
 - Kommt sofort.
@@ -871,45 +893,66 @@
 - Danke, sehr gut. Und Ihnen?
 - Na ja, es geht.
 - Ach, Sie sind ein Nörgler.
-- Das stimmt nicht! Der ziegenkäse war köstlich. Wunderbar intensiv. Aber die scharfe Wurst hat mir nicht geschmeckt. Ziemlich langweilig. Da fehlen die richtigen Gewürze. Und insgesamt hat mir eine raffinierte Soße gefehlt, die man bei so einem Gericht einfach braucht.
+- Das stimmt nicht! Der ziegenkäse war köstlich. Wunderbar intensiv.
+  Aber die scharfe Wurst hat mir nicht geschmeckt.
+  Ziemlich langweilig. Da fehlen die richtigen Gewürze.
+  Und insgesamt hat mir eine raffinierte Soße gefehlt,
+  die man bei so einem Gericht einfach braucht.
 - Na ja, Sie sind selbst Koch. Da ist man kritischer.
 - Um ehrlich zu sein, ich bin Konditor. Ich hatte eine eigene Konditorei.
-- Ach, dann sind Sie der, den man morgens in der Bäckerei sieht. Der Mann, der Brot und Brötchen backt und die Hochzeitstorten dekoriert?
-- Ja! Aber das mache ich schon lange nicht mehr. Aber früher, da habe ich die besten Tartes und Torten der Stadt gemacht. Egal ob salzig oder süß: Der Teig, den ich gemacht habe, war immer perfekt.
+- Ach, dann sind Sie der, den man morgens in der Bäckerei sieht.
+  Der Mann, der Brot und Brötchen backt und die Hochzeitstorten dekoriert?
+- Ja! Aber das mache ich schon lange nicht mehr.
+  Aber früher, da habe ich die besten Tartes und Torten der Stadt gemacht.
+  Egal ob salzig oder süß: Der Teig, den ich gemacht habe, war immer perfekt.
 - Das klingt spannend.
 - Aber Sie backen doch sich auch gern?
 - Ja. Natürlich.
 - Welchen Kuchen können Sie am besten backen?
 - Marmorkuchen.
-- Toll! Marmorkuchen ist der Kuchen, den ich schon als Kind gern gegessen habe!
+- Toll! Marmorkuchen ist der Kuchen,
+  den ich schon als Kind gern gegessen habe!
 - Ich auch!
 - Haben Sie Lust auf ein Dessert?
 - Suchen Sie etwas aus!
-- Äh, bringen Sie uns bitte noch zwei Stückchen Zitronenkuchen. Und zwei Gläser von dem Champagner, den Sie mir gestern empfohlen haben.
+- Äh, bringen Sie uns bitte noch zwei Stückchen Zitronenkuchen.
+  Und zwei Gläser von dem Champagner, den Sie mir gestern empfohlen haben.
 - Jacques!
 - Warum denn nicht? Hm?
 - Auf Sie, Inge!
 - Auf gute Gesellschaft und gutes Essen!
-- Gute Gesellschaft ist eine Sache, die ich sehr schätze. Und gutes Essen auch. Und jetzt hab' ich beides.
-- Konditor ist der Beruf, den Sie gelernt haben. Warum sind Sie jetzt Restaurantbesitzer?
-- Nun … Meine Eltern hatten ein kleines Bistro in Hamburg. Mein Vater war ein Mann, der Essen liebte. Später durfte ich dann selber kochen und backen und habe schließlich eine Ausbildung zum Konditor gemacht.
+- Gute Gesellschaft ist eine Sache, die ich sehr schätze.
+  Und gutes Essen auch. Und jetzt hab' ich beides.
+- Konditor ist der Beruf, den Sie gelernt haben.
+  Warum sind Sie jetzt Restaurantbesitzer?
+- Nun … Meine Eltern hatten ein kleines Bistro in Hamburg.
+  Mein Vater war ein Mann, der Essen liebte.
+  Später durfte ich dann selber kochen und backen
+  und habe schließlich eine Ausbildung zum Konditor gemacht.
 - Aber immer die gleichen Kuchen zu backen, das war dann nicht mehr genug?
-- Genau. Ich habe neben meinem Beruf als Konditor auch nor als Restaurantkritiker gearbeitet und bin durch das ganze Land gereist. Sogar nach Frankreich. Wissen Sie? Frankreich ist ein Land, das ich liebe.
+- Genau.
+  Ich habe neben meinem Beruf als Konditor auch noch
+  als Restaurantkritiker gearbeitet und bin durch das ganze Land gereist.
+  Sogar nach Frankreich. Wissen Sie? Frankreich ist ein Land,
+  das ich liebe.
 - Sie lieben 'ne Menge …
-- Ich denke, irgendwann wollte ich dann nicht mehr kritisieren. Ich wollte es besser machen. Also habe ich mein erstes Restaurant eröffnet.
+- Ich denke, irgendwann wollte ich dann nicht mehr kritisieren.
+  Ich wollte es besser machen. Also habe ich mein erstes Restaurant eröffnet.
 - Das klingt wirklich spannend.
-- Na ja … Es klingt romantischer als es ist. Zahlen, bitte! Selbstverständlich lade ich Sie ein!
+- Na ja … Es klingt romantischer als es ist. Zahlen, bitte!
+  Selbstverständlich lade ich Sie ein!
 - Aber …
-- Keine Widerrede! Ich lade Sie natürlich ein. Sie sind eine Frau, die man einladen muss.
+- Keine Widerrede! Ich lade Sie natürlich ein.
+  Sie sind eine Frau, die man einladen muss.
 - Alles in Ordnung?
 - Mein Portemonnaie … Ich habe es im Hotel vergessen.
 - Kein Problem, ich übernehme das.
 - Also, das ist mir … Das ist mir sehr peinlich!
-Ich gebe Ihnen das Geld natürlich zurück.
+  Ich gebe Ihnen das Geld natürlich zurück.
 - Stimmt so.
 - Danke.
 - Wann denn? Sie haben die Wette verloren.
-- Schon vergessen? Auf Wiedersehen, Jacques!
+  Schon vergessen? Auf Wiedersehen, Jacques!
 - So?
 - Danke.
 - Jetzt.
@@ -917,21 +960,27 @@ Ich gebe Ihnen das Geld natürlich zurück.
 [https://www.youtube.com/watch?v=Lg5P2w_Ro1c&t=3095s]
 - Also: alles unter einen Hut bringen.
 - Hast du so einen großen Hut?
-- Ich arbeite mit Perspektive. Dann: jemanden über den Tisch ziehen ein dickes Fell haben. Und: Unter den Blinden ists der Einäugige König.
+- Ich arbeite mit Perspektive.
+  Dann: jemanden über den Tisch ziehen ein dickes Fell haben.
+  Und: Unter den Blinden ist der Einäugige König.
 - Das sind wirklich gute Redewendungen. Hast du schon Ideen für die Fotos?
 - Ich hab' schon alles organisiert. Ich mach' heute die Fotos.
 - Wirklich? Das hast du uns gar nicht erzählt.
-- Äh, doch! Ich … ich hab' euch das letzte Woche erzählt. Ich mache die Fotos hier. Seid ihr dabei?
+- Äh, doch! Ich … ich hab' euch das letzte Woche erzählt.
+  Ich mache die Fotos hier. Seid ihr dabei?
 - Ich hab nicht den genzen Tag Zeit, aber ein paar Stunden vielleicht.
 - Okay. Nico? Hilfst du mir?
 - Klar helf' ich dir.
 - Ich bin mit Dario verabredet. Ich hab' ihm versprochen, dass ich komme.
-- Okay. Kein Problem. Dann … dann ruf' ich eben noch ein paar Freunde an. Ich brauch' schließlich Models.
-Hi, Beatrice! Ja, äh, wir machen heute Fotos. Komm doch vorbei! Hast du Lust vorbeizukommen? Wir machen heute Fotos. Ja du, das wird Spaß machen. Okay, cool! Ja, super! So gegen Mittag.
-Okay! Bis dann. Tschüss!
-So, drei, zwei, eins und Schuss!
-Und los geht's! Zapp, zapp!
-Und jetzt ziehst du sie übern Tisch. Mit aller Kraft. Genau so bleiben!
+- Okay. Kein Problem. Dann … dann ruf' ich eben noch ein paar Freunde an.
+  Ich brauch' schließlich Models.
+  Hi, Beatrice! Ja, äh, wir machen heute Fotos. Komm doch vorbei!
+  Hast du Lust vorbeizukommen? Wir machen heute Fotos.
+  Ja du, das wird Spaß machen. Okay, cool! Ja, super! So gegen Mittag.
+  Okay! Bis dann. Tschüss!
+  So, drei, zwei, eins und Schuss!
+  Und los geht's! Zapp, zapp!
+  Und jetzt ziehst du sie übern Tisch. Mit aller Kraft. Genau so bleiben!
 [https://www.youtube.com/watch?v=Lg5P2w_Ro1c&t=3209s]
 - Zum Wohl!
 - Danke.
@@ -945,11 +994,12 @@ Und jetzt ziehst du sie übern Tisch. Mit aller Kraft. Genau so bleiben!
 - Sag mal, wie war eigentlich dein Ausflug?
 - Na ja!
 - Was? Wieso nur na ja?
-- Es war unorganisiert, das Wetter war schlecht und der Rest der Gruppe stand mit einem im Grab.
+- Es war unorganisiert, das Wetter war schlecht
+  und der Rest der Gruppe stand mit einem im Grab.
 - Ach Inge …
 - Ich mein' ja nur … Es hat mir aber trotzdem gut gefallen.
 - Hast du jemanden kennengelernt?
-Also, Leute lernt man am besten auf Reisen kennen.
+  Also, Leute lernt man am besten auf Reisen kennen.
 - Wir beide haben uns auch auf einer Reise kennengelernt.
 - Ja! Aber die anderen in der Gruppe waren wirklich nicht sehr interessant.
 - Warum nicht sehr interessant?
@@ -966,14 +1016,17 @@ Also, Leute lernt man am besten auf Reisen kennen.
 - Also?
 - Jacques erinnert mich so an Günther.
 - Er erinnert dich an deinen Ehemann?
-- Günther war nicht nur mein Ehemann, er war auch mein bester Freund. Zuerst haben wir Freundschaft geschlossen und dann haben wir uns verliebt. Und wir hatten eine wunderbare gemeinsame Zeit.
+- Günther war nicht nur mein Ehemann, er war auch mein bester Freund.
+  Zuerst haben wir Freundschaft geschlossen und dann haben wir uns verliebt.
+  Und wir hatten eine wunderbare gemeinsame Zeit.
 - Wann habt ihr geheiratet?
 - Hm, ziemlich spät. Wir waren sehr lange verlobt.
-Geheiratet haben wir 1993.
+  Geheiratet haben wir 1993.
 - 93?
 - Ich trag' immer noch seinen Ehering. Hab' mich so dran gewöhnt.
 - Was ist mit Jacques?
-- Ich glaube, er hat gesagt, er ist geschieden. Seine Frau hat ihn verlassen. Sie hatten viel Streit.
+- Ich glaube, er hat gesagt, er ist geschieden.
+  Seine Frau hat ihn verlassen. Sie hatten viel Streit.
 - Ihr seid also beide allein. Inge, das Leben geht weiter.
 - Das hat Günther auch immer gesagt.
 - Na also!
@@ -988,28 +1041,40 @@ Geheiratet haben wir 1993.
 - Ja. Das sind ziemlich genau zehn Jahre.
 - Ach Wahnsinn! Das heißt, wir haben bald zehnjähriges Jubiläum!
 - Das heißt, wir haben das Jubiläum beide fast vergessen!
-- Heiratet bloß nicht. Ihr vergesst bestimmt den Hochzeitstag. Was wünscht ihr euch denn zum Jubiläum?
+- Heiratet bloß nicht. Ihr vergesst bestimmt den Hochzeitstag.
+  Was wünscht ihr euch denn zum Jubiläum?
 - Boah, keine Ahnung.
 - Doch, ich wünsche mir ein Fest mit Gästen und Musik.
-- Hm. Hört sich gut an. Hey, wir haben hier noch etwas vergessen. Ein Foto von unserem Fußballhelden.
+- Hm. Hört sich gut an. Hey, wir haben hier noch etwas vergessen.
+  Ein Foto von unserem Fußballhelden.
 - Ist nicht schlimm …
 - Ah, wir meinen nicht dich.
 - Oh …
-- Natürlich meinen wir dich. Inge! Kannst du ein Foto von uns dreien machen?
+- Natürlich meinen wir dich. Inge!
+  Kannst du ein Foto von uns dreien machen?
 - Klar!
 - Komm in die Mitte!
 - Ja ja ja ja ja.
 [https://www.youtube.com/watch?v=Lg5P2w_Ro1c&t=3488s]
-- Ich hätte gerne einen Kaffee. Aber zum Mitnehmen, bitte. Das ist mir zu laut hier.
-- Das verstehe ich. Ich mach' Ihnen den Kaffee gleich fertig. Diese Stadt macht mich wahnsinnig! Also? Was willst du hier?
+- Ich hätte gerne einen Kaffee. Aber zum Mitnehmen, bitte.
+  Das ist mir zu laut hier.
+- Das verstehe ich. Ich mach' Ihnen den Kaffee gleich fertig.
+  Diese Stadt macht mich wahnsinnig! Also? Was willst du hier?
 - Ich hab' dir Blumen mitgebracht.
 - Weil du ein schlechtes Gewissen hast?
 - Weil ich nicht mehr mit dir streiten will.
 - Aha …
 - Und? Wie läuft's sonst so?
-- Na … Mehr Kunden als ich jetzt schon habe, bekomme ich bei diesem Lärm auch nicht mehr. Es ist hier so laut wie auf einer Autobahn. Nein, es ist sogar so laut wie auf einem Flughafen! Ich glaube ich ziehe aufs Land. Da sind die Mieten auch günstiger als hier.
+- Na … Mehr Kunden als ich jetzt schon habe, 
+  bekomme ich bei diesem Lärm auch nicht mehr.
+  Es ist hier so laut wie auf einer Autobahn.
+  Nein, es ist sogar so laut wie auf einem Flughafen!
+  Ich glaube ich ziehe aufs Land. Da sind die Mieten auch günstiger als hier.
 - Meinst du das ernst?
-- Ich finde es viel schöner auf dem Land, weil es dort weniger Verhehr gibt. Außerdem ist die Luft besser, und es ist mit Sicherheit auch viel leiser als hier. Keine Baustellen, kein Stau …
+- Ich finde es viel schöner auf dem Land,
+  weil es dort weniger Verkehr gibt. Außerdem ist die Luft besser,
+  und es ist mit Sicherheit auch viel leiser als hier.
+  Keine Baustellen, kein Stau …
 - Ich leb' doch viel lieber in der Stadt als auf dem Land. Für mich ist es wichtig, dass ich abends mal schnell rausgehen und Freunde treffen oder ins Kino gehen kann. Das ist ein klarer Vorteil der Stadt.
 - Du kannst auf dem Land genauso gut abends weggehen wie hier in der Stadt. Dann gehst du eben zu deinen Nachbarn.
 - Ich kenn' meine Nachbarn doch gar nicht.

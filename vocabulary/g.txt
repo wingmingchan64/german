@@ -811,34 +811,7 @@ Gericht, das, -(e)s|-e: dish, meal
   Warme Gerichte servieren wir ab 18 Uhr.
   We serve hot meals from 6 p.m.
 
-gerichtet => richten
-
-geriet => geraten
-
-gering /ɡəˈrɪŋ/: low, small
-  eine geringe Anzahl von Bewerbern: a small number of applicants
-
-Geringfügigkeit: pettiness, triviality
-
-geringschätzig /ɡəˈrɪŋʃɛʦɪç/: contemptuous, disparaging
-  eine geringschätzige Bemerkung machen: to make a disparaging remark
-  „Du schaffst das sowieso nicht!‟, meinte sie geringschätzig.
-  “You'll never manage that anyway,” she said contemptuously.
-
-Gerippe /ɡəˈrɪpə/, das, -s|~: skeleton, frame(work)
-  Im Sand lag ein ausgebleichtes Gerippe.
-  There was a faded skeleton on the beach.
-  das Gerippe eines Flugzeugs / Schiffes: the framework of an aircraft/a ship
-
-gern geschehen: not at all, you're welcome
-
-Geröll /ɡəˈrœl/, das: debris, pebbles, gravel
-
-geröstet: roasted
-
-Geruch /ɡəˈrʊx/, der, -(e)s|..e: smell
-  Ihr Parfüm hatte einen süßlichen Geruch.
-  Her perfume has a cloying smell.
+Gerichtsurteil, das: court decision
 
 Gerücht /ɡəˈrʏçt/, das, -(e)s|-e: rumor
   ein Gerücht verbreiten / in die Welt setzen: to spread/start a rumor
@@ -875,6 +848,8 @@ geschehen /ɡəˈʃeːən/: to happen, to occur, to commit
   Gern geschehen! You're welcome.
 
 Geschichte /ɡəˈʃɪçtə/, die, ~|-n: story, history
+
+geschieden => scheiden
 
 geschickt /ɡəˈʃɪkt/: skillful
   ≈ gewandt
