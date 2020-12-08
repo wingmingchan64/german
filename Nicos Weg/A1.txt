@@ -90,7 +90,8 @@
 - Warte, Emma!
 - Die … Die Tasche in there!
 - Da ist keine Tasche.
-- Hallo, ich bin Lisa Brunner. Das ist Nico. Nico sucht seine Tasche.
+- Hallo, ich bin Lisa Brunner.
+  Das ist Nico. Nico sucht seine Tasche.
 - Und?
 - Ist Nicos Tasche in Ihrem Taxi?
 - Nicos Tasche? Nein. Die Tasche ist nicht im Taxi.
@@ -2106,4 +2107,6 @@ Welcome
 Winter
   https://www.youtube.com/watch?v=4-eDoThe6qo&t=4506s
   
+========================================================
+Adalbert Stifter was an Austrian writer, poet, painter, and pedagogue.
 ========================================================

@@ -639,6 +639,9 @@ Beispiel /ˈbaiʃpiːl/, das: example
 
 beispielsweise /ˈbaiʃpiːlsvaizə/: for example
 
+Beistand /ˈbaiʃtant/, der
+  jds Gegenwart oder Worte, die jdm helfen, etw. zu ertragen oder zu schaffen
+
 beißen /ˈbaisən/: to bite, essen, to sting, to clash
   Der Hund hat mich (ins Bein) gebissen.
   The dog bit me (in the leg).
@@ -1329,6 +1332,9 @@ Betrug /bəˈtruːk/, der, -(e)s|uncountable: trick, scam
 betrügen /bəˈtryːɡən/: to cheat
   Er lügt und betrügt, wann es ihm passt.
   He lies and cheats whenever it's to his advantage.
+
+betrunken: drunk
+  unter starkem Alkoholeinfluss
 
 Bett /bɛt/, das, -(e)s|-en: bed
   früh ins/zu Bett gehen: to go to bed early

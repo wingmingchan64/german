@@ -68,9 +68,11 @@ Tango /ˈtaŋɡo/, der, -s
 
 Tank, der
 
-tanken: to get
+tanken: to get (some gas)
   in den Tank füllen; etw., das man physisch vermisst, wieder bekommen
   Wir müssen bald tanken.
+  Ich habe vierzig Liter Diesel getankt.
+  Wir reisen in den Süden, endlich mal wieder Sonne tanken.
 
 Tanker, der
 
@@ -204,6 +206,11 @@ Täuschung /ˈtɔyʃʊŋ/, die: deception, illusion, delusion
 Tausend, die
 
 tausend /ˈtauzənt/: thousand
+
+Taxi, das
+  im Taxi
+  ein Taxi rufen
+  Ich hab mir ein Taxi zum Flughafen genommen.
 
 Technik /ˈtɛçnɪk/, die, ~|uncountable: technology, engineering
   Die Maschinen sind auf dem neuesten Stand der Technik.

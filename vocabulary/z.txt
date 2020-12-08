@@ -97,6 +97,9 @@ zeitgenössisch /ˈʦaitɡənœsɪʃ/: contemporary
   contemporary reports about the earthquake in San Francisco
   zeitgenössische Kunst / Literatur: contemporary art/literature
 
+zeitlich: temporal, time-related, chronological
+  ↔ räumlich
+
 Zeitplan, der: schedule, timetable
 
 Zeitpunkt /ˈʦaitpʊŋkt/, der, -(e)s|-e
@@ -116,6 +119,7 @@ Zement /ʦeˈmɛnt/, der, -(e)s|uncountable: cement
   Zement mischen: to mix cement
 
 Zentrum /ˈʦɛntrʊm/, das, -s|Zentren: center
+  Ins Zentrum, bitte.
   im Zentrum der Stadt wohnen: to live downtown
   das kulturelle Zentrum eines Landes: the cultural center of a country
   ein Kulturzentrum errichten: to build a cultural center
@@ -458,6 +462,7 @@ zuletzt /ʦuˈlɛʦt/: last, in the end
   In the end, he did give us the money after all.
 
 △zum /ʦʊm/
+  zu dem (m, n)
 
 zumachen: to close, to shut
   Machst du bitte den Kühlschrank zu?
@@ -500,6 +505,7 @@ zupfen /ˈʦʊpfən/: to pull (at), to tug (at), to pluck
   jdn am Ärmel zupfen: to tug at sb's sleeve
 
 zur /ʦuːɐ/
+  zu der (f)
 
 zurechnen /ˈʦuːrɛçnən/: to class sb/sth as sb/sth
   Diesen Maler kann man den Expressionisten zugerechnen.

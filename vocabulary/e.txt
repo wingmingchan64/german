@@ -355,6 +355,7 @@ Einfluss /ˈainflʊs/, der, ..e: influence, authority, clout
   Sie scheint einen positiven Einfluss auf ihn auszuüben.
   She seems to exert a positive influence on him.
   großen Einfluss besitzen: to have a great deal of clout
+  Alkoholeinfluss
 
 einfügen /ˈainfyːɡən/: to insert, to fit in
   ein Puzzleteil einfügen: to put a jigsaw puzzle in its place
@@ -1321,6 +1322,8 @@ Erfüllung /ɛɐˈfʏlʊŋ/, die, |uncountable: fulfillment
   His commitment goes far beyond the call of duty.
   im Glauben Erfüllung finden: to find fulfillment in faith
 
+erfunden: fictitious
+
 ergänzen /ɛɐˈɡɛnʦən/: to add, to complete
   Bitte ergänzen Sie die fehlenden Wörter.
   Please add the missing words.
@@ -1565,6 +1568,7 @@ ernsthaft /ˈɛrnsthaft/: serious, genuine, grave
 
 Ernte /ˈɛrntə/, die, -n: harvest
   bei der Ernte helfen: to help bring in the harvest
+  Olivenernte
 
 ernten /ˈɛrntən/: to harvest, to pick, to get, to be greeted by
   nach dem Reifwerden sammeln; als Reaktion auf etw. bekommen
@@ -1725,6 +1729,7 @@ Ertrag /ɛɐˈtraːk/, der, -(e)s|..e: yield, harvest, return
 ertragen /ɛɐˈtraːɡən/: to bear, to endure
   Die Schmerzen sind kaum zu ertragen.
   The pain is hard to bear.
+  Wie erträgst du nur seine Launen?
 
 erträglich /ɛɐˈtrɛːklɪç/: bearable
   Die Schmerzen waren kaum noch erträglich.

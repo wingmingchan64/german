@@ -429,6 +429,7 @@ heißen: to be called, named, it says
   heiße, heißt, heißt, habe geheißen
   In dem Artikel heißt es, …
   It says in the article …
+  Ich heiße Nico. Wie heißt du?
 
 heiter /ˈhaitɐ/: cheerful, fair, fine
   -> fröhlich
@@ -452,9 +453,11 @@ Heldentum /ˈhɛldəntuːm/, das, -s|uncountable: heroism
   The police warn against trying to play the hero in situations like that.
 
 helfen /ˈhɛlfən/: to help
-  helfe, hilfst, hilft, habe geholfen
+  helfe, hilfst, hilft, habe geholfen, half
+  aktiv werden, damit jd ein Ziel schneller / besser erreicht
   um meinem Vater zu helfen
   Ich muss einem Kollegen helfen.
+  wir helfen dir!
 
 hell /hɛl/: light, bright
   ↔ dunkel
@@ -742,6 +745,10 @@ Hieb /hiːp/, der, -(e)s|-e: blow
   jdm einen Hieb (mit der Faust) versetzen: to deal sb a blow (with your fist)
 
 hielt => halten
+
+hier /hiːɐ/
+  Hier ist die Tasche nicht.
+  Hier draußen ist es mir zu kalt.
 
 hierarchisch /hieˈrarçɪʃ/: hierarchic(al)
   etw. ist hierarchisch geordnet: sth is organized hierarchically
@@ -1067,6 +1074,7 @@ Hosentasche, die: trouser pocket
 Hostel, das
 
 Hotel /hoˈtɛl/, das
+  zum Hotel Königshof
 
 Hubraum /ˈhuːpraum/, der, ..e: cubic/engine capacity
   Das neue Modell hat zwei Liter Hubraum.

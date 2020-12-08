@@ -403,7 +403,7 @@ gegenüberliegend: opposite, facing
 
 Gegenvorschlag, der: counterproposal
 
-Gegenwart /ˈɡeːɡənvart/, die: present
+Gegenwart /ˈɡeːɡənvart/, die: present, presence
   in der Gegenwart leben: to live in the present
   Das Verb steht in der Gegenwart.
   The verb is in the present tense.
@@ -495,7 +495,7 @@ geil /ɡail/: awesome, obsessed, horny, hot
   ≈ sexy
   geil aussehen: to look hot
 
-Geisel, die: hostage
+Geisel /ˈɡaizəl/, die: hostage
   Der Bankräuber hat drei Angestellte als Geiseln genommen.
   The bank robber had taken three of the staff hostage.
 
@@ -1024,7 +1024,9 @@ gewähren /ɡəˈvɛːrən/: to grant
 Gewalt /ɡəˈvalt/, die, ~|-en: violence, force, power, authority
   Gewalt anwenden: to use force
   mit (aller) Gewalt: by force
-  staatliche/elterliche Gewalt: public/parental authority 
+  staatliche / elterliche Gewalt: public/parental authority
+  die Verneinung jeglicher Art von Gewalt
+  the rejection of all forms of violence
 
 gewaltig /ɡəˈvaltiç/: huge, vast, intense, almighty
   Das Schiff wurde von einer gewaltigen Welle zerschmettert.
