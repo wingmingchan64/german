@@ -332,6 +332,9 @@ Hausmeister: super(intendant), janitor
 
 Hausmittel /ˈhausmɪtəl/, das: household remedy
 
+Hausnummer, die
+  Die Hausnummer ist die 144.
+
 Haustür, die: front door
   vor der Haustür: on one's doorstep
 
@@ -685,6 +688,7 @@ heruntergekommen /hɛˈrʊntɐɡəkɔmən/: dilapidated, run-down, scruffy
   He looks scruffy/The garden looks in a bad state.
 
 herunterladen /hɛˈrʊntɐlaːdən/: to download
+  ↔ hochladen
   Das Programm kannst du dir kostenlos herunterladen.
   You can download the program for free.
 
@@ -959,6 +963,9 @@ hochkommen /ˈhoːxkɔmən/: to come up
   She came up the stairs/mountain.
   Wenn ich mich bücke, habe ich Probleme, wieder hochzukommen.
   When I bend over, I have problems straightening up again.
+
+hochladen
+  ↔ herunterladen
 
 Hochzeit /ˈhɔxʦait/, die: wedding
   die kirchliche/standesamtliche Hochzeit

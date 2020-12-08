@@ -245,6 +245,10 @@ bedacht /bəˈdaxt/: prudent, cautious
 bedacht => bedenken
   ich bedachte, du bedachtest, er bedachte, ihr bedachtet
 
+bedanken /bəˈdaŋkən/
+  sich (bei jdm) (für etw.) bedanken
+  jdm mündlich oder schriftlich danken
+
 Bedarf /bəˈdarf/, der, Bedarfs: need, requirement
   Schon eine Orange deckt den täglichen Bedarf an Vitamin C.
   One orange is enough to cover the daily requirement of vitamin C.
@@ -665,6 +669,10 @@ bejahen /bəˈjaːən/: to affirm
 
 Bekanntmachung /bəˈkantmaxʊŋ/, die, -en: announcement
   eine amtliche Bekanntmachung: a public notice
+
+Bekanntschaft /bəˈkantʃaft/, die
+  persönlicher Kontakt mit jdm / etw
+  Durch die Bekanntschaft mit Monet gelangte Renoir zum Impressionismus.
 
 bekennen /bəˈkɛnən/: to confess, to admit
   seine Schuld, seine Fehler bekennen

@@ -487,6 +487,9 @@ einladen /ˈainlaːdən/: to invite, to load in
   Sie luden die Möbel in den Transporter ein.
   They loaded the furniture into the truck.
 
+Einladung, die: invite, invitation
+  auf jds Einladung
+
 einlassen /ˈainlasən/: to let in, to run, to draw
   Eine freundliche Bedienstete ließ uns ein.
   A friendly attendant let us in.
@@ -600,6 +603,7 @@ Einrichtung /ˈainrɪçtʊŋ/, die, -en: furnishings, institution, establishment
   die Einrichtung eines Notdienstes: setting up an emergency service
 
 Eins /ains/, die, ~|-en
+  die Zahl, Ziffer 1
   eine Eins mit zwei Nullen
   Fährt die Eins zum Zoo?
   eine Eins in Mathe haben / bekommen

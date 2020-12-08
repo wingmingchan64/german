@@ -312,11 +312,6 @@ abscheulich /apˈʃɔylɪç/: hideous, disgusting
 
 abschicken: to send
 
-Abschied /ˈapʃiːt/, der, -(e)s|-e: leave, farewell
-  Der Abschied von ihren Freunden fiel ihr schwer.
-  She found it difficult to say goodbye to her friends.
-  von jdm / etw. Abschied nehmen
-
 abschieben /ˈapʃiːbən/: to deport, to shift
   habe abgeschoben
   => schieben: to push, to blame, to reject
@@ -328,10 +323,11 @@ Abschiebung /ˈapʃiːbʊŋ/, die, ~|-en: deportation
 Abschiebehaft, Abschiebungshaft, die, ~|-en: remand pending deportation
 
 Abschied /ˈapʃiːt/, der, -(e)s|-e: parting, leave, farewell
+  => scheiden: to part
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
   von jdm / etw. Abschied nehmen: to take leave of sb/say goodbye to sth
-  => scheiden: to part
+  Abschiedsparty
 
 Abschiedskuss, der, -es|..e: parting kiss
 
@@ -1029,6 +1025,7 @@ anfangs /ˈanfaŋs/: at the beginning, at first
 
 anfassen /ˈanfasən/: to touch
   mit den Händen berühren
+  Fass bitte nichts an!
   mit anfassen: helfen
   zum Anfassen: up close and personal; so, dass man als Bürger / Besucher aktiv werden kann und etw. verständlich und interessant dargestellt wird
   jdn hart / vorsichtig / … anfassen: in bestimmter Weise behandeln

@@ -454,6 +454,7 @@ wenn /vɛn/: if, when
   He helped me, albeit reluctantly.
 
 wer /veːɐ/: who, whoever
+  Wer bist du?
   Wer mitkommen will, soll sich melden.
   Anyone who wants to come should let us know.
 
@@ -629,7 +630,7 @@ widmen /ˈvɪtmən/: to dedicate, to devote
   sein Leben dem Kampf gegen die Armut widmen
   to devote your life to fighting poverty
 
-wie /viː/: how, as, like, such as
+wie /viː/: how, as, like, such as, what
   Menschen in Deutschland sind nicht wie wir.
   People in Germany are not like us.
   so … wie …: as … as …
@@ -638,6 +639,10 @@ wie /viː/: how, as, like, such as
   alkoholische Getränke wie Wein und Bier: alcoholic beverages such as/like wine and beer
   Junge wie alte Zuschauer waren begeistert.
   Young and old viewers alike were thrilled.
+  Wie ist die Hausnummer?
+  Wie bitte? Wie war das?
+  = nicht wahr?
+  Das macht dir Spaß, wie?
 
 wieder /ˈviːdɐ/: again
   Musst du morgen wieder arbeiten?

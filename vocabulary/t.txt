@@ -212,6 +212,8 @@ Taxi, das
   ein Taxi rufen
   Ich hab mir ein Taxi zum Flughafen genommen.
 
+Team, das, -s|-s
+
 Technik /ˈtɛçnɪk/, die, ~|uncountable: technology, engineering
   Die Maschinen sind auf dem neuesten Stand der Technik.
   The machines are all state-of-the-art.
@@ -581,6 +583,7 @@ trauen /ˈtrauən/: to trust, to marry; sich: to dare
   sich (accusative or (rare) dative) trauen, etw zu tun: to dare (to) do sth
 
 traurig /ˈtraurɪç/: sad, unhappy
+  ↔ freudig
   Warum bist du heute so traurig?
   Why are you so sad today?
 
