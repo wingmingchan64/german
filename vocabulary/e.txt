@@ -97,7 +97,7 @@ ehemalige: former
 Ehemann /ˈeːəman/, der, -(e)s|..er
   Darf ich Ihnen meinen Ehemann vorstellen?
 
-eher /ˈeːɐ/: earlier, sooner, fairly, rather
+eher /ˈeːɐ/: earlier, sooner, fairly, rather, more
   Du hättest eher kommen sollen.
   You should have come sooner.
   Diese Krankheit tritt eher selten auf.
@@ -1483,6 +1483,7 @@ Erlaubnis /ɛɐˈlaupnɪs/, die, -se: permission
 erleben /ɛɐˈleːbən/: to experience, to witness
   Hast du schon mal erlebt, dass der Bus zu früh abfährt?
   Have you ever had the bus leave too early on you?
+  Du findest sie streng? Da solltest du erst mal meinen Vater erleben!
 
 Erlebnis /ɛɐˈleːpnɪs/, das, Erlebnisse: experience
   Der Abend war ein unvergessliches Erlebnis für sie.
