@@ -683,6 +683,9 @@ Genehmigung /ɡəˈneːmɪɡʊŋ/, die, -en: permission, approval, authorization
   jdm die Genehmigung für etw. erteilen: to grant sb permission to do sth
   eine schriftliche Genehmigung vorlegen: to submit written authorization
 
+geneigt /ɡəˈnaikt/: inclined
+  => neigen
+
 Genick /ɡəˈnɪk/, das, -(e)s|-e: neck
   Das Tier hat sich bei dem Sturz das Genick gebrochen.
   The animal broke its neck in the fall.
@@ -880,6 +883,9 @@ Geschmack /ɡəˈʃmak/, der, -(e)s|..e: taste
   He has a lot of taste/has good taste when it comes to clothes.
 
 geschnitten => schneiden
+
+Geschöpf /ɡəˈʃœpf/, das: creature
+  Lebewesen
 
 geschossen => schießen
 

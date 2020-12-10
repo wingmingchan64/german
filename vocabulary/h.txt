@@ -193,6 +193,9 @@ handwerklich /ˈhantvɛrklɪç/: technical, artisanal
 Handy /ˈhɛndiː/, das, -s|-s: cell, mobile
   Ruf mich auf dem Handy an.
 
+Hang, der: slope
+  schräg geneigte Seite eines Berges
+
 hängen /ˈhɛŋən/: to hang, to be attached to
   Ein Gemälde hing an der Wand.
   There was a painting hanging on the wall.
@@ -757,9 +760,11 @@ hier /hiːɐ/
 hierarchisch /hieˈrarçɪʃ/: hierarchic(al)
   etw. ist hierarchisch geordnet: sth is organized hierarchically
 
-hierher: here
+hierher /ˈhiːɐˈheːɐ/: here, to this
+  an die / zu der Stelle, an der sich der Sprecher befindet; zu dem, was gerade besprochen / behandelt wird
   Sie sind schon auf dem Weg hierher.
   They're already on the way here.
+  Diese Frage gehört nun wirklich nicht hierher.
 
 hierzu /ˈhiːɐˈʦuː, hiːɐˈʦuː/: for this, with this, in addition to this, about this
 

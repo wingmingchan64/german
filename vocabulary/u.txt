@@ -711,7 +711,7 @@ unsinnig /ˈʊnzɪnɪç/: foolish, absurd
 
 unten /ˈʊntən/: down, at the bottom, underneath
 
-unter: under, among, amid
+unter: under, among, amid, within
   Der Hund liegt unter dem Tisch.
   The dog is lying under the table.
   Unter uns gab es nie Streit.
@@ -720,6 +720,8 @@ unter: under, among, amid
   to keep running in spite of/through the pain
   Die Sitzung fand unter Ausschluss der Öffentlichkeit statt.
   The meeting was closed to the public.
+  unter Mittag
+  unter der Woche
 
 Unter-: under-, sub-
 

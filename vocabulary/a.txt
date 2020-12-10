@@ -324,6 +324,7 @@ Abschiebehaft, Abschiebungshaft, die, ~|-en: remand pending deportation
 
 Abschied /ˈapʃiːt/, der, -(e)s|-e: parting, leave, farewell
   => scheiden: to part
+  => verabschieden: to say goodbye
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
   von jdm / etw. Abschied nehmen: to take leave of sb/say goodbye to sth
@@ -370,6 +371,10 @@ absehen /ˈapzeːən/: to foresee, to learn
   With the exception of the long commute, the job is ideal.
   Bitte sehen Sie von telefonischen Nachfragen ab.
   Please do not call with inquiries.
+
+abseilen: to rappel
+  mit einem Seil gesichert nach unten klettern, gleiten
+  jdn / sich in einen Brunnenschacht abseilen
 
 absenden: to send
   abschicken
@@ -2174,6 +2179,7 @@ auftreten /ˈauftreːtən/: to perform, to appear, to arise, to occur, to act, t
   selbstsicher auftreten: to have a confident manner
   als Vermittler / Zeuge auftreten
   to act as an intermediary/appear as a witness
+  Der Fuß tut so weh, dass ich (mit ihm) nicht mehr auftreten kann.
 
 Auftritt /ˈauftrɪt/, der, Auftritte: appearance, performance, (theatre) scene
 
