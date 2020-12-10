@@ -1234,7 +1234,7 @@ Kürbis /ˈkʏrbɪs/, der, -se: pumpkin
   zu Halloween einen Kürbis aushöhlen und ein Licht hineinstellen
   to hollow out a pumpkin and put a light inside at Halloween
 
-Kurs /kʊrs/, der: course, price, rate
+Kurs /kʊrs/, der, -es|-e: course, price, rate
   einen Kurs an der Universität belegen/besuchen
   to enrol for/take a course at university
   Das Flugzeug ist vom Kurs abgekommen.
@@ -1243,10 +1243,13 @@ Kurs /kʊrs/, der: course, price, rate
 
 Kursbuch: Buch, das die Fahrpläne aller Strecken der Eisenbahn eines Landes beinhaltet
 
+Kurse: class
+
 kurz /kʊrʦ/, kürzer or kürzeste: short, briefly
   kurze Haare haben: to have short hair
   Sie erzählte kurz, was passiert war.
   She said briefly what had happened.
+  den Kürzeren ziehen: in einer Auseinandersetzung unterliegen
 
 Kürze /ˈkʏrʦə/, die: shortness, brevity
   in Kürze: shortly

@@ -799,6 +799,10 @@ unterlaufen /ʊntɐˈlaufən/: sth gets past sb
   Leider ist mir bei der Berechnung ein Fehler/Irrtum unterlaufen.
   I'm afraid I made a mistake in the calculation.
 
+unterliegen: to lose
+  gegen jdn verlieren
+  In der Stichwahl unterlag er (dem Gegenkandidaten) um fünf Stimmen.
+
 Unternehmen /ʊntɐˈneːmən/, das: company, firm, business, venture, operation, undertaking
 
 unternehmen /ʊntɐˈneːmən/: to do, to go on, to (under)take, to make
@@ -912,6 +916,7 @@ Urologe /uroˈloːɡə/: urologist
 
 Ursache /ˈuːɐzaxə/, die: cause
   etw., das ein Geschehen bewirkt
+  => verursachen
   Die eigentliche Ursache des Unglücks ist noch nicht geklärt.
   The real cause of the accident hasn't yet been established.
 

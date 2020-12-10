@@ -171,8 +171,11 @@ abhängig /ˈaphɛŋɪç/: dependent on
   von etw. bestimmt
 
 abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
+  einen Anruf annehmen; einen Teil des verdeckten Stapels wegnehmen; vom Konto holen
   Ich rufe dauernd an, aber keiner hebt ab.
   I keep calling but no one is answering.
+  Heb ab!
+  Cut the cards.
   Ich möchte gern 300 Euro von meinem Sparbuch abheben.
   I'd like to withdraw 300 euros from my savings account.
 
@@ -1289,7 +1292,7 @@ annehmbar /ˈanneːmbaːɐ/: acceptable, reasonable, passable
   Das Hotel war ganz annehmbar.
   The hotel was quite passable.
 
-annehmen /ˈanneːmən/: to take, to accept, to pass, to assume
+annehmen /ˈanneːmən/: to take, to accept, to pass, to assume, to suppose
   ein Paket für den Nachbarn annehmen: to take a package for the neighbors
   Ich nehme Ihre Einladung zum Tee gerne an.
   I'm happy to accept your invitation to tea.
@@ -2310,6 +2313,10 @@ auseinander /aus|aiˈnandɐ/: apart, from/to each other
   Die beiden sind schon längst wieder auseinander.
   The two of them have long since broken up again.
 
+Auseinandersetzung /aus|aiˈnandɐzɛʦʊŋ/, die
+  Streit oder Kampf; Beschäftigung mit einem Thema
+  eine heftige Auseinandersetzung mit jdm haben
+
 Ausfall /ˈausfal/, der: loss, cancellation, breakdown
   Stromausfall: power outage
 
@@ -2341,6 +2348,7 @@ Ausführung /ˈausfyːrʊŋ/, die: execution
   das Ausführen eines Auftrags, Befehls usw
 
 ausfüllen /ˈausfʏlən/: to fill out
+  mit Angaben versehen, ergänzen
   Sie haben nicht alle Pflichtfelder ausgefüllt.
   You haven't filled out all of the mandatory fields.
 

@@ -842,10 +842,12 @@ durchwaten: to wade
 dürfen /ˈdʏrfən/: to be allowed to, may, can
   darf, darfst, darf, ihr dürft, ich habe gedurft
 
-dürftig /ˈdʏrftɪç/: meager
+dürftig /ˈdʏrftɪç/: meager, scant, poorly
   ein dürftiges Mahl: a meager meal
+  
+Dürftigkeit, die: meagreness
 
-dürr /dʏr/: dry, dead, arid, barren, scrawny, meager
+dürr /dʏr/: dry, dead, arid, barren, scrawny, meager
   Der Baum hat mehrere dürre Äste.
   The tree has several dead branches.
 ​ Nach mehreren Jahren ohne Regen war das Land völlig dürr.

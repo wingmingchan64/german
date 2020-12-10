@@ -1501,7 +1501,10 @@ Bewerbung /bəˈvɛrbʊŋ/: application
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
 
-bewirken /bəˈvɪrkən/: to achieve
+bewirken /bəˈvɪrkən/: to cause, to achieve
+  etw. hervorrufen, verursachen; durch Einsatz etw. erreichen, bewerkstelligen
+  Die Maßnahmen haben das Gegenteil von dem bewirkt, was beabsichtigt war.
+  The measures had the opposite effect to what had been intended.
   Gemeinsam können wir viel Gutes bewirken.
   Together we can achieve a lot of good.
 

@@ -136,7 +136,8 @@
 - Ich schreibe einfach die Adresse von Tante Yara, oder?
 - Ja, das ist in Ordnung.
   Dann fragen sie dich vielleicht, wo du arbeitest.
-  Die Bank findet es natürlich besser, wenn du ein festes Einkommen hast.
+  Die Bank findet es natürlich besser,
+  wenn du ein festes Einkommen hast.
 - Kann ich sagen, dass ich noch keinen Job habe?
 - Ja, das ist okay.
 - Gut … Und dann kann ich ein Konto eröffnen?
@@ -167,7 +168,8 @@
 - Ein Bankkonto? Heißt das, du bleibst hier? In Deutschland?
 - Ja.
 - Cool. Und was willst du machen? Studieren?
-- Nein, ich ähm … Ich hab' schon in Spanien zwei Semester Jura studiert.
+- Nein, ich ähm …
+  Ich hab' schon in Spanien zwei Semester Jura studiert.
   Ich möchte nicht mehr studieren.
   Ich möchte mit den Händen arbeiten, einen Beruf lernen.
 - Du möchtest eine Ausbildung machen?
@@ -183,7 +185,8 @@
 - Es tut mir leid.
 - Was ist denn passiert?
 - Ich habe zuerst die Karte in den Automaten gesteckt.
-  Dann habe ich auf „Geld abheben‟ gedrückt. Danach kam eine Fehlermeldung.
+  Dann habe ich auf „Geld abheben‟ gedrückt.
+  Danach kam eine Fehlermeldung.
   Ich konnte meine PIN noch gar nicht eingeben,
   und die Karte kam nicht mehr heraus.
   Einer der Bankangestellten musste mir helfen.
@@ -191,7 +194,8 @@
 - Wir können gehen!
 [https://www.youtube.com/watch?v=Lg5P2w_Ro1c&t=549s]
 - Hallo?
-  Ich bin bei meinem Sprachkurs. Das weißt du doch. Ja, mach' ich. Tchüss!
+  Ich bin bei meinem Sprachkurs. Das weißt du doch.
+  Ja, mach' ich. Tchüss!
 - Hast du mit deinem Vater telefoniert?
 - Nein, das war meine Mutter. Sie macht sich Sorgen,
   weil ich nicht angerufen habe. Ich habe ihr aber gesagt,
@@ -208,7 +212,8 @@
 - Okay …
 [https://www.youtube.com/watch?v=Lg5P2w_Ro1c&t=620s]
 - Was ist das für ein Lied, Sebastian?
-- „Stille Nacht, heilige Nacht‟. Das ist ein deutsches Weihnachtslied.
+- „Stille Nacht, heilige Nacht‟.
+  Das ist ein deutsches Weihnachtslied.
 - Das klingt schön.
 - Ja.
 - Wir können das Lied in der nächsten Stunde übersetzen und lernen.
@@ -217,7 +222,8 @@
 - Die Bilder sind toll!
 - Ja, coole Fotos. Machst du auch ähm …
 - Porträts?
-  Nein, ich äh … ich hab' auch noch ein anderes Projekt, das wird super.
+  Nein, ich äh … ich hab' auch noch ein anderes Projekt,
+  das wird super.
 - Was für ein Projekt?
 - Das sag ich noch nicht!
 - Sebastien,
@@ -2112,6 +2118,8 @@ New words:
 Abendkasse, die: box office
 
 abhauen /ˈaphauən/: to run away
+
+abheben: to withdraw
 
 abholen: to pick up
 

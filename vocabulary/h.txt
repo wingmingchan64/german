@@ -352,6 +352,7 @@ Hazienda /haˈtsjɛnda/, die, ~|-s/Hazienden: hacienda
 Hebel /ˈheːbəl/, der: lever
 
 heben /ˈheːbən/: to lift, to raise
+  nach oben bewegen, richten
   hebe, hob, gehoben
   Der Vorhang hob sich zum zweiten Akt.
   The curtain rose for the second act.
@@ -706,6 +707,9 @@ hervorbringen /hɛɐˈfoːɐbrɪŋən/: to produce, to generate
 
 hervorstoßen: to snap
 
+hervorrufen /hɛɐˈfoːɐruːfən/: to cause, to provoke, to arouse
+  als Folge, Ergebnis bewirken, verursachen
+
 Herz /hɛrʦ/, das, -ens|-en: heart
   Sein Herz klopfte wild / hörte auf zu schlagen.
   His heart was beating wildly/heart stopped beating.
@@ -833,6 +837,9 @@ hineinreden /hɪˈnaɪnreːdən/: to interrupt
   Please stop constantly interrupting me when I'm on the phone.
 
 hineinwerfen: to throw in
+
+hinfahren
+  zu einem Ort fahren, um etw. zu sehen oder zu erleben; jdn / etw. mit einem Fahrzeug an einen Ort bringen
 
 hinfallen /ˈhɪnfalən/: to fall (down)
   Sie ist auf dem Eis ausgerutscht und hingefallen.

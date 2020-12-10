@@ -774,6 +774,12 @@ verschwinden /fɛɐˈʃvɪndən/: to disappear, to vanish
 verschwunden /fɛɐˈʃvʊndən/: missing
   das verschwundene Mädchen / Auto: the missing girl/car
 
+versehen /fɛɐˈzeːən/: to provide, to put sth on sth
+  jdn mit etw. versehen: jdm etwas Notwendiges geben
+  die Schüler mit Büchern versehen
+  etw. mit etw. versehen: etw. hinzufügen
+  den Brief mit Adresse und Datum versehen
+
 versehentlich /fɛɐˈzeːəntlɪç/: by mistake, inadvertently
   Ich habe versehentlich deine Haarbürste benutzt.
   I used your hairbrush by mistake.
@@ -1029,7 +1035,8 @@ verunglimpfen /fɛɐˈ|ʊnɡlɪmpfn/: to disparage, to belittle
 verunsichern: to make uncertain, to unnerve
 
 verursachen /fɛɐˈ|uːɐzaxən/: to cause
-  die Ursache / der Urheber von etw. sein
+  die Ursache / der Urheber von etw. 
+  => Ursache
   Wer hat den Unfall verursacht?
   Who caused the accident?
 
