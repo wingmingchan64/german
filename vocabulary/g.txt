@@ -656,6 +656,7 @@ Gemisch /ɡəˈmɪʃ/, das, -e: mixture
   Air is a mixture of various gases.
 
 gemischt: mixed
+  => mischen
 
 Gemüse /ɡəˈmyːzə/, das, -s|~: vegetable
 

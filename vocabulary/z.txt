@@ -623,6 +623,9 @@ zusehends: visibly, noticeably
 Zustand, der: condition, state
   Der Wagen ist in ausgezeichnetem Zustand.
 
+zustande
+  etw. zustande bringen: etw. erfolgreich herstellen / tun
+
 zustellen /ˈʦuːʃtɛlən/: to deliver, to block
   Das Schreiben konnte dem Empfänger nicht zugestellt werden.
   The letter could not be delivered to the addressee.

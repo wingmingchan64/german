@@ -593,6 +593,11 @@ widerlich /ˈviːdɐlɪç/: disgusting, repugnant
   Er hat sich ihr gegenüber widerlich benommen.
   He has behaved disgustingly toward her.
 
+widerraten: to advise or counsel sb against doing sth
+
+Widerrede, die: 
+  mündlicher Widerspruch
+
 widersprechen /viːdɐˈʃprɛçən/: to contradict, to reject, to be at odds with
   jdm energisch widersprechen: to vehemently contradict sb
   sich ( selbst) widersprechen [ dative ]: to contradict yourself
@@ -602,6 +607,9 @@ widersprechen /viːdɐˈʃprɛçən/: to contradict, to reject, to be at odds wi
   The supervisory board rejected the board of directors' proposals.
   Das widerspricht meiner bisherigen Erfahrung.
   That is at odds with my experience so far.
+
+Widerspruch, der: protest
+  Äußerung, mit der man einer Aussage oder Forderung widerspricht
 
 Widerstand /ˈviːdɐʃtant/, der, ..e: resistance, opposition
   Er leistete bei der Verhaftung keinen Widerstand.

@@ -645,7 +645,7 @@ herrschen /ˈhɛrʃən/: to prevail, to rule, to dominate
   unter den herrschenden Umständen: under the prevailing circumstances
   über ein Land / Volk herrschen: to hold sway over a country/people
 
-herstellen /ˈheːɐʃtɛlən/: to produce
+herstellen /ˈheːɐʃtɛlən/: to produce, to make, to establish
   Diese Firma stellt Elektrogeräte her.
   This company produces electrical appliances.
 
@@ -821,6 +821,9 @@ hinaus /hɪˈnaus/: out
 hinauszögern /hɪˈnausʦøːɡɐn/: to delay, to put off
   Es ist nicht sinnvoll, die Schließung des Betriebs hinauszuzögern.
   It doesn't make sense to delay the closure of the plant.
+
+hinbringen
+  jdn / etw. an einen Ort bringen; 
 
 hindern /ˈhɪndɐn/: to prevent, to hinder
 

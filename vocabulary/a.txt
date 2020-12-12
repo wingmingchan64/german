@@ -725,6 +725,8 @@ Akzent /akˈʦɛnt/, der, -(e)s|-e: accent, stress
   Im Französischen gibt es drei verschiedene Akzente.
   There are three different accents in French.
 
+akzentfrei
+
 albern /ˈalbɐn/: silly
   Solche Scherze mir echt zu albern!
   I really find jokes like that too silly.
@@ -1586,6 +1588,7 @@ Appartement /apartəˈmã/, das, -s
 
 Appetit /apeˈtiːt/, der
   Guten Appetit!
+  Appetit auf etw (accusative) haben: to feel like sth
 
 applaudieren /aplauˈdiːrən/: to applaud, to clap
   Das Publikum applaudierte (dem Sänger) begeistert.
@@ -2716,6 +2719,9 @@ aussuchen /ˈauszuːxən/: to choose
 außerdem /ausɐˈdeːm/: besides
   Außerdem werden neue Projekte vorgestellt.
   New projects will also be presented.
+
+Äußerung, die: statement
+  das, was jd sagt oder schreibt
 
 austapezieren
   => tapezieren: to wallpaper
