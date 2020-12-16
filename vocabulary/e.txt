@@ -127,6 +127,7 @@ ehrgeizig /ˈeːɐɡaiʦɪç/: ambitious
   ehrgeizige Pläne haben: to have ambitious plans
 
 ehrlich /ˈeːɐlɪç/: honest
+  die Wahrheit sagend, nicht lügend; nicht gegen moralische Grundsätze oder Gesetze verstoßend
   ≈ aufrichtig
   ↔ unehrlich
   Möchtest du eine ehrliche Antwort?
@@ -1243,6 +1244,7 @@ ereignen /ɛɐˈ|aiɡnən/: to happen, to occur
 Ereignis /ɛɐˈ|aiɡnɪs/, das, -ses|-se: event, occurrence
   Zum freudigen Ereignis die herzlichsten Glückwünsche!
   Heartiest congratulations on the happy event!
+  ein Ereignis von A bis Z beschreiben
 
 Erektion /erɛkˈʦjoːn/, die, Erektionen: erection
   eine Erektion haben/bekommen: to have/get an erection 
@@ -1531,6 +1533,8 @@ Ermäßigung /ɛɐˈmɛːsɪɡʊŋ/, die: reduction, discount
 Ermittler /ɛɐˈmɪtlɐ/: investigator
 
 ermöglichen: to make possible, to enable
+  → zulassen
+  ↔ verhindern
 
 ermorden /ɛɐˈmɔrdən/: to murder
   Er wurde kaltblütig ermordet.
@@ -1819,6 +1823,9 @@ erzählen /ɛɐˈʦɛːlən/: to tell, to narrate, to recount, to relate
   He's a good storyteller.
   Er erzählte kurz, was passiert war.
   He said briefly what had happened.
+
+Erzeugung, die: production, generation, creation
+  Stromerzeugung
 
 erziehen /ɛɐˈʦiːən/: to bring up
   Ich möchte meine Kinder zu toleranten Menschen / zur Toleranz erziehen.

@@ -2079,6 +2079,9 @@ steigen /ˈʃtaiɡən/: to climb, to get in/on/out/off, to rise
 
 Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
 
+steil /ʃtail/: steep
+  stark ansteigend bzw. abfallend
+
 Stein /ʃtain/, der, -e: stone
   hart wie Stein: as hard as stone
 
@@ -2649,3 +2652,6 @@ synonym /zʏnoˈnyːm/
 Syrien
 
 System /zʏsˈteːm/, das, -e
+
+Szene /ˈsʦeːnə/, die
+  Abschnitt eines Films oder Theaterstücks, der an einem Ort mit zusammenhängender Zeit stattfindet

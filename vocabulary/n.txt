@@ -176,6 +176,9 @@ Nahrung, die: food, nourishment
 Nahrungsmittel /ˈnaːrʊŋsmɪtəl/, das, -s|~: food
   die Einfuhr von Nahrungs- und Genussmitteln: the importing of food and beverages
 
+Naht /naːt/, die: seam
+  Linie aus Stichen nach dem Nähen
+
 *Name /ˈnaːmə/, der, -ns|-n: name
   Wie ist Ihr Name?
   What is your name?
@@ -512,6 +515,8 @@ notwendig /ˈnoːtvɛndɪç/: necessary
 
 Notwendigkeit /ˈnoːtvɛndɪçkait/, die, -en:  need, necessity
   die Notwendigkeit sofortiger Maßnahmen: the need for immediate action
+
+Notwendigste, das
 
 November /noˈvɛmbɐ/, der, -s|~
 

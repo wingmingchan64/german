@@ -57,10 +57,15 @@ Veranlassung /fɐɐˈ|anlasʊŋ/, die: instigation
   Vorgang, etw. anzuordnen, anzuregen, vorzuschlagen o. Ä
 
 veranstalten /fɛɐˈ|anʃtaltən/: to organize
+  organisieren; machen, verursachen
   Zu seinen Ehren wurde ein feierlicher Empfang veranstaltet.
   A ceremonial reception was organized in his honor.
+  ein großes Konzert veranstalten
+
+Veranstalter
 
 Veranstaltung /fɛɐˈ|anʃtaltʊŋ/, die, -en: organization, event
+  das, was veranstaltet wird: Austellung, Fest, Konferenz usw.
   Was ist bei der Veranstaltung eines Feuerwerks zu beachten?
   What needs to be taken into account when organizing a firework display?
   eine öffentliche Veranstaltung besuchen: to go to a public event
@@ -283,6 +288,7 @@ verfügen /fɛɐˈfyːɡən/: to have (at your disposal), to be in charge, to or
   The judge ordered the website to be immediately shut down.
 
 Verfügung /fɛɐˈfyːɡʊŋ/, die, -en: disposal, order, decree
+  der Zustand, von jdm benutzt od. genutzt werden zu können
   Unser Personal steht jederzeit zu Ihrer Verfügung.
   Our staff are always at your disposal.
   eine einstweilige Verfügung erlassen / erwirken: to issue/obtain a temporary decree
@@ -697,6 +703,8 @@ Verräter /fɛɐˈrɛːtɐ/: traitor
 verreisen: to go away
   Ich gieße die Blumen, solange meine Nachbarn verreist sind.
 
+Verringerung, die: Abbau
+
 verrückt /fɛɐˈrʏkt/: mad, crazy
   ≈ irre
   Bist du verrückt geworden? Das kannst du doch nicht tun!
@@ -912,6 +920,10 @@ verstellbar: adjustable
   ein Wagen mit verstellbaren Sitzen
 
 verstohlen: surreptitious, stealthy
+
+verstoßen: to violate sth, to disown
+  gegen etw. verstoßen: etw. missachten; jdn aus einer Gemeinschaft ausschließen
+  gegen das Gesetz verstoßen
 
 verstrichen /fɛɐˈʃtrɪçn/: elapsed
   zwei Jahre verstrichen, bevor …
@@ -1300,10 +1312,12 @@ vor sich hin [ accusative ]: to yourself/himself/herself/etc.
 
 vorangehen: to go on ahead, to make progress
 
+Voraus, der
+  im Voraus / voraus: in advance
+
 voraus /foˈraus/: ahead, in front
   Andere Länder sind uns in Sachen Bildungspolitik weit voraus.
   Other countries are way ahead of us in terms of educational policy.
-  im Voraus / voraus: in advance
 
 Voraussetzung /foˈrauszɛʦʊŋ/, die: assumption, prerequisite, requirement
   unter der Voraussetzung, dass …: on condition that …
@@ -1455,6 +1469,9 @@ vornehmen /ˈfoːɐneːmən/: to make, to carry out
 Vorort /ˈfoːɐ|ɔrt/, der, -e: suburb
   Er wohnt in einem Pariser Vorort.
   He lives in a suburb of Paris.
+
+Vorrat /ˈfoːɐraːt/, der: reserves, supply, stock
+  Dinge, die im Bedarfsfall zur Verfügung stehen
 
 Vorrichtung /ˈfoːɐrɪçtʊŋ/, die: device
   (technische) Anlage, die meist als Hilfsmittel für etw. dient

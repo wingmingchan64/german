@@ -252,9 +252,14 @@ bedanken /bəˈdaŋkən/
 Bedarf /bəˈdarf/, der, Bedarfs: need, requirement
   Schon eine Orange deckt den täglichen Bedarf an Vitamin C.
   One orange is enough to cover the daily requirement of vitamin C.
+  bei Bedarf: wenn es nötig ist
   Der Bus hält hier nur bei Bedarf.
   The bus stops here only on request.
   Dinge des täglichen Bedarfs: basic necessities
+  eine Pflanze mit großem Wasserbedarf
+
+Bedarfsfall, der: need
+  im Bedarfsfall: if necessary
 
 bedauerlich /bəˈdauɐlɪç/: regrettable, unfortunate
 
@@ -335,7 +340,7 @@ beeindrucken /bəˈ|aindrʊkən/: to impress
   Seine Worte haben mich schwer beeindruckt.
   His words made a big impression on me.
 
-beeindruckend: impressive
+beeindruckend /bəˈ|aindrʊkənt/: impressive
 
 beeinflussen /bəˈ|ainflʊsən/: to influence
   Er lässt sich von seinen Freunden negativ beeinflussen.
@@ -1837,6 +1842,10 @@ Boden /ˈboːdən/, der, ..: ground, soil
   ein fruchtbarer / steiniger / sandiger Boden: fertile/stony/sandy ground
   auf den / zu Boden fallen: to fall to the floor/ground
 
+Bodenschätze, pl: mineral deposits/resources
+  Vorräte an Rohstoffen wie Kohle, Erdöl, Metallen usw. in der Erde
+  => Schatz: treasure
+
 bog => biegen
 
 Bogen /ˈboːɡən/, der, -s|~,Bögen: curve, arch, bow
@@ -2120,7 +2129,7 @@ Buchse /ˈbʊksə/, die, ~|-n: jack
 Büchse /ˈbʏksə/, die, Büchsen: can
   eine Büchse Erbsen: a can of peas
 
-Buchstabe /ˈbuːxʃtaːbə/, der, -n(s)|-n: character, letter 字母
+*Buchstabe /ˈbuːxʃtaːbə/, der, -n(s)|-n: character, letter 字母
   kleiner Buchstabe
   kleiner Buchstabe
   kleiner Buchstabe: a character in bold

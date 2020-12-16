@@ -452,6 +452,10 @@ Zukunft /ˈʦuːkʊnft/, die: future
   
 zukunftsweisend: forward-looking
 
+zulassen /ˈʦuːlasən/
+  geschehen lassen; eine offizielle Erlaubnis erteilen
+  → erlauben, → ermöglichen
+
 zuletzt /ʦuˈlɛʦt/: last, in the end
   Die Post erledigt sie immer zuletzt.
   She always leaves the mail till last.
@@ -582,6 +586,11 @@ zusammenfassen /ʦuˈzamənfasən/: to summarize, to combine, to merge, to integ
 
 zusammenfassend /ʦuˈzamənfasənt/: summarizing
   ein zusammenfassender Bericht: a summary
+
+zusammenhängen /ʦuˈzamənhɛŋən/: to be connected/related
+  die Folge von etw. sein; mit etw. zu tun haben; mit etw. eine Einheit bilden
+
+zusammenhängend: coherent
 
 zusammenpassen: to suit each other
 

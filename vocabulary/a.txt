@@ -1,16 +1,25 @@
 ﻿========================================================
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈
+========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
 
 A /aː/, das
+  der 1. Buchstabe des Alphabets
   von A bis Z: komplett, von Anfang bis Ende
   Das ist von A bis Z frei erfunden.
   das A und O sein: das Wichtigste sein
   Eine gute Vorbereitung ist das A und O.
+  Wer A sagt, muss auch B sagen: Wer eine Sache beginnt, muss sie auch zu Ende führen
+
+Ä, ä /ɛː/
+  der Umlaut des ,a‛
+  Das Wort ,Ärmel‛ schreibt man mit Ä.
 
 Aal /aːl/, der, -(e)s|-e: eel
   schlangenähnlicher Speisefisch, der in Flüssen und im Meer lebt
-  Räucheraal: smoked eel 
+  Räucheraal: smoked eel
+  winden wie ein Aal versuchen: einer schwierigen Situation auszuweichen
 
 aalen /ˈaːlən/: to laze, to bask
   sich irgendwo hinlegen und mit Genuss ausruhen
@@ -27,16 +36,26 @@ Aas /aːs/, das, -es|uncountable: carrion, jackass
   Nobody gives a damn about that.
 
 △ab /ap/: from
-  von diesem Zeitpunkt an
+  von diesem Zeitpunkt an; von diesem Ort aus; weg
   ab nächster Woche: from next week 
   ab und zu/an: manchmal
   Ab nach Hause!
   Time to head for home.
+  ab Berlin
+  Ab hier wird der Weg steiler.
+  ab und zu: manchmal
+  von nun ab, von jetzt ab, ab heute
 
 ab-: from, away
   beschreibt eine Bewegung von einem Ort weg
 
+Abbau /ˈapbau/, der
+  Verringerung, Reduzierung; Gewinnung von Bodenschätzen
+
 abbauen /ˈapbauən/: to reduce, to cut, to mine, to deteriorate
+
+abbeißen /ˈapbaisən/
+  etw. mit den Zähnen abtrennen
 
 abbiegen /ˈapbiːɡən/: to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
@@ -86,6 +105,9 @@ Abfall /ˈapfal/, der, -(e)s|..e: waste, trash
   industrielle Abfälle: industrial waste
 
 Abfalleimer: garbage can
+
+abfallen: sich lösen und auf den Boden fallen; schräg nach unten verlaufen; plötzlich stark sinken
+  ↔ ansteigen
 
 abfällig /ˈapfɛlɪç/: derogatory
   eine abfällige Bemerkung über jdn machen: to make a derogatory remark about sb
@@ -492,6 +514,7 @@ Abteil /apˈtail/, das, -(e)s|-e: compartment
 Abteilung /apˈtailʊŋ/, die, ~|-en: department
 
 abtrennen /ˈaptrɛnən/: to separate, to tear off, to sever
+  eine Naht lösen, um etw. zu entfernen; an der dafür vorgesehenen Stelle abreißen; bei einem Unfall vom restlichen Körper trennen
   den abgewetzten Kragen abtrennen und ersetzen
   to take off the frayed collar and replace it
   den abgetrennten Teil der Eintrittskarte aufbewahren
@@ -1434,6 +1457,9 @@ anstarren /ˈanʃtarən/: to stare at
   Sie starrte ihn voller Verwunderung an.
   She gazed at him in amazement.
 
+ansteigen: höher werden
+  ↔ abfallen
+
 anstelle, an Stelle /anˈʃtɛlə/: instead of
   Er kam anstelle seines Vaters zum Fest.
   He came to the party instead of his father.
@@ -1542,6 +1568,7 @@ anwurzeln
   wie angewurzelt dastehen / stehen bleiben: to stand rooted to the spot
 
 Anzahl /ˈanʦaːl/, die, ~|uncountable: number
+  eine bestimmte Zahl von Personen, Dingen
   Eine gewisse Anzahl von Fehlern kann toleriert werden.
   A certain number of mistakes can be tolerated.
 
@@ -2600,6 +2627,7 @@ ausschlafen /ˈausʃlaːfən/
   schlafen, bis man nicht mehr müde ist
 
 ausschließen /ˈausʃliːsən/: to exclude, to leave out, to rule out, to lock out
+  nicht mehr dabei sein / teilnehmen lassen; nicht mitmachen lassen, akzeptieren; für unmöglich halten; verhindern, nicht erlauben
   einen Politiker aus einer Partei ausschließen: to expel a politician from a party
   Die Öffentlichkeit ist von der Verhandlung ausgeschlossen.
   The trial is not open to the public.
@@ -2784,6 +2812,12 @@ Auswahl /ˈausvaːl/, die, -en: selection, range, choice
   Angesichts des großen Angebots fällt die Auswahl schwer.
   With so much to choose from it's hard to decide.
   eine große / kleine Auswahl: a large/small range
+
+ausweichen /ˈausvaiçən/: to dodge, to sidestep, to evade
+  die Richtung oder Lage so ändern, dass man nicht auf etw. / jdn trifft; vermeiden, sich nicht stellen
+  dem entgegenkommenden Auto ausweichen
+  Weich mir nicht aus, ich hab dich was gefragt!
+  auf etw. ausweichen: etw. als Alternative benutzen
 
 Ausweis, der
   offizielles Dokument, das die Identität oder die S einer Person zeigt
