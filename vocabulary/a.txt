@@ -20,6 +20,11 @@ Aal /aːl/, der, -(e)s|-e: eel
   schlangenähnlicher Speisefisch, der in Flüssen und im Meer lebt
   Räucheraal: smoked eel
   winden wie ein Aal versuchen: einer schwierigen Situation auszuweichen
+              Singluar        Plural
+  Nonimative  der Aal         die Aale
+  Accusative  den Aal         die Aale
+  Genitive    des Aals/Aales  der Aale
+  Dative      dem Aal         den Aalen
 
 aalen /ˈaːlən/: to laze, to bask
   sich irgendwo hinlegen und mit Genuss ausruhen
@@ -34,6 +39,11 @@ Aas /aːs/, das, -es|uncountable: carrion, jackass
   What a mean jackass!
   Das interessiert kein Aas.
   Nobody gives a damn about that.
+              Singluar   Plural
+  Nonimative  das Aas    die Aase/Äser
+  Accusative  das Aas    die Aase/Äser
+  Genitive    des Aases  der Aase/Äser
+  Dative      dem Aas    den Aasen/Äsern
 
 △ab /ap/: from
   von diesem Zeitpunkt an; von diesem Ort aus; weg
@@ -61,6 +71,11 @@ abbiegen /ˈapbiːɡən/: to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
 
 Abbildung /ˈapbɪldʊŋ/, die: image, drawing, figure, representation, illustration
+              Singluar       Plural
+  Nonimative  die Abbildung  die Abbildungen
+  Accusative  die Abbildung  die Abbildungen
+  Genitive    der Abbildung  der Abbildungen
+  Dative      der Abbildung  den Abbildungen
 
 abdrucken /ˈapdrʊkən/: to print
   Ihr Leserbrief wurde in der Zeitung abgedruckt.
