@@ -297,6 +297,7 @@ Verfügung /fɛɐˈfyːɡʊŋ/, die, -en: disposal, order, decree
   Unser Personal steht jederzeit zu Ihrer Verfügung.
   Our staff are always at your disposal.
   eine einstweilige Verfügung erlassen / erwirken: to issue/obtain a temporary decree
+  nicht genug Zeit zur Verfügung haben
 
 vergangen /fɛɐˈɡaŋən/: past, previous, last
   => vergehen
@@ -561,6 +562,8 @@ verletzt: injured
 Verletzte /fɛɐˈlɛʦtə/: casualty, injured/wounded person
   Die Verletzten wurden sofort ins Krankenhaus gebracht.
   The injured were immediately taken to the hospital.
+
+verliehen → verleihen
 
 verlieren /fɛɐˈliːrən/: to lose, to disappear, to fade away
   habe verloren

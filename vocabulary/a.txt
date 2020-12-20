@@ -1863,6 +1863,8 @@ Aufeinanderfolge: sequence, succession
 Aufenthalt /ˈauf|ənthalt/, der, -(e)s|-e: stay, stop, whereabouts, residence
   das Bleiben an einem Ort für eine bestimmte Zeit; Unterbrechung einer Fahrt; Ort, an dem jd gerade ist oder lebt
 
+Aufenthaltsraum, der: recreation room, lounge
+
 Aufenthaltserlaubnis, die: resident permit
 
 aufessen /ˈauf|ɛsən/: to eat up, to finish off
@@ -2704,6 +2706,11 @@ aussehend
 
 außergewöhnlich /ˈausɐɡəˈvøːnlɪç/: exceptional
   nicht normal
+
+außerhalb: outside
+  nicht in einem Bereich, Gebiet; nicht während eines Zeitraums
+  außerhalb des Dorfes wohnen
+  außerhalb der Öffnungszeiten
 
 Äußerung, die: statement
   das, was jd sagt oder schreibt

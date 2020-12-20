@@ -34,7 +34,7 @@ baden /ˈbaːdən/: to take a bath, to bathe, to swim
   We bathe our baby every day.
   nackt baden: to bathe (in the) nude
 
-Badewanne /'baːdəvanə/, die: bath
+Badewanne /'baːdəvanə/, die: bath(tub)
   sich in die Badewanne legen: to lie down in the bath
 
 Badezimmer /ˈbaːdəʦɪmɐ/, das: bathroom
@@ -910,6 +910,8 @@ Berg /bɛrk/, der: mountain
 
 Bergbau, der: mining
 
+bergen: to recover, to salvage
+
 Bergwacht /ˈbɛrkvaxt/, die: mountain rescue service
   Dienst, der Menschen rettet, die in den Bergen in Not geraten sind
   Die Bergwacht setzte zwei Rettungsteams mit Suchhunden ein.
@@ -1215,6 +1217,8 @@ Bestellung /bəˈʃtɛlʊŋ/, die, -en: order
 bestimmen /bəˈʃtɪmən/: to decide, to determine
   eine Entscheidung über etw. treffen; mit wissenschaftlichen Methoden herausfinden, feststellen
   ≈ entscheiden
+
+o. Ä. bestimmt: or the like
 
 Bestimmung /bəˈʃtɪmʊŋ/, die, ~|-en: regulation, determination, identification, classification, destiny
   die gesetzlichen Bestimmungen einhalten

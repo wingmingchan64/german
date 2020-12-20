@@ -3,7 +3,8 @@ S /ɛs/ S wie Siegfried
 ========================================================
 
 Saal /zaːl/, der, -(e)s|Säle /ˈzɛːlə/: room, hall
-  ein Kino mit acht Sälen: a movie theater with eight screens 
+  ein Kino mit acht Sälen: a movie theater with eight screens
+  Speisesaal
 
 Saar, die: a river in NE France and W Germany
 
@@ -424,6 +425,9 @@ schießen /ˈʃiːsən/: to shoot, to kick
 
 Schiff /ʃɪf/, das: ship, boat
 
+Schiffstaufe, die: christening or naming of a/the ship
+  → taufen: to christen
+
 Schild /ʃɪlt/, das, -(e)s|-er: sign, label, tag
   ≈ Tafel
   Auf dem Schild stand „Betreten verboten!‟
@@ -464,6 +468,8 @@ Schlacht /ʃlaxt/, die, ~|-en: battle, fest
   in die Schlacht ziehen: to go into battle
   Statt der üblichen Kuchenschlacht gab es auf dem Kindergartenfest nur belegte Brote.
   Instead of the usual cake fest there were just sandwiches at the kindergarten party.
+
+Schlachterei /ʃlaxtəˈrai/, die: butcher’s (shop)
 
 Schlafanzug /ˈʃlaːf|anʦuːk/, der, ..e: pajamas
 
@@ -1632,6 +1638,10 @@ sowieso /zoviˈzoː/: anyway, anyhow
   Der Regen macht mir nichts aus, ich wollte sowieso zu Hause bleiben.
   I don't mind that it's raining, I wanted to stay at home anyway.
 
+Sowjet /zɔˈvjɛt, ˈzɔvjɛt/, der
+
+sowjetisch
+
 sozial /zoˈʦjaːl/: social
   die sozialen Verhältnisse in diesem Land
 
@@ -1719,6 +1729,8 @@ Speise /ˈʃpaizə/, die, -n: dish
   
 Speisekarte /ˈʃpaizəkartə/, die, ~|-n: menu
   Herr Ober, die Speisekarte bitte!
+
+Speisesaal, der: dining room
 
 spenden /ˈʃpɛndən/: to donate, to give, to provide
   Es wurden über 100.000 Euro für die Flüchtlinge gespendet.
@@ -2411,7 +2423,7 @@ Streich /ʃtraiç/, der, -e: trick, blow, stroke
 streicheln /ˈʃtraiçəln/: to stroke
   den Hund streicheln: to stroke the dog 
 
-streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel, to push
+streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel, to push, to paint
   die Wände weiß streichen: to paint the walls white
   Butter / Marmelade aufs Brot streichen: to spread butter/jelly on the bread
   einen Namen von einer Liste streichen: to cross a name off a list
@@ -2422,6 +2434,7 @@ streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel, to
   durch / über etw. streichen [ accusative ]: to stroke sth
   Sie strich dem Kind zärtlich durchs Haar.
   She tenderly stroked the child's hair.
+  Das Schiff wurde grau gestrichen
 
 Streifen /ˈʃtraifən/, der: stripe
   => gestreift

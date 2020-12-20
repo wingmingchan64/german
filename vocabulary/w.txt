@@ -201,6 +201,8 @@ warum /vaˈrʊm/: why
 
 △was /vas/
 
+Waschbecken, das: washbasin, washbowl
+
 waschen /ˈvaʃən/: to wash
   sich mit Wasser und Seife waschen: to wash up with soap and water
   Sie wusch sich die Haare.
@@ -287,6 +289,8 @@ wehen /ˈveːən/: to blow
   The washing is blowing around in the wind on the line.
 
 Wehr /veːɐ/, die: Gruppe von Personen, die etw. schützen bzw. verteidigen soll
+
+Wehrmacht, die
 
 weht => wehen
 
@@ -605,6 +609,9 @@ widerraten: to advise or counsel sb against doing sth
 
 Widerrede, die: 
   mündlicher Widerspruch
+  
+Widerruf, der: withdrawal, revocation, repeal
+  eine bis auf Widerruf gültige Genehmigung
 
 widersprechen /viːdɐˈʃprɛçən/: to contradict, to reject, to be at odds with
   jdm energisch widersprechen: to vehemently contradict sb
@@ -972,6 +979,7 @@ wovor /voˈfoːɐ/: what … in front of
 wozu: why
 
 Wrack /vrak/, das, -(e)s|-s: wreck(age)
+  stark beschädigte Überreste
   Nach dem Unfall war der Wagen nur noch ein Wrack.
   The car was just a wreck after the accident.
 

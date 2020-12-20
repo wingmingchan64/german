@@ -193,6 +193,8 @@ Gebirgskette, die: mountain range
 
 gebissen => beißen
 
+geborgen → bergen
+
 Gebot /ɡəˈboːt/, das, -e: commandment, imperative, law, rule
   die Zehn Gebote: the Ten Commandments
   Gebotsschilder sind blau mit weißen Symbolen.
@@ -249,6 +251,9 @@ Geburtstag /ɡəˈbuːɐʦtaːk/, der, -e: birthday
   He's celebrating his 60th birthday/a big birthday this year.
   Alles Gute zum Geburtstag!
   Mein Geburtstag ist im Juni.
+
+gedacht: intended, imagined
+  für einen Anlass o. Ä. bestimmt; nur in der Vorstellung vorhanden
 
 gedacht => denken
 
@@ -683,7 +688,7 @@ genehmigen /ɡəˈneːmɪɡən/: to approve, to authorize
   Der Bau des neuen Stadions wurde letzte Woche genehmigt.
   The construction of the new stadium was approved last week.
 
-Genehmigung /ɡəˈneːmɪɡʊŋ/, die, -en: permission, approval, authorization
+Genehmigung /ɡəˈneːmɪɡʊŋ/, die, -en: permission, approval, authorization, license
   ≈ Erlaubnis
   jdm die Genehmigung für etw. erteilen: to grant sb permission to do sth
   eine schriftliche Genehmigung vorlegen: to submit written authorization
@@ -801,6 +806,8 @@ Geräusch /ɡəˈrɔyʃ/, das, -(e)s|-e: noise
 geräuschvoll /ɡəˈrɔyʃfɔl/: noisy
   geräuschvolles Atmen / Kauen: noisy breathing/chewing
 
+gerecht: just, fair, upright
+
 gereizt /ɡəˈraiʦt/: irritated, irritable, tetchy
   Warum bist du heute so gereizt?
   Why are you so irritable today?
@@ -814,6 +821,7 @@ Gericht /ɡəˈrɪçt/, das, -e: court, bench
   The bench retired for deliberations.
   Ich muss heute aufs Gericht.
   I have to go to court today.
+  Bundesverfassungsgericht: Federal Constitutional Court
   
 Gericht, das, -(e)s|-e: dish, meal
   Warme Gerichte servieren wir ab 18 Uhr.
@@ -977,7 +985,7 @@ Gestalt /ɡəˈʃtalt/, die, ~|-en: form, shape, figure, character
   Am Bahnhof lungerten dunkle Gestalten herum.
   There were shady characters hanging around the station.
 
-gestalten /ɡəˈʃtaltən/:
+gestalten /ɡəˈʃtaltən/: to lay out, to organize, to structure, to dress, to shape
   etw. irgendwie gestalten: to design/structure/style sth in a certain way
   Der Spielplatz soll neu gestaltet werden.
   There are plans to redesign the playground.
@@ -1005,6 +1013,8 @@ gestohlen => stehlen
 gestört /ɡəˈʃtøːɐt/: disturbed, confused, troubled
   eine gestörte Beziehung zu jdm / etw. haben
   to have a troubled relationship with sb/sth
+
+gestrichen → streichen
 
 gesund /ɡəˈzʊnt/: healthy
 
@@ -1094,7 +1104,6 @@ Gewinn /ɡəˈvɪn/, der, -(e)s|-e: profit
 
 Gewinnung, die: extraction, production
   Erzeugung
-
 
 gewiss /ɡəˈvɪs/: certain, certainly
   Eine gewisse Frau Ott hat für dich angerufen.
@@ -1457,6 +1466,9 @@ Grund /ɡrʊnt/, der: reason, ground
 gründen /ˈɡrʏndən/: to found, to establish, sth is based on sth
   Wann wurde Rom gegründet?
   Worauf gründet sich sein Erfolg / Ruhm?
+
+Grundgesetz, das: Basic Law
+  Verfassung der Bundesrepublik Deutschland
 
 Grundlage /ˈɡrʊntlaːɡə/, die, -n: basis
   Diese Anschuldigung entbehrt jeder Grundlage.

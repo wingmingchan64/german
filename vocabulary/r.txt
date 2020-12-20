@@ -372,6 +372,10 @@ regional /reɡjoˈnaːl/: regional
 
 Regisseur /reʒɪˈsøːɐ/: director
 
+registrieren /reɡɪsˈtriːrən/
+
+Registrierung, die
+
 Reglement /reɡləˈmãː/, das, -s: regulations (plural), rules (plural)
   ein strenges Reglement: strict rules
 
@@ -417,6 +421,8 @@ reichen /ˈraiçən/: to be enough, to reach, to pass, to serve
   Zum Hauptgang wurde ein leichter Weißwein gereicht.
   A light white wine was served with the entrée.
   mir reichts: I've had enough
+
+Reichstag /ˈraiçstaːk/, der: parliament
 
 reicht => reichen
 
@@ -601,6 +607,8 @@ Rettung /ˈrɛtʊŋ/, die: help, rescue
   => retten
   Das war Rettung in letzter Minute!
   That help came in the nick of time!
+
+Rettungsboot, das: lifeboat
 
 Rettungsdienst /ˈrɛtʊŋsdiːnst/, der, -(e)s|-e: ambulance service
   Sanitäter und Ärzte, die bei Unfällen medizinische Hilfe leisten

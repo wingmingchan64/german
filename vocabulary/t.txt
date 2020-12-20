@@ -117,6 +117,9 @@ Tarif /taˈriːf/, der, -e: tariff, rate, agreed rate
   die neuen Tarife der Bahn: the new train ticket prices
   über / unter Tarif bezahlt werden: to be paid over/under the agreed rate
 
+tarnen: to camouflage, to disguise
+  jdn / etw. so gestalten, dass er / es nicht gesehen oder erkannt werden kann
+
 Tasche /ˈtaʃə/, die: pocket, bag
 
 Taschenrechner /ˈtaʃənrɛçnɐ/, der, -: calculator
@@ -189,6 +192,10 @@ Taube /ˈtaubə/, die: pigeon, dove
 tauchen /ˈtauxən/: to dive, to swim underwater, to duck, to shroud
   Der Raum war ins Dunkel / in sanftes Kerzenlicht getaucht.
   The room was shrouded in darkness/bathed in soft candlelight.
+
+Taucher: diver
+
+taufen: to christen, to baptize
 
 Tausch /tauʃ/, der: exchange, swap
 
@@ -603,6 +610,7 @@ Trauzeuge /ˈtrauʦɔyɡə/, Trauzeugin: witness
   Would you like to be my witness?
 
 treffen /ˈtrɛfən/: to hit, to meet
+  erreichen, berühren (und dabei oft beschädigen, verletzen oder töten)
   Die Kugel traf genau ins Ziel.
   The bullet hit its target.
   Ich habe sie gestern zufällig in der Stadt getroffen.
@@ -807,6 +815,8 @@ Tür /tyːɐ/, Türen, die: door
   Haustür: front door
 
 Türkei /tʏrˈkai/, die, ~|uncountable
+
+Turnhalle, die: gym
 
 Turnschuh /ˈtʊrnʃuː/, der: sneaker, gym shoe
 

@@ -784,6 +784,11 @@ einwerfen /ˈainvɛrfən/: to insert, to mail, to smash, to interject, to throw 
   Sie warf den Ball vom linken Spielfeldrand ein.
   She threw the ball in from the left side of the field.
 
+einwilligen: to agree, to consent
+
+Einwilligung, die: consent
+  Haben deine Eltern ihre Einwilligung zu dem Ausflug gegeben?
+
 Einwohner /ˈainvoːnɐ/: inhabitants
   Wie viele Einwohner hat München?
   How many inhabitants are there in Munich?
@@ -1728,6 +1733,9 @@ erteilen /ɛɐˈtailən/: to give, to grant, to confer
   He likes to give other people things to do.
   Eine förmliche Genehmigung wurde nie erteilt.
   Formal approval was never granted.
+  
+Erteilung, die: giving, granting
+  die Voraussetzungen für die Erteilung eines Visums
 
 Ertrag /ɛɐˈtraːk/, der, -(e)s|..e: yield, harvest, return
   Der Apfelbaum bringt gute Erträge.
@@ -1911,6 +1919,8 @@ europäisch /ɔyroˈpɛːɪʃ/: European
 europäisieren: europeanize
 
 e.V. eingetragener Verein: registered association/society
+
+evakuieren
 
 ewig /ˈeːvɪç/: eternal
   Sie schworen sich ewige Treue.

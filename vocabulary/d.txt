@@ -182,6 +182,9 @@ dass /das/
 Daten /ˈdaːtən/, pl: data
   die technischen Daten eines Geräts: the technical specs of a device
 
+Datenschutz, der: data protection
+  Datenschutz im Internet
+
 datieren /daˈtiːrən/: to date
   Er hat den Brief auf den 10. Oktober datiert.
   He dated the letter October 10th.
@@ -308,6 +311,7 @@ denken /ˈdɛŋkən/: to think
   I think about you very often.
 
 Denkmal /ˈdɛŋkmaːl/, das: monument
+  große Statue o. Ä., die an eine wichtige Person oder an ein bedeutendes Ereignis erinnert
 
 Denkmalschutz: protection of monuments
 
