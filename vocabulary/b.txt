@@ -867,6 +867,7 @@ berechnen /bəˈrɛçnən/: to calculate, to charge, to bill
   The soup is meant to serve four.
   Den ersten Tag habe ich Ihnen nicht berechnet.
   I didn't charge you for the first day.
+  Also berechnen wir aus allen Menschen in Deutschland erst einmal einen Durchschnitt.
 
 Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
   Nach meiner Berechnung müssten wir jetzt bald ankommen.
@@ -913,7 +914,7 @@ Bergwacht /ˈbɛrkvaxt/, die: mountain rescue service
   Dienst, der Menschen rettet, die in den Bergen in Not geraten sind
   Die Bergwacht setzte zwei Rettungsteams mit Suchhunden ein.
 
-Bericht /bəˈrɪçt/, der, -(e)s|-e: report
+Bericht /bəˈrɪçt/, der, -(e)s|-e: report, account
   einen Fernsehbericht über das Erdbeben ansehen
   to watch a TV report about the earthquake
 
@@ -1342,6 +1343,8 @@ Betrieb /bəˈtriːp/, der, -e: operation, company, business
   Meisterbetrieb: master workshop
 
 betrinken: to get drunk
+
+betroffen: affected
 
 Betrug /bəˈtruːk/, der, -(e)s|uncountable: trick, scam
   auf einen Betrug hereinfallen: to be the victim of a scam
@@ -2105,7 +2108,7 @@ Bub /buːp/, der, Buben: boy
   There are 15 girls and 13 boys in the class. 
   das Büblein: the little boy
 
-Büblein, das: little boy
+Büblein, das: little boy
 
 ▲Buch /buːx/, das, Bücher /ˈbyːçɐ/: book
 
@@ -2178,6 +2181,10 @@ Bundeshaushalt, der: federal budget
 Bundeskanzler, Bundeskanzlerin: federal chancellor
   => Bund (Bundesstaat): federal government
   => Kanzler: chancellor
+
+Bundesregierung, die: Federal Government
+
+Bundesverfassungsgericht, das: Federal Constitutional Court
 
 Bundesversammlung, die: Federal Assembly
 

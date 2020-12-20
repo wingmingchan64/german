@@ -466,6 +466,10 @@ absprechen /ˈapʃprɛçən/: to agree on
   sich ( mit jdm) absprechen: to agree on sth (with sb)
   jdm etw. absprechen: to deny sb sth
 
+abstammen
+  Nachkomme bestimmter Vorfahren oder einer anderen Art sein
+  Der Mensch stammt vom Affen ab.
+
 Abstammung /ˈapʃtamʊŋ/, die, ~|-en: descent, origin
   türkischer Abstammung sein: to be of Turkish descent
 
@@ -802,6 +806,12 @@ all /al/: all
 
 alle /ˈalə/: all
   alle 24 Monate: every 24 months
+
+allein: alone, however, but
+
+alleine, adj
+
+Alleinerziehende, der / die: single parent
 
 allerdings /ˈalɐˈdɪŋs/: however, indeed, certainly
   Die Suppe ist gut, allerdings ein bisschen scharf.
@@ -1563,7 +1573,7 @@ Anweisung /ˈanvaizʊŋ/, die, -en: instruction
   Gebrauchsanweisung: instructions for use
 
 anwenden: to use, to apply
-  benutzen
+  benutzen; auf eine Situation übertragen, in die Praxis umsetzen
   ein neues Verfahren anwenden
 
 Anwendung /ˈanvɛndʊŋ/, die: use, application
@@ -1717,7 +1727,10 @@ armselig: miserable, wretched, pathetic
   What a pathetic performance!
 
 Armut /ˈarmuːt/, die: poverty
+  Mangel an Geld und Besitz
   in bitterster Armut leben: to be desperately poor
+
+Armutsgrenze, die: poverty line
 
 Arroganz /aroˈɡanʦ/, die, |uncountable
 
@@ -1980,6 +1993,8 @@ aufhören /ˈaufhøːrən/: to stop
 aufklappen: to open up, to lift up, to fold back, to open
   aufklappen Buch, Taschenmesser etc
   das Taschenmesser auf- / zuklappen: to open/close the pocket knife
+
+Aufklärung, die: clearing up, resolution, solution, informing, education
 
 aufkommen /ˈaufkɔmən/: to arise, to come up
   Plötzlich kam Wind auf.

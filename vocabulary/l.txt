@@ -307,6 +307,7 @@ laut: loud, noisy
   I always find cities just too noisy.
 
 laut: according to
+  laut dem Grundgesetz
 
 lauten /ˈlautən/: to be
   Wie lautet Ihre Antwort?

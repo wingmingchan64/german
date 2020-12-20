@@ -1579,6 +1579,7 @@ sonst /zɔnst/: normally, else, otherwise, in other ways
 
 Sorge /ˈzɔrɡə/, die, ~|-n: worry
   jdm Sorgen machen/bereiten: to cause sb a lot of worry; to worry sb
+  Sorgen macht mir
 
 sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
   Wer wird während unseres Urlaubs für die Hasen sorgen?
@@ -1892,6 +1893,7 @@ stammeln /ˈʃtaməln/: to stammer
   eine Entschuldigung stammeln: to stammer an apology
 
 stammen /ˈʃtamən/: to come, to originate
+  von jdm gemacht, gesagt o. Ä. worden sein; irgendwo seine Heimat, seinen Ursprung haben; in einer bestimmten Zeit entstanden sein; jds Nachkomme sein
   Das Gemälde stammt von Ernst Klee.
   The painting is one of Ernst Klee's.
   Sie stammt aus einer reichen Familie.

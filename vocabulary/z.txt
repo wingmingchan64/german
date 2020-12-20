@@ -26,6 +26,8 @@ zählen /ˈʦɛːlən/: to count, to number
   I can always rely on my parents.
 
 zahlreich /ˈʦaːlraiç/: numerous
+  eine große Zahl
+  → viele
 
 Zahn /ʦaːn/, Zähne /ˈʦɛːnə/, der: tooth
 
@@ -235,7 +237,7 @@ Ziegelstein: brick
 
 Ziegenkäse, der: goat cheese
 
-ziehen /ˈʦiːən/: to pull, to move, to go
+ziehen /ˈʦiːən/: to pull, to move, to go, to grow, to breed
   ziehe, ziehst, zieht, habe gezogen
   etw. nach sich ziehen: to result in/entail sth
 
@@ -650,6 +652,9 @@ Zustimmung, die: agreement, approval, consent
 Zutat /ˈʦuːtaːt/, die, ~|-en: ingredient
   etw., das man als Teil einer Speise beim Kochen, Backen usw. verwendet
   Wir verwenden für unsere Speisen nur beste frische Zutaten.
+
+zutreffen /ˈʦːtrɛfən/: to be correct/true, to apply
+  korrekt sein; in einer Situation gültig sein, angewendet werden können
 
 Zutritt /ˈʦuːtrɪt/, der, -(e)s: entry, admission
   Zutritt für Unbefugte verboten!

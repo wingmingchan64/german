@@ -562,8 +562,9 @@ Gelbe, das: yolk
   Diese Lösung ist nicht gerade das Gelbe vom Ei, aber im Moment geht es nicht anders.
   That solution isn't exactly brilliant but right now there's no other way.
 
-Geld /ɡɛlt/, das, Gelder: money
-  Geld vom Konto abheben: to withdraw money from your account 
+Geld /ɡɛlt/, das, -(e)s|-er: money
+  Geld vom Konto abheben: to withdraw money from your account
+  Einem hundertstel der Menschen gehören also ein Drittel der Gelder.
 
 Geldbuße, die: fine
   ≈ Strafe
@@ -836,6 +837,8 @@ gesamte: whole, total, entire
 
 Gesamtschule /ɡəˈzamtʃuːlə/, die, ~|-n: comprehensive/integrated school
 
+Gesamtvermögen, das: total assets
+
 Gesang /ɡəˈzaŋ/, der, -(e)s|..e: singing, song
   der wunderschöne Gesang der Nachtigall: the wonderful singing of the nightingale
   geistliche Gesänge: spiritual songs
@@ -845,6 +848,10 @@ geschah => geschehen
 Geschäft /ɡəˈʃɛft/, das, -(e)s|-e: store, business, deal, trade
 
 Geschäftsmann: businessman
+
+geschätzt: estimated
+
+Geschehen, das: event(s)
 
 geschehen /ɡəˈʃeːən/: to happen, to occur, to commit
   geschehe, geschiehst, geschieht, ihr gescheht, bin geschehen
@@ -925,6 +932,8 @@ Gesellschaft /ɡəˈzɛlʃaft/, die, ~|-en: society, company, party, social even
   die Rolle der Frau in der Gesellschaft: the role of women in society
   in schlechte Gesellschaft geraten: to get into bad company
   eine geschlossene Gesellschaft: a private party
+
+Gesellschaftsschicht, die: stratum of society, social stratum
 
 gesessen => sitzen
 

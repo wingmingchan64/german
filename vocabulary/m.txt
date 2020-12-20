@@ -106,6 +106,7 @@ manchmal /ˈmançmaːl/: sometimes
 Mangan /maŋˈɡaːn/, das, |uncountable: manganese 锰
 
 Mangel /ˈmaŋəl/, Mängel, der: shortage, lack, defect, fault, flaw
+  Situation, in der zu wenig von etw. vorhanden ist
 
 mangels /ˈmaŋəls/: for lack of
   einen Angeklagten mangels Beweisen freisprechen
@@ -351,7 +352,7 @@ Meldung /ˈmɛldʊŋ/, die, ~|-en: report, piece of news
 Memoiren /memoˈaːrən/, pl: memoirs
   seine Memoiren schreiben: to write your memoirs
 
-Menge /ˈmɛŋə/, die, ~|-n: amount, quantity
+Menge /ˈmɛŋə/, die, ~|-n: amount, quantity, set
   eine geringe Menge Wasser zugeben: to add a small amount of water
   jede Menge: lots
 
@@ -579,7 +580,12 @@ Mittelalter, das: Middle Ages
 Mittelmeer /ˈmɪtəlmeːɐ/, das: Mediterranean (Sea)
   eine Insel im Mittelmeer: an island in the Mediterranean
 
+Mittelschicht, die: middle class
+  mittlere Gesellschaftsschicht
+
 mitten /ˈmɪtən/: in the middle
+
+mittlere: middle, medium, mean, average, intermediate
 
 mittlerweile /ˈmɪtlɐˈvailə/: meanwhile, in the meantime, since then
   Ich habe mich mittlerweile daran gewöhnt.

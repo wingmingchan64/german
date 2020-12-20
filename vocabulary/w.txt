@@ -423,6 +423,8 @@ Wellhornschnecke, die: whelk 蛾螺
 Welt /vɛlt/, die: world
   ganzen Welt: all over the world
 
+Weltgesundheitsorganisation, WHO
+
 Weltgewandtheit： urbanity, acquaintance with the ways of the world
 
 Wende /ˈvɛndə/, die, -n: change, turning point
@@ -874,6 +876,11 @@ wohl /voːl/: probably, perhaps, possibly
 wohl: well
   Lebe wohl! Farewell!
   Jetzt ist mir wieder wohler.
+
+wohlhabend: well-to-do, prosperous
+  relativ reich
+  Sie sind nicht direkt reich, aber doch recht wohlhabend.
+  Deutschland ist ein wohlhabendes Land
 
 wohlig /ˈvoːlɪç/: cozy, pleasant
   Wohlige Wärme breitete sich im Zimmer aus.

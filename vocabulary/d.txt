@@ -260,6 +260,9 @@ decken /ˈdɛkən/: to cover
 Deckung /ˈdɛkʊŋ/, die, ~|-en: cover
   Deckung suchen: to look for cover
 
+definieren
+  die Bedeutung mit Worten genau bestimmen
+
 dehnen /ˈdeːnən/: to stretch
   Sie gähnte und dehnte sich ausgiebig.
   She had a good yawn and stretch.
@@ -648,6 +651,7 @@ dringend /ˈdrɪŋənt/: urgent
 dritte /ˈdrɪtə/: third
 
 Drittel: third
+  ein Drittel, zwei Drittel
 
 Droge /ˈdroːɡə/, die: drug
   Drogen-Dealer
@@ -819,6 +823,7 @@ durchschneiden /ˈdʊrçʃnaidən/: to cut through
   to cut through the middle of an apple/a piece of string 
 
 Durchschnitt /ˈdʊrçʃnɪt/, der, -e: average
+  Wert, den man bekommt, wenn man die Summe aller Zahlen einer Menge durch ihre Anzahl teilt
   Die Jugendlichen waren im Durchschnitt 14 Jahre alt.
   On average the youngsters were 14 years old.
   Das Essen in diesem Restaurant ist allenfalls Durchschnitt.

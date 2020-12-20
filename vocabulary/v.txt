@@ -157,6 +157,10 @@ verdächtigen /fɛɐˈdɛçtɪɡən/: to suspect
 
 verdammen: to damn, to condemn
 
+verdanken: to owe
+  jdm / einer Sache dankbar sein
+  Ich habe Ihnen viel zu verdanken.
+
 verdattert /fɛɐˈdatɐt/: dazed
   jdn verdattert ansehen: to look at sb in a daze
 
@@ -278,6 +282,7 @@ Verfolgung /fɛɐˈfɔlɡʊŋ/, die: prosecution, pursuit
 Verfolgungsjagd, die: chase, pursuit
 
 verfügbar /fɛɐˈfyːkbaːɐ/: available
+  zum Einsatz oder zur Benutzung vorhanden
   Der Artikel ist zurzeit nicht verfügbar.
   The article is not available at the moment.
 
@@ -607,6 +612,10 @@ vermissen /fɛɐˈmɪsən/: to miss
   vermisste: missing
 
 Vermittler/-in: mediator, intermediary, arbitrator
+
+Vermögen, das: fortune, property, asset
+
+vermögen: to be able to do sth
 
 vermummt /fɛɐˈmʊmt/: masked
   Viele Demonstranten waren vermummt.
@@ -1415,6 +1424,9 @@ vorhalten /ˈfoːɐhaltən/: to hold up, to accuse, to reproach, to last
   You can't accuse him of not having tried at least.
   Die Erholung hielt nicht lange vor.
   The recovery didn't last long.
+
+vorhanden: available, existing
+  existierend und für jdn verfügbar
 
 Vorhang /ˈfoːɐhaŋ/, der, -(e)s|..e: curtain
   den Vorhang zuziehen: to draw the curtain
