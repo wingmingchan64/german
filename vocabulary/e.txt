@@ -971,6 +971,8 @@ Engel /ˈɛŋəl/, der, -s|~: angel
   Ihm ist ein Engel erschienen.
   An angel appeared to him.
 
+engelhaft: angelic
+
 England /ˈɛŋlant/
 
 Engländer, der, Engländerin, Engländer
@@ -1360,6 +1362,9 @@ ergehen /ɛɐˈɡeːən/:
 
 erglimmen: to begin to glimmer
 
+ergötzen: to delight
+  mit etw. unterhalten, erfreuen
+
 ergreifen /ɛɐˈɡrɪfn/: to seize, to overcome
   das Feuer ergriff den ganzen Wald: the fire engulfed the whole forest
 
@@ -1477,6 +1482,7 @@ erlahmen /ɛɐˈlaːmən/: to tire, to flag, to wane
 erlangen /ɛɐˈlaŋən/: to gain, to obtain, to achieve
   Mit diesem Lied hat er Berühmtheit erlangt.
   This song brought him fame.
+  die göttliche Gnade erlangen
 
 Erlass /ɛɐˈlas/, der: decree, remission, release
   Schuldenerlass: debt relief
@@ -1547,6 +1553,8 @@ ermorden /ɛɐˈmɔrdən/: to murder
   He was murdered in cold blood.
 
 Ermordung /ɛɐˈmɔrdʊŋ/, die, ~|-en: murder, homicide
+
+ermuntern: to encourage
 
 ernähren: to eat
   => Nahrung

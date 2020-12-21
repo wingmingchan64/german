@@ -1350,6 +1350,10 @@ betrinken: to get drunk
 
 betroffen: affected
 
+betrüben: to grieve , to sadden
+
+betrübt: saddened, sad
+
 Betrug /bəˈtruːk/, der, -(e)s|uncountable: trick, scam
   auf einen Betrug hereinfallen: to be the victim of a scam
 
@@ -1424,6 +1428,7 @@ bevorzugen /bəˈfoːɐʦuːɡən/: to favor, to give preference to, to prefer
 bevorzugt: preferred
 
 bewachen /bəˈvaxən/: to guard, to watch over
+  → wachen
   ein bewachter Parkplatz: an attended parking lot
 
 bewaffnet /bəˈvafnət/: armed
@@ -1977,6 +1982,11 @@ Brauerei /brauəˈrai/, die, -en: brewery
 Brause /ˈbrauzə/, die, ~|-n: shower, soda
   unter der Brause stehen: to be in the shower
   ein Glas Brause trinken: to drink a glass of soda
+
+Braut, die: bride
+
+Bräutigam /ˈbrɔytiɡam/, der: bridegroom
+  Mann kurz vor / nach oder am Tag seiner Hochzeit
 
 Brautpaar /ˈbrautpaːɐ/, das, -e: the bride and (bride)groom
   Das Brautpaar trat vor den Altar.

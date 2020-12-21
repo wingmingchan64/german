@@ -45,6 +45,8 @@ mager /ˈmaːɡɐ/: thin, skinny, poor
 mähen /ˈmɛːən/: to mow, to harvest
   den Rasen mähen: to mow the lawn
 
+Mahl, das: meal
+
 Mahlzeit /ˈmaːlʦait/, die, ~|-en: meal
   zum Essen zubereitete Speisen, die man zu einer bestimmten Tageszeit isst
   eine warme Mahlzeit einnehmen/essen
@@ -532,6 +534,9 @@ miteinander /mɪt|aiˈnandɐ/: with/to each other, with/to one another, together
 Mitglied /ˈmɪtɡliːt/, das, -er: member
   Er ist Mitglied im Schachklub.
   He's a member of the chess club.
+
+mithalten /ˈmɪthaltən/: to keep up, to join
+  Er läuft so schnell, da kann ich nicht mithalten.
 
 Mitleid /ˈmɪtlait/, das, -(e)s|uncountable: pity, compassion, sympathy
   Sein Schicksal erregte viel Mitleid.

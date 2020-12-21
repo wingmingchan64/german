@@ -317,7 +317,8 @@ Scheibe /ˈʃaibə/, die, -n: slice, pane, disk
   bei einem Auto eine Scheibe einschlagen: to smash in a window of a car
   eine neue Scheibe herausbringen: to bring out a new disc (CD)
 
-scheiden: to dissolve, to divorce
+scheiden: to dissolve, to divorce, to part
+  durch Gerichtsurteil beenden; durch Gerichtsurteil trennen; von jdm / etw. weggehen, sich trennen
   habe geschieden, schied
   durch Gerichtsurteil beenden; durch Gerichtsurteil trennen; von jdm / etw. weggehen, sich trennen
   => Abschied
@@ -1436,6 +1437,8 @@ Siegel /ˈziːɡəl/, das, -s|~: seal
 siegeln /ˈziːɡəln/: to seal
 
 sieh, siehe, sieht => sehen
+
+Sigel, Siegel
 
 singen /ˈzɪŋən/: to sing
 
