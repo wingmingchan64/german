@@ -173,7 +173,8 @@ geben /ˈɡeːbən/: to give, to pass
   Er gibt sich gern cool.
   He likes to act cool.
 
-Gebet /ɡəˈbeːt/, das, -e: prayer
+Gebet /ɡəˈbeːt/, das, -(e)s|-e: prayer
+  Worte, mit denen man Gott dankt oder ihn um etw. bittet
   die Hände zum Gebet falten
   to fold your hands in prayer
 
@@ -556,6 +557,8 @@ gelangt => langen, gelangen
 gelassen: calm, unruffled
   eine gelassene Miene zur Schau tragen: to put on a relaxed face
 
+Gelassenheit, die: calmness, composure, serenity
+
 gelaunt /ɡəˈlaunt/ adj: in a … mood
    gut / schlecht gelaunt sein: to be in a good/bad mood 
 
@@ -666,6 +669,8 @@ gemischt: mixed
 
 Gemüse /ɡəˈmyːzə/, das, -s|~: vegetable
 
+Gemüt, das: mind, nature, disposition, soul, feeling, person
+
 gemütlich /ɡəˈmyːtlɪç/: comfortable, cozy
   Ich finde es sehr gemütlich bei euch.
   I find it very comfortable at your place.
@@ -705,7 +710,8 @@ Genick /ɡəˈnɪk/, das, -(e)s|-e: neck
 
 Genie /ʒeˈniː/, das: genius
 
-genießen: to have, to eat, to enjoy
+genießen: to have, to eat, to enjoy, to savor
+  Freude bei etw. empfinden
 
 Genitiv /ˈɡeːnitiːf/, der, -s|-e: genitive
   Auf die Präposition „mangels‟ folgt der Genitiv.
@@ -892,6 +898,11 @@ Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
   Dieses Geschirr ist spülmaschinenfest.
   These dishes are dishwasher safe.
   das Geschirr spülen: to do the dishes
+
+Geschlecht, das: sex, gender, race, generation, house, lineage
+  Eigenschaft, männlich oder weiblich zu sein; alle männlichen oder weiblichen Lebewesen
+  das andere Geschlecht
+  menschliches Geschlecht
 
 geschlossen /ɡəˈʃlɔsn/: closed, private
 

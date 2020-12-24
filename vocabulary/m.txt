@@ -31,6 +31,9 @@ Mädel /ˈmɛːdəl/, das: girl
   In der Klasse sind 15 Mädel und 12 Buben.
   There are 15 girls and 12 boys in the class. 
 
+Magd /maːkt/, die: farm girl, farmhand, maid
+  Arbeiterin auf einem Bauernhof; Frau, die in einem Haushalt als Angestellte arbeitet
+
 Magen /ˈmaːɡən/, der: stomach
   Diese Tabletten solltest du nicht auf nüchternen Magen nehmen.
   You shouldn't take these tablets on an empty stomach.
@@ -498,6 +501,9 @@ miserabel /mizeˈraːbəl/: lousy
 
 missachten: to ignore, to disregard
   nicht befolgen, dagegen verstoßen
+
+Missachtung, die: ignoring, disregard
+  wegen Missachtung der Vorfahrt
 
 Missbrauch, der: abuse
 

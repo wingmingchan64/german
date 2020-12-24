@@ -679,9 +679,12 @@ Bekanntschaft /bəˈkantʃaft/, die
   persönlicher Kontakt mit jdm / etw
   Durch die Bekanntschaft mit Monet gelangte Renoir zum Impressionismus.
 
-bekennen /bəˈkɛnən/: to confess, to admit
+bekennen /bəˈkɛnən/: to confess, to admit, to declare
+  ehrlich sagen, dass man etw. Schlechtes getan hat o. Ä
   seine Schuld, seine Fehler bekennen
   to confess your guilt/admit your mistakes
+  seinen Glauben bekennen: (in einem Gebet) seine religiöse Überzeugung äußern
+  sich zu jdm / etw. bekennen: öffentlich sagen, dass man jdn unterstützt / von etw. überzeugt ist
 
 beklagen /bəˈklaːɡən/: to complain, to lament, to mourn
   ≈ beschweren
@@ -822,6 +825,9 @@ bemüht /bəˈmyːt/: conscientious
 benachrichtigen /bəˈnaːxrɪçtɪɡən/: to inform, to notify
   Die Eltern wurden (davon) benachrichtigt, dass ihr Kind …
   The parents were notified that their child…
+
+benedeien /beneˈdaiən/: to bless, to glorify
+  benedeie, benedeist, habe gebenedeit
 
 benehmen /bəˈneːmən/: to behave
   ≈ betragen
@@ -2100,6 +2106,8 @@ Brunnen /ˈbrʊnən/, der, -s|~: well, fountain
   tiefes Loch in der Erde, aus dem man Wasser schöpft; Becken, in dem Wasser nach oben spritzt
   einen Brunnen bohren
   Bei schönem Wetter sitzen viele junge Leute um den Brunnen vor dem Rathaus herum.
+
+brünstig: in heat, fervent
 
 Brust /brʊst/, die, ~|..e: chest, breast
   Er hat eine sehr behaarte Brust.

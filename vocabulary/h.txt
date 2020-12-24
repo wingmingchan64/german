@@ -391,6 +391,10 @@ heikel /ˈhaikəl/: delicate
 
 Heil, das: salvation, well-being
 
+Heiland /ˈhailant/, der: Savior
+  Jesus Christus
+  der gekreuzigte Heiland
+
 heilig /ˈhailɪç/: holy, sacred, lots of
   die heilige Elisabeth: Saint Elisabeth
   Ich hatte meine heilige Mühe / Not mit ihr.
@@ -645,6 +649,8 @@ herrje /hɛrˈjeː/: oh, dear
 
 herrlich: superb, marvelous, gorgeous
 
+Herrlichkeit, die: glory, splendor, magnificence
+
 herrschen /ˈhɛrʃən/: to prevail, to rule, to dominate
   unter den herrschenden Umständen: under the prevailing circumstances
   über ein Land / Volk herrschen: to hold sway over a country/people
@@ -736,11 +742,18 @@ Heuchelei /hɔyçəˈlai/, die, -en: hypocrisy
   Das ist alles bloß Heuchelei.
   That's all pure hypocrisy.
 
+heucheln: to feign, to pretend
+  Gefühle vortäuschen, die man nicht hat
+
 heulen /ˈhɔylən/: to howl, to blare, to wail
   In der Nacht hörte man die Wölfe heulen.
   You could hear the wolves howl at night.
   Nachts heulte der Wind ums Haus.
   At night the wind howled round the house.
+
+Heuchler: hypocrite
+
+heuchlerisch: hypocritical
 
 heurige /ˈhɔyrɪɡə/: this year's
   Die heurige Ernte war gut.
@@ -858,6 +871,9 @@ Hinfahrt, die: way/journey there
 
 hing => hängen
 
+hingegen: whereas, however, on the other hand
+  im Gegensatz zu jdm / etw
+
 hingehen /ˈhɪnɡeːən/: to go there
   etw. geht hin: sth will do, sth passes
   Gut ist es nicht, aber es geht gerade noch hin.
@@ -973,6 +989,8 @@ Hitze /ˈhɪʦə/, die: heat
 
 ▲hoch /hoːx/, hohe /ˈhoːə/: tall, high
   das hohe C
+
+hochbeglückt: supremely or blissfully happy, highly delighted
 
 Hochburg /ˈhoːxbʊrk/, die, -en: stronghold, bastion
   eine Hochburg des Rechtsextremismus: a bastion of right-wing extremism

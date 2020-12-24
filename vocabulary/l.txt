@@ -2,6 +2,9 @@
 L /ɛl/ L wie Ludwig
 ========================================================
 
+laben: to feast, to treat
+  etw. (bes. Speisen oder Getränke) genießen
+
 Labor /laˈboːɐ/, das, -s|-s/-e: lab(oratory)
   Die Proben werden im Labor untersucht.
   The samples are being tested in the lab.
@@ -442,6 +445,10 @@ Lehrer /ˈleːrɐ/, Lehrerin: teacher
 
 Lehrling /ˈleːɐlɪŋ/, der, -s|-e: apprentice, trainee
   Bäckerlehrling: apprentice baker
+
+Leib, der, -(e)s|-er: body
+  der Körper eines Menschen oder Tieres
+  mit Leib und Seele
 
 Leiche /ˈlaiçə/, die, ~|-n: corpse, body
   der Körper eines toten Menschen

@@ -137,9 +137,10 @@ Taste /ˈtastə/, die, -n: key, button
   A piano has black and white keys.
 
 Tat /taːt/, die, ~|-en: deed, act, action, crime, offense
+  etw., das jd tut; gesetzlich verbotene Tat
   Wer wird der Tat verdächtigt?
   Who is suspected of the crime?
-  in der Tat: indeed, in fact
+  in der Tat: indeed, in fact, tatsächlich
 
 tat /taːt/ => tun
   ich tat, du tatest, er tat, wir taten, ihr tatet
@@ -614,6 +615,7 @@ Trauzeuge /ˈtrauʦɔyɡə/, Trauzeugin: witness
 
 treffen /ˈtrɛfən/: to hit, to meet
   erreichen, berühren (und dabei oft beschädigen, verletzen oder töten)
+  treffe, triffst, trifft, habe getroffen
   Die Kugel traf genau ins Ziel.
   The bullet hit its target.
   Ich habe sie gestern zufällig in der Stadt getroffen.

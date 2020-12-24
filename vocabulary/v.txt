@@ -94,6 +94,7 @@ Verband /fɛɐˈbant/, der, -(e)s|..e: bandage, dressing
   Binde zum Schutz einer Wunde
 
 verbergen /fɛɐˈbɛrɡən/: to hide
+  nicht sehen oder erkennen lassen; andere nicht wissen lassen
   Ein großer Hut verbarg sein Gesicht.
   A large hat hid his face.
   Sie verbarg ihren Kummer vor ihrer Familie.
@@ -117,6 +118,11 @@ Verbindung /fɛɐˈbɪndʊŋ/, die, ~|-en: connection, link
   The shortest link between two points is called a line.
   Es gab Probleme bei der Herstellung einer Verbindung zum Internet.
   There were problems getting an Internet connection.
+
+verblenden: to blind
+
+verborgen: hidden, secret, latent
+  nicht für jeden erkennbar
 
 Verbot /fɛɐˈboːt/, das, -e: ban
   Sie missachtete das Verbot ihrer Eltern und traf sich heimlich mit ihm.
@@ -563,6 +569,8 @@ Verletzte /fɛɐˈlɛʦtə/: casualty, injured/wounded person
   Die Verletzten wurden sofort ins Krankenhaus gebracht.
   The injured were immediately taken to the hospital.
 
+verleugnen: to disown, to betray, to deny
+
 verliehen → verleihen
 
 verlieren /fɛɐˈliːrən/: to lose, to disappear, to fade away
@@ -786,6 +794,8 @@ verschreiben: to prescribe
 
 verschwand => verschwinden
 
+verschweigen: to hide, to conceal, to withhold
+
 verschwinden /fɛɐˈʃvɪndən/: to disappear, to vanish
   Das Kind war spurlos verschwunden.
   The child had vanished without a trace.
@@ -931,7 +941,17 @@ verstehen: to hear, understand, know
 verstellbar: adjustable
   ein Wagen mit verstellbaren Sitzen
 
+verstockt: pig-headed
+  nicht bereit, nachzugeben oder einen Fehler einzugestehen
+  Wie kann man nur so verstockt sein?
+
+Verstockung, die: stubbornness
+
 verstohlen: surreptitious, stealthy
+
+Verstoß /fɛɐˈʃtoːs/, der, -es|-e: infringement, violation
+  Missachtung einer Regel oder Vorschrift
+  einen Verstoß gegen die Spielregeln begehen
 
 verstoßen: to violate sth, to disown
   gegen etw. verstoßen: etw. missachten; jdn aus einer Gemeinschaft ausschließen
@@ -1579,6 +1599,9 @@ Vorstellungsgespräch /ˈfoːɐʃtɛlʊŋsɡəʃprɛːç/, das, -e: interview
   Sie hat um 10 Uhr ein Vorstellungsgespräch.
   She has an interview at 10 o'clock.
 
+vortäuschen /ˈfoːɐtɔyʃən/: to fake, to feign
+  so tun, als ob etw. der Fall wäre
+
 Vorteil /ˈfɔrtail/, der, -e: advantage
   Das bringt auch Vorteile mit sich.
   It also has its advantages.
@@ -1595,15 +1618,15 @@ vortragen /ˈfoːɐtraːɡən/: to present, to make, to express
   Sie trug dem Publikum ihre Gedichte vor.
   She recited her poems to the audience.
 
+vortreten /ˈfoːɐtreːtən/: to step forward(s)
+  Bitte treten Sie einen Schritt vor.
+  Please take one step forwards.
+
 vorübergehen /foˈryːbɐɡeːən/: to pass, to be over, to go/walk past
   zu Ende gehen; an jdm / etw. vorbei irgendwohin gehen
 
 vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
   nur für relativ kurze Zeit
-
-vortreten /ˈfoːɐtreːtən/: to step forward(s)
-  Bitte treten Sie einen Schritt vor.
-  Please take one step forwards.
 
 vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
   nur für relativ kurze Zeit

@@ -378,6 +378,7 @@ Scherz /ʃɛrʦ/, der, -es|-e: joke
   He said as a joke that he was starving.
 
 scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
+  versuchen, etw. Unangenehmes zu vermeiden: Angst oder Bedenken haben, etw. zu tun
   Wir haben für das Fest weder Kosten noch Mühe gescheut.
   We haven't spared any cost or effort with the party.
   Sie scheut sich (davor), ihn zu kritisieren.
@@ -900,6 +901,9 @@ schreiten /ˈʃraitən/: to stride, to walk
   Now let's get down to action / the vote.
 
 schrie => schreien
+
+Schrift, die: script, alphabet, writing, font, text
+  die Heilige Schrift
 
 Schriftführer /ˈʃrɪftfyːrɐ/, Schriftführerin: secretary
 
@@ -2630,6 +2634,9 @@ Summe /ˈzʊmə/, die, -n: sum
 summen /ˈzʊmən/: to hum
   Sie summte fröhlich vor sich hin.
   She was humming away happily. 
+
+Sünde, die, ~|-n: sin
+  Verstoß gegen die Regeln der Religion
 
 Suppe /ˈzʊpə/, die, ~|-n: soup
   Sie saßen am Tisch und aßen / löffelten Suppe.

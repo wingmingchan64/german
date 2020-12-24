@@ -601,7 +601,9 @@ knallen /ˈknalən/: to bang, to pop, to crack, to crash
 
 knapp /knap/: meagre, scarce, tight, barely
 
-Knecht /knɛçt/, der, -e: servant
+Knecht /knɛçt/, der, -e: servant, farmhand
+  Person, die von Herrschenden abhängig ist und ihren Befehlen gehorchen muss; Mann, der für einen Bauern arbeitet
+  ≈ Magd
   Herren und Knechte: masters and servants
 
 Kneipe /ˈknaipə/, die, -n: bar
@@ -1210,6 +1212,8 @@ kündigen /ˈkʏndɪɡən/: to cancel, to terminate, to give notice, to quit
   Wegen der schlechten Auftragslage musste er mehreren Mitarbeitern kündigen.
   He had to dismiss several employees because of the lack of orders.
 
+kundgeben, kundmachen: to make known, to announce, to express
+  ich gebe kund, habe kundgegeben
 
 Kündigung /ˈkʏndɪɡʊŋ/, die, ~|-en: notice
   Er reichte seine Kündigung ein.
