@@ -78,10 +78,11 @@ Ball /bal/, der: ball
 Banane /baˈnaːnə/, die, Banenen: banana
   auf einer Bananenschale ausrutschen: to slip on a banana skin
 
-Band /bant/, das: ribbon, ligament, tape, conveyer belt
+Band /bant/, das: ribbon, ligament, tape, conveyer belt, bond
   ein Band im Haar tragen
   to wear a ribbon in your hair
   etw. spricht Bände: sth speaks volumes
+  familiäre Bande
 
 band => binden
 
@@ -2185,7 +2186,7 @@ Bulle /ˈbʊlə/, der: bull, cop
 bullig /ˈbʊlɪç/: beefy, boiling, to be scorching (od boiling) hot
   bullig heiß sein
 
-Bund /bʊnt/, der: federal government, confederacy, association, league
+Bund /bʊnt/, der: bond, alliance, federal government, confederacy, association, league
   Staat, der aus mehreren Ländern besteht, die sowohl eine eigene als auch eine gemeinsame Regierung haben; Vereinigung mehrerer Personen, Unternehmen
   Bund und Länder: the German federal government and the Länder
   einem Bund beitreten: to join an association
@@ -2265,3 +2266,5 @@ Butter /ˈbʊtɐ/, die: butter
   to butter a slice of bread 
 
 Butzemann, der: boogeyman 惡鬼，妖怪
+
+bzw. beziehungsweise

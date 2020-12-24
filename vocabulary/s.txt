@@ -1048,6 +1048,9 @@ schützen /ˈʃʏʦən/: to protect
 schwach /ʃvax/: weak, poor
   Dafür sind seine Muskeln zu schwach.
   My muscles are too weak for that.
+  
+Schwachheit, die: weakness, frailty
+  Schwachheit, dein Name ist Weib.
 
 Schwäche /ˈʃvɛçə/, die: weakness, failing
   Sie bekam einen Schwächeanfall.
@@ -2254,6 +2257,8 @@ Stimmung /ˈʃtɪmʊŋ/, die: mood, atmosphere, good mood
 
 Stimmzettel /ˈʃtɪmʦɛtəl/, der, -: ballot paper
   die Stimmzettel auszählen: to count the ballot papers
+
+stimulieren
 
 stinken /ˈʃtɪŋkən/: to stink
   Im Kühlschrank stinkt irgendetwas.

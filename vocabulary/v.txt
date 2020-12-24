@@ -123,6 +123,9 @@ verblenden: to blind
 
 verborgen: hidden, secret, latent
   nicht für jeden erkennbar
+  im Verborgenen: furtive
+
+Verborgenheit, die: seclusion
 
 Verbot /fɛɐˈboːt/, das, -e: ban
   Sie missachtete das Verbot ihrer Eltern und traf sich heimlich mit ihm.
