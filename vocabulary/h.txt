@@ -80,7 +80,7 @@ Halbbruder /ˈhalpbruːdɐ/, der
 
 Halbschwester /ˈhalpʃvɛstɐ/, die
 
-half => helfen
+half → helfen
 
 Halle /ˈhalə/, die, Hallen: hall, lobby
   Spielt ihr draußen oder in der Halle?
@@ -104,7 +104,7 @@ halt: stop
 halt: just, simply
   Jeder muss mal sterben, das ist halt so.
 
-hält => halten
+hält → halten
   Hält der Bus Nummer hundertzwanzig hier?
 
 halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop, to think
@@ -772,7 +772,7 @@ heutzutage: nowadays
 Hieb /hiːp/, der, -(e)s|-e: blow
   jdm einen Hieb (mit der Faust) versetzen: to deal sb a blow (with your fist)
 
-hielt => halten
+hielt → halten
 
 hier /hiːɐ/
   Hier ist die Tasche nicht.
@@ -789,7 +789,7 @@ hierher /ˈhiːɐˈheːɐ/: here, to this
 
 hierzu /ˈhiːɐˈʦuː, hiːɐˈʦuː/: for this, with this, in addition to this, about this
 
-hieß, hießt => heißen
+hieß, hießt → heißen
 
 Hilfe /ˈhɪlfə/, die: help
   ärztliche Hilfe benötigen: to need medical assistance
@@ -869,7 +869,7 @@ hinfallen /ˈhɪnfalən/: to fall (down)
 
 Hinfahrt, die: way/journey there
 
-hing => hängen
+hing → hängen
 
 hingegen: whereas, however, on the other hand
   im Gegensatz zu jdm / etw
@@ -1049,7 +1049,7 @@ höflich /ˈhøːflɪç/: polite, politely
   jdn höflich grüßen/um etw. bitten
   to greet sb politely/ask sb politely for sth
 
-hohe /ˈhoːə/ => hoch
+hohe /ˈhoːə/ → hoch
 
 Höhe /ˈhøːə/, die, ~|-n: height, altitude, level, extent, amount
   Länge, Höhe und Breite eines Möbelstücks abmessen

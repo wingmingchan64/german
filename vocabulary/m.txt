@@ -175,7 +175,7 @@ Masochismus /mazɔˈxɪsmʊs/, der, ~|uncountable: masochism
 Massaker /maˈsaːkɐ/, das: massacre
 
 Maß /maːs/, das, -es|-e: measure, dimension, degree
-  => messen
+  → messen
   der IQ als Maß für die Intelligenz: IQ as a measure of intelligence
   über die/alle Maßen: beyond all measure
   in hohem Maße [dative]
@@ -321,7 +321,7 @@ meinige /ˈmainiɡə/, also Meinige
   Ich bin gern bereit, das Meinige zu tun.
   I'm very happy to do my share.
 
-meinte => meinen
+meinte → meinen
 
 Meinung /ˈmainʊŋ/, die, -en: opinion
   Ich bin der Meinung, dass …

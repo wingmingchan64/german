@@ -267,7 +267,7 @@ übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open,
   Der Bäcker überzog die Torte mit Zuckerguss.
   The baker frosted the cake.
 
-überzog => überziehen
+überzog → überziehen
 
 üblich /ˈyːplɪç/: usual, normal
   über das übliche Maß hinaus: more than/beyond what is normal 
@@ -277,7 +277,7 @@ übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open,
   There's no cake left.
 
 übrigens /ˈyːbrɪɡəns/: by the way
-  => übrig
+  → übrig
   Sarah hat übrigens geheiratet.
   Sarah got married, by the way.
 
@@ -367,7 +367,7 @@ umgeben /ʊmˈɡeːbən/: to surround
   Das Haus war von einer Hecke umgeben.
   The house was surrounded by a hedge.
 
-umgebracht => umbringen
+umgebracht → umbringen
 
 Umgebung /ʊmˈɡeːbʊŋ/, die: environment
 
@@ -676,7 +676,7 @@ unheimlich /ˈʊnhaimlɪç/: eerie, sinister
   Nachts ist es auf dem Friedhof ziemlich unheimlich.
   It's pretty eerie in the graveyard at night.
 
-Uni => Universität
+Uni → Universität
 
 Uniform /uniˈfɔrm/, die, ~|-en: uniform
   Polizisten in Uniform: policemen in uniform
@@ -785,7 +785,7 @@ Unterhaltung /ʊntɐˈhaltʊŋ/, die, -en: entertainment, chat, conversation
   The band provided the musical entertainment.
   eine Unterhaltung miteinander führen: to have a chat with each other
 
-unterhielt => unterhalten
+unterhielt → unterhalten
 
 unterirdisch /ˈʊntɐ|ɪrdɪʃ/: underground
   ein unterirdischer Bahnhof: an underground station
@@ -816,7 +816,7 @@ Unternehmertum, das, -s|uncountable: employers, business community, entrepreneur
   ein Unternehmen leiten: to run a business
   ein riskantes Unternehmen planen: to plan a risky venture
 
-unternommen => unternehmen
+unternommen → unternehmen
 
 Unterricht /ˈʊntɐrɪçt/, der, pl: classes, instruction, teaching
   (jdm) Unterricht geben
@@ -919,7 +919,7 @@ Urologe /uroˈloːɡə/: urologist
 
 Ursache /ˈuːɐzaxə/, die: cause
   etw., das ein Geschehen bewirkt
-  => verursachen
+  → verursachen
   Die eigentliche Ursache des Unglücks ist noch nicht geklärt.
   The real cause of the accident hasn't yet been established.
 

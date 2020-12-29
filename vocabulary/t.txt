@@ -142,7 +142,7 @@ Tat /taːt/, die, ~|-en: deed, act, action, crime, offense
   Who is suspected of the crime?
   in der Tat: indeed, in fact, tatsächlich
 
-tat /taːt/ => tun
+tat /taːt/ → tun
   ich tat, du tatest, er tat, wir taten, ihr tatet
 
 Täter /ˈtɛːtɐ/, Täterin: culprit, doer
@@ -538,7 +538,7 @@ Tradition /tradiˈʦjoːn/, die, -en: tradition
 traditionell /tradiʦjoˈnɛl/
   ein traditioneller Tanz: a traditional dance
 
-traf => treffen
+traf → treffen
 
 tragbar /ˈtraːkbaːɐ/: portable, acceptable, tolerable, wearable
   Ich nehme einen tragbaren CD-Player mit in den Urlaub.
@@ -583,7 +583,7 @@ Transparent /transpaˈrɛnt/, das, -(e)s|-e: banner
 
 Transplantat /transplanˈtaːt/, das, -(e)s|-e: graft, transplant
 
-trat => treten: to enter
+trat → treten: to enter
 
 Traube /ˈtraubə/, die, Trauben: grape
   ein Pfund Trauben kaufen: to buy a pound of grapes
@@ -690,7 +690,7 @@ Treue /ˈtrɔyə/, die, ~|uncountable: faithfulness, fidelity, loyalty
   Er hatte ihr ewige Treue geschworen.
   He had sworn to always be faithful to her.
 
-trieb => treiben
+trieb → treiben
 
 trinken: to drink
   trinke, trinkst, trinkt, habe getrunken
@@ -775,7 +775,7 @@ trübe /ˈtryːbə/: dull, dim, heavy, tarnished, cloudy, cheerless, bleak, gloo
   in trüben Wassern fischen, im Trüben fischen: (informal) to fish in troubled waters
   es sieht trüb aus: things are looking pretty bleak
 
-trug => tragen
+trug → tragen
 
 trügen /ˈtryːɡən/: to deceive
   Meine Hoffnungen hatten mich nicht getrogen.

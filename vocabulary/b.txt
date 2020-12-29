@@ -84,7 +84,7 @@ Band /bant/, das: ribbon, ligament, tape, conveyer belt, bond
   etw. spricht Bände: sth speaks volumes
   familiäre Bande
 
-band => binden
+band → binden
 
 Bande /ˈbandə/, die: gang
 
@@ -143,7 +143,7 @@ basteln /ˈbastəln/: to do handicrafts, to make with your hands
   Die Regierung hat lange an der Reform gebastelt.
   The government worked on the reform for a long time.
 
-bat, baten => bitten
+bat, baten → bitten
 
 Bau /bau/, der, -(e)s|-en: building, construction
   mit dem Bau des Kindergartens beginnen
@@ -206,6 +206,12 @@ Beamte /bəˈ|amtə/, Beamten, Beamtin, Beamtinnen: official, civil servant
   Lehrer und Polizisten sind Beamte.
   Teachers and police officers are government employees. 
 
+beanspruchen: to claim, to strain
+  verlangen, fordern; hohe Anforderungen an jdn stellen
+  ein Vorrecht für sich beanspruchen
+  Die Arbeit beansprucht ihn sehr.
+  → Anspruch
+
 beantragen /bəˈ|antraːɡən/: to apply for
   ein Visum beantragen: to apply for a visa
 
@@ -243,7 +249,7 @@ Bedacht /bəˈdaxt/, der, -s|uncountable
 bedacht /bəˈdaxt/: prudent, cautious
   auf etw acc bedacht sein: to be concerned about sth
   
-bedacht => bedenken
+bedacht → bedenken
   ich bedachte, du bedachtest, er bedachte, ihr bedachtet
 
 bedanken /bəˈdaŋkən/
@@ -327,6 +333,9 @@ Bedingung, die: condition
 bedrohen /bəˈdroːən/: to threaten
   sich von jdm bedroht fühlen: to feel threatened by sb
 
+Bedürfnis, das: need, requirement
+  das Gefühl, jdn / etw. zu brauchen, dringend haben oder tun zu wollen
+
 beehren /bəˈ|eːrən/: to honor sb/sth with sth
   Sie hat uns doch tatsächlich mit ihrer Anwesenheit beehrt.
   She actually did grace us with her presence.
@@ -358,7 +367,7 @@ Beere /ˈbeːrə/, die, ~|-n: berry
 Beet /ˈbeːt/, das, Beete: (flower/plant) bed
    neue Beete anlegen: to lay out new beds 
 
-befahl => befehlen
+befahl → befehlen
 
 Befall /bəˈfal/, der, Befalls: infestation
   Bei starkem Befall mit Blattläusen empfiehlt sich das Spritzen mit Seifenlauge.
@@ -420,7 +429,7 @@ befürchten /bəˈfʏrçtən/: to fear
   It is to be feared that the situation will deteriorate further.
 
 begabt /bəˈɡaːpt/: talented, gifted
-  => Gabe
+  → Gabe
   Sie ist musikalisch begabt.
   She's gifted musically. 
 
@@ -432,7 +441,7 @@ begegnen /bəˈɡeːɡnən/ [dative]: to meet, to confront, to face
   Ich bin ihm zum ersten Mal auf einer Party begegnet.
   I first met him at a party.
   jdm mit Misstrauen / Respekt begegnen: to treat sb with distrust/respect
-  => Gegner: opponent
+  → Gegner: opponent
 
 Begegnung, die: encounter
 
@@ -507,7 +516,7 @@ begreiflich /bə'ɡraiflɪç/: understandable
   schwer begreiflicher Leichtsinn: recklessness that is hard to fathom
 
 begrenzen /bəˈɡrɛnʦən/: to limit, to restrict
-  => Grenze
+  → Grenze
 
 begrenzt /bəˈɡrɛnʦt/: limited, to a limited extent
   nur begrenzte Zeit zur Verfügung stehen
@@ -843,7 +852,7 @@ benötigen /bəˈnøːtɪɡən/: to need, to require
   I need your help.
   Es benötigt mehrere Stunden, bis der Lack trocken ist.
   It takes several hours for the paint to dry.
-  => nötig
+  → nötig
 
 benutzen: to use
   Ich benutze das Handy nur zum Telefonieren.
@@ -860,7 +869,7 @@ bepacken: to load
   ↔ ausladen
 
 berauschend /bəˈrauʃənt/: intoxicating
-  => Rausch, der: intoxication
+  → Rausch, der: intoxication
 
 beraten /bəˈraːtən/: to advise
 
@@ -980,9 +989,9 @@ Berührung /bəˈryːrʊŋ/, die: touch, contact
   sanfte Berührungen: gentle touches
   mit Viren in Berührung kommen: to come into contact with viruses
 
-besann => besinnen
+besann → besinnen
 
-besaßen => besitzen
+besaßen → besitzen
 
 beschädigen /bəˈʃɛːdɪɡən/: to damage
   an etw. Schaden verursachen
@@ -1459,7 +1468,7 @@ Bewährung /bəˈvɛːrʊŋ/, die: probation, test of character
 Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
   die Bewältigung einer Krise: coping with a crisis
 
-bewarf => bewerfen
+bewarf → bewerfen
 
 bewegen /bəˈveːɡən/: to move, to budge, to move forward
   Der Felsblock ließ sich nicht von der Stelle bewegen.
@@ -1536,7 +1545,7 @@ Bewohner, Bewohnerin: occupant, resident
   Höhlenbewohner: cave dwellers
 
 bewölkt /bəˈvœlkt/: cloudy
-  => Wolke
+  → Wolke
 
 bewundern /bəˈvʊndɐn/: to admire
 
@@ -1786,7 +1795,7 @@ blicken /ˈblɪkən/: to look, to get
   aus dem Fenster blicken: to look out of the window
   traurig blicken: to look sad
 
-blies => blasen
+blies → blasen
 
 blind: blind
   Blinder Eifer schadet nur.
@@ -1863,9 +1872,9 @@ Boden /ˈboːdən/, der, ..: ground, soil
 
 Bodenschätze, pl: mineral deposits/resources
   Vorräte an Rohstoffen wie Kohle, Erdöl, Metallen usw. in der Erde
-  => Schatz: treasure
+  → Schatz: treasure
 
-bog => biegen
+bog → biegen
 
 Bogen /ˈboːɡən/, der, -s|~,Bögen: curve, arch, bow
   An der Stelle macht/beschreibt die Straße einen Bogen.
@@ -1932,9 +1941,9 @@ boshaft /ˈboːshaft/: malicious
 Boss /bɔs/, der, -e: boss
   Firmenbosse: company bosses
 
-bot => bieten
+bot → bieten
 
-bot..an => anbieten
+bot..an → anbieten
 
 Bote /ˈboːtə/, -n|-n, Botin: messenger
   Postbote: mailman
@@ -2010,7 +2019,7 @@ brechen /ˈbrɛçən/: to break
   Sie brach das Brot in zwei Teile.
   She broke the bread in two. 
 
-brecht => brechen
+brecht → brechen
 
 Brei /brai/, der, -(e)s|-e: porridge, baby food
   ein Baby mit Brei füttern: to feed baby food to a baby
@@ -2044,7 +2053,7 @@ Brett /brɛt/, das, -(e)s|-er: board, shelf
 Breze(l) /ˈbreːʦə(l)/, die, -n: pretzel
   Riesenbrezen
 
-bricht => brechen
+bricht → brechen
 
 Brief /briːf/, der, Briefe: letter
   jdm einen Brief schreiben: to write sb a letter 
@@ -2057,7 +2066,7 @@ Briefträger /ˈbriːftrɛːɡɐ/, -s|~, -in: mail carrier
 
 Briefumschlag /ˈbriːf|ʊmʃlaːk/, der, ..e: envelope
 
-briet => braten
+briet → braten
 
 Brille /ˈbrɪlə/, die, ~|-n: glasses
   eine Brille tragen: to wear glasses
@@ -2202,8 +2211,8 @@ Bundesebene, die: at the federal level
 Bundeshaushalt, der: federal budget
 
 Bundeskanzler, Bundeskanzlerin: federal chancellor
-  => Bund (Bundesstaat): federal government
-  => Kanzler: chancellor
+  → Bund (Bundesstaat): federal government
+  → Kanzler: chancellor
 
 Bundesregierung, die: Federal Government
 

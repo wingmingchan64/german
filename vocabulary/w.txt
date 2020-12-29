@@ -24,7 +24,7 @@ Wachs /vaks/, das, -es|uncountable: wax
 wachsen /ˈvaksən/: to grow
   als Lebewesen oder Teil eines Lebewesens größer oder länger werden
 
-wächst => wachsen 
+wächst → wachsen 
 
 Wächter /ˈvɛçtɐ/, der: guard, attendant
   jd, der etw. / jdn bewacht
@@ -132,7 +132,7 @@ Wand /vant/, Wände /ˈvɛndə/, die: wall
 
 Wanduhr, die: wall clock
 
-Wände => Wand
+Wände → Wand
 
 wandern /ˈvandɐn/: to hike
   wandern gehen: to go hiking
@@ -141,7 +141,7 @@ wandern /ˈvandɐn/: to hike
 
 Wanderung /ˈvandərʊŋ/, die: hike
   
-wandte => wenden
+wandte → wenden
 
 Wange /ˈvaŋə/, die, ~|-n: cheek
   ≈ Backe
@@ -165,10 +165,10 @@ Wappen /ˈvapən/, das, -s|~: coat of arms
 
 Wappenschild, der: blazon, escu(t)cheon, shield
 
-war => sein
+war → sein
   war, warst, war, waren, wart
 
-ward (poet) => werden
+ward (poet) → werden
 
 Ware /ˈvaːrə/, die, -n: product, article, goods
   ≈ Güter
@@ -179,7 +179,7 @@ Ware /ˈvaːrə/, die, -n: product, article, goods
 wäre
   Wie wär’s mit Donnerstag? 
 
-warf => werfen
+warf → werfen
 
 warm /varm/: warm
   von relativ hoher Temperatur, aber nicht heiß
@@ -190,9 +190,9 @@ warnen /ˈvarnən/: to warn
   Ich warne dich, mach das ja nicht noch mal!
   I'm warning you. Don't do that again!
 
-wart => sein
+wart → sein
 
-wart (imperative du) => warten
+wart (imperative du) → warten
 
 warten /ˈvartən/: to wait, to service
   Sie wartete vor dem Bahnhof auf ihn.
@@ -298,7 +298,7 @@ wehren: to fight back, to defend
 
 Wehrmacht, die
 
-weht => wehen
+weht → wehen
 
 *Weib /vaip/, das: female, babe, woman, wife
 
@@ -962,7 +962,7 @@ Wonne /ˈvɔnə/, die: joy, delight
 
 Woran /voˈran/: on what
 
-worden => werden
+worden → werden
 
 Wort /vɔrt/, das, Worte od Wörter /ˈvœrtɐ/: word
   Können Sie das Wort bitte buchstabieren?
@@ -1077,9 +1077,9 @@ Wurzel /ˈvʊrʦəl/, die, ~|-n: root
   Wie konnte der Baum auf dem Felsen Wurzel fassen?
   How could that tree take root on the cliff?
 
-wusch /vuːʃ/ => waschen
+wusch /vuːʃ/ → waschen
 
-wusste => wissen
+wusste → wissen
 
 ▲Wüste /ˈvyːstə/, die, Wüsten: desert
   Nomaden, die in der Wüste leben: nomads who live in the desert 

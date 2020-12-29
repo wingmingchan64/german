@@ -61,7 +61,7 @@ dahinter /ˈdaːhɪntɐ/: behind (it)
   Da ist das Rathaus und dahinter ein kleiner Park.
   There's city hall and behind it a small park.
 
-dalag => daliegen
+dalag → daliegen
 
 daliegen /ˈdaːliːɡən/: to lie there
   Sie lag da und rührte sich nicht.
@@ -597,7 +597,7 @@ drängen /ˈdrɛŋən/: to push, throng
 drastisch /ˈdrastɪʃ/: strong, drastic
 
 drauf /drauf/: on it/them
-  => darauf
+  → darauf
 
 draußen /ˈdrausən/: outside
   Er war schon seit Tagen nicht mehr draußen.
@@ -630,7 +630,7 @@ dreihundert
 
 Dreikönigsfest, das: Epiphany 主顯節
 
-dreinblicken /ˈdrainblɪkən/ => dreinsehen
+dreinblicken /ˈdrainblɪkən/ → dreinsehen
 
 dreinsehen /ˈdrainzeː(ə)n/: to look
   glücklich / traurig / verwirrt dreinsehen: to look happy/sad/confused
@@ -640,7 +640,7 @@ dreißig /ˈdraisɪç/
 dreizehn /ˈdraiʦeːn/
 
 drin /drɪn/: in it/them
-  => darin
+  → darin
   Du hast ja gestern ein Paket bekommen; was war denn drin?
   You got a package yesterday. What was in it by the way?
 

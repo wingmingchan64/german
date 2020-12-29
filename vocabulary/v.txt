@@ -131,11 +131,11 @@ Verbot /fɛɐˈboːt/, das, -e: ban
   Sie missachtete das Verbot ihrer Eltern und traf sich heimlich mit ihm.
   She met him in secret even though her parents had expressly forbidden her to do so.
 
-verbrannt => verbrennen
+verbrannt → verbrennen
 
 verbessern /fɛɐˈbɛsɐn/: to improve, to correct, to amend
 
-verbrachte => verbringen
+verbrachte → verbringen
 
 verbreiten /fɛɐˈbraitən/: to spread, to transmit
   Malaria wird von Mücken verbreitet.
@@ -309,7 +309,7 @@ Verfügung /fɛɐˈfyːɡʊŋ/, die, -en: disposal, order, decree
   nicht genug Zeit zur Verfügung haben
 
 vergangen /fɛɐˈɡaŋən/: past, previous, last
-  => vergehen
+  → vergehen
   In den vergangenen Jahren waren die Umsätze höher.
   Turnover was higher in previous years.
 
@@ -354,7 +354,7 @@ Vergnügung /fɛɐˈɡnyːɡʊŋ/, die, -en: entertainment, pleasure
   Er hat im Monat 200 Euro für seine Vergnügungen zur Verfügung.
   He has 200 euros a month available for his own entertainment.
 
-vergossen => vergießen
+vergossen → vergießen
 
 vergraben /fɛɐˈɡraːbən/: to bury
 
@@ -370,7 +370,7 @@ verhaften /fɛɐˈhaftən/: to arrest
   Die Polizei hat drei Verdächtige verhaftet.
   The police have arrested three suspects.
 
-verhalf => verhelfen
+verhalf → verhelfen
 
 Verhalten /fɛɐˈhaltən/, das: behavior
   Ich kann sein Verhalten nicht verstehen.
@@ -442,7 +442,7 @@ verhelfen /fɛɐˈhɛlfən/: to help sb/sth to achieve sth
   einer Partei/Idee zum Erfolg verhelfen
   to help a party achieve success/an idea become successful
 
-verhielt => verhalten
+verhielt → verhalten
 
 verhindern /fɛɐˈhɪndɐn/: to prevent
   Sie konnten das Unglück gerade noch verhindern.
@@ -586,13 +586,13 @@ verlieren /fɛɐˈliːrən/: to lose, to disappear, to fade away
   Das letzte Spiel verloren sie 2:1.
   They lost their last match 2-1.
 
-verließ => verlassen
+verließ → verlassen
 
 verlobt /fɛɐˈloːpt/: engaged
 
 Verlobte: fiancé/fiancée
 
-verlor => verlieren
+verlor → verlieren
   ich verlor, du verlorst, er verlor, wir verloren, ihr verlort
 
 verlumpt: worn-out
@@ -741,7 +741,7 @@ Verrückte: lunatic, madman/madwoman
 
 versammeln /fɛɐˈzaməln/: to gather, to assemble
 
-versammelt => versammeln
+versammelt → versammeln
 
 Versammlung /fɛɐˈzamlʊŋ/, die, ~|-en: meeting
   Zweimal im Jahr hielten sie eine Versammlung ab.
@@ -795,7 +795,7 @@ verschmitzt /fɛɐˈʃmɪʦt/: mischievous
 verschreiben: to prescribe
   ≈ verordnen
 
-verschwand => verschwinden
+verschwand → verschwinden
 
 verschweigen: to hide, to conceal, to withhold
 
@@ -1071,7 +1071,7 @@ Vertreter /fɛɐˈtreːtɐ/, -s|~, -in: deputy
   Während meines Urlaubs wenden Sie sich bitte an meine Vertreterin.
   Please contact my deputy whilst I'm away on vacation.
 
-vertritt => vertreten
+vertritt → vertreten
 
 vertuschen /fɛɐˈtʊʃən/: to cover up
   Er versuchte seinen Fehler zu vertuschen.
@@ -1083,7 +1083,7 @@ verunsichern: to make uncertain, to unnerve
 
 verursachen /fɛɐˈ|uːɐzaxən/: to cause
   die Ursache / der Urheber von etw. 
-  => Ursache
+  → Ursache
   Wer hat den Unfall verursacht?
   Who caused the accident?
 
@@ -1510,6 +1510,10 @@ Vorort /ˈfoːɐ|ɔrt/, der, -e: suburb
 
 Vorrat /ˈfoːɐraːt/, der: reserves, supply, stock
   Dinge, die im Bedarfsfall zur Verfügung stehen
+
+Vorrecht, das: privilege
+  besonderes Recht, das jd für sich in Anspruch nehmen kann
+  ein Vorrecht genießen
 
 Vorrichtung /ˈfoːɐrɪçtʊŋ/, die: device
   (technische) Anlage, die meist als Hilfsmittel für etw. dient

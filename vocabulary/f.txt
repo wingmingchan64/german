@@ -26,7 +26,7 @@ Fächer /ˈfɛçɐ/, der, -: fan
 fächern: to fan out, to diversity
 
 Fachmann /ˈfaxman/, der, -(e)s|..er: expert
-  => Fachleute, Experte
+  → Fachleute, Experte
   Das sollten wir besser von einem Fachmann beurteilen lassen.
   We really ought to get an expert opinion on that.
 
@@ -62,7 +62,7 @@ fahren /ˈfaːrən/: to drive, to go
 
 Fahrer /ˈfaːrɐ/, der: driver
   jd, der ein Fahrzeug lenkt, steuert
-  => Lenker
+  → Lenker
   Der Fahrer des Wagens wurde nur leicht verletzt.
 
 Fahrgast /ˈfaːɐɡast/, der, -(e)s|..e
@@ -170,18 +170,18 @@ Familienangehörige /faˈmiːljən|anɡəhøːrɪɡə/, Familienangehörigen: fa
 Familienmitglied, das: family member
 
 Familienname /faˈmiːljənnaːmə/, der: family name
-  => Nachname
+  → Nachname
 
-fand => finden
+fand → finden
 
-fände => finden
+fände → finden
 
 fangen /ˈfaŋən/: to bag, to capture, to catch, to trap
   Hast du schon einen Fisch gefangen?
   Have you caught a fish yet?
 
 Fänger: captor
-  => fangen
+  → fangen
 
 Fantasie /fantaˈziː/, die
 
@@ -191,7 +191,7 @@ Farbe /ˈfarbə/, die, Farben: color, paint
   zwei Eimer weiße Farbe kaufen: to buy two buckets of white paint
 
 farbig /ˈfarbɪç/: colored
-  => bunt
+  → bunt
   ein Buch mit farbigen Abbildungen: a book with color illustrations
   eine dreifarbige Katze: a three-colored cat
   Durch die farbigen Schilderungen des Urwalds habe ich fast das Gefühl, schon einmal dort gewesen zu sein.
@@ -486,9 +486,9 @@ Fieber /ˈfiːbɐ/, das, -: temperature, fever, bug
   Ich bin schon im Reisefieber.
   I'm all excited about the trip already.
 
-fiel => fallen
+fiel → fallen
 
-fielen => fallen: to be fired
+fielen → fallen: to be fired
 
 fies /fiːs/: nasty, disgusting, horrible
 
@@ -504,7 +504,7 @@ finden /ˈfɪndən/: to find
   finden statt: to take place
   Jetzt findet es im September statt 
 
-fingen => fangen
+fingen → fangen
 
 Finger /ˈfɪŋɐ/, der, -s|~: finger
 
@@ -561,7 +561,7 @@ Fleck /flɛk/, der: stain, mark, spot, marking, place
 fleddern /ˈflɛdɐn/: to rob
 
 flehen /ˈfleːən/: to beg
-  => betteln
+  → betteln
   Die Geiseln flehten um Gnade.
   The hostages begged for mercy.
 
@@ -614,7 +614,7 @@ Flocke /ˈflɔkə/, die, -e|-en: flake
   Thick flakes slowly floated to the ground.
   Haferflockensuppe: oatmeal soup
 
-flog, flogen  => fliegen
+flog, flogen  → fliegen
 
 Floh /floː/, der, -(e)s|..e: flea
   von Flöhen gebissen werden: to be bitten by fleas
@@ -742,7 +742,7 @@ Förderanlage, die: conveyor
 Förderband, das: conveyor belt
 
 Förderbetrag, der: grant
-  => Betrag: ammount, sum
+  → Betrag: ammount, sum
 
 fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
   fordere, forderst, fordert, habe gefordert
@@ -804,7 +804,7 @@ Forschung /ˈfɔrʃʊŋ/, die, ~|-en: research
 Forschungsergebnis, das: result of the research, result finding
 
 fort /fɔrt/: away, gone
-  => weg
+  → weg
   Mein Buch ist fort!
   My book's gone!
 
@@ -834,7 +834,7 @@ fortsetzen /ˈfɔrtzɛʦən/: to continue
 
 Fortsetzung /ˈfɔrtzɛʦʊŋ/, die, ~|-en: continuation, episode
   die Fortsetzung der Diskussion: the continuation of the discussion
-  => Folge
+  → Folge
   Wie viele Fortsetzungen hat die Serie?
   How many episodes are there in the series?
 
@@ -1010,7 +1010,7 @@ frühstücken /ˈfryːʃtʏkən/: to have breakfast
 
 Fuchs /fʊks/, der, -es|..e, Füchsin: fox
 
-fuhr => fahren
+fuhr → fahren
   ich fuhr, du fuhrst, er fuhr, wir fuhren, ihr fuhrt
 
 fühlen /ˈfyːlən/: to feel
@@ -1054,7 +1054,7 @@ Führerschein /ˈfyːrɐʃain/, der: driver’s license
   Dokument, das man braucht, um ein Auto, Motorrad o. Ä. fahren zu dürfen
   Ihm wurde der Führerschein abgenommen.
 
-führte => führen
+führte → führen
 
 Führung, die: leadership
 

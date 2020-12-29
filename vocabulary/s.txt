@@ -48,7 +48,7 @@ sagen: to say
   Ehrlich gesagt: Ich weiß es nicht.
   To be honest, I don't know.
 
-sah => sehen
+sah → sehen
   ich sah, du sahst, er sah, wir sahen, ihr saht
 
 Sahne /ˈzaːnə/, die, ~|uncountable: cream
@@ -88,7 +88,7 @@ sämtlich /ˈzɛmtlɪç/: all
 Sand /zant/, der, -e: sand
   im Sand spielen: to play in the sand
 
-sandte => senden
+sandte → senden
 
 Sandwich /ˈzɛntvɪtʃ/, das, -(e)s|-(e)s
   Machst du mir ein Schinkensandwich?
@@ -107,7 +107,7 @@ Sänger /ˈzɛŋɐ/, Sängerin: singer
 Sanitäter /zaniˈtɛːtɐ/, der: paramedic
   jd, der medizinische Kenntnisse hat und beruflich bei Unfällen hilft usw
 
-saß /zaːs/ => sitzen
+saß /zaːs/ → sitzen
 
 satt /zat/: full, ric, lush, substantial
   ↔ hungrig
@@ -309,7 +309,7 @@ schaum /ʃaum/, der, ..e: foam, lather, froth
 
 Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
 
-schauten => schauen
+schauten → schauen
 
 Scheibe /ˈʃaibə/, die, -n: slice, pane, disk
   relativ dünnes abgeschnittenes Stück; dünnes flaches Stück; Gegenstand mit einer flachen, runden Form
@@ -321,7 +321,7 @@ scheiden: to dissolve, to divorce, to part
   durch Gerichtsurteil beenden; durch Gerichtsurteil trennen; von jdm / etw. weggehen, sich trennen
   habe geschieden, schied
   durch Gerichtsurteil beenden; durch Gerichtsurteil trennen; von jdm / etw. weggehen, sich trennen
-  => Abschied
+  → Abschied
 
 Schein /ʃain/, der, -(e)s|-e: light, glow, appearances, bill (money), certificate, check, coupon, shine, show, ticket
   Licht, das von etw. ausgeht; Glanz; äußerer Eindruck, der nicht der Realität entspricht; 
@@ -362,7 +362,7 @@ scheitern /ˈʃaitɐn/: to fail, to fall through, to collapse, to break down
   to already have two failed attempts behind you
 
 schenken /ˈʃɛŋkən/: to give (as a present), to donate
-  => Geschenk: gift
+  → Geschenk: gift
   Geschenkt! Forget it!
   jdm ein freundliches Lächeln schenken: to give sb a friendly smile
 
@@ -417,7 +417,7 @@ Schiedsrichter: referee, umpire
 
 schief /ʃiːf/: awry
 
-schien => scheinen
+schien → scheinen
 
 schießen /ˈʃiːsən/: to shoot, to kick
   schieße, schoss, schossest, schosst, geschossen
@@ -625,7 +625,7 @@ schlucken /ˈʃlʊkən/: to swallow, to guzzle, to booze
   Die kleinen Kinos sind fast alle von großen Ketten geschluckt worden.
   The small movie theaters have nearly all been swallowed up by big chains.
 
-schlugen => schlagen
+schlugen → schlagen
 
 schlurfen /ˈʃlʊrfən/: to shuffle 拖著腳走，曳足而行, to slurp
   Der Alte schlurfte zur Tür und öffnete sie.
@@ -788,7 +788,7 @@ schneiden /ˈʃnaidən/: to cut, to chop, to slice
   to chop tomatoes
 
 Schneider /ˈʃnaidɐ/, Schneiderin, -s|~: tailor
-  => schneiden
+  → schneiden
   einen Anzug vom Schneider anfertigen lassen: to have a suit tailored
 
 schneien /ˈʃnaiən/: to snow
@@ -799,7 +799,7 @@ schniefen /ˈʃniːfən/: to sniff
   The boy kept sniffing for a while, but then calmed down again.
 
 Schnitt /ʃnɪt/, der: cut, average, cross-section
-  => schneiden
+  → schneiden
   Der Arzt setzte den Schnitt unterhalb des Nabels an.
   The doctor started the incision below the navel.
   einen tiefen Schnitt im Finger haben
@@ -826,7 +826,7 @@ Schnurrbart /ˈʃnʊrbaːɐt/, der, -(e)|..e: mustache
 Schnute, die: pout
   eine Schnute ziehen (od machen): to pout
 
-schob /ʃoːp/ => schieben
+schob /ʃoːp/ → schieben
 
 Schock /ʃɔk/, der, -(e)s|-s: shock
   Die Nachricht war ein ziemlicher Schock für ihn.
@@ -849,7 +849,7 @@ schöpfen /ˈʃœpfən/: to ladle, to draw, to create
 
 Schorle /ˈʃɔrlə/, die: wine mixed with mineral water or lemonade, fruit juice mixed with mineral water
 
-schossen => schießen
+schossen → schießen
 
 Schoß /ʃoːs/, der, -es|..e: lap
   jdn auf seinen Schoß nehmen: to sit sb on your lap
@@ -900,7 +900,7 @@ schreiten /ˈʃraitən/: to stride, to walk
   Schreiten wir nun zur Tat / Wahl.
   Now let's get down to action / the vote.
 
-schrie => schreien
+schrie → schreien
 
 Schrift, die: script, alphabet, writing, font, text
   die Heilige Schrift
@@ -945,7 +945,7 @@ schubsen /ˈʃʊpsn/: to shove, to push, to nudge
 
 schüchtern: shy
 
-schuf => schaffen
+schuf → schaffen
 
 schuften /ˈʃʊftən/: to slave away
   für einen Erfolg schwer schuften müssen: to have to really slave to be successful
@@ -1015,7 +1015,7 @@ schürzen /ˈʃʏrʦən/: to pout
   schürzen Lippen
 
 Schuss, Schüssen, der: gun shot
-  => erschießen
+  → erschießen
 
 Schuss /ʃʊs/, Schüsse, der: shot
 
@@ -1139,7 +1139,7 @@ Schwester /ˈʃvɛstɐ/, die, ~|-n
   Isn’t it very hot wearing a black nun’s habit?
   Hast Du Schwestern? Ich habe keine Schwestern.
 
-schwieg => schweigen
+schwieg → schweigen
 
 schwierig /ˈʃviːrɪç/: difficult
   Ich finde es schwierig, mich zu entscheiden.
@@ -1181,7 +1181,7 @@ Schwung /ʃvʊŋ/, der, -(e)s|..e /ˈʃvʏŋə/: force, impetus
 
 Schwur /ʃvuːɐ/, der: oath
 
-schwur => schwören
+schwur → schwören
 
 sechs /zɛks/
 
@@ -1241,13 +1241,13 @@ sehr /zeːɐ/: very
   Bitte sehr!
   You're very welcome.
 
-sei => sein
+sei → sein
 
 seicht: shallow
   Der Fluss ist seicht genug, um hindurchzuwaten.
   The river is shallow enough to wade through.
 
-seien => sein
+seien → sein
 
 Seife /ˈzaifə/, die, -n: soap
   Substanz zum Waschen der Hände und des Körpers, meist als festes Stück
@@ -1382,6 +1382,7 @@ Sessel /ˈzɛsəl/, der, -s|~: armchair
   sich in einen Sessel setzen: to sit down in an armchair
 
 setzen /ˈzɛʦən/: to sit, to set
+  sich: eine sitzende Stellung einnehmen
   sich aufs Pferd setzen: to get into the saddle
   das Kind in den Kinderwagen setzen: to put the child in the stroller
   Frist gesetzt: deadline set
@@ -1443,7 +1444,7 @@ Siegel /ˈziːɡəl/, das, -s|~: seal
 
 siegeln /ˈziːɡəln/: to seal
 
-sieh, siehe, sieht => sehen
+sieh, siehe, sieht → sehen
 
 Sigel, Siegel
 
@@ -1711,7 +1712,7 @@ Spatz /ʃpaʦ/, der, -en|-en: sparrow
   Was ist denn los, mein kleiner Spatz?
   What's the matter, sweetie?
 
-Spätzchen => Spatz
+Spätzchen → Spatz
 
 Spätzle /ˈʃpɛʦlə/, pl: sort of pasta
 
@@ -1829,7 +1830,7 @@ Sportart, die, ~|-en: (kind of) sport
 
 Spott /ʃpɔt/, der, -(e)s: mockery
   bes. Worte, mit denen man sich meist auf boshafte Weise über jdn / etw. lustig macht
-  Sie litt sehr unter dem Spott ihrer Mitschüler. [litt => leiden]
+  Sie litt sehr unter dem Spott ihrer Mitschüler. [litt → leiden]
   She was mercilessly teased by the other kids at her school.
 
 Sprache /ˈʃpraːxə/, die, -n: language
@@ -1930,7 +1931,7 @@ Stand /ʃtant/, der: stall, state, stand, level
   Der Taxistand war leer.
   The taxi stand was empty.
 
-stand => stehen
+stand → stehen
 
 Standesamt /ˈʃtandəs|amt/, das, ..er: bureau of vital statistics, register office/registry office
 
@@ -2058,7 +2059,7 @@ Stecknadel /ˈʃtɛknaːdəl/, die, ~|-n: pin
   einen Rocksaum mit Stecknadeln abstecken: to pin up the hem of a skirt
   eine Stecknadel im Heuhaufen: a needle in a haystack
 
-steckte => stecken
+steckte → stecken
 
 stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
   stehen bleiben: to stay
@@ -2092,7 +2093,7 @@ steif /ʃtaif/: stiff
 
 Steige /ˈʃtaiɡə/, die: crate, steep track
   zwei Steigen Äpfel kaufen: to buy two crates of apples
-  => steigen
+  → steigen
   Mit viel Dampf fuhr die Lokomotive die Steige hinauf.
   Puffing out clouds of steam, the locomotive climbed the steep track.
 
@@ -2207,7 +2208,7 @@ Stiel /ʃtiːl/, der, -(e)s|-e: handle
   die Kirschen mit Stiel pflücken: to pick the cherries with stalks attached
   das Glas am Stiel fassen: to take hold of the glass by the stem
 
-stieß => stoßen
+stieß → stoßen
 
 Stift /ʃtɪft/, der, -e: pen(cil), peg, tack, apprentice
   Hast du mal einen Stift für mich?
@@ -2449,7 +2450,7 @@ streichen /ˈʃtraiçən/: to paint, to spread, to delete, to cut, to cancel, to
   Das Schiff wurde grau gestrichen
 
 Streifen /ˈʃtraifən/, der: stripe
-  => gestreift
+  → gestreift
   Zebras haben schwarze Streifen.
   Zebras have black stripes.
   Die Fenster hatten nach dem Putzen noch Streifen.
@@ -2488,7 +2489,7 @@ streng /ʃtrɛŋ/: strict, harsh, severe
 
 streuen /ˈʃtrɔyən/: to scatter, to spread
 
-strich /ʃtrɪç/ => streichen
+strich /ʃtrɪç/ → streichen
 
 Strohhalm /ˈʃtroːhalm/: straw
   Plastikstrohhalme

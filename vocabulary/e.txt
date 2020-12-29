@@ -79,7 +79,7 @@ Edelstein /ˈeːdəlʃtain/, der: precious stone
 
 Edle, der, -n: noble, nobleman
 
-edle => edel
+edle → edel
 
 effektiv /ɛfɛkˈtiːf/: effective
 
@@ -255,7 +255,7 @@ Einbildung /ˈainbɪldʊŋ/, die, ~|-en: imagination, illusion, fancy
   Alle ihre Leiden sind reine Einbildung.
   All her ailments are a figment of her imagination.
 
-eingebracht => einbringen
+eingebracht → einbringen
 
 einbringen /ˈainbrɪŋən/: to bring in, to earn, to introduce, to submit, to contribute
   Diese Arbeit bringt nicht viel ein.
@@ -345,8 +345,8 @@ einfallen /ˈainfalən/: to remember, to think of, to sink in, to invade, to att
   What made you think that you could put your hands on my fiancée?
 
 einfärben: to dye
-  => Farbe
-  => färben: to color
+  → Farbe
+  → färben: to color
   Kleider schwarz einfärben: to dye dresses black
 
 einfinden /ˈainfɪndən/: to gather, to turn up
@@ -393,14 +393,14 @@ eingehend /ˈainɡeːənt/: extensive, detailed, in-depth
 eingeliefert: taken
 
 einheimisch /ˈainhaimɪʃ/: local, native
-  => heimisch: local
-  => Heim, das: home
+  → heimisch: local
+  → Heim, das: home
   einen Einheimischen nach dem Weg fragen: to ask a local for directions
 
 eingeschrieben: registered
 
 eingetragen: registered
-  => eintragen
+  → eintragen
 
 einhalten /ˈainhaltən/: to adhere/stick to, to abide by, to stop
   eine Diät streng einhalten: to adhere to a strict diet
@@ -431,7 +431,7 @@ to take down, to haul in, to go shopping
   die Angelschnur einholen und neu auswerfen: to reel in your fishing line and cast it again
   den Anker einholen: to raise anchor
   die Fahne einholen: to take down the flag
-  Ich muss noch schnell (Brot) einholen gehen. => einkaufen
+  Ich muss noch schnell (Brot) einholen gehen. → einkaufen
   I have to do some quick shopping (for bread).
 
 einig /ˈainɪç/: agreed, unanimously
@@ -536,7 +536,7 @@ einloggen /ˈainlɔɡən/: to log in/on
   sich mit Benutzername und Passwort einloggen
   to log in with your user name and password
 
-einlud => einladen
+einlud → einladen
 
 einmal /ˈainmaːl/: once, at once, one day, sometime
   Sie war erst einmal im Ausland.
@@ -568,6 +568,9 @@ Einnahme /ˈainnaːmə/, die, -n: revenue, income, takings
   The capture of the besieged city was imminent.
 
 einnehmbar: capable of being taken (captured)
+
+einnehmen: to take, to earn, to occupy
+  durch Geschäfte, Verkäufe bekommen; schlucken; beanspruchen, füllen
 
 einpacken /ˈainpakən/: to wrap (up), to pack
   Weihnachtsgeschenke einpacken: to wrap up Christmas presents
@@ -651,7 +654,7 @@ einschlagen /ˈainʃlaːɡən/: to smash, to strike, to hit
 
 einschleichen /ˈainʃlaiçən/: to sneak in
 
-einschlug => einschlagen
+einschlug → einschlagen
 
 einsehen /ˈainzeːən/: to realize, to accept, to look at/through, to inspect, to see
   Ich sehe ein, dass es keine andere Möglichkeit gibt.
@@ -978,7 +981,7 @@ England /ˈɛŋlant/
 Engländer, der, Engländerin, Engländer
 
 Engpass /ˈɛŋpas/, der: bottleneck, narrow pass
-  => eng: narrow
+  → eng: narrow
 
 Englisch /ˈɛŋlɪʃ/
   die englische Sprache
@@ -1093,7 +1096,7 @@ entscheidend /ɛntˈʃaidənt/: vital, crucial, critical, decisive
 
 Entscheidung /ɛntˈʃaidʊŋ/, die: decision
 
-entschieden => entscheiden
+entschieden → entscheiden
 
 entschließen: to decide
   Sie haben sich entschlossen, das Boot zu verkaufen.
@@ -1190,7 +1193,7 @@ Entwicklung /ɛntˈvɪklʊŋ/, die: development
 
 entwinden: to wrench
 
-entwirft => entwerfen
+entwirft → entwerfen
 
 Entwurf /ɛntˈvʊrf/, der: design, draft, sketch
 
@@ -1298,7 +1301,7 @@ Erfindung /ɛɐˈfɪndʊŋ/, die, -en: invention, fiction
   I think that's all pure fiction.
 
 Erfolg /ɛɐˈfɔlk/, der, -(e)s|-e: success
-  => Folge: consequence, result
+  → Folge: consequence, result
 
 erfolgen /ɛɐˈfɔlɡən/: to follow, to take place
   als Folge von etw. geschehen; getan, durchgeführt werden 
@@ -1473,7 +1476,7 @@ erklimmen /ɛɐˈklɪmən/: to climb, to scale
   Gemeinsam erklommen sie die höchsten Gipfel.
   Together they climbed the highest peaks.
 
-erkoren => erküren
+erkoren → erküren
 
 erkunden /ɛɐˈkʊndən/: to explore
 
@@ -1568,7 +1571,7 @@ Ermordung /ɛɐˈmɔrdʊŋ/, die, ~|-en: murder, homicide
 ermuntern: to encourage
 
 ernähren: to eat
-  => Nahrung
+  → Nahrung
   sich gesund / vegetarisch ernähren
 
 Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
@@ -1690,7 +1693,7 @@ erschöpft /ɛɐˈʃœpft/: exhausted, depleted, used up
   Meine Geduld ist jetzt wirklich erschöpft!
   I've really run out of patience now!
 
-erschrak => erschrecken
+erschrak → erschrecken
 
 erschrecken /ɛɐˈʃrɛkən/: to get a fright, to be startled, to frighten
 
@@ -1877,7 +1880,7 @@ erzürnen /ɛɐˈʦʏrnən/: to anger, to incense, to get angry
   sich über jds Dreistigkeit erzürnen
   to get angry at sb's brazenness 
 
-erzürnt => erzürnen
+erzürnt → erzürnen
 
 △es /ɛs/: it, there
   Schau mal das Kind, wie brav es spielt.

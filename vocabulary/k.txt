@@ -52,7 +52,7 @@ Kälte /ˈkɛltə/, die, |uncountable: cold
 
 Kalzium /ˈkalʦjʊm/, das, |uncountable
 
-kam /kaːm/ => kommen
+kam /kaːm/ → kommen
   ich kam, du kamst, er kam, wir kamen, ihr kamt
   imperfect subjunctive:
   ich käme, du kämest, er käme, wir kämen, ihr kämet
@@ -732,7 +732,7 @@ komisch /ˈkoːmɪʃ/: funny, strange
   Komisch, dass er noch nicht hier ist. Es wird doch nichts passiert sein?
   Funny that he's not here yet. I hope nothing's happened to him.
 
-komm (imperative du) => kommen
+komm (imperative du) → kommen
 
 kommen /ˈkɔmən/: to come
   komme, kommst, kommt, bin gekommen
@@ -815,6 +815,8 @@ konfrontieren /kɔnfrɔnˈtiːrən/: to confront
   to confront sb with the truth/with a problem
 
 Kongo /ˈkɔŋɡo/, der
+
+König /‘køːnɪç/
 
 konjugieren /kɔnjuˈɡiːrən/: to conjugate
 
@@ -1121,7 +1123,7 @@ kritisieren /kritiˈziːrən/: to criticize
   Die Regierung wurde wegen dieses Vorfalls/für diesen Fehler scharf kritisiert.
   The government was sharply criticized for this incident/mistake.
 
-krochen => kriechen
+krochen → kriechen
   ich kroch, du krochst, er kroch, ihr krocht
 
 Krone /ˈkroːnə/, die: crown
@@ -1223,7 +1225,7 @@ Kündigung /ˈkʏndɪɡʊŋ/, die, ~|-en: notice
   He handed in his notice.
 
 künftig /ˈkʏnftɪç/, adj.: future
-  => Zukunft
+  → Zukunft
 
 Kunst /kʊnst/, die, Künste: art
   darstellende/bildende Kunst: dramatic/fine art

@@ -178,7 +178,7 @@ Gebet /ɡəˈbeːt/, das, -(e)s|-e: prayer
   die Hände zum Gebet falten
   to fold your hands in prayer
 
-gebeten /ɡəˈbeːtən/ => bitten
+gebeten /ɡəˈbeːtən/ → bitten
 
 Gebiet /ɡəˈbiːt/, das: region, area
   größerer räumlicher Bereich mit einheitlichen Merkmalen
@@ -192,7 +192,7 @@ Gebirge /ɡəˈbɪrɡə/, das, -: mountains
 
 Gebirgskette, die: mountain range
 
-gebissen => beißen
+gebissen → beißen
 
 geborgen → bergen
 
@@ -201,11 +201,11 @@ Gebot /ɡəˈboːt/, das, -e: commandment, imperative, law, rule
   Gebotsschilder sind blau mit weißen Symbolen.
   Mandatory signs are blue with white symbols.
 
-geboten => bieten
+geboten → bieten
 
-gebracht => bringen
+gebracht → bringen
 
-gebrannt => brennen
+gebrannt → brennen
 
 gebraten: fried
 
@@ -220,7 +220,7 @@ Gebrauch /ɡəˈbraux/, der, -(e)s|..e: use
 gebraucht: used
 
 Gebrüll /ɡəˈbrʏl/, das, -(e)s: roaring, screaming
-  => brüllen
+  → brüllen
   Löwengebrüll: the roar of lions
   Aus dem Kinderzimmer ertönte wütendes Gebrüll.
   There was furious yelling coming from the kids' playroom.
@@ -256,7 +256,7 @@ Geburtstag /ɡəˈbuːɐʦtaːk/, der, -e: birthday
 gedacht: intended, imagined
   für einen Anlass o. Ä. bestimmt; nur in der Vorstellung vorhanden
 
-gedacht => denken
+gedacht → denken
 
 Gedächtnis /ɡəˈdɛçtnɪs/, das: memory
   Mein Gedächtnis lässt mich manchmal im Stich.
@@ -329,9 +329,9 @@ gefallen: to please
   Willst du dir diese Unverschämtheit etwa gefallen lassen?
   Are you actually going to put up with this impertinence?
 
-gefällt => fällen, gefallen
+gefällt → fällen, gefallen
 
-gefaltet => falten
+gefaltet → falten
 
 gefangen: captive
 
@@ -357,9 +357,9 @@ Geflügel /ɡəˈflyːɡəl/, das, -s|uncountable: poultry
 Gefühl /ɡəˈfyːl/, das: feeling
   seine Gefühle zeigen/verbergen: to show/hide your feelings
 
-gefunden => finden
+gefunden → finden
 
-gegangen => gehen
+gegangen → gehen
 
 gegen /ˈɡeːɡən/: against, toward, at about
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
@@ -435,7 +435,7 @@ Gehalt /ɡəˈhalt/, das, -(e)s|..er: salary
 gehässig /ɡəˈhɛsɪç/: spiteful, hateful, malicious
 
 gehäuft /ɡəˈhɔyft/: massed, frequent
-  => häufig, häufen
+  → häufig, häufen
   ein gehäuftes Auftreten der Krankheit beobachten
   to take note of frequent occurrences of the illness
   In dieser Gegend kommen gehäuft Ladendiebstähle vor.
@@ -467,9 +467,9 @@ gehen /ˈɡeːən/: to go, to walk, to leave
 Gehirn /ɡəˈhɪrn/, das: brain
 
 gehoben: elevated, senior
-  => heben
+  → heben
 
-geholt => holen
+geholt → holen
 
 Gehölz /ɡəˈhœlʦ/, das: grove, copse, thicket
 
@@ -487,7 +487,7 @@ gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require, to be 
   gehören, sich: to be proper
 
 Gehorsam /ɡəˈhoːɐzaːm/, der, -s|uncountable: obedience
-  => gehorchen
+  → gehorchen
   bedingungslosen Gehorsam verlangen: to demand unquestioning obedience
 
 gehorsam: obedient
@@ -525,14 +525,14 @@ geistern /ˈɡaistɐn/: to wander, to keep running through
   He still can't get the idea of having his own restaurant out of his head.
 
 geistig: spiritual, mental
-  => Geist
+  → Geist
 
 gekleidet: clad, dressed
-  => kleiden
+  → kleiden
 
 gekocht: boiled
 
-gekonnt => können
+gekonnt → können
 
 gekräuselt: curly, curled, frizzy, ripply, frilly
   ihre Haare haben sich im Regen gekräuselt
@@ -541,7 +541,7 @@ gekräuselt: curly, curled, frizzy, ripply, frilly
 Gelächter /ɡəˈlɛçtɐ/, das, -s: laughter
   Die Jungen brachen in lautes Gelächter aus.
 
-geladen, geladene => laden 
+geladen, geladene → laden 
 
 *Gelände /ɡəˈlɛndə/, das, -s|~: grounds, premises, area, terrain
   begrenztes Stück Land
@@ -552,7 +552,7 @@ gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to, to reach
   an die Macht / zu Ruhm gelangen
   to come to power/to rise to fame
 
-gelangt => langen, gelangen
+gelangt → langen, gelangen
 
 gelassen: calm, unruffled
   eine gelassene Miene zur Schau tragen: to put on a relaxed face
@@ -621,7 +621,7 @@ Gelübde /ɡəˈlʏpdə/, das, -: vow
   ein Gelübde ablegen / halten / brechen
   to take/keep/break a vow
   
-Gelübte => Gelübde
+Gelübte → Gelübde
 
 gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
@@ -629,7 +629,7 @@ gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
   ein Gemälde von Picasso: a painting by Picasso
 
 Gemecker: grouse 牢騷
-  => mecken
+  → mecken
 
 gemein /ɡəˈmain/: mean, nasty, cruel, annoying
   andere mit Absicht ärgernd, ihnen schadend
@@ -655,17 +655,17 @@ Gemeinschaft /ɡəˈmainʃaft/, die, ~|-en: community
   die Europäische Gemeinschaft: The European Community
 
 gemeint: serious
-  => meinen
+  → meinen
 
 gemessen /ɡəˈmɛsən/: measured, appropriate
-  => messen: to measure
+  → messen: to measure
 
 Gemisch /ɡəˈmɪʃ/, das, -e: mixture
   Luft ist ein Gemisch aus verschiedenen Gasen.
   Air is a mixture of various gases.
 
 gemischt: mixed
-  => mischen
+  → mischen
 
 Gemüse /ɡəˈmyːzə/, das, -s|~: vegetable
 
@@ -699,7 +699,7 @@ Genehmigung /ɡəˈneːmɪɡʊŋ/, die, -en: permission, approval, authorization
   eine schriftliche Genehmigung vorlegen: to submit written authorization
 
 geneigt /ɡəˈnaikt/: inclined
-  => neigen
+  → neigen
 
 Genick /ɡəˈnɪk/, das, -(e)s|-e: neck
   Das Tier hat sich bei dem Sturz das Genick gebrochen.
@@ -719,7 +719,7 @@ Genitiv /ˈɡeːnitiːf/, der, -s|-e: genitive
 
 genital /geniˈtaːl/
 
-genommen => nehmen
+genommen → nehmen
 
 Genosse /ɡəˈnɔsə/, -n|-n, Genossin: comrade, buddy, member
   ein Antrag des Genossen Steiner: comrade Steiner's proposal
@@ -764,7 +764,7 @@ gepflegt /ɡəˈpfleːkt/: well-groomed, smart, dapper
   Auf dem Empfang herrschte geflegte Langeweile.
   The reception was characterized by sophisticated boredom.
 
-geprüft => prüfen
+geprüft → prüfen
 
 gerade /ɡəˈraːdə/: straight, at the moment
   völlig gerade: perfectly straight
@@ -857,7 +857,7 @@ Gesang /ɡəˈzaŋ/, der, -(e)s|..e: singing, song
   der wunderschöne Gesang der Nachtigall: the wonderful singing of the nightingale
   geistliche Gesänge: spiritual songs
 
-geschah => geschehen
+geschah → geschehen
 
 Geschäft /ɡəˈʃɛft/, das, -(e)s|-e: store, business, deal, trade
 
@@ -879,7 +879,7 @@ Geschenk, das: present
 
 Geschichte /ɡəˈʃɪçtə/, die, ~|-n: story, history
 
-geschieden => scheiden
+geschieden → scheiden
 
 geschickt /ɡəˈʃɪkt/: skillful
   ≈ gewandt
@@ -912,12 +912,12 @@ Geschmack /ɡəˈʃmak/, der, -(e)s|..e: taste
   Er hat viel / einen guten Geschmack, was Kleidung angeht.
   He has a lot of taste/has good taste when it comes to clothes.
 
-geschnitten => schneiden
+geschnitten → schneiden
 
 Geschöpf /ɡəˈʃœpf/, das: creature
   Lebewesen
 
-geschossen => schießen
+geschossen → schießen
 
 Geschütz /ɡəˈʃʏʦ/, das, -e: gun, cannon
   ein Geschütz laden / abfeuern: to load/fire a gun
@@ -933,7 +933,7 @@ Geschwindigkeit /ɡəˈʃvɪndɪçkait/, die, en: speed
 Geschwister /ɡəˈʃvɪstɐ/, pl: siblings
 
 gesegnet: blessed
-  => segnen
+  → segnen
 
 gesellen /ɡəˈzɛlən/:
   jd gesellt sich zu jdm: sb joins sb
@@ -954,7 +954,7 @@ Gesellschaft /ɡəˈzɛlʃaft/, die, ~|-en: society, company, party, social even
 
 Gesellschaftsschicht, die: stratum of society, social stratum
 
-gesessen => sitzen
+gesessen → sitzen
 
 Gesetz /ɡəˈzɛʦ/, das, -es|-e: law
   die Gesetze befolgen/einhalten: to abide by/stick to the laws
@@ -971,7 +971,7 @@ gesetzlich /ɡəˈzɛʦlɪç/: legal
 Gesicht /ɡəˈzɪçt/, das, -(e)s|-er: face
   ein hübsches Gesicht haben: to have a pretty face
 
-gesichtet => sichten
+gesichtet → sichten
 
 Gesöff /ɡəˈzœf/, das, -e: brew
   Was ist das denn für ein saures Gesöff?
@@ -1005,7 +1005,7 @@ gestalten /ɡəˈʃtaltən/: to lay out, to organize, to structure, to dress, to
   The renovations are proving to be more difficult than anticipated.
 
 Gestank /ɡəˈʃtaŋk/, der, -(e)s|uncountable: stink
-  => stinken
+  → stinken
 
 gestatten: to allow, to permit
   ↔ untersagen
@@ -1019,7 +1019,7 @@ gestehen /ɡəˈʃteːən/: to confess (to), to admit (to)
 
 gestern /ˈɡɛstɐn/: yesterday
 
-gestohlen => stehlen
+gestohlen → stehlen
 
 gestört /ɡəˈʃtøːɐt/: disturbed, confused, troubled
   eine gestörte Beziehung zu jdm / etw. haben
@@ -1050,10 +1050,10 @@ getreu: true, faithful, exact, loyal
   Getriebeschaden
 
 gewagt /ɡəˈvaːkt/: daring, risky
-  => wagen
+  → wagen
 
 gewählt /ɡəˈvɛːlt/: refined, elegant, select, in a refined manner, elegantly
-  => wählen
+  → wählen
   sich gewählt ausdrücken: to express yourself elegantly
 
 Gewähr /ɡəˈvɛːɐ/, die, ~|uncountable: guarantee, liability
@@ -1101,7 +1101,7 @@ geweiht: sacred, holy
 
 Gewerkschaft /ɡəˈvɛrkʃaft/, die, ~|-en: labor union
 
-gewesen => sein
+gewesen → sein
 
 Gewicht /ɡəˈvɪçt/, das, -(e)s|-e: weight
   Das Gewicht des Wagens beträgt 2 Tonnen.
@@ -1146,7 +1146,7 @@ gewohnt /ɡəˈvoːnt/: familiar, habitual, usual
 
 gewöhnt an: accustomed to
 
-geworden => werden
+geworden → werden
 
 Gewürz /ɡəˈvʏrʦ/, das, -e: spice, seasoning, condiment
   scharfe / pikante Gewürze: hot/aromatic spices
@@ -1160,10 +1160,10 @@ gezielt /ɡəˈʦiːlt/: deliberate, calculated, targeted, specifically
 geziemen: to behoove, to befit
   Es geziemt sich nicht, mit vollem Mund zu reden.
 
-gezogen => ziehen
+gezogen → ziehen
 
 gezwungen /ɡəˈʦvʊŋən/: forced, strained
-  => zwingen
+  → zwingen
 
 Gier /ɡiːɐ/, die, |uncountable: greed
   Sie stürzten sich voller Gier aufs Essen.
@@ -1177,11 +1177,11 @@ giftig /ˈɡɪftɪç/
   Alles an der Eibe ist giftig außer den roten Beeren.
   Everything on a yew tree is poisonous except the red berries.
 
-gilt => gelten
+gilt → gelten
 
 Gin /dʒɪn/, der
 
-ging => gehen
+ging → gehen
 
 Gipfel /ˈɡɪpfəl/, der: summit, peak
   den Gipfel besteigen
@@ -1263,9 +1263,9 @@ gleichaltrig /ˈɡlaiç|altrɪç/: of the same age
 gleichbedeutend /ˈɡlaiçbədɔytənt/
 
 Gleichberechtigung /ˈɡlaiçbərɛçtɪɡʊŋ/: equal rights
-  gleich => same
-  Berechtigung => right, entitlement
-  gerecht => fair, just
+  gleich → same
+  Berechtigung → right, entitlement
+  gerecht → fair, just
 
 gleichen /ˈɡlaiçən/: to resemble, to be similar
   Die Schwestern gleichen sich sehr.
@@ -1291,7 +1291,7 @@ Glied /ɡliːt/, das, -(e)s|-er: limb, penis, member
   All my limbs are aching.
   ein Kondom über das Glied streifen: to unroll a condom over the penis
 
-glitt => gleiten
+glitt → gleiten
 
 Glosse /ˈɡlɔsə/, die, -n: commentary
   eine Glosse in der Zeitung lesen: to read a commentary in the newspaper
@@ -1356,7 +1356,7 @@ graben /ˈɡraːbən/: to dig
   You have to dig deeper!
   nach jdm / etw. graben: to dig for sb/sth
 
-grabschen => grapschen
+grabschen → grapschen
 
 Grabschrift: epitaph 墓誌銘
 
@@ -1423,7 +1423,7 @@ griechisch: greek
 
 Grieß, der: semolina 粗麵粉
 
-griff => greifen
+griff → greifen
 
 Grill /ɡrɪl/, der, -s: grill
   die Steaks auf den Grill legen: to put the steaks on the barbecue

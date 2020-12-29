@@ -189,7 +189,7 @@ Abgeordnete /ˈapɡə|ɔrdnətə/, der-die, -n|-n: representative
   eine Abgeordnete des deutschen Bundestages: a Member of the German Federal Parliament
 
 abgestoßen: repelled, revoted
-  => stoßen: to push, to shove
+  → stoßen: to push, to shove
 
 abgrenzen /ˈapɡrɛnʦən/: to mark off, to differentiate
   durch eine Grenze von anderen trennen; Unterschiede deutlicher machen, herausarbeiten
@@ -291,7 +291,7 @@ abrasieren /ˈapraziːrən/: to shave off
 abräumen /ˈaprɔymən/: to clean up
   Räumst du bitte noch ab, bevor du gehst?
   Would you clear the table before you go, please?
-  => räumen: to clear, to put away, to vacate
+  → räumen: to clear, to put away, to vacate
 
 Abrede: agreement
   eine Abrede treffen: etw. vereinbaren
@@ -354,7 +354,7 @@ abschicken: to send
 
 abschieben /ˈapʃiːbən/: to deport, to shift
   habe abgeschoben
-  => schieben: to push, to blame, to reject
+  → schieben: to push, to blame, to reject
   illegale Einwanderer in ihr Heimatland abschieben
   to deport illegal immigrants to their country of origin
 
@@ -363,8 +363,8 @@ Abschiebung /ˈapʃiːbʊŋ/, die, ~|-en: deportation
 Abschiebehaft, Abschiebungshaft, die, ~|-en: remand pending deportation
 
 Abschied /ˈapʃiːt/, der, -(e)s|-e: parting, leave, farewell
-  => scheiden: to part
-  => verabschieden: to say goodbye
+  → scheiden: to part
+  → verabschieden: to say goodbye
   Der Abschied von ihren Freunden fiel ihr schwer.
   She found it difficult to say goodbye to her friends.
   von jdm / etw. Abschied nehmen: to take leave of sb/say goodbye to sth
@@ -387,7 +387,7 @@ Abschluss /ˈapʃlʊs/, der, -es|..e: completion, degree
 abschneiden /ˈapʃnaidən/: to cut off
   sich eine Scheibe Brot abschneiden
   to cut yourself a slice of bread
-  => schneiden: to cut
+  → schneiden: to cut
 
 Abschnitt /ˈapʃnɪt/, der, -(e)s|-e: section, paragraph
   einen Abschnitt lesen: to read a section
@@ -585,7 +585,7 @@ abwesend /ˈapveːzənt/: absent
   jdn abwesend ansehen: to look at sb absent-mindedly
 
 abwischen /ˈapvɪʃən/: to wipe off
-  => wischen: to wipe
+  → wischen: to wipe
   Jetzt wisch dir mal erst die Tränen ab!
   Come on now, wipe away your tears.
   Wisch bitte das Regal ab, bevor du die Sachen hineinstellst.
@@ -741,7 +741,7 @@ Aktentasche /ˈaktəntaʃə/, die, ~|-n: briefcase
 Aktie /ˈakʦjə/, die, ~|-n: share, stock
   sein Vermögen in Aktien anlegen: to invest your fortune in shares
 
-Aktien => Aktie
+Aktien → Aktie
 
 Aktion /akˈʦjoːn/, die, ~|-en: action, operation
 
@@ -880,8 +880,8 @@ alt /alt/: old
  You're too old for such nonsense. 
 
 altbewährt: well-proven
-  => bewährt: proven
-  => bewähren: to prove
+  → bewährt: proven
+  → bewähren: to prove
 
 Altenheim, Altersheim, das: retirement home
 
@@ -899,7 +899,7 @@ altruistisch /altruˈɪstɪʃ/: altruistic
 △am /am/
   Ich bin am größten!
   I'm tallest!
-  => in + dem
+  → in + dem
 
 Ameise /ˈaːmaizə/, die, ~|-n: ant
   Ameisenhaufen: anthill
@@ -968,7 +968,7 @@ Anblick /ˈanblɪk/, die, -(e)s|-e: sight, view
 
 anblicken: to look at
 
-anbrachten => anbringen
+anbrachten → anbringen
 
 anbrechen /ˈanbrɛçən/: to open
   Angebrochene Medikamente bald verbrauchen!
@@ -1030,7 +1030,7 @@ andersherum /ˈandɐshɛrʊm/: the other way around
   Vielleicht sollten wir das Bett andersherum stellen.
   Maybe we should put the bed the other way around.
 
-andersrum => andersherum
+andersrum → andersherum
 
 anderthalb /ˈandɐtˈhalp/: one and a half
   ≈ eineinhalf
@@ -1131,7 +1131,7 @@ Angeber /ˈanɡeːbɐ/, der, -s|~: boaster, show-off
 Angebot /ˈanɡəboːt/, das, -(e)s|-e: offer, supply
   jdm ein gutes Angebot machen: to make sb a good offer
   ↔ Nachfrage
-  => anbieten
+  → anbieten
   Das Angebot übersteigt derzeit die Nachfrage.
   Supply is outstripping demand at the moment.
   im Angebot
@@ -1142,7 +1142,7 @@ angebunden /ˈanɡəbʊndən/: tied
 angegriffen /ˈanɡəɡrɪfən/: weakened, affected
   Sie ist von der Infektion noch ganz angegriffen.
   She's still very weak from the infection.
-  => angreifen
+  → angreifen
 
 angehen /ˈanɡeːən/: to begin, to go on, to burn, to light, to be acceptable, to tackle
   Wann geht's endlich an?
@@ -1184,7 +1184,7 @@ angeln /ˈaŋəln/: to fish
 angemessen /ˈanɡəmɛsən/: suitable, appropriate
   In diesem Fall fände ich es angemessener zu schweigen.
   In this case I think it would be better to remain silent.
-  => gemessen: appropriate
+  → gemessen: appropriate
 
 angenehm /ˈanɡəneːm/: pleasant, pleasantly
   Ich wünsche Ihnen einen angenehmen Aufenthalt in unserem Hotel.
@@ -1236,7 +1236,7 @@ angst
   Sie ängstigte sich vor der Operation.
   She was afraid of the operation.
 
-angucken => ansehen
+angucken → ansehen
 
 anhaben: to wear, to have on
 
@@ -1392,7 +1392,7 @@ anrufen /ˈanruːfən/: to call, to phone
 
 anrühren: to mix, to touch
 
-ansah => ansehen
+ansah → ansehen
 
 Ansammlung /ˈanzamlʊŋ/, die, ~|-en: collection, crowd, gathering
   eine Ansammlung von Schätzen: a collection of treasures
@@ -1473,6 +1473,9 @@ anspringen /ˈanʃprɪŋən/: to jump up on, to come running up, to start
   Bei Kälte springt das Auto oft nicht gleich an.
   When it's cold the engine often doesn't start right away.
   ≈ anlassen
+
+Anspruch, der: demand, right
+  Wunsch, von dem man erwartet, dass er erfüllt wird, oder Bedürfnis
 
 anspruchsvoll /ˈanʃprʊxsfɔl/: sophisticated, demanding, challenging
   Man darf nicht zu anspruchsvoll sein.
@@ -1613,7 +1616,7 @@ anziehen /ˈanʦiːən/: to attract, to get dressed
   Salt attracts damp.
   warme Kleidung anziehen: to put on some warm clothes
 
-anzogen => anziehen
+anzogen → anziehen
 
 Anzug /ˈanʦuːk/, der, Anzüge: suit
   In der Arbeit muss er Anzug tragen.
@@ -1893,7 +1896,7 @@ auffallend /ˈauffalənt/: striking, noticeable
   a striking accumulation of accidents
 
 auffällig /ˈauffɛlɪç/: noticeable, conspicuous, unusual, odd, strikingly, conspicuously
-  => auffallend
+  → auffallend
   Es ist auffällig, dass …
   It's noticeable that …
 
@@ -1927,7 +1930,7 @@ aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
 Aufgabe /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
 
 Aufgang /ˈaufɡaŋ/, der, -(e)s|..e: rise, rising
-  => aufgehen
+  → aufgehen
   ↔ Untergang
   kurz vor Aufgang der Sonne: shortly before sunrise
   Treppenaufgang: stairway
@@ -2026,7 +2029,7 @@ Auflage /ˈauflaːɡə/, die: circulation, edition, condition, order, coating
   Er kam unter der Auflage frei, das Land sofort zu verlassen.
   He was released on condition that he would leave the country at once.
   eine silberne Uhr mit Goldauflage: a silver watch with gold plating
-  => Lage: situation, location, position, layer
+  → Lage: situation, location, position, layer
 
 auflassen /ˈauflasən/: to leave open, to keep on, to allow to stay up
   ein Fenster auflassen: to leave a window open
@@ -2063,7 +2066,7 @@ Aufmachung /ˈaufmaxʊŋ/, die: get-up, guise
 aufmarschieren: march up
 
 aufmerksam /ˈaufmɛrkzaːm/: attentive, alert
-  => merken: to notice
+  → merken: to notice
   jdn auf jdn / etw. aufmerksam machen: to draw sb's attention to sb/sth
   (jdn) auf sich aufmerksam machen: to catch (sb's) attention
   
@@ -2082,7 +2085,7 @@ aufmuntern /ˈaufmʊntɐn/: to cheer up, to encourage
   He nodded at her encouragingly.
 
 Aufnäher /ˈaufnɛːɐ/, der: (sew-on) badge/patch
-  => nähen
+  → nähen
 
 Aufnahme /ˈaufnaːmə/, die: taking up, reception, admission, photo, shot, recording
 
@@ -2459,7 +2462,7 @@ ausgesprochen /ˈausɡəʃprɔxən/: pronounced, really, downright
   ausgesprochen nützlich sein: to be really useful
 
 ausgezeichnet /ˈausɡəʦaiçnət/: excellent
-  => auszeichnen
+  → auszeichnen
 
 ausgiebig /ˈausɡiːbɪç/: copious, extensive
   einen ausgiebigen Mittagssschlaf machen: to have a long nap at lunchtime
@@ -2539,7 +2542,7 @@ ausliefern /ˈausliːfɐn/: to extradite, to deliver
   jdm / etw. ausgeliefert sein: to be at sb's mercy / at the mercy of sth
   Wir waren dem Gewitter schutzos ausgeliefert.
   We were completely at the mercy of the storm.
-  => liefern
+  → liefern
   Wir liefern im kommenden Monat aus.
   We will be delivering the goods next month.
 
@@ -2570,7 +2573,7 @@ ausnahmsweise /ˈausnaːmsvaizə/: by way of exception
   This weekend the stores are open on Sunday by way of exception.
 
 ausnutzen /ˈausnʊʦən/: to take advantage of
-  => nutzen: to use
+  → nutzen: to use
 
 Auspuff /ˈauspʊf/, der, -(e)s|-e: muffler
   Rohr für die Abgase eines Autos oder Motorrads
@@ -2797,8 +2800,8 @@ außerdem /ausɐˈdeːm/: besides
   das, was jd sagt oder schreibt
 
 austapezieren
-  => tapezieren: to wallpaper
-  => Tapete
+  → tapezieren: to wallpaper
+  → Tapete
   austapezieren mit Tapeten
 
 Austausch /ˈaustauʃ/, der: exchange

@@ -60,7 +60,7 @@ rangeln /ˈraŋəln/: to wrestle, to scuffle
 
 ranghöher: senior
 
-rann => rinnen
+rann → rinnen
 
 rar /raːɐ/: rare
   Solche schönen Tage sind im November rar.
@@ -426,7 +426,7 @@ reichen /ˈraiçən/: to be enough, to reach, to pass, to serve
 
 Reichstag /ˈraiçstaːk/, der: parliament
 
-reicht => reichen
+reicht → reichen
 
 Reichtum /ˈraiçtuːm/, der, -(e)s|..er: wealth
   zu Reichtum kommen: to become wealthy
@@ -600,13 +600,13 @@ retten /ˈrɛtən/: to rescue, to save
   jdm das Leben retten: to save sb's life
   sich retten: to escape
 
-rettete => retten
+rettete → retten
 
 Rettich /ˈrɛtɪç/, der: radish
   einen Rettich aufschneiden und salzen: to chop up a radish and sprinkle it with salt
 
 Rettung /ˈrɛtʊŋ/, die: help, rescue
-  => retten
+  → retten
   Das war Rettung in letzter Minute!
   That help came in the nick of time!
 
@@ -670,7 +670,7 @@ riechen /ˈriːçən/: to smell
 
 -riechend: smelling
 
-rief => rufen
+rief → rufen
 
 Riemen /ˈriːmən/, der, -: strap
 
@@ -708,7 +708,7 @@ riskant: risky
 riskieren /rɪsˈkiːrən/: to risk
   sein Leben/seine Gesundheit riskieren: to risk your life/health
 
-riss => reißen
+riss → reißen
 
 Ritter /ˈrɪtɐ/, der, -s|~: knight
   Ritterburg: knight's castle
@@ -718,7 +718,7 @@ Ritze /ˈrɪʦə/, die, ~|-n: crack, gap
   Der Sand drang bei dem Sturm in alle Ritzen.
   The sand was forced into all the cracks by the storm.
 
-roch => riechen
+roch → riechen
 
 Rock /rɔk/, der: skirt
   Sie trug einen kurzen Rock.

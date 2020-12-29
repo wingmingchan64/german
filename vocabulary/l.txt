@@ -46,7 +46,7 @@ Ladefläche, die: load area
 Ladegerät /ˈlaːdəɡərɛːt/, das, -(e)s|-e: charger
   Gerät mit Netzkabel zum Aufladen von Akkus
   das Ladegerät für den Akku der Digitalkamera
-  => aufladen: den Akku aufladen
+  → aufladen: den Akku aufladen
 
 Laden /ˈlaːdən/, der, -s|..: store, shutter
   ≈ Geschäft
@@ -68,7 +68,7 @@ Lage /ˈlaːɡə/, die, -n: situation, location, position
   etw. in eine horizontale Lage bringen: to put sth into a horizontal position
   etw. in mehrere Lagen Papier wickeln: to wrap sth in several layers of paper
 
-lagen => liegen
+lagen → liegen
 
 Lageplan, der: ground plan
 
@@ -218,7 +218,7 @@ Lärmbelästigung, die: noise pollution
 lärmen /ˈlɛrmən/: to make a noise
   lärmende Kinder/Nachbarn: noisy children/neighbors 
 
-las => lesen
+las → lesen
 
 lassen /ˈlasən/: to let, to allow, to cause, to leave
   lasse, lässt, lasst, habe gelassen
@@ -289,7 +289,7 @@ Laufzeit /ˈlaufʦait/, die, -en: period, term, time, (operational) life
   Der Fernseher ist für eine Laufzeit von 30.000 Stunden ausgelegt.
   The television is designed to have an operational life of 30,000 hours.
 
-läuft => laufen
+läuft → laufen
   Nun läuft die Hochzeit des Jahres
 
 Laune /ˈlaunə/, die, ~|-n: mood
@@ -635,7 +635,7 @@ jds Lieblingsbeschäftigung: sb's favorite activity
 Lied /liːt/, das, -er: song
   ein Lied singen: to sing a song
 
-lief => laufen
+lief → laufen
 
 liefern /ˈliːfɐn/: to deliver, to supply, to produce, to provide
   Die Möbel wurden termingerecht geliefert.
@@ -648,7 +648,7 @@ liegen /ˈliːɡən/: to lie, to be
   liege, liegst, liegt, habe gelegen
   auf dem Sofa / im Bett liegen: to lie on the sofa/in bed
 
-ließ => lassen
+ließ → lassen
 
 Liguster /liˈgʊstər/, der: common privet
 
@@ -693,7 +693,7 @@ Literatur /lɪtəraˈtuːɐ/, die:
 
 Litfaßsäule /ˈlɪtfaszɔylə/, die, -n: advertising pillar
 
-litt => leiden
+litt → leiden
 
 Lkw /ˈɛlkaːveː/, Lastkraftwagen, der: truck
 
