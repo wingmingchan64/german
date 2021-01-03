@@ -333,7 +333,7 @@ Bedingung, die: condition
 bedrohen /bəˈdroːən/: to threaten
   sich von jdm bedroht fühlen: to feel threatened by sb
 
-Bedürfnis, das: need, requirement
+Bedürfnis /bəˈdʏrfnɪs/, das: need, requirement
   das Gefühl, jdn / etw. zu brauchen, dringend haben oder tun zu wollen
 
 beehren /bəˈ|eːrən/: to honor sb/sth with sth
@@ -427,6 +427,8 @@ befürchten /bəˈfʏrçtən/: to fear
   The doctor fears the worst.
   Es ist zu befürchten, dass sich die Lage weiter verschlechtert.
   It is to be feared that the situation will deteriorate further.
+
+Befürchtung, die: fear
 
 begabt /bəˈɡaːpt/: talented, gifted
   → Gabe
@@ -1465,6 +1467,8 @@ Bewährung /bəˈvɛːrʊŋ/, die: probation, test of character
   Die Strafe wurde zur Bewährung ausgesetzt.
   He was given a suspended sentence.
 
+Bewährungsprobe, die: test
+
 Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
   die Bewältigung einer Krise: coping with a crisis
 
@@ -2175,6 +2179,8 @@ buchstabieren /buːxʃtaˈbiːrən/: to spell
   My name is Mayr – I'll spell it: Mike, Alpha, Yankee, Romeo.
 
 Buchverfilmung, die: book adaptation
+
+Bucht, die: bay, cove
 
 Bückling /'bʏklɪŋ/, der, -s|-e: smoked herring, kipper, bow
   Bücklingsfilets: smoked herring filets

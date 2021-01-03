@@ -51,7 +51,7 @@ Fahne /ˈfaːnə/, die, -n: flag
   die Fahne hissen / einholen: to raise/take down the flag
   Fahnchen
 
-fahrbar: wheeled
+fahrbar: wheeled, mobile
 
 fahren /ˈfaːrən/: to drive, to go
   fahre, fährst, fährt, ihr fahrt, bin gefahren
@@ -521,6 +521,8 @@ fischen /ˈfɪʃən/: to fish
   jdn / etw. aus etw. fischen: to fish sb/sth out of sth
   Blätter mit einem Netz aus dem Teich fischen
   to fish leaves out of the pond with a net
+
+Fjord, der
 
 flach /flax/: flat, shallow
   Die Gegend ist dort völlig flach, nicht der kleinste Hügel weit und breit.

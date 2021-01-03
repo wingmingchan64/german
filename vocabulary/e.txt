@@ -190,7 +190,7 @@ eigentlich /ˈaiɡəntlɪç/: actually, really
 
 Eigentümer /ˈaiɡəntyːmɐ/, Eigentümerin: owner
 
-eignen /ˈaiɡnən/: to be suitable
+eignen /ˈaiɡnən/, sich: to be suitable
   DVDs eignen sich gut zum Archivieren von Fotos
   DVDs are good for archiving photos on.
 
@@ -366,6 +366,8 @@ einfügen /ˈainfyːɡən/: to insert, to fit in
 
 einfühlsam /ˈainfyːlzaːm/: sensitive, understanding
 
+Einfuhr, die: import
+
 einführen/ˈainfyːrən/: to import, to introduce, to insert
   Gemüse aus anderen EU-Ländern einführen
   to import vegetables from other EU countries
@@ -527,6 +529,8 @@ einleiten /ˈainlaitən/: to introduce, to initiate, to discharge
   rechtliche Schritte / ein Verfahren gegen jdn einleiten
   to take legal action/initiate proceedings against sb
   Abwässer in einen Fluss einleiten: to discharge sewage into a river
+
+einlesen: to read in
 
 einliefern /ˈainliːfɐn/: to take
   Er wurde nach dem Unfall in die Notaufnahme eingeliefert.
@@ -1012,6 +1016,8 @@ Entchen, das, -: duck, duckling
 entdecken /ɛntˈdɛkən/: to discover
   Kolumbus entdeckte Amerika.
   Columbus discovered America.x
+
+Entdecker: explorer
 
 Ente /ˈɛntə/, die, -n: duck
 

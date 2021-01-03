@@ -491,6 +491,8 @@ verkraften: to cope with, to afford, to manage
 verkünden /fɛɐˈkʏndən/: to announce
   öffentlich sagen
 
+verladen: to load
+
 Verlag /fɛɐˈlaːk/, der, -es|-e: publishing company
   In welchem Verlag ist der Roman erschienen?
   Who was the novel published by?
@@ -794,6 +796,8 @@ verschmitzt /fɛɐˈʃmɪʦt/: mischievous
 
 verschreiben: to prescribe
   ≈ verordnen
+
+verschüttet: buried
 
 verschwand → verschwinden
 
@@ -1102,6 +1106,8 @@ verwählen /fɛɐˈvɛːlən/, sich: to dial the wrong number
   die falsche Telefonnummer wählen
   Verzeihung, ich habe mich verwählt.
 
+verwahren: to keep (safe)
+
 verwalten: to manage, to run, to administer
   einen bestimmten Bereich verantwortlich regeln und leiten; stellvertretend für jdn betreuen
   ein städtisch verwalteter Kindergarten
@@ -1200,6 +1206,10 @@ verzichten /fɛɐˈʦɪçtən/: to do without, to refrain from, to renounce
   If that's the case, I'd rather not.
   Kannst du heute mal auf meine Hilfe/mich verzichten?
   Can you manage without my help/me today?
+
+verziehen: to twist, to pull out, to thin out, to disappear
+
+verzogen → verziehen
 
 verzögern /fɛɐˈʦøːɡɐn/: to delay
   verzögere, verzögerst, verzögert, habe verzögern
@@ -1353,6 +1363,8 @@ Voraus, der
 voraus /foˈraus/: ahead, in front
   Andere Länder sind uns in Sachen Bildungspolitik weit voraus.
   Other countries are way ahead of us in terms of educational policy.
+
+vorausgesetzt (dass): provided (that)
 
 Voraussetzung /foˈrauszɛʦʊŋ/, die: assumption, prerequisite, requirement
   unter der Voraussetzung, dass …: on condition that …

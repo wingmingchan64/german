@@ -189,6 +189,10 @@ Maßnahme, die: measure
 
 Maßnahmenbündel, das, Maßnahmenkatalog, der, Maßnahmenpaket, das: packet of meassures
 
+Maßstab, der: standard, scale
+  Verhältnis der Größen auf Landkarten usw. zu den tatsächlichen Entfernungen
+  eine Karte im Maßstab von eins zu zehntausend (1:10.000)
+
 Mast /mast/, der, Maste: mast, pole
   Er stand im Mastkorb und hielt Ausschau.
   He stood in the crow's nest and kept a lookout.

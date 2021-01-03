@@ -77,6 +77,9 @@ Abbildung /ˈapbɪldʊŋ/, die: image, drawing, figure, representation, illustra
   Genitive    der Abbildung  der Abbildungen
   Dative      der Abbildung  den Abbildungen
 
+abdecken /ˈapdɛkən/: to cover, to rip off (tiles)
+  etw. Schützendes auf etw. legen
+
 abdrucken /ˈapdrʊkən/: to print
   Ihr Leserbrief wurde in der Zeitung abgedruckt.
   Her letter to the editor was printed in the newspaper.
@@ -1256,6 +1259,9 @@ anheben /ˈanheːbən/: to lift up, to raise
   Legen Sie sich auf den Rücken, spannen die Bauchmuskeln und heben die Füße leicht an.
   Lie on your back, tense your stomach muscles and lift your feet up a little.
 
+Anhöhe, die: hill
+  Stelle, die höher liegt als das umgebende Gelände
+
 anhören /ˈanhøːrən/: to listen to, to sound
   Dieses Geschwätz höre ich mir nicht länger an!
   I'm not going to listen to this nonsense any longer!
@@ -1823,6 +1829,8 @@ auf /auf/: on, onto, at, to
   Is the supermarket still open?
 
 auf-: upward, opened, getting bigger
+
+Aufbau, der: construction, structure
 
 aufbauen /ˈaufbauən/: to build, to assemble, to set up, to build up
   Die Zelte waren schnell aufgebaut.
@@ -2440,6 +2448,8 @@ Ausgangspunkt /ˈausɡaŋspʊŋkt/, der: starting point
 ausgeben /ˈausɡeːbən/: to spend
   sein Geld für Bücher ausgeben: to spend your money on books
 
+ausgedehnt: long, extended
+
 ausgeglichen: balanced, equal, consistent
 
 ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
@@ -2711,6 +2721,8 @@ aussehend
   eine blendend aussehende Dame: an extremely good-looking lady
   in verdächtig aussehendes Individuum: a suspicious(-looking) character
 
+außerdem: besides
+
 außergewöhnlich /ˈausɐɡəˈvøːnlɪç/: exceptional
   nicht normal
 
@@ -2718,6 +2730,10 @@ außerhalb: outside
   nicht in einem Bereich, Gebiet; nicht während eines Zeitraums
   außerhalb des Dorfes wohnen
   außerhalb der Öffnungszeiten
+
+äußerst: extremely, exceedingly
+
+Äußerste
 
 Äußerung, die: statement
   das, was jd sagt oder schreibt

@@ -260,7 +260,8 @@
 - Wie ist Ihr Geburtsdatum?
   Ich meine: Wann haben Sie Geburtstag? Geburtstag?
 - Geburtstag. Adresse?
-- Wir nehmen meine Adresse. Ich wohne in der Wagnergasse 136.
+- Wir nehmen meine Adresse. Ich wohne in der Wagnergasse 136
+  [einhundertsechsunddreißig].
 - Ihre Passnumber! Passnumber.
 - Mein Pass ist weg.
 - Oh, das ist nicht gut.
@@ -273,7 +274,7 @@
 - Wo wohnt Yara? Haben Sie eine Adresse?
 - Ist Yara informiert, dass Sie hier sind?
 - Does Yara know you are here? Is she waiting for you?
-[https://www.youtube.com/watch?v=4-eDoThe6qo&t=935s]
+[20. https://www.youtube.com/watch?v=4-eDoThe6qo&t=935s]
 - Seine Tante weiß nicht, warum er hier ist?
 - Nein.
 - Warum ist er denn hier in Deutschland?

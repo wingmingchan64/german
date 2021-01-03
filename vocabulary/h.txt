@@ -78,6 +78,9 @@ halb /halp/: half
 
 Halbbruder /ˈhalpbruːdɐ/, der
 
+Halbinsel /ˈhalp|ɪnzəl/, die
+  Land, das an drei Seiten von Wasser umgeben ist
+
 Halbschwester /ˈhalpʃvɛstɐ/, die
 
 half → helfen
@@ -544,6 +547,10 @@ herausfinden /hɛˈrausfɪndən/: to find out
   Die Kinder fanden nicht mehr aus dem Wald heraus.
   The children couldn't find their way out of the forest.
 
+herausfordern: to challenge
+
+Herausforderung, die: challenge
+
 herausgeben /hɛˈrausɡeːbən/: to release, to return, to give back, to give change, to issue, to publish
 
 herausgreifen /hɛˈrausɡraifən/: to single out, to select
@@ -996,6 +1003,9 @@ Hochburg /ˈhoːxbʊrk/, die, -en: stronghold, bastion
   eine Hochburg des Rechtsextremismus: a bastion of right-wing extremism
 
 Hochebene, die: plateau
+
+hochfahren: to go up, to boot up, to start
+  nach oben fahren
 
 hochkommen /ˈhoːxkɔmən/: to come up
   Sie kam die Treppe / den Berg hoch.

@@ -42,6 +42,9 @@ saftig /ˈzaftɪç/: juicy, lush, steep, hefty
   Er musste eine saftige Strafe zahlen.
   He had to pay a hefty fine.
 
+Sage, die: legend
+  Der Sage nach treffen sich in der Walpurgisnacht Hexen auf dem Blocksberg.
+
 sagen: to say
   sage, sagst, sagt, habe gesagt
   sagte, sagtest, sagte, sagten, sagtet
@@ -523,6 +526,8 @@ schleichen /ˈʃlaiçən/: to creep, to crawl, to slink
   He crept to the door on tiptoe.
   mit hängendem Kopf nach Hause schleichen
   to crawl home with head hanging
+
+Schleier, der: veil
 
 schleifen: to sharpen, to drag
   die vollen Säcke in den Keller schleifen
@@ -1423,6 +1428,8 @@ sichten /ˈzɪçtən/: to sight, to look through
 Sichtschutz /ˈzɪçtʃʊts/, der, -es|uncountable: screen
   einen Zaun als Sichtschutz errichten: to put up a fence as a screen
 
+Sichtweite, die: visibility
+
 Sie: you
 
 sie: she, it, they
@@ -1435,6 +1442,8 @@ siebente
 siebzehn /ˈziːpʦeːn/
 
 siebzig /ˈziːpʦɪç/
+
+Siedler: settler
 
 Sieg /ziːk/, der: victory, win
   einen Sieg gegen jdn erringen: to be victorious over sb
@@ -1559,6 +1568,8 @@ sollen /ˈzɔlən/: to have to, shall, to be supposed
 Sommer /ˈzɔmɐ/, der:
   Nächsten Sommer wollen wir verreisen.
   We want to go away next summer.
+
+Sommersonnenwende, die: summer solstice
 
 somit /zoˈmɪt/: therefore
   Sie ist 18 und kann somit selbst entscheiden, was sie tut.
@@ -2135,6 +2146,8 @@ stellen /ˈʃtɛlən/: to put, to place, to set, to provide
 -stellig /ʃtɛlɪç/: -figure, -digit
   fünfstellige
   einstellig
+
+Stellplatz, der: parking space, camp site
 
 Stellung /ˈʃtɛlʊŋ/, die: position
 
