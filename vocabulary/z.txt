@@ -29,6 +29,9 @@ zahlreich /ˈʦaːlraiç/: numerous
   eine große Zahl
   → viele
 
+zähmen: to tame
+  ein wildes Tier zähmen
+
 Zahn /ʦaːn/, Zähne /ˈʦɛːnə/, der: tooth
 
 zart /ʦaːɐt/: delicate, tender, gentle
@@ -179,6 +182,8 @@ zerfließen /ʦɛɐˈfliːsən/: to melt, to run
   in / vor etw. zerfließen [ dative ]: to dissolve into/be overcome with sth
   vor Mitleid / Selbstmitleid zerfließen: to be overcome with pity/self-pity
   auf dem Papier zerfließende Farbe / Tinte: paint/ink running across the paper
+
+zerklüftet: rugged
 
 zerkratzen /ʦɛɐˈkraʦən/: to scratch
   jdm das Gesicht zerkratzen: to scratch sb's face
@@ -670,12 +675,6 @@ Zutat /ˈʦuːtaːt/, die, ~|-en: ingredient
 zutreffen /ˈʦːtrɛfən/: to be correct/true, to apply
   korrekt sein; in einer Situation gültig sein, angewendet werden können
 
-Zutritt /ˈʦuːtrɪt/, der, -(e)s: entry, admission
-  Zutritt für Unbefugte verboten!
-  No entry for unauthorized persons!
-  Es kann Jahre dauern, bis man Zutritt zu dem exklusiven Club erhält.
-  It can take years to gain admission to the exclusive club.
-
 zutiefst /ʦuˈtiːfst/: deeply
   zutiefst erschüttert/gekränkt sein: to be deeply shaken/hurt
 
@@ -684,6 +683,14 @@ zutreffen /ˈʦuːtrɛfən/: to be correct/true, to apply
   Is it true that you were present at the scene of the crime at the time in question?
   Diese Regel trifft in unserem Fall nicht zu.
   This rule doesn't apply in our case.
+
+zutrifft → zutreffen
+
+Zutritt /ˈʦuːtrɪt/, der, -(e)s: entry, admission
+  Zutritt für Unbefugte verboten!
+  No entry for unauthorized persons!
+  Es kann Jahre dauern, bis man Zutritt zu dem exklusiven Club erhält.
+  It can take years to gain admission to the exclusive club.
 
 zuverlässig /ˈʦuːfɛɐlɛsɪç/: reliable
   so, dass man sich darauf verlassen kann

@@ -557,6 +557,8 @@ einmal /ˈainmaːl/: once, at once, one day, sometime
   Komm doch einmal auf einen Kaffee vorbei, ich würde mich freuen.
   Why don't you drop by for a coffee sometime? I'd like that.
 
+einmalig: fantastic, unparalleled, unique, one-time, incredibly
+
 einmischen: to interfere
 
 einmummeln: to wrap up
@@ -840,6 +842,8 @@ Einzugsermächtigung /ˈainʦuːks|ɛɐmɛçtɪɡʊŋ/, die, -en: direct debit a
 
 *Eis /ais/, das, -es|~: ice, ice cream
   Eis am Stiel
+
+Eisscholle, die: floe
 
 eisig /ˈaizɪç/: icy, frigid
   Bei diesen eisigen Temperaturen bleibe ich lieber zu Hause.
@@ -1259,6 +1263,9 @@ Erdgeschoss /ˈeːɐtɡəʃɔs/, das, -es|-e: first floor
 
 erdrutschartig, adj: landslide, devastating
 
+ereifern /ɛɐˈ|aifɐn/
+  sich (über jdn / etw.) ereifern: to sound off (about sb/sth), to get excited
+
 ereignen /ɛɐˈ|aiɡnən/: to happen, to occur
   Wo genau hat sich das Unglück ereignet?
   Where exactly did the accident occur?
@@ -1388,7 +1395,8 @@ Erhalt, der: receipt, preservation
   öffentliche Gelder für den Erhalt der alten Mühle
   public funds for the preservation of the old mill
 
-erhalten /ɛɐˈhaltən/: to receive, to get
+erhalten /ɛɐˈhaltən/: to receive, to get, to maintain
+  Empfänger einer Sache sein; in einem bestimmten Zustand bewahren
   Haben Sie meinen Brief erhalten?
   Did you get my letter?
   für eine Tätigkeit 400 Euro im Monat erhalten
@@ -1801,6 +1809,8 @@ erwähnen /ɛɐˈvɛːnən/: to mention, to refer to
   namentlich erwähnt werden: to be mentioned by name
 
 Erwähnung /ɛɐˈvɛːnʊŋ/, die, ~|-en: mention, reference
+
+Erwärmung, die: warming
 
 erwarten /ɛɐˈvartən/: to expect
   Ich erwarte dich dann um drei in meinem Büro.

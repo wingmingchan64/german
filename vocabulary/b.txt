@@ -795,6 +795,9 @@ beliebt /bəˈliːpt/: popular
 bellen /ˈbɛlən/: to bark
   Hunde, die viel /laut bellen, beißen nicht
 
+belohnen: to reward
+  jdm für einen Erfolg, eine gute Tat o. Ä. etw. geben
+
 belügen /bə’lyːɡən/
   jdm eine Lüge sagen
   Er hat mich schamlos belogen.
@@ -846,6 +849,8 @@ benehmen /bəˈneːmən/: to behave
 
 beneiden: to envy
   jdn um seinen Erfolg beneiden
+
+Bengel, der: rascal
 
 Benimm /bəˈnɪm/, der: manners
 
@@ -1064,6 +1069,7 @@ beschimpfen /bəˈʃɪmpfən/: to insult, to swear at, to abuse
   jdn am Telefon wüst beschimpfen: to hurl abuse at sb on the phone
 
 beschließen /bəˈʃliːsən/: to decide, to resolve, to pass, to end
+  habe beschlossen
   etw. entscheiden, festlegen; über etw. offiziell abstimmen, entscheiden;
   etw. mit etw. beenden
   Wir haben beschlossen, dieses Jahr nach Italien zu reisen.
@@ -1977,6 +1983,8 @@ Brandfall, der: fire
 
 Brandstiftung /ˈbrantʃtɪftʊŋ/, die, -en: arson
 
+Brandung, die: surge, surf
+
 braten: to fry, to roast
   Ich brat mir jetzt ein Steak.
   Now I'm going to fry myself a steak.
@@ -2131,6 +2139,8 @@ Brust /brʊst/, die, ~|..e: chest, breast
   Brustschwimmen: breaststroke
   Brustkrebs: breast cancer
   Hähnchenbrust: chicken breast
+
+brüsten: to boast, to brag
 
 Brut, die: brood, breeding
 

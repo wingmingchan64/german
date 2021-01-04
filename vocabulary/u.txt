@@ -700,6 +700,8 @@ unmöglich /ˈʊnmøːklɪç/: impossible
 
 Unruhe /ˈʊnruːə/, die: anxiety, restlessness, unrest
 
+unscheinbar: inconspicuous
+
 Unsinn, der: nonsense
   ≈ Blödsinn
   
@@ -763,6 +765,8 @@ untergehen /ˈʊntɐɡeːən/: to set, to go down, to sink, to fall, to decline,
   das untergegangene Sowjetreich: the fallen Soviet empire
   Seine Worte gingen im allgemeinen Gelächter unter.
   His words were drowned out by the general laughter.
+
+unterhalb: below
 
 unterhalten /ʊntɐˈhaltən/: to amuse, to entertain, to keep, to maintain, to support, to talk to
   die Kinder mit Spielen unterhalten: to keep the kids entertained with games
@@ -878,6 +882,8 @@ unverwandt: intent 專注的
 unverzüglich /ʊnfɛɐˈʦyːklɪç/: immediate
   die unverzügliche Umsetzung des Projekts: the immediate implementation of the project
 
+unwegsamen: rough
+
 unweigerlich /ʊnˈvaiɡɐlɪç/: inevitably
   Wo viele Menschen arbeiten, werden unweigerlich Fehler gemacht.
   Where there are a lot of people working, mistakes will inevitably be made.
@@ -941,5 +947,7 @@ ursprünglich /ˈuːɐʃprʏŋlɪç/: original, initial
 △urteilen /ˈʊtailən/: to judge
   Ihrem Gesichtsausdruck nach zu urteilen hat sie eine gute Nachricht erhalten.
   To judge by her expression she's had some good news.
+
+urzeitlich: primitive
 
 usw. und so weiter: etc.

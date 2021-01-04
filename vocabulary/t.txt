@@ -628,7 +628,7 @@ treffend /ˈtrɛfənt/: apt, aptly
 
 Treiben, das: drive, drift, urge, pursuance, happenings, hustle and bustle, medley
 
-treiben /ˈtraibən/: to drive
+treiben /ˈtraibən/: to drive, to drift
   Die Hirten trieben die Schafe in den Stall.
   The shepherds drive the sheep into the pen.
   jdn zur Verzweiflung treiben: to drive sb to despair
@@ -766,6 +766,8 @@ tropfnass /ˈtrɔpfˈnas/: dripping wet
 
 trösten /ˈtrøːstən/: to comfort, to console
   jdn tröstend in den Arm nehmen: to put your arm around sb to comfort them
+
+Tröster: comforter
 
 trotzdem /ˈtrɔʦdeːm/: nevertheless
   Sie wusste, dass es verboten war, aber sie tat es trotzdem.

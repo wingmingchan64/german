@@ -20,6 +20,8 @@ gähnen /ˈɡɛːnən/: to yawn
 
 gähnend /ˈɡɛːnən/: yawning
 
+Galgen, der: gallows
+
 Gams, Gämse /ˈɡɛmzə/, die: chamois
 
 Gang /ɡaŋ/, der, -(e)s|..e: walk, gait, corridor, aisle, passage(way), gear, course, stage, run
@@ -548,6 +550,8 @@ geladen, geladene → laden
 *Gelände /ɡəˈlɛndə/, das, -s|~: grounds, premises, area, terrain
   begrenztes Stück Land
 
+Geländewagen, der: cross-country or general-purpose vehicle
+
 gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to, to reach
   Wie ist dieses Schreiben in deine Hände gelangt?
   How did that letter find its way into your hands?
@@ -624,6 +628,9 @@ Gelübde /ɡəˈlʏpdə/, das, -: vow
   to take/keep/break a vow
   
 Gelübte → Gelübde
+
+gelüsten
+  jdn gelüstet (es) nach etw.: sb has a craving for sth
 
 gemächlich /ɡəˈmɛːçlɪç/: leisurely , unhurried
 
@@ -788,6 +795,8 @@ geradewegs /ɡəˈraːdəveːks/: straight, straightaway, straight-out
   Er fragte sie geradewegs nach ihrer Telefonnummer.
   He asked her for her phone number straight-out.
 
+geradezu: downright, positively
+
 Gerangel /ɡəˈraŋəl/, das, -s|uncountable: tussle, scrap 打架, wrangling, infighting
   Er wurde bei dem Gerangel im Treppenhaus leicht verletzt.
   He was slightly injured in the tussle in the stairwell.
@@ -929,6 +938,8 @@ Geschütz /ɡəˈʃʏʦ/, das, -e: gun, cannon
 geschützt /ɡəˈʃʏʦt/: sheltered, protected
 
 geschwätzig /ɡəˈʃvɛʦɪç/: gossipy
+
+geschwind: quick
 
 Geschwindigkeit /ɡəˈʃvɪndɪçkait/, die, en: speed
   Der Wagen kam mit hoher Geschwindigkeit um die Kurve.

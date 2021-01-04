@@ -137,6 +137,8 @@ Märchen /ˈmɛːɐçən/, das: fairy tale, story
   Erzähl doch keine Märchen!
   Don't give me that!
 
+märchenhaft: fairytale, magical
+
 Marker, der: marker pen
 
 markerschütternd /ˈmark|ɛɐʃʏtɐnt/: bloodcurdling 恐怖的，令人毛骨悚然的
@@ -773,6 +775,8 @@ mulmig /ˈmʊlmɪç/: uneasy
   jdm ist (zumute) / wird mulmig: sb feels a bit queasy
 
 Mund /mʊnt/, der, Münder /ˈmʏndɐ/: mouth
+
+münden: to flow into, to lead
 
 mündlich: oral, verbal
   mit gesprochenen Worten

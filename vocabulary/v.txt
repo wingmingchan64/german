@@ -491,6 +491,8 @@ verkraften: to cope with, to afford, to manage
 verkünden /fɛɐˈkʏndən/: to announce
   öffentlich sagen
 
+verkürzen: to shorten
+
 verladen: to load
 
 Verlag /fɛɐˈlaːk/, der, -es|-e: publishing company
@@ -1170,6 +1172,9 @@ Verwirrung /fɛɐˈvɪrʊŋ/, die: confusion
   He made off with the money in the general confusion.
 
 verwundet: wounded
+
+verwünschen: to curse
+  über jdn / etw. sehr wütend sein und fluchen; mit einem Zauberspruch verwandeln
 
 verwüsten /fɛɐˈvyːstən/: to devastate
   Der Einbrecher verwüstete die ganze Wohnung.

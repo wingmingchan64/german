@@ -9,9 +9,9 @@ Erster Auftritt
 BELMONTE
 Hier soll ich dich denn sehen,
 Konstanze, dich mein Glück!
-Lass, Himmel, es geschehen, [to happen]
+Lass, Himmel, es geschehen,
 Gib mir die Ruh' zurück!
-Ich duldete der Leiden, [to put up with; suffering]
+Ich duldete der Leiden,
 O Liebe, allzu viel!
 Schenk mir dafür nun Freuden
 Und bringe mich ans Ziel!
@@ -21,27 +21,25 @@ Aber wie komme ich in den Palast?
 
 Zweiter Auftritt
 
-(Osmin mit einer Leiter, welche er an einen Baum vor der Tür des
-Palastes lehnt; er steigt hinauf und pflückt Feigen.) [Feige: fig]
+(Osmin mit einer Leiter, welche er an einen Baum vor der Tür des Palastes lehnt; er steigt hinauf und pflückt Feigen.)
 
 3.
 OSMIN
 Wer ein Liebchen hat gefunden,
-Die es treu und redlich meint, [/ˈreːtlɪç/ redlich: honest]
-Lohn' es ihr durch tausend Küsse, [lohnen: to be worthwhile]
+Die es treu und redlich meint,
+Lohn' es ihr durch tausend Küsse,
 Mach' ihr all das Leben süße,
-Sei ihr Tröster, sei ihr Freund. [/ˈtrøːstɐ/ Tröster: comforter]
+Sei ihr Tröster, sei ihr Freund.
 Trallalera, trallalera!
 
 BELMONTE
-Vielleicht kann dieser Kerl hier mir weiterhelfen.
-– He, Freund, ist das nicht das Landhaus des Bassa Selim?
+Vielleicht kann dieser Kerl hier mir weiterhelfen. – He, Freund, ist das nicht das Landhaus des Bassa Selim?
 
 OSMIN
-Doch sie treu sich zu erhalten, [to maintain]
-Schließ' er Liebchen sorglich ein: [sorglich: careful]
-Denn die losen Dinger haschen [/ˈhaʃn/ to snatch]
-Jeden Schmetterling und naschen [Schmetterling: butterfly; naschen: to drink]
+Doch sie treu sich zu erhalten,
+Schließ' er Liebchen sorglich ein:
+Denn die losen Dinger haschen
+Jeden Schmetterling und naschen
 Gar zu gern von fremdem Wein.
 Trallalera, trallalera!
 
@@ -49,22 +47,22 @@ BELMONTE
 He, Alter, hört ihr nicht? Ist das hier des Bassa Selim Palast?
 
 OSMIN
-Sonderlich beim Mondenscheine, [sonderlich: especially]
-Freunde, nehmt sie wohl in Acht! [to be careful]
-Oft lauscht da ein junges Herrchen, [lauschen /ˈlauʃən/: to eavesdrop]
-Kirrt und lockt das kleine Närrchen, [kirre: tame; locken: to entice; Narr: fool]
+Sonderlich beim Mondenscheine,
+Freunde, nehmt sie wohl in Acht!
+Oft lauscht da ein junges Herrchen,
+Kirrt und lockt das kleine Närrchen,
 Und dann, Treue, gute Nacht!
 Trallalera, trallalera!
 
 BELMONTE
-Verwünscht seist du samt deinem Liede! [verwünschen: to curse; samt: together with]
+Verwünscht seist du samt deinem Liede!
 Ich bin dein Singen nun schon müde;
 So hör doch nur ein einzig Wort!
 
 OSMIN
-Was Henker lasst Ihr Euch gelüsten, [what the heck; gelüsten: to have a craving]
-Euch zu ereifern, Euch zu brüsten? [sich /ɛɐˈ|aifɐn/ ereifern: to sound off; sich brüsten: to brag]
-Was wollt Ihr? Hurtig! Ich muss fort. [hurtig: swiftly]
+Was Henker lasst Ihr Euch gelüsten,
+Euch zu ereifern, Euch zu brüsten?
+Was wollt Ihr? Hurtig! Ich muss fort.
 
 BELMONTE
 Ist das des Bassa Selims Haus?
@@ -77,13 +75,13 @@ BELMONTE
 So wartet doch!
 
 OSMIN
-Ich kann nicht weilen. [to stay]
+Ich kann nicht weilen.
 
 BELMONTE
 Ein Wort!
 
 OSMIN
-Geschwind, denn ich muss eilen. [schnell]
+Geschwind, denn ich muss eilen.
 
 BELMONTE
 Seid Ihr in seinen Diensten, Freund?
@@ -96,21 +94,21 @@ Wie kann ich den Pedrill wohl sprechen,
 Der hier in seinen Diensten steht?
 
 OSMIN
-Den Schurken, der den Hals soll brechen? [villain]
-Seht selber zu, wenns anders geht. [differently]
-Look for yourself, if you think differently.
+Den Schurken, der den Hals soll brechen?
+Seht selber zu, wenns anders geht.
+[Look for yourself, if you think differently.]
 
 BELMONTE (für sich)
-Was für ein alter, grober Bengel! [rough rascal]
+Was für ein alter, grober Bengel!
 
-OSMIN (ihn betrachtend, für sich) [to observe]
-Das ist just so ein Galgenschwengel! [/jʊst/; gallows bird]
+OSMIN (ihn betrachtend, für sich)
+Das ist just so ein Galgenschwengel!
 
 BELMONTE
-Ihr irrt, es ist ein braver Mann. [good]
+Ihr irrt, es ist ein braver Mann.
 
 OSMIN
-So brav, dass man ihn spießen kann. [to skewer]
+So brav, dass man ihn spießen kann.
 
 BELMONTE
 Ihr müsst ihn wahrlich nicht recht kennen.
@@ -2332,6 +2330,72 @@ Seine holde Scheitel prange
 Voll von Jubel, voll von Ruhm!
 
 ============================================================
+
+sich vor jdm / etw. in Acht nehmen: to be careful
+
+anders /ˈandɐs/: differently, else
+
+Bengel, der: rascal
+
+betrachten /bəˈtraxtən/: to look at, to consider, to observe
+
+brav /braːf/: good
+
+brüsten: to boast, to brag
+
+dulden: to tolerate, to put up with
+
+sich (über jdn / etw.) ereifern: to sound off (about sb/sth), to get excited
+
+erhalten: to keep, to maintain
+
+Galgen, der: gallows
+  Galgenschwengel: gallows bird
+
+jdn gelüstet (es) nach etw.: sb has a craving for sth
+
+geschehen /ɡəˈʃeːən/: to happen, to occur, to commit
+
+geschwind: schnell
+
+haschen: to snatch
+
+was Henker: what the hack
+
+hurtig: schnell
+
+kirre: tame
+
+lauschen /ˈlauʃən/: to eavesdrop, to listen
+
+Leiden /ˈlaidən/, das: suffering
+
+locken: to lure, to entice
+
+Narr, der: fool
+
+redlich: honest
+
+samt: zusammen mit
+
+Schmetterling, der: butterfly
+
+Schurke /ˈʃʊrkə/: villain
+
+sonderlich: especially
+
+sorglich: careful
+
+spießen: to skewer
+
+Tröster: comforter
+
+verwünschen: to curse
+
+weilen /ˈvailən/: to stay, to be
+
+============================================================
+
 
 Er hat sie schamlos hintergangen.
 Er verkleidete sich als Frau, um die Wachen zu überlisten.

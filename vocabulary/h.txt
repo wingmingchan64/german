@@ -235,6 +235,8 @@ hart /hart/: hard
   Das Brot war alt und hart geworden.
   The bread had gotten old and hard.
 
+haschen: to snatch
+
 Häschen /ˈhɛːsçən/, das, -: hare
 
 *Hase /ˈhaːzə/, der, -n|-n: hare
@@ -514,6 +516,10 @@ hellwach /ˈhɛlvax/: wide awake
 Hemd /hɛmt/, das, Hemden: shirt
   Er trug zur Hose Hemd und Krawatte.
   He was wearing a shirt and tie with the pants.
+
+Henker, der: hangman, executioner
+  Was / Wer / … zum Henker …?
+  What/Who/… the heck …?
 
 Henne /ˈhɛnə/, die, -n: hen
   Die Henne hat ein Ei gelegt.
@@ -1205,6 +1211,9 @@ hupen /ˈhuːpən/: to sound your horn
 hüpfen /ˈhʏpfən/: to hop
   auf einem Bein hüpfen: to hop on one leg
   Harrys Herz begann zu hüpfen
+
+hurtig
+  schnell
 
 huschen /ˈhʊʃən/: to dart, to whoosh, to scamper, to flash
   Sie huschte leise in sein Zimmer.
