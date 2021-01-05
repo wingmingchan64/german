@@ -312,6 +312,9 @@ schaum /ʃaum/, der, ..e: foam, lather, froth
   Schaum vor dem Mund haben: to be foaming at the mouth
   Schaum schlagen: to show off
 
+Schauplatz, der: scene, location
+  Ort, wo etw. Besonderes geschieht
+
 Schauspiel, das: spectacle
 
 Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
@@ -1142,6 +1145,8 @@ Schwengel, der: clapper, handle, dong (= Penis), tool
 schwer /ʃveːɐ/: heavy, severe, difficult
 
 schwerfallen: to find sth difficult
+
+Schwerpunkt, der: center of gravity, main focus
 
 Schwerstarbeit, die: very heavy labor
 
@@ -2660,6 +2665,10 @@ Süd /zyːt/, m, ohne Artikel: south
   Wind aus Süd: south wind
 
 Süden /ˈzyːdən/, der: south
+
+Südosten, der
+
+Südwesten, der: southwest
 
 Suite /ˈsviːtə/, die, -n
   eine Luxussuite buchen: to book a luxury suite

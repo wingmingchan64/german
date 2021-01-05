@@ -969,6 +969,8 @@ Endstation /ˈɛntʃtaʦjoːn/, die, -en: terminal, last stop
   Für viele Kinder bedeutet die Förderschule Endstation Behindertenwerkstatt.
   For many children who attend special needs schools, the end of the line is shelter workshops.
 
+Energie /enɛrˈɡiː/, die
+
 eng /ɛŋ/: narrow, tight
   Die Hose ist mir zu eng.
   These pants are too tight for me.
@@ -1874,6 +1876,8 @@ erzählen /ɛɐˈʦɛːlən/: to tell, to narrate, to recount, to relate
   He's a good storyteller.
   Er erzählte kurz, was passiert war.
   He said briefly what had happened.
+
+erzeugen: to generate, to produce
 
 Erzeugung, die: production, generation, creation
   Stromerzeugung

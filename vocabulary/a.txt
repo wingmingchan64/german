@@ -1107,6 +1107,8 @@ Anflug, der: approach, trace, touch, hint
   Das Flugzeug befindet sich im Landeanflug auf Berlin.
   Auf seinem Gesicht breitete sich der Anflug eines Lächelns aus.
 
+Anfrage, die: inquiry, request, question
+
 anführen /ˈanfyːrən/: to lead, to state, to cite, to fool
   Wer hat die Studenten in dem Protest angeführt?
   Who was the leader of the students' protest?
@@ -2291,6 +2293,7 @@ Auge /ˈauɡə/, das, -s|-n: eye
   kein Auge zutun: to not sleep a wink
   Ich habe die ganze Nacht kein Auge zugetan.
   I didn't sleep a wink all night.
+  jdm etw vor Augen führen: (fig) to make sb aware of sth
 
 Augenblick /ˈauɡənblɪk/, der: moment
   Einen Augenblick, bitte!

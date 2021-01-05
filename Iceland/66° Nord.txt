@@ -5,7 +5,7 @@ Bernd Martin
 
 https://www.youtube.com/watch?v=dXTkAEZ8KHY&t=39s
 Tag 01: Keflavík, Bridge Between Continents, Brimketill Lava Rock Pool, Blue Lagoon
-Reykjanesskagi. Wir erkunden die Halbinsel im äußersten südwesten Island. An dieser Stelle allen die nordamerikanische und die eurasische Platte aufeinander. Wir wandeln auf einer Brücke zwischen den Kontinenten. Die noch junge Insel mitten im Atlantik ist durch Plattenverschiebungen und Vulkanismus ständig in Bewegung. Auch im späteren Verlauf unserer Reise wird  uns das an vielen Schauplätzen deutlich vor Augen geführt. Wie kein zweites Land nutzt Island die geothermal Energie zur Stromerzeugung. Das warme mineralhaltige Wasser aus dem Kraftwerk ließ die blaue Lagune entstehen. Das Bad ist ein beliebter Touristenmagnet. Auch wenn man nicht zum schwimmen herkommt, ist das türkisblaue Wasser inmitten des scharfkantigen Vulkangesteins ein Besuch wert.
+Reykjanesskagi. Wir erkunden die Halbinsel im äußersten Südwesten Islands. An dieser Stelle allen [?] die nordamerikanische und die eurasische Platte aufeinander. Wir wandeln auf einer Brücke zwischen den Kontinenten. Die noch junge Insel mitten im Atlantik ist durch Plattenverschiebungen und Vulkanismus ständig in Bewegung. Auch im späteren Verlauf unserer Reise wird uns das an vielen Schauplätzen deutlich vor Augen geführt. Wie kein zweites Land nutzt Island die geothermal Energie zur Stromerzeugung. Das warme mineralhaltige Wasser aus dem Kraftwerk ließ die blaue Lagune entstehen. Das Bad ist ein beliebter Touristenmagnet. Auch wenn man nicht zum schwimmen herkommt, ist das türkisblaue Wasser inmitten des scharfkantigen Vulkangesteins ein Besuch wert.
 
 https://www.youtube.com/watch?v=dXTkAEZ8KHY&t=139s
 Tag 02: Reykjavík, Reykjadalur, Urriðafoss
@@ -84,6 +84,8 @@ bedrohen /bəˈdroːən/: to threaten
 
 Brandung, die: surge, surf
 
+deutlich: clear
+
 echt /ɛçt/: genuine, real
 
 Einfuhr, die: import
@@ -120,6 +122,8 @@ rau: harsh
 
 Sage, die: legend
 
+Schauplatz, der: scene
+
 Schicht, die: layer
 
 Siedler: settler
@@ -147,5 +151,7 @@ verwahren: to keep (safe)
 verweilen /fɛɐˈvailən/: to stay (a while), to linger
 
 vorausgesetzt (dass): provided (that)
+
+wandeln: to stroll
 
 zerklüftet: rugged
