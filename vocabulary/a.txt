@@ -70,6 +70,8 @@ abbeißen /ˈapbaisən/
 abbiegen /ˈapbiːɡən/: to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
 
+Abbild, das: image
+
 Abbildung /ˈapbɪldʊŋ/, die: image, drawing, figure, representation, illustration
               Singluar       Plural
   Nonimative  die Abbildung  die Abbildungen
@@ -1777,6 +1779,8 @@ Arzt /arʦt/, -(e)s|..e, Ärztin: doctor
 Arzthelfer /ˈarʦthɛlfɐ/, -in, -: medical assistant
   Sie arbeitet als Arzthelferin.
   She works as a medical assistant.
+
+Asche, die
 
 Aschenbecher /ˈaʃənbɛçɐ/, der: ashtray
 

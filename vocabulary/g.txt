@@ -765,6 +765,8 @@ Geologe /ɡeoˈloːɡə/, -n|-n, -in: geologist
 
 Geologie /ɡeoloˈɡiː/, die, ~|uncountable
 
+geothermal, geothermisch
+
 Gepäck /ɡəˈpɛk/, das, -(e)s: baggage
   Koffer und Taschen, die man auf eine Reise mitnimmt
   das Handgepäck
@@ -1043,6 +1045,8 @@ gestört /ɡəˈʃtøːɐt/: disturbed, confused, troubled
   eine gestörte Beziehung zu jdm / etw. haben
   to have a troubled relationship with sb/sth
 
+gestoßen → stoßen
+
 gestrichen → streichen
 
 gesund /ɡəˈzʊnt/: healthy
@@ -1060,6 +1064,8 @@ Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
 getrennt: separated, apart
   Sie führten getrennte Kasse.
   They each paid for themselves.
+
+
 
 getreu: true, faithful, exact, loyal
 

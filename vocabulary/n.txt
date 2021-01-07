@@ -31,6 +31,8 @@ Nachfrage /ˈnaːxfraːɡə/, die: demand
   Die Nachfrage nach dieser Obstsorte ist stark zurückgegangen.
   The demand for this type of fruit has fallen sharply.
 
+nachhaltig: lasting
+
 Nachhinein /ˈnaːxhɪnain/: in retrospect
   Im Nachhinein betrachtet hat er recht gehabt.
   Looking at it in retrospect he was right.
@@ -109,6 +111,9 @@ Nachttisch /ˈnaxttɪʃ/, der
 Nachweis /ˈnaːxvais/, der: proof
   Forschern gelang der Nachweis dafür, dass …
   Researchers have found proof that …
+
+nachweisen: to prove, to detect
+  habe nachgewiesen
 
 Nacken /ˈnakən/, der: neck
 

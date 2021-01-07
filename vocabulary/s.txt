@@ -201,7 +201,14 @@ Schaden, Schäden, der: damage, harm
 schaden /ˈʃaːdən/: to damage, to harm
   Die Affäre hat seinem Ansehen sehr geschadet.
   The affair really damaged his reputation.
-  
+
+Schaf, das, -(e)s|-e: sheep
+              Singluar       Plural
+  Nonimative  das Schaf      die Schafe
+  Accusative  das Schaf      die Schafe
+  Genitive    des Schaf(e)s  der Schafe
+  Dative      dem Schaf      den Schafen
+
 schaffen /ˈʃafən/: to do, to manage, to finish, to take, to put, to work, to create
   Ich hab das schon mehrmals versucht, aber ich schaffe das einfach nicht.
   I've tried several times but I just can't do it.
@@ -252,6 +259,9 @@ scharf /ʃarf/: sharp, strong, hot, spicy, rigorous, tough
   Sie hat ganz wunde Hände von den scharfen Putzmitteln.
   Her hands are all sore from the caustic cleaning products.
   scharf auf etw. sein: to be keen on sth
+
+scharfkantig: sharp-edged
+  → kantig: edged
 
 Schatten /ˈʃatən/, der: shadow, shade
   Er folgte mir wie ein Schatten.
@@ -1021,6 +1031,9 @@ Schulter /ˈʃʊltɐ/, die, ~|-n: shoulder
 
 Schuluniform, die: school uniform
 
+Schuppe, die: scale
+  eines der Plättchen auf der Haut von Fischen oder Reptilien
+
 Schurke /ˈʃʊrkə/: villain
   Spielen Sie im Film lieber den Helden oder den Schurken?
   Do you prefer playing the hero or the villain in a movie?
@@ -1473,6 +1486,8 @@ siegeln /ˈziːɡəln/: to seal
 sieh, siehe, sieht → sehen
 
 Sigel, Siegel
+
+Sinfonie /zinfoˈniː/, die
 
 singen /ˈzɪŋən/: to sing
 
@@ -1935,6 +1950,8 @@ Stadion /ˈʃtaːdjɔn/, das, -s|Stadien: stadium
 Stadt /ʃtat/, die, ~|..e: town, city
 
 Stadtführer, der: city guide
+
+Stadtführung, die
 
 Stadtrand /ˈʃtatrant/, der, Stadtränder /ˈʃtatrɛndɐ/: outskirts
 
@@ -2712,6 +2729,8 @@ Symbolik /zʏmˈboːlɪk/, die, |uncountable
 sympathisch /zʏmˈpaːtɪʃ/: likable, nice
   Sie ist mir nicht besonders sympathisch.
   I don't particularly like her.
+
+Symphonie /zʏmfoˈniː/, die
 
 Symposion /zʏmˈpoːzjɔn/, das, -s|Symposien: symposium
   an einem Symposion zum Thema Kindesmissbrauch teilnehmen

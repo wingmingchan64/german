@@ -9,7 +9,7 @@ Reykjanesskagi. Wir erkunden die Halbinsel im äußersten Südwesten Islands. An
 
 https://www.youtube.com/watch?v=dXTkAEZ8KHY&t=139s
 Tag 02: Reykjavík, Reykjadalur, Urriðafoss
-Reykjavík im Regen. Eine Stadtführung ist auch bei schlechtem Wetter immer eine gute Idee. Das Konzerthaus Harpa liegt direkt am Hafen. 2011 eingeweiht ist es durch seine herausragende Architektur und die an schuppen erinnernden glasfassaden ein besonderer Blickfang. Wir lassen den Regen und Reykjavík hinter uns. Wir werden am Ende unserer Reise noch einmal hierher zurückkehren. Nun zieht es uns aber hinaus in die isländische Natur. Der riester Fall liegt gleich unweit der Ringstraße, die komplett um die Insel führt, und ist Island wasserreichste Wasserfall. Die robusten Islandpferde trotzen dem rauen Klima heimat. Ein Pferd welches die Insel verlässt darf niemals mehr zurück. Eine Einfuhr von Pferden ist in Island seit 1909 verboten. Dies wird nicht die letzte Begegnung mit dem freundlihen Tieren sein, denn große Herden von Pferden und Schafen beiden im Sommer ohne Aufsicht im Hochland.
+Reykjavík im Regen. Eine Stadtführung ist auch bei schlechtem Wetter immer eine gute Idee. Das Konzerthaus Harpa liegt direkt am Hafen. 2011 eingeweiht ist es durch seine herausragende Architektur und die an Schuppen erinnernden Glasfassaden ein besonderer Blickfang. Wir lassen den Regen und Reykjavík hinter uns. Wir werden am Ende unserer Reise noch einmal hierher zurückkehren. Nun zieht es uns aber hinaus in die isländische Natur. Der Urriðafoss liegt gleich unweit der Ringstraße, die komplett um die Insel führt, und ist Islands wasserreichste Wasserfall. Die robusten Islandpferde trotzen dem rauen Klima ihrer Heimat. Ein Pferd, welches die Insel verlässt, darf niemals mehr zurück. Eine Einfuhr von Pferden ist in Island seit 1909 verboten. Dies wird nicht die letzte Begegnung mit dem freundlichen Tieren sein, denn große Herden von Pferden und Schafen beiden im Sommer ohne Aufsicht im Hochland.
 
 https://www.youtube.com/watch?v=dXTkAEZ8KHY&t=337s
 Tag 03: Vestmannaeyjar, Eldfell, Gluggafoss
@@ -17,7 +17,7 @@ Mit der Fähre setzen wir über nach Vestmannaeyjar und seiner kleinen Stadt Hei
 
 https://www.youtube.com/watch?v=dXTkAEZ8KHY&t=530s
 Tag 04: Seljalandsfoss, Skógafoss, Reynisfjara
-Der Seljalandsfoss bietet die einzigartige Gelegenheit hinter den Wasserfall zu treten und durch einen Schleier aus Wasser und Dampf zu sehen, wasserdichte Klamotten vorausgesetzt. Wunderschön sieht sich der Fluss Kuga mit kristall blauen Wasser durch die karge Landschaft er 1062 Meter in die Tiefe stürzt. Der Skógafoss ist einer der bekanntesten und eindrucksvollsten Wasserfälle Islands. Der Sage nach versteckte einer der ersten wikinger Siedler in einer Höhle hinter dem Wasserfall einen Schatz. Ein isländischer Junge fand ihn einst bekam aber nur den Griff zu fassen, die die Kiste verschwand. Der Ring der Schatztruhe wird seitdem im Museumshafen verwahrt. Wir steigen die 432 Stufen von der Plattform oberhalb des Wasserfalls wieder hinunter unserem nächsten Abenteuer entgegen. Es ist spät als wir den schwarzen Sandstrand erreichen. Während der Sommersonnenwende im Juni geht die Sonne erst zwischen 1 und 2 Uhr nachts unter und sofort danach wieder auf. Mit einer unvergleichlichen Lichtstimmung und einem menschenleeren Strand, wird auf Island der späte Vogel belohnt.
+Der Seljalandsfoss bietet die einzigartige Gelegenheit hinter den Wasserfall zu treten und durch einen Schleier aus Wasser und Dampf zu sehen, wasserdichte Klamotten vorausgesetzt. Wunderschön sieht sich der Fluss Kuga [?] mit kristall blauen Wasser durch die karge Landschaft er 62 [?] Meter in die Tiefe stürzt. Der Skógafoss ist einer der bekanntesten und eindrucksvollsten Wasserfälle Islands. Der Sage nach versteckte einer der ersten wikinger Siedler in einer Höhle hinter dem Wasserfall einen Schatz. Ein isländischer Junge fand ihn einst bekam aber nur den Griff zu fassen, die die Kiste [?] verschwand. Der Ring der Schatztruhe wird seitdem im Museumshafen verwahrt. Wir steigen die 432 Stufen von der Plattform oberhalb des Wasserfalls wieder hinunter unserem nächsten Abenteuer entgegen. Es ist spät als wir den schwarzen Sandstrand erreichen. Während der Sommersonnenwende im Juni geht die Sonne erst zwischen 1 und 2 Uhr nachts unter und sofort danach wieder auf. Mit einer unvergleichlichen Lichtstimmung und einem menschenleeren Strand, wird auf Island der späte Vogel belohnt.
 
 https://www.youtube.com/watch?v=dXTkAEZ8KHY&t=804s
 Tag 05: Dyrhólaey, Sólheimajökull, Eyjafjallajökull, Þakgil, Hjörleifshöfði, Vík í mýrdal
@@ -90,6 +90,8 @@ echt /ɛçt/: genuine, real
 
 Einfuhr, die: import
 
+eingeweiht: inaugurated
+
 einspurig: single-lane, single-track
 
 erschöpft: exhausted
@@ -101,6 +103,8 @@ genießen: to enjoy, to savor
 geradezu: downright, positively
 
 Griff, der: handle
+
+herausragend /hɛˈrausraːɡənt/: outstanding
 
 herrlich: superb, marvelous, gorgeous
 
@@ -118,6 +122,8 @@ oberhalb: above
 
 in puncto: with regard to, as regards, when it comes to
 
+örtlich: local
+
 rau: harsh
 
 Sage, die: legend
@@ -125,6 +131,10 @@ Sage, die: legend
 Schauplatz, der: scene
 
 Schicht, die: layer
+
+Schleier, der: veil
+
+Schuppe, die: scale
 
 Siedler: settler
 

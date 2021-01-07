@@ -645,6 +645,8 @@ Bein /bain/, das, -(e)s|-e: leg
 beinahe /ˈbainaːə/: almost
   beinah(e) in allen Fällen, in beinah(e) allen Fällen: in almost every case
 
+Beiname, der: nickname
+
 beinhalten: etw. mit zum Inhalt haben
 
 beipflichten: to agree, to consent, to approve
@@ -1706,6 +1708,8 @@ bisher /bɪsˈheːɐ/: up to now, so far
   Alles bleibt wie bisher.
   Everything remains the same as it was before.
 
+bisherig /bɪsˈheːrɪç/: previous, present, up to now
+
 bislang /bɪsˈlaŋ/: up to now
 
 bisschen /ˈbɪsçən/
@@ -1807,6 +1811,11 @@ blicken /ˈblɪkən/: to look, to get
   aus dem Fenster blicken: to look out of the window
   traurig blicken: to look sad
 
+Blickfang, der
+  etw., das die Blicke auf sich lenkt
+
+blickfangend: eye-catching
+
 blies → blasen
 
 blind: blind
@@ -1893,6 +1902,8 @@ Bogen /ˈboːɡən/, der, -s|~,Bögen: curve, arch, bow
   At that point there is a curve in the road.
   Torbogen: archway
   mit Pfeil und Bogen schießen: to shoot a bow and arrow
+
+Böhmen: Bohemia
 
 Bohne /ˈboːnə/, die, ~|-n: bean
   Bohnenranke: beanstalk

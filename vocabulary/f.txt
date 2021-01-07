@@ -53,6 +53,9 @@ Fahne /ˈfaːnə/, die, -n: flag
 
 fahrbar: wheeled, mobile
 
+Fähre /ˈfɛːrə/, die
+  Schiff, das regelmäßig zwischen zwei Ufern hin- und herfährt und Dinge und Menschen transportiert
+
 fahren /ˈfaːrən/: to drive, to go
   fahre, fährst, fährt, ihr fahrt, bin gefahren
   fuhr, fuhrst, fuhren
@@ -206,6 +209,8 @@ Fasching /ˈfaʃɪŋ/, der, -s|uncountable: carnival
 Fass /fas/, das, -es|..er: barrel
   Bierfass
   drei Fässer / Fass Wein: three barrels of wine
+
+Fassade, die: façade, front
 
 fassbar /ˈfasbaːɐ/: comprehensible
   Es ist kaum/schwer fassbar, dass sie das getan haben soll.

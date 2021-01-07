@@ -494,6 +494,8 @@ umsonst /ʊmˈzɔnst/: for nothing
 Umstand /ˈʊmʃtant/, der, -(e)s|..e: circumstance
   unter Umständen: perhaps
 
+umständlich: complicated, laborious, awkward, difficult
+
 Umstandswort /ˈʊmʃtanʦvɔrt/, das, -(e)s|..er: adverb
   „Immer‟ und „nie‟ sind Umstandswörter der Zeit.
   “Always” and “never” are adverbs of time.
@@ -829,6 +831,8 @@ Unterricht /ˈʊntɐrɪçt/, der, pl: classes, instruction, teaching
 untersagen: to forbid, to prohibit
   Rauchen ist hier strengstens untersagt.
 
+unterscheiden: to distinguish, to differ
+
 Unterschied /ˈʊntɐʃiːt/, der: difference
   Besteht denn ein Unterschied zu den anderen?
   Is it any different to the others?
@@ -905,6 +909,10 @@ unzufrieden: dissatisfied, discontented, unhappy
 unzustellbar: undeliverable
 
 Uran, das: uranium
+
+Uraufführung /ˈuːɐ|auffyːrʊŋ/, die: premiere
+
+Ureinwohner, der: native (inhibitant)
 
 Urgroßeltern: great-grandparents
 

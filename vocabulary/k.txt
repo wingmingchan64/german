@@ -96,7 +96,7 @@ Kandidat /kandiˈdaːt/, -in, -en
 Kaninchen /kaˈniːnçən/, das, -s|~: rabbit
   Kaninchenbau: rabbit burrow
 
-Kante: edge
+Kante, die: edge
   Ich habe mich an der Tischkante gestoßen.
   Er saß auf der Bettkante.
   etw. auf die hohe Kante legen: Geld sparen
@@ -382,6 +382,8 @@ Kissenbezug, der: cushion cover, pillow case
 Kiste /ˈkɪstə/, die, ~|-n: box, crate, Sache
   eine Kiste (voller) Bücher: a box (full of) books
   zwei Kisten Bier kaufen: to buy two crates of beer
+
+kitschig /ˈkɪtʃɪç/: cheesy
 
 klagen /'klaːɡən/: complain, to take legal action
   „Wie geht es dir?‟ – „Ich kann nicht klagen!‟
@@ -896,6 +898,9 @@ Kopfhörer /ˈkɔpfhøːrɐ/, der, -s|~: headphones, earphones
 kopfrechnen: to do mental arithmetic
   Sie kann gut kopfrechnen.
   She's good at mental arithmetic.
+
+kopfstehen: to be in turmoil, to go wild (with excitement)
+  in großer Aufregung, Unordnung sein
 
 Kopie /koˈpiː/, die: copy
 

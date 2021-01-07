@@ -674,11 +674,12 @@ Trennung /ˈtrɛnʊŋ/, die, -en: separation, division, distinction
 Treppe /ˈtrɛpə/, die, ~|-n: staircase, stairs, steps
   die Treppe hinunterfallen: to fall down the stairs
 
-treten /ˈtreːtən/: to kick, to step, to trample, to tread, to enter
+treten /ˈtreːtən/: to kick, to step, to trample, to tread, to enter, to overflow
   jdm gegen das Schienbein / auf den Fuß treten
   to kick sb in the shin/tread on sb's foot
   mit jdm in Verhandlungen / in Kontakt treten
   to enter into negotiations/get in touch with sb
+  Der Fluss ist über die Ufer getreten.
 
 treu /trɔy/: faithful
   Er kann einfach nicht treu sein.
@@ -784,6 +785,9 @@ trug → tragen
 trügen /ˈtryːɡən/: to deceive
   Meine Hoffnungen hatten mich nicht getrogen.
   My hopes didn't deceive me.
+
+Truhe, die: chest
+  Schatztruhe
 
 Trumm /trʊm/, das, -(e)s|..er: whopper
   So ein Trumm von einem Mann!
