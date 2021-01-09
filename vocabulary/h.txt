@@ -274,7 +274,7 @@ hauen /ˈhauən/: to hit, to beat, to fight
   In dem Zeitungsartikel wurde der Minister ordentlich in die Pfanne gehauen.
   They really did the dirty on the minister in that newspaper article.
 
-Haufen /ˈhaufən/, der, -: pile
+Haufen /ˈhaufən/, der, -: pile, group
   alle Kleider auf einen Haufen werfen: to throw all the clothes in a pile
   jdn / etw. über den Haufen rennen / fahren / schießen: to knock/run/shoot sb/sth down
   
@@ -587,7 +587,7 @@ herausstellen /hɛˈrausʃtɛlən/: to come to light, to emerge, to transpire, t
   Welche Fähigkeiten sollte man in der Bewerbung besonders herausstellen?
   What skills should you particularly emphasize in a job application?
 
-herauswürgen: regurgitate
+herauswürgen: regurgitate
 
 herausziehen: to pull out
 
@@ -1214,7 +1214,7 @@ hupen /ˈhuːpən/: to sound your horn
 
 hüpfen /ˈhʏpfən/: to hop
   auf einem Bein hüpfen: to hop on one leg
-  Harrys Herz begann zu hüpfen
+  Harrys Herz begann zu hüpfen
 
 hurtig
   schnell

@@ -77,7 +77,7 @@ U-Bahnstation, die
   Der Strand war völlig überfüllt.
   The beach was totally packed.
 
-übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open, to surrender, to throw up
+übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open, to surrender, to throw up
 
 übergehen /ˈyːbɐɡeːən/: to pass, to go over, to move on, to change, to ignore, to pass over
   Das Haus ging von der Mutter auf die Tochter über.
@@ -409,7 +409,8 @@ umherstreichen: to prowl 潛行，逡巡
 umherstreifen: to roam around
   umherstreifen in den Wäldern, in der Gegend etc
 
-umhinkönnen: not to have any choice
+umhinkönnen /ʊmˈhɪnkœnən/: not to have any choice
+  Du wirst nicht umhinkönnen, dich bei ihr zu entschuldigen.
 
 umkehren /ˈʊmkeːrən/: to turn back, to reverse, to turn (inside) out
   Auf halber Strecke sind sie umgekehrt und wieder nach Hause gefahren.
@@ -611,7 +612,8 @@ unerreichbar /ʊn|ɛɐˈraiçbaːr, ˈʊn|ɛɐraiçbaːr/: inaccessible, unattai
 unerschrocken /ˈʊn|ɛɐʃrɔkən/: fearless , courageous
   ein unerschrockener Kämpfer für die Menschenrechte: a fearless champion of human rights
 
-unerträglich /ʊn|ɛɐˈtrɛːklɪç/: ·	
+unerträglich /ʊn|ɛɐˈtrɛːklɪç/:
+  zu intensiv und nicht auszuhalten
   Diese Hitze ist schier unerträglich.
   This heat is just unbearable.
 
@@ -704,7 +706,7 @@ Unruhe /ˈʊnruːə/, die: anxiety, restlessness, unrest
 
 unscheinbar: inconspicuous
 
-Unsinn, der: nonsense
+Unsinn /ˈʊnzɪn/, der: nonsense
   ≈ Blödsinn
   
 unsinnig /ˈʊnzɪnɪç/: foolish, absurd

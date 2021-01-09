@@ -1136,6 +1136,7 @@ Verwandte /fɛɐˈvantə/, der/die, -n|-n: relative, relation
 
 verwechseln /fɛɐˈvɛksəln/: to mix up, to mistake, to confuse
   Ich sehe meinem Bruder sehr ähnlich; wir werden oft verwechselt.
+  ≈ durcheinandergeraten
 
 Verwechslung /fɛɐˈvɛkslʊŋ/, die: mix-up, mistake, confusion
   Die Polizei ist sicher, dass eine Verwechslung (des Täters) völlig ausgeschlossen ist.
@@ -1159,6 +1160,12 @@ Verwendungszweck, der: use, purpose
 verwesen /fɛɐˈveːzən/: to decompose
   sich zersetzen, verrotten
   stark verweste Tierkadaver
+
+verwickeln: to become tangled (up)
+  durcheinandergeraten
+
+verwickelt
+  kompliziert, schwer zu verstehen
 
 verwirklichen /fɛɐˈvɪrklɪçən/: to realize
   ≈ realisieren

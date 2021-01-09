@@ -497,7 +497,7 @@ Einladung, die: invite, invitation
 einlassen /ˈainlasən/: to let in, to run, to draw
   Eine freundliche Bedienstete ließ uns ein.
   A friendly attendant let us in.
-  sich auf jdn/etw. einlassen: to get involved with sb/in sth
+  sich auf jdn/etw. einlassen: to get involved with sb/in sth; to get mixed up in sth
 
 einlaufen /ˈainlaufən/: to break in, to shrink, to run in(to), to finish
   Die neuen Wanderstiefel muss ich noch einlaufen.
@@ -661,6 +661,12 @@ einschlagen /ˈainʃlaːɡən/: to smash, to strike, to hit
 einschleichen /ˈainʃlaiçən/: to sneak in
 
 einschlug → einschlagen
+
+einschränken: to reduce, to cut down on, to limit, to curtail, to economize, to cut down on your spending
+
+Einschränkung, die: restriction, qualification, reservation
+  Das stellt eine Einschränkung meiner persönlichen Freiheit dar.
+  → Schranke: barrier, limit
 
 einsehen /ˈainzeːən/: to realize, to accept, to look at/through, to inspect, to see
   Ich sehe ein, dass es keine andere Möglichkeit gibt.

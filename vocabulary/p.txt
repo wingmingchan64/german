@@ -331,6 +331,9 @@ Planung, die: planning
   Das klappt nur bei sorgfältiger Planung.
   It will depend on careful planning.
 
+plappern: to babble (about)
+  ohne Nachdenken erzählen
+
 Plastik /ˈplastɪk/, das: plastic
 
 Plastik, die: statue, sculpture

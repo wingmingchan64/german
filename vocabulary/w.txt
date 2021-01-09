@@ -919,6 +919,9 @@ wohnen /ˈvoːnən/: to live
 
 Wohngemeinschaft, die: shared apartment
 
+wohnhaft: resident
+  seine Wohnung irgendwo habend
+
 wohnlich /ˈvoːnlɪç/: cozy
   ein wohnliches Zimmer: a cozy room
 

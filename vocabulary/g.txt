@@ -1065,8 +1065,6 @@ getrennt: separated, apart
   Sie führten getrennte Kasse.
   They each paid for themselves.
 
-
-
 getreu: true, faithful, exact, loyal
 
 *Getriebe /ɡəˈtriːbə/, das, -s|~: gearbox, transmission
@@ -1442,6 +1440,9 @@ Grenze /ˈɡrɛnʦə/, die, ~|-n: border, frontier, mark, threshold, limit
   an der Grenze zur Wildnis: at the edge of the wilderness
   Die Einwohnerzahl überschritt die Milliardengrenze.
   The number of inhabitants exceeded the one billion mark.
+
+grenzenlos: unlimited, limitless, infinite
+  ohne Ende, Einschränkung; sehr intensiv; 
 
 griechisch: greek
 

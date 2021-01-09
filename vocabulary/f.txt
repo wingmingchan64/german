@@ -126,7 +126,7 @@ Fall /fal/, der, Fälle /ˈfɛlə/: case
   gesetzt den Fall, dass …: supposing (that) …
   von Fall zu Fall: on a case by case basis
   etw. ist der Fall: sth is the case
-  für den Fall: in case
+  für den Fall: in case
 
 Falle /ˈfalə/, die, Fallen: trap
   eine Falle aufstellen: to set a trap
@@ -883,6 +883,8 @@ frech /frɛç/: fresh, cheeky, impudent
   Werd bloß nicht frech!
   Now don't get fresh with me!
 
+Frechheit, die: cheek, impudence
+
 frei /frai/: free
 
 Freibad /ˈfraibat/, das, ..er: outdoor swimming pool
@@ -1043,7 +1045,7 @@ führen /ˈfyːrən/: to take, to lead, to show, to bring, to run, to keep, to c
   They were three-nil up at half-time.
   etw. mit sich führen: to have sth with/on you
   Gepäck / Waffen mit sich führen: to have baggage with you/weapons on you
-  Er führte mehrere wichtige Telefongespräche: He made several important telephone calls
+  Er führte mehrere wichtige Telefongespräche: He made several important telephone calls
   eine Mauer um den Garten führen： to build (od put up) a wall around the garden
   vor Augen führen: to show
 
@@ -1064,7 +1066,7 @@ Führerschein /ˈfyːrɐʃain/, der: driver’s license
   Dokument, das man braucht, um ein Auto, Motorrad o. Ä. fahren zu dürfen
   Ihm wurde der Führerschein abgenommen.
 
-führte → führen
+führte → führen
 
 Führung, die: leadership
 
