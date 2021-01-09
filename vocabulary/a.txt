@@ -1,5 +1,5 @@
 ﻿========================================================
-ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
@@ -1064,6 +1064,8 @@ ahfahren /ˈanfaːrən/: to hit, to snap at 厲聲說, to stop at, to start up
   Er fuhr mit quietschenden Reifen an.
   He sped off, burning rubber.
 
+anfachen: to fan, to kindle, to fuel
+
 Anfall, der, -(e)s, ..e: attack, fit
   in einem Anfall von Eifersucht / Arbeitswut: in a fit of jealousy/work frenzy
 
@@ -1440,6 +1442,8 @@ anschließend /ˈanʃliːsənt/: subsequent, following
 Anschluss, der, -es|-e: connection, line, contact
   Verbindung zu einem Netz / System; Telefon mit einer bestimmten Nummer
   einen Anschluss legen: to lay a connection
+
+anschnauzen: to yell at
 
 anschreiben /ˈanʃraibən/: to write down, to write to, to put on your tab
   Der Lehrer schrieb eine Aufgabe an.
