@@ -159,6 +159,11 @@ Verbraucher /fɛɐˈbrauxɐ/, Verbraucherin: consumer
 Verbrechen /fɛɐˈbrɛçən/, das: crime
   ein Verbrechen begehen: to commit a crime
 
+Verdacht, der: suspicion
+  Vermutung, dass etw. Negatives geschieht oder getan wurde
+  auf Verdacht: just in case
+    vermutend, dass es richtig oder notwendig sein könnte
+
 Verdächtige(r): suspect
 
 verdächtigen /fɛɐˈdɛçtɪɡən/: to suspect
@@ -654,6 +659,7 @@ vermutlich /fɛɐˈmuːtlɪç/: presumed, probable
   I will probably be an hour late.
 
 Vermutung /fɛɐˈmuːtʊŋ/, die, ~|-en: assumption, suspicion
+  ≈ Verdacht
   Seine Vermutungen wurden bestätigt.
   His suspicions were confirmed.
 
@@ -1350,6 +1356,7 @@ volltanken /ˈfɔltaŋkən/: to fill up (with gas)
 △vom /fɔm/
 
 △von /fɔn/
+  Entschuldigen Sie bitte, wie komme ich von hier aus zum Bahnhof?
 
 vor /foːɐ/: in front of, ago, with
   Die Haltestelle ist direkt vor unserem Haus.

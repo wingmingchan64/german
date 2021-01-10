@@ -593,6 +593,8 @@ wetten /ˈvɛtən/: to bet
 
 *Wetter /ˈvɛtɐ/, das: weather
 
+Wetterfrosch: weather person
+
 Wetteransage, die: weather report/forecast
 
 Wettkampf /ˈvɛtkampf/, der, ..e: competition, contest
@@ -950,6 +952,9 @@ wölben /ˈvœlbn/: to swell, to curve, to arch
 
 *Wolke /ˈvɔlkə/, die, ~|-n: cloud
   Dunkle Wolken zogen auf. Dark clouds were gathering. 
+
+Wolkenbruch, der:
+  plötzlicher, starker Regen
 
 wolkenverhangen: overcast
 

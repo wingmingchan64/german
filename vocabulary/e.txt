@@ -1745,6 +1745,9 @@ erst /eːɐst/: first, not until, only, not before
   Es ist erst sechs Uhr; ich möchte noch ein wenig schlafen.
   It's only six o'clock. I'd like to sleep a little longer.
 
+erstarren: to grow stiff, to solidify, to freeze
+  → starr: stiff, rigid
+
 erstatten /ɛɐˈʃtatən/: to reimburse, to refund, to give, to make, to file
   mit Geld ausgleichen; offiziell bei der zuständigen Stelle einreichen, vorbringen
   Er bekommt von seinem Arbeitgeber die Fahrtkosten zur Arbeit voll erstattet.

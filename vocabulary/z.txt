@@ -34,6 +34,15 @@ zähmen: to tame
 
 Zahn /ʦaːn/, Zähne /ˈʦɛːnə/, der: tooth
 
+Zapfen, der: cone
+  Gebilde aus harten Schuppen, das die Samen von Nadelbäumen umgibt
+  Das Eichhörnchen knabberte an einem Tannenzapfen.
+  The squirrel was nibbling at a pinecone.
+
+zapfen: to tap, to draw
+  durch einen Hahn aus einem Behälter fließen lassen
+  frisch gezapftes Bier
+
 zart /ʦaːɐt/: delicate, tender, gentle
   Mit so einem zarten Pflänzchen muss man vorsichtig umgehen.
   You have to be careful with such a delicate little plant.
@@ -78,6 +87,11 @@ Zeichen, das, -s|~: sign, signal, symbol
 
 zeichnen /ˈʦaiçnən/: to draw
   mit Bleistift eine Skizze zeichnen: to make a sketch in pencil
+
+Zeichnung, die: drawing, markings
+  gezeichnetes Bild; Muster des Fells, der Federn oder der Haut eines Tiers
+  eine Zeichnung anfertigen
+  eine Katze mit schöner Zeichnung
 
 zeigen /ˈʦaiɡən/: to show
   Zeigst du mir mal deine neuen Schuhe?
@@ -616,7 +630,7 @@ zusammenpassen: to suit each other
 
 zusammenprallen: to clash
 
-zusammenreißen: to pull yourself together
+zusammenreißen: to pull yourself together 控制自己的情緒
 
 zusammensacken: to slump, to fall in a heap, to collapse, to drop
 
