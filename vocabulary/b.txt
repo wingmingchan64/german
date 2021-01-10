@@ -643,7 +643,9 @@ Bein /bain/, das, -(e)s|-e: leg
   auf den Beinen sein: to be on your feet/to be out and about
 
 beinahe /ˈbainaːə/: almost
+  nicht ganz / nicht wirklich, aber nicht weit davon entfernt
   beinah(e) in allen Fällen, in beinah(e) allen Fällen: in almost every case
+  Er ist beinah acht Jahre alt.
 
 Beiname, der: nickname
 
@@ -936,6 +938,8 @@ Berg /bɛrk/, der: mountain
 Bergbau, der: mining
 
 bergen: to recover, to salvage
+
+Berghütte, die: mountain hut, refuge
 
 Bergwacht /ˈbɛrkvaxt/, die: mountain rescue service
   Dienst, der Menschen rettet, die in den Bergen in Not geraten sind
@@ -1679,7 +1683,10 @@ Billard /ˈbɪljart/, das, |uncountable: billards
   Billardtisch: billiard table
 
 billig /ˈbɪlɪç/: cheap
-   einen billigen Flug /fluːk/ buchen: to book a cheap flight 
+   einen billigen Flug /fluːk/ buchen: to book a cheap flight
+
+billigen: to approve, to endorse
+≈ gutheißen
 
 Binde, die: bandage
   Verband, den man um eine Verletzung bindet
@@ -1868,6 +1875,8 @@ bloß /bloːs/: bare, mere, only
 blühend: blossoming, flourishing, thriving
 
 Blumenkohl /ˈbluːmənkoːl/, der: cauliflower
+
+Blumenstrauß, der: bunch of flowers
 
 Blut /bluːt/, das, -(e)s|uncountable: blood
   Er hat bei dem Unfall viel Blut verloren.

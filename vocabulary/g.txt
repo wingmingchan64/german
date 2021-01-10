@@ -312,7 +312,7 @@ gefährlich /ɡəˈfɛːɐlɪç/: dangerous
   Vorsicht! Der Täter ist bewaffnet und sehr gefährlich.
   Warning! The perpetrator is armed and very dangerous.
 
-Gefährte, der: companion
+*Gefährte, der: companion
   Der Hund war stets sein treuester Gefährte.
 
 Gefälle /ɡeˈfɛlə/, die, Gefälle: slope
@@ -850,6 +850,8 @@ Gericht, das, -(e)s|-e: dish, meal
 
 Gerichtsurteil, das: court decision
 
+im geringsten: in the slightest
+
 Gerücht /ɡəˈrʏçt/, das, -(e)s|-e: rumor
   ein Gerücht verbreiten / in die Welt setzen: to spread/start a rumor
 
@@ -1149,6 +1151,10 @@ Gewissen, das: conscience
 *Gewitter /ɡəˈvɪtɐ/, das: thunderstorm
   Draußen tobte ein heftiges Gewitter.
   A heavy thunderstorm was raging outside.
+
+gewogen, adj: favorable
+
+gewogen → wiegen
 
 Gewohnheit /ɡəˈvoːnhait/, die, Gewohnheiten: habit                           
   Aus alter Gewohnheit griff er nach der Zigarette, obwohl er das Rauchen aufgegeben hatte.
@@ -1531,6 +1537,8 @@ Grundsatz /ˈɡrʊntzaʦ/, der, -es|..e: principle
 
 Grundschule: elementary/grade school
 
+grunzen: to grunt
+
 Gruß /ɡruːs/, der, -es|..e: greeting, regards, wishes
   Sie erwiderte meinen Gruß nicht.
   She didn't return my greeting.
@@ -1582,6 +1590,10 @@ gut /ɡuːt/: good
   For the time of the year the weather was quite good.
 
 Güter, pl: goods
+
+gutheißen: to approve of, to endorse
+  für gut halten
+  ≈ billigen
 
 gutmachen: to make good, to make up (for)
   etw. wieder in Ordnung bringen; einen Ausgleich schaffen

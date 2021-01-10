@@ -721,7 +721,7 @@ wiedersehen
   Wann sehen wir uns wieder?
   When will we see each other again?
 
-wiegen /ˈviːɡən/: to weigh
+wiegen /ˈviːɡən/: to weigh, sich: to sway
 
 wiehern /ˈviːɐn/: to neigh, to whinny
 
@@ -732,6 +732,9 @@ Wiese /ˈviːzə/, die, -n: lawn, meadow
 Wiesn, die: fairground, Oktoberfest
 
 wieso /viˈzoː/: why
+
+Wild, das: game, deer
+  wild lebende Tiere, die gejagt werden
 
 wild /vɪlt/: wild, savage
   wilder Wein: woodbine

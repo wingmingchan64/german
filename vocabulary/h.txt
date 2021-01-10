@@ -850,6 +850,8 @@ hinauftragen: to carry up(wards)
 
 hinaus /hɪˈnaus/: out
 
+hinaustreiben: to drive out
+
 hinauszögern /hɪˈnausʦøːɡɐn/: to delay, to put off
   Es ist nicht sinnvoll, die Schließung des Betriebs hinauszuzögern.
   It doesn't make sense to delay the closure of the plant.
@@ -1170,8 +1172,9 @@ Hügel /ˈhyːɡəl/, der, -s|~: hill
 Hülle /ˈhʏlə/, die: cover, case, holder, blanket, sheath, shroud
   Bitte steck die Dokumente wieder in die Hülle zurück.
   Please put the documents back in the cover.
+  Klarsichthülle: clear plastic folder
 
-hüllen /ˈhʏlən/: to wrap
+hüllen /ˈhʏlən/: to wrap, to shroud, to cover
   ein Kind / sich in eine warme Decke hüllen
   to wrap a child/to wrap up in a warm blanket
   sich in Schweigen hüllen: to remain silent
