@@ -453,6 +453,7 @@ absetzen /ˈapzɛʦən/: to remove, to depose, to stop taking, to cancel, to tak
   Können Sie mich bitte hier absetzen?
 
 Absicht /ˈapzɪçt/, die, ~|-en: intention
+  der Wille, etw. in der Zukunft zu tun
   An guten Absichten fehlt es nicht.
   There is no lack of good intentions.
   mit Absicht: intentionally
@@ -484,6 +485,7 @@ Abstand /ˈapʃtant/, der, -(e)s|..e: distance, interval
   mit Abstand: by far
   Das ist mit Abstand das Dümmste, was ich je gehört habe.
   That's by far the dumbest thing I've ever heard.
+  flackern: in kurzen Abständen an- und ausgehen
 
 abstehen /ˈapʃteːən/: to stick out, to stand away
   abstehende Ohren haben: to have protruding ears
@@ -1633,7 +1635,7 @@ anzapfen: to broach, to tap
 Anzeichen, das: indication
   Alle Anzeichen deuten darauf hin, dass es einen kalten Winter geben wird.
 
-Anzeige /ˈanʦaiɡə/, die: advertisement, announcement, complaint
+Anzeige /ˈanʦaiɡə/, die: advertisement, announcement, complaint, display
   eine Anzeige aufgeben
 
 anziehen /ˈanʦiːən/: to attract, to get dressed
@@ -1651,6 +1653,15 @@ Anzug /ˈanʦuːk/, der, Anzüge: suit
 anzünden /ˈanʦʏndən/: to light
   Sie zündete sich eine Zigarette an.
   She lit a cigarette.
+
+Anzünder, der: lighter
+  Zigarettenanzünder
+
+Anzündmaterial
+
+Äonen /ɛˈoːnən/, pl: eons
+  sehr langer Zeitraum
+  seit / vor Äonen
 
 Apfel /ˈapfəl/, der, Äpfel /ˈɛpfəl/: apple
   Apfelsaft
@@ -1711,7 +1722,7 @@ angegraut: graying, grayish
 
 Ärger /ˈɛrɡɐ/, der: anger, trouble
 
-ärgerlich /ˈɛrɡɐlɪç/: angry, annoying
+ärgerlich /ˈɛrɡɐlɪç/: angry, annoying, annoyed
   Als er zum vierten Mal anrief, wurde sie ärgerlich.
   When he called for the fourth time, she got angry.
   Lange Wartezeiten sind besonders ärgerlich.
@@ -2205,6 +2216,7 @@ aufschlagen /ˈaufʃlaːɡən/: to open, to add, to hit
 aufschnappen /ˈaufʃnapən/: to pick up, to snap open
   Wo hat der Junge nur wieder diese Schimpfwörter aufgeschnappt?
   Where on earth did the boy pick up those swear words?
+  Er schnippte den Deckel auf
 
 aufschreiben: to write down
   schriftlich festhalten
@@ -2230,6 +2242,8 @@ aufspringen /ˈaufʃprɪŋən/, to jump up
 
 Aufstand /ˈaufʃtant/, der, ..e: revolt, rebellion
   Arbeiteraufstand: workers' rebellion
+
+aufstecken: to put on, to put up, to plug in, to pin up
 
 aufstehen /ˈaufʃteːən/: to get up, to stand up, to be open
   Er stand auf und bot dem Mann seinen Platz an.
@@ -2608,6 +2622,10 @@ ausnahmsweise /ˈausnaːmsvaizə/: by way of exception
 
 ausnutzen /ˈausnʊʦən/: to take advantage of
   → nutzen: to use
+
+Auspfeifen: catcall
+
+auspfeifen: to boo, to hiss at, to whistle
 
 Auspuff /ˈauspʊf/, der, -(e)s|-e: muffler
   Rohr für die Abgase eines Autos oder Motorrads

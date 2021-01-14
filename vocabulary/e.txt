@@ -153,6 +153,7 @@ Eichhörnchen /ˈaiçhœrnçən/, das, -s|~: squirrel
 Eid /ait/, der: oath
 
 Eifer /ˈaifɐ/, der, -s|uncountable: eagerness, enthusiasm
+  
   Voller Eifer machte sich der Junge an die Arbeit.
   Full of enthusiasm, the boy got down to work.
   im Eifer des Gefechts: in the heat of the moment 一時衝動
@@ -243,7 +244,7 @@ einbiegen /ˈainbiːɡən/: to turn
 
 Einbiegung, die: inward bend, curve
 
-einbilden /ˈainbɪldən/-	
+einbilden /ˈainbɪldən/
   sich etw. einbilden [ dative ]: to imagine sth
   Hat es gerade geklingelt, oder habe ich mir das nur eingebildet?
   Did I hear the doorbell or did I just imagine it?
@@ -1273,6 +1274,10 @@ Erde /ˈeːɐdə/, die
 
 Erdenrund, das: globe, world
 
+Erdgas, das: natural gas
+  unterirdisch vorkommendes, brennbares Gas
+  Woher bezieht Deutschland das Erdgas?
+
 Erdgeschoss /ˈeːɐtɡəʃɔs/, das, -es|-e: first floor
   im Erdgeschoss wohnen: to live on the first floor
 
@@ -1294,6 +1299,7 @@ Erektion /erɛkˈʦjoːn/, die, Erektionen: erection
   eine Erektion haben/bekommen: to have/get an erection 
 
 erfahren /ɛɐˈfaːrən/ to learn, to hear, to find out, to experience, to suffer
+  Mehr erfahren: to learn more
   Ich habe erst gestern von dem Unfall erfahren.
   I only heard about the accident yesterday.
   Sie hat als Kind nicht viel Liebe erfahren.
@@ -1574,6 +1580,8 @@ erleiden /ɛɐˈlaidən/: to suffer, to sustain
 erloschen /ɛɐˈlɔʃən/: extinct
 
 erlöschen /ɛɐˈlœʃən/: to go out/off, to become extinct, to expire, to terminate
+  zu brennen aufhören
+  bin erloschen, erlosch, erloschest
   Die Lampe erlosch.
   The lamp went out.
   Der Vesuv ist noch nicht erloschen.
@@ -1799,6 +1807,7 @@ Ertrag /ɛɐˈtraːk/, der, -(e)s|..e: yield, harvest, return
   Real estate funds give good returns.
 
 ertragen /ɛɐˈtraːɡən/: to bear, to endure
+  etw. Unangenehmes akzeptieren und überstehen
   Die Schmerzen sind kaum zu ertragen.
   The pain is hard to bear.
   Wie erträgst du nur seine Launen?

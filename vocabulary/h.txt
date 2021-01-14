@@ -111,6 +111,8 @@ hält → halten
   Hält der Bus Nummer hundertzwanzig hier?
 
 halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop, to think
+  hältst, hält, habe gehalten
+  hielt, hieltest or hieltst, hielt
   Sie hielt ein Glas in der Hand/das Baby auf dem Arm.
   She was holding a glass in her hand/the baby in her arm.
   Die nächste Stunde will unser Lehrer über Zugvögel halten.
@@ -291,6 +293,8 @@ häufig /ˈhɔyfɪç/: frequent, common
   This illness isn't very common in these parts.
   Kommt das häufig vor?
   Does that happen often?
+  
+Häufigkeit, die: frequency
 
 Häufung /ˈhɔyfʊŋ/, die: clustering, accumulation
   eine ungewöhnliche Häufung von Beschwerden
@@ -706,6 +710,7 @@ herumstolzieren /hɛˈrʊmʃtɔlʦiːrən/: to strut around/about, to flaunt, to
   She was prancing around the room in her new dress.
 
 herumtreiben /hɛˈrʊmtraibən/: to hang around/about, to roam the streets, to gallivant
+  sich an verschiedenen Orten aufhalten, ohne etw. Sinnvolles zu tun
   Wo hast du dich nur wieder herumgetrieben?
   Where have you been gallivanting this time?
 
@@ -864,6 +869,8 @@ hindern /ˈhɪndɐn/: to prevent, to hinder
 Hindernis /ˈhɪndɐnɪs/, das: obstacle
   Nach dem Sturm lagen Bäume und Äste als Hindernisse auf der Straße.
   After the storm, trees and branches formed obstacles on the road.
+
+hinein: in(to)
 
 hineingeraten: to get in, to get caught
   Ich bin in eine unangenehme Situation hineingeraten.

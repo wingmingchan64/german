@@ -191,6 +191,10 @@ Bayreuth /baiˈrɔyt/
 
 be-: to turn a noun or adjective to a verb, intransitive -> transitive
 
+beabsichtigen /beˈ|apzɪçtɪɡən/: to intend, to aim
+  eine Absicht haben
+  Wir beabsichtigen, ein Haus zu bauen.
+
 beachten: to heed, to keep in mind, to take notice of
   Er hat die Verkehrsregeln nicht beachtet.
   He failed to comply with the traffic regulations.
@@ -1267,6 +1271,9 @@ bestimmt /bəˈʃtɪmt/: certain, firm, decisive, certainly
   Er ist bestimmt schon längst dort.
   He's no doubt been there for ages.
   der bestimmte / unbestimmte Artikel: the definite/indefinite article
+  
+bestimmt sein: to be intended
+  Bürgersteig: erhöhter Teil der Straße, der für Fußgänger bestimmt ist
 
 Bestimmungsort, der: destination
 
@@ -1338,6 +1345,7 @@ betragen /bəˈtraːɡən/: to be, to amount to, to behave
   Behave yourselves at grandma's!
 
 betreffen /bəˈtrɛfən/: to concern, to affect
+  sich auf etw. beziehen, für jdn / etw. gelten
   Die neue Prüfungsordnung betrifft uns nicht mehr.
   Was mich betrifft, können wir gerne noch bleiben.
   For my part we can gladly stay here.
@@ -1430,6 +1438,10 @@ beunruhigen /bəˈ|ʊnruːɪɡən/: to worry, to trouble, to bother
   Die Nachricht scheint ihn nicht sonderlich zu beunruhigen.
   The news doesn't seem to have worried him particularly.
 
+beurteilen /bəˈ|ʊrtailən/
+  sich ein Urteil über jdn / etw. bilden
+  → Urteil
+
 Beute /ˈbɔytə/, die, Beute: loot, booty, spoils, prey
   Kriegsbeute: spoils of war
   Der Löwe zerfleischt seine Beute.
@@ -1501,6 +1513,10 @@ bewegen /bəˈveːɡən/: to move, to budge, to move forward
 Beweggrund /bəˈveːkɡrʊnt/, der: motive
   ein Mord aus niederen Beweggründen: murder for base motives
 
+beweglich: movable, mobile, agile
+
+Beweglichkeit, die: mobility, agility
+
 Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement, exercise, emotion, movement
   in Bewegung: in motion
   Bewegung in etw. bringen: to get sth going/moving
@@ -1568,6 +1584,7 @@ bewölkt /bəˈvœlkt/: cloudy
 bewundern /bəˈvʊndɐn/: to admire
 
 bewusst /bəˈvʊst/: deliberate
+  mit Absicht
   Das war bewusste Irreführung!
   That was deliberate deception!
 
@@ -1589,6 +1606,8 @@ beziehen /bəˈʦiːən/: to get, to receive, to move into, to cover
   Das neue Büro kann bald bezogen werden.
   die Betten frisch beziehen
   to put fresh covers on the beds
+  sich: to cloud over, to darken, to refer to
+  Diese Bemerkung bezog sich nicht auf dich.
 
 Beziehung /bəˈʦiːʊŋ/, die, ~|-en: relationship, connection, respect
   Wir haben eine freundschaftliche Beziehung zueinander.
@@ -2084,6 +2103,9 @@ brennen /ˈbrɛnən/: to burn , to be on fire
 Brett /brɛt/, das, -(e)s|-er: board, shelf
   Bretter sägen / zuschneiden: to saw/cut wooden boards
 
+Brettspiel，das: board game
+  → Spielbrett
+
 Breze(l) /ˈbreːʦə(l)/, die, -n: pretzel
   Riesenbrezen
 
@@ -2279,6 +2301,7 @@ Bürger /ˈbʏrɡɐ/, der: citizen
 Bürgermeister: mayor
 
 Bürgersteig /ˈbʏrɡɐʃtaik/, der, -(e)s|-e: sidewalk
+  erhöhter Teil der Straße, der für Fußgänger bestimmt ist
 
 Büro /byˈroː/, das, -s|-s
   ins Büro gehen: to go to the office

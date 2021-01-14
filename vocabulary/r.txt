@@ -261,6 +261,7 @@ recht: right, real
   erst recht: even more
   Als die Mutter sagte, er solle leiser sein, schrie er erst recht.
   When his mother told him to be quiet, he screamed all the more.
+  ein rechter Feigling sein
 
 Rechtsstaat /ˈrɛçʦʃtaːt/, der: state founded on the rule of law, constitutional state
   Wir leben in einem Rechtsstaat.
@@ -653,6 +654,7 @@ richten /ˈrɪçtən/: to direct, to point, to turn
   Kann ich eine Frage an Sie richten?
   Can I ask you a question?
   sich an jdn richten: to be directed at sb
+  sich richten auf: to focus on
   An wen richtet sich der Aufruf?
   Who is the appeal being aimed at?
 

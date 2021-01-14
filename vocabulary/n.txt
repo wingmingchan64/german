@@ -67,7 +67,7 @@ Nachricht /ˈnaːxrɪçt/, die, -en: message, news
   die Nachrichten hören / sehen: to listen to/watch the news
   Ich habe in den Nachrichten gehört …
 
-nachschlagen /ˈnaːxʃlaːɡən/: to look (up), to take after
+nachschlagen /ˈnaːxʃlaːɡən/: to look (up), to search, to take after
   ein Zitat nachschlagen: to look up a quotation
   Das Kind schlägt ganz der Mutter nach.
   The child really takes after its mother.
@@ -356,6 +356,9 @@ netto: net
 neugierig /ˈnɔyɡiːrɪç/: curious, inquisitive
   Ich bin neugierig.
   jdm neugierige Blicke zuwerfen: to look at sb inquisitively
+
+Neuigkeit, die: news
+  Information, die noch nicht bekannt ist
 
 neulich /ˈnɔylɪç/: recently
   Ich habe neulich einen alten Freund getroffen.

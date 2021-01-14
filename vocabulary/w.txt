@@ -40,6 +40,8 @@ wackeln /ˈvakəln/: to wobble, to shake
 Waffe /ˈvafə/, die: weapon
   einen Stein als Waffe benutzen: to use a stone as a weapon
 
+Waffenstillstand, der: ceasefire
+
 Wagen /ˈvaːɡən/, der: cart, car
 
 wagen: to dare, to venture, to risk
@@ -67,6 +69,7 @@ wählen /ˈvɛːlən/: to choose, to vote (for), to elect, to dial
 Wahlkampf /ˈvaːlkampf/, der: election campaign
 
 Wahn /vaːn/, der: delusion, mania
+  Vorstellung, die nicht der Wirklichkeit entspricht
   Er lebt in dem Wahn, erfolgreicher zu sein als ich.
   He's laboring under the delusion that he's more successful than I am.
 
@@ -123,7 +126,14 @@ Waldkauz, der: tawny owl
 
 Walross /ˈvaːlrɔs/, das, -es|-e: walrus  
 
+Walze, die: roller
+  Rolle als beweglicher Teil einer Maschine
+
+walzen
+  mit einer Walze flach machen
+  
 wälzen /ˈvɛlʦən/: to roll
+  etw. Schweres mit Mühe irgendwohin rollen; sich: sich im Liegen hin- und herbewegen
   einen Verletzten auf den Rücken wälzen: to roll a casualty onto his back
 
 Wand /vant/, Wände /ˈvɛndə/, die: wall

@@ -556,6 +556,7 @@ verlaufen /fɛɐˈlaufən/: to get lost, to disperse
   nicht den richtigen Weg finden; in viele Richtungen auseinandergehen; eine Richtung haben; auf bestimmte Weise geschehen, sich entwickeln; die klare Form verlieren
 
 verlegen /fɛɐˈleːɡən/: to move, to mislay, to lose, to lay
+  an einen anderen Ort bringen; auf einen anderen Zeitpunkt verschieben; nicht mehr finden
   Er wurde auf die Intensivstation verlegt.
   He was moved to the intensive care unit.
   Ihr Chef hat die Sitzung auf Montag verlegt.
@@ -650,6 +651,8 @@ vermummt /fɛɐˈmʊmt/: masked
   Many of the demonstrators were wearing masks.
 
 vermuten /fɛɐˈmuːtən/: to suspect, to assume
+  denken, dass etw. zutrifft oder dass jd / etw. irgendwo ist
+  ≈ annehmen
   Ich vermute, sie sind jetzt schon zu Hause.
   I suppose they must be home by now.
   Es ist / steht zu vermuten, dass …: Presumably …
@@ -719,6 +722,14 @@ verpflegen /fɛɐˈpfleːɡən/: to feed
 Verpflegung /fɛɐˈpfleːɡʊŋ/, die: food, catering
   Habt ihr für den Ausflug genügend Verpflegung dabei?
   Have you taken enough food for the trip?
+
+verpflichten: to oblige, to bind
+  selbst versprechen oder jdn versprechen lassen, etw. zu tun; jdn / sich durch einen Vertrag an eine bestimmte Arbeit binden; bewirken, dass jd eine Pflicht hat
+  
+verpflichtend
+  so geartet, dass daraus eine Pflicht entsteht, etwas Bestimmtes zu tun
+
+verpflichtet sein: be bound to
 
 Verpflichtung /fɛɐˈpflɪçtʊŋ/, die, -en: commitment, obligation
   Sie kam allen Verpflichtungen nach.
@@ -803,6 +814,8 @@ verschleiern /fɛɐˈʃlaiɐn/: to (cover with a) veil, to cover up, to conceal
   The government tried to cover up the extent of the catastrophe.
 
 verschleiert: veiled
+
+Verschluss, der: fastener, catch, lock, obstruction
 
 verschmäht: jilted lover
 
@@ -997,6 +1010,7 @@ Versuch /fɛɐˈzuːx/, der: attempt
 versuchen /fɛɐˈzuːxən/: to try, to attempt
 
 vertagen /fɛɐˈtaːɡən/: to adjourn
+  ohne ein Ergebnis beenden und auf einen späteren Zeitpunkt verlegen
   Die Abstimmung über den Antrag wurde auf die nächste Sitzung vertagt.
   The vote on the application was adjourned until the next meeting.
 
@@ -1097,6 +1111,11 @@ vertuschen /fɛɐˈtʊʃən/: to cover up
   Er versuchte seinen Fehler zu vertuschen.
   He tried to cover up his mistake.
 
+verübeln
+  jdm etw. verübeln: jdm wegen etw. böse sein
+  to be annoyed with sb about sth
+  Sie verübelt ihm, dass er sie nicht mit seinem Wagen fahren lässt.
+
 verunglimpfen /fɛɐˈ|ʊnɡlɪmpfn/: to disparage, to belittle
 
 verunsichern: to make uncertain, to unnerve
@@ -1186,6 +1205,7 @@ verwirren /fɛɐˈvɪrən/: to confuse, to bewilder, to ruffle, to get tangled u
   I was completely bewildered by his night-time phone call.
 
 verwirrt /fɛɐˈvɪrt/: confused, bewildered
+  
   ein verwirrtes Gesicht machen: to look confused
 
 Verwirrung /fɛɐˈvɪrʊŋ/, die: confusion
@@ -1390,6 +1410,9 @@ Voraus, der
 voraus /foˈraus/: ahead, in front
   Andere Länder sind uns in Sachen Bildungspolitik weit voraus.
   Other countries are way ahead of us in terms of educational policy.
+
+vorausgehen: to go ahead, to precede
+  vor den anderen gehen; 
 
 vorausgesetzt (dass): provided (that)
 
@@ -1615,8 +1638,7 @@ Vorsprung /ˈfoːɐʃprʊŋ/, der (M): lead, projection
   Er gewann mit drei Punkten Vorsprung.
   He won by three points.
 
-vorstellen /ˈfoːɐʃtɛlən/: to imagine, to understand sth by sth,
-to introduce, to come/go for an interview, to present, to put forward(s)
+vorstellen /ˈfoːɐʃtɛlən/: to imagine, to understand sth by sth, to introduce, to come/go for an interview, to present, to put forward(s)
   Unter gutem Unterricht stelle ich mir aber etwas anderes vor!
   That's not what I understand by good teaching, however!
   Darf ich Ihnen meine Tochter Kerstin vorstellen?

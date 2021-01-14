@@ -13,6 +13,7 @@ Gabel /ˈɡaːbəl/, die, ~|-n: folk
   mit Messer und Gabel essen: to eat with a knife and fork 
 
 gähnen /ˈɡɛːnən/: to yawn
+  aus Müdigkeit oder Langeweile den Mund weit öffnen und tief und laut atmen
   ein Gähnen: a yawn
   das Gähnen unterdrücken: to stop oneself (from) yawning
   Sie gähnte und dehnte sich ausgiebig.
@@ -133,6 +134,11 @@ Gasthof /ˈɡasthoːf/, der -es|..e: inn
 Gatt, das: stern, hole
 
 Gatte/Gattin: spouse
+
+geartet: of a nature
+  von der genannten Art
+  Das Problem ist so geartet, dass es unlösbar scheint.
+  Wir beantworten gern alle wie auch immer gearteten Fragen.
 
 Gebäck /ɡəˈbɛk/, das, -(e)s|..e: pastries, cookies
   zum Tee selbst gebackenes Gebäck anbieten
@@ -832,6 +838,7 @@ geräuschvoll /ɡəˈrɔyʃfɔl/: noisy
 gerecht: just, fair, upright
 
 gereizt /ɡəˈraiʦt/: irritated, irritable, tetchy
+  → reizen: to annoy
   Warum bist du heute so gereizt?
   Why are you so irritable today?
   „Lass mich in Ruhe!‟, fauchte sie gereizt.
@@ -855,6 +862,7 @@ Gerichtsurteil, das: court decision
 im geringsten: in the slightest
 
 Gerücht /ɡəˈrʏçt/, das, -(e)s|-e: rumor
+  Neuigkeit, von der man nicht weiß, ob sie wahr ist
   ein Gerücht verbreiten / in die Welt setzen: to spread/start a rumor
 
 Gerundium /ɡeˈrʊndiʊm/, das, -s|-s od Gerundien: gerund
@@ -1108,6 +1116,9 @@ Gewalttat /ɡəˈvalttaːt/, die, -en: act of violence
 gewalttätig /ɡəˈvalttɛːtɪç/: violent
   Immer wenn er getrunken hat, wird er gewalttätig.
   Any time he's been drinking he turns violent.
+
+Gewand, das: robe
+  Kleidung
 
 gewandt /ɡəˈvant/: skillful
   ≈ geschickt

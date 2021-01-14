@@ -315,11 +315,17 @@ Feiertag /ˈfaiɐtaːk/, der: holiday
 
 Feige, die: fig
   süße, weiche Frucht eines Baums, der in warmen Ländern wächst
+  
+feige: cowardly
+  ↔ tapfer
 
 Feigheit /ˈfaikhait/, die, |uncountable: cowardice
   ↔ Mut
   Er wurde von einem Kriegsgericht wegen Feigheit vor dem Feind zum Tode verurteilt.
   He was sentenced to death by a military court for cowardice in the face of the enemy.
+
+Feigling, der: coward
+  Person, die feige ist
 
 fein /fain/: fine, subtle
   Der feine Staub drang in alle Ritzen.
@@ -503,6 +509,9 @@ fielen → fallen: to be fired
 
 fies /fiːs/: nasty, disgusting, horrible
 
+Figur /fiˈɡuːɐ/, die
+  äußere Gestalt eines Menschen 外表; 
+
 Fimmel, der: mania, craze
 
 Finanzen /fiˈnanʦən/, pl: finances
@@ -546,6 +555,7 @@ Flächen /ˈflɛçə/, die, -: area, surface, side
   At least three sides of a pyramid are triangles.
 
 flackern /ˈflakɐn/: to flicker
+  unruhig brennen; in kurzen Abständen an- und ausgehen
   im flackernden Schein des Lagerfeuers
   in the flickering light of the campfire
   Der Bildschirm flackerte ein paarmal und blieb dann schwarz.

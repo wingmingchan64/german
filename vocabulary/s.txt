@@ -544,6 +544,8 @@ schlank /ʃlaŋk/: slim, slender
 Schlauchboot /ˈʃlauxboːt/, das: rubber dinghy, rubber boat, life raft
 
 schleichen /ˈʃlaiçən/: to creep, to crawl, to slink
+  versuchen, so zu gehen, dass man nicht bemerkt wird
+  bin geschlichen, schlich, schlichst, schlich, schlichen, schlicht
   sich aus dem Haus schleichen: to creep out of the house
   Er schlich auf Zehenspitzen zur Tür.
   He crept to the door on tiptoe.
@@ -577,7 +579,8 @@ schleunigst /ˈʃlɔʏnɪçst/: immediately, hastily
   Sie suchte schleunigst das Weite.
   She disappeared hastily.
 
-schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, shut up, wind up
+schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, shut up, wind up, to infer
+  habe geschlossen
   Würdest du bitte das Fenster schließen?
   Would you close the window, please?
   Um wie viel Uhr schließt die Bank?
@@ -587,6 +590,7 @@ schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, s
   … nach zu schließen: judging by …
   Aus seinem Verhalten kann man schließen, dass er nervös ist.
   From his behavior one can conclude that he’s nervous.
+  aus etw auf etw (accusative) schließen
 
 schließlich /ˈʃliːslɪç/: finally, at last, in the end, after all
   Schließlich verließen auch die letzten Gäste das Fest.
@@ -755,6 +759,9 @@ schmutzig /ˈʃmʊʦɪç/: dirty
   sich mit schmutzigen Geschäften bereichern: to get rich with some shady deals
 
 Schnabel /ˈʃnaːbəl/, der: beak, bill
+
+Schnalle, die: buckle
+  ringförmiger Verschluss eines Gürtels, Riemens o. Ä
 
 schnallen /ˈʃnalən/: to fasten
   Er schnallte die Tasche auf das Fahrrad.
@@ -1848,6 +1855,8 @@ Spiegel /ˈʃpiːɡəl/, der: mirror
 
 Spiel /ʃpiːl/, das, Spiele: game
 
+Spielbrett, das: (game) board, backboard
+
 Spielsachen /ˈʃpiːlzaxən/, pl: toys
 
 Spielsucht, die: compulsive gambling
@@ -1922,6 +1931,7 @@ Spüle /ˈʃpuːlə/, die, ~|-n: sink unit
 spülen /ˈʃpyːlən/: to wash, to rinse, to flush
 
 Spur /ʃpuːɐ/, die, Spuren: track, trace, sign, lane
+  Reihe von Abdrücken auf dem Boden, wo sich jd / etw. bewegt hat; Fingerabdrücke, Haare usw., die Hinweise für die Polizei sind; sichtbares Zeichen dafür, dass etw. geschehen ist o. Ä; ein Streifen der Fahrbahn, der breit genug für ein Auto ist
   Spuren im Sand: tracks in the sand
   Der Täter hat keine Spuren hinterlassen.
   The perpetrator left no traces.
@@ -2037,6 +2047,8 @@ starten /ˈʃtartən/: to start
   Er startete den Motor.
   He started up the engine.
 
+Startseite, die: (website) home
+
 Stationierung /ʃtaʦjoˈniːrʊŋ/, die: stationing
 
 statisch /ˈʃtaːtɪʃ/: static
@@ -2051,6 +2063,9 @@ stattfinden /ˈʃtatfɪndən/: to take place
   planmäßig erfolgen, sich ereignen
   Die Wahlen finden im Oktober statt.
   The elections take place in October.
+
+Statue /ˈʃtaːtuə/, die
+  Kunstwerk oder Denkmal in Form einer Figur aus Stein, Bronze o. Ä
 
 Status /ˈʃtaːtʊs/, der: status
 
@@ -2332,6 +2347,7 @@ Stirn /ʃtɪrn/, die, -en: forehead
   eine hohe Stirn haben: to have a high forehead
 
 stöbern /ˈʃtœːbɐn/: to browse, to rummage
+  irgendwo nach etw. suchen
   Er stöbert auf dem Speicher nach alten Erinnerungsstücken.
   He is rummaging around in the loft for old keepsakes.
 
