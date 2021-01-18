@@ -471,6 +471,7 @@ Geheimtipp /ɡəˈhaimtɪp/, der: insiders' tip
 
 gehen /ˈɡeːən/: to go, to walk, to leave
   gehe, gehst, geht, geht, bin gegangen
+  Mir geht es gut.
   es geht um jdn/etw: it's about sb/sth
   Worum geht es in dem Buch?
   What's the book about?
@@ -1349,6 +1350,7 @@ glucksen /ˈɡlʊksən/: to gurgle, to burble, to chortle
   The baby burbled with delight.
 
 Glückwunsch /ˈɡlʏkvʊnʃ/, der, -e: congratulations
+  Worte, mit denen man Freude über ein Ereignis in jds Leben ausdrückt
   Herzlichen Glückwunsch zur bestandenen Prüfung!
   Congratulations on passing your exam.
 

@@ -36,7 +36,7 @@
 - Danke schön! Auf Wiedersehen, Frau Scholl.
 [5. https://www.youtube.com/watch?v=4-eDoThe6qo&t=195s]
 - Alles okay?
-- Brauchst du Hilfe? Hilfe, help? Do you need help?
+  Brauchst du Hilfe? Hilfe, help? Do you need help?
 - Ja! Hilfe!
 - Wo ist die Tasche?
 - Die Tasche ist … äh … gone … in the … Taxi!
@@ -145,7 +145,7 @@
 - Eh, doch, keine Sorge! Emma geht es gut.
   Aber Nico hat ein Problem.
   Er war auch am Flughafen. Er kommt aus Spanien.
-- Ja, genau. Er kommt aus Spanien und er hat ein Problem.
+  Ja, genau. Er kommt aus Spanien und er hat ein Problem.
   Seine Tasche ist weg und er spricht nicht gut Deutsch.
 - Hat er Papiere? Einen Ausweis oder einen Pass?
 - Hast du einen Pass? Passport?

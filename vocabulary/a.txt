@@ -268,6 +268,11 @@ ablehnen /ˈapleːnən/: to refuse, to reject
   Er lehnte es ab, mit ihr zu sprechen.
   He refused to speak with me.
 
+ablenken: to distract
+  jdn (von etw.) ablenken: jds Aufmerksamkeit stören
+  → lenken: to steer
+  (vom Thema) ablenken
+
 abmachen /ˈapmaxən/: to take off, to agree
   das Preisschild abmachen: to take the price tag off
   einen Termin abmachen: to arrange an appointment
@@ -1298,6 +1303,11 @@ ankleben /ˈankleːbən/: to stick on
 anknacksen /ˈanknaksn/: to crack
   sich (DAT) den Arm [Knöchel] anknacksen
 
+ankommen
+  das Ziel eines Weges, einer Fahrt erreichen
+  Ich bin gut angekommen.
+  
+
 ankreuzen /ˈankrɔytsən/: to mark with a cross
   die passende Antwort ankreuzen
   to mark the correct answer with a cross 
@@ -1895,6 +1905,12 @@ aufbringen /ˈaufbrɪŋən/: to raise, to start, to come up with, to get open
 aufdecken /ˈaufdɛkən/: to uncover, to show
  Der Journalist hat die Korruption der Stadtverwaltung aufgedeckt.
  The journalist uncovered the city administration's corruption.
+
+aufdringlich /ˈaufdrɪŋlɪç/: pushy, obtrusive
+  sich jdm aufdrängend, jdn belästigend
+  Nach ein paar Gläsern Bier wurde er aufdringlich.
+  Der Geschmack von Knoblauch ist mir zu aufdringlich.
+  I find the smell of garlic too overpowering.
 
 aufdrücken: to press sth on, to stamp sth on sth, to push open
   Den Bleistift nicht so fest aufdrücken! 

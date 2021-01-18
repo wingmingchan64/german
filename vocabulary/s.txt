@@ -2404,10 +2404,14 @@ stopfen /ˈʃtɔpfən/: to stuff sth into sth
 
 Stopp, der: stop
 
+stoppen
+  anhalten
+
 Store /ʃtoːɐ/, der, -s|-s: curtain, drape
   als Sichtschutz die Stores zuziehen: to pull the drapes for greater privacy
 
 stören /ˈʃtøːrən/: to disturb, to interfere, to interrupt, to intrude, to jam
+  jdn von einer Tätigkeit ablenken; eine negative Wirkung auf etw. haben
   Stört es dich, wenn ich rauche?
   Does it bother you if I smoke?
   Das Gewitter stört den Empfang des Senders.
