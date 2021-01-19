@@ -706,6 +706,7 @@ trinken: to drink
   Zum Trinken?
 
 Trinkgeld, das: tip
+  Er gab dem Taxifahrer ein großzügiges Trinkgeld.
 
 trist /trɪst/: dreary
   ≈ trostlos

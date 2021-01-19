@@ -34,6 +34,15 @@ zähmen: to tame
 
 Zahn /ʦaːn/, Zähne /ˈʦɛːnə/, der: tooth
 
+Zahnbürste, die: toothbrush
+  kleine Bürste zur Zahnreinigung
+  
+Zahncreme, die
+
+Zahnseide, die: floss
+  dünner Faden zur Reinigung der Zahnzwischenräume
+  täglich nach dem Zähneputzen Zahnseide benutzen
+
 Zapfen, der: cone
   Gebilde aus harten Schuppen, das die Samen von Nadelbäumen umgibt
   Das Eichhörnchen knabberte an einem Tannenzapfen.
@@ -647,8 +656,11 @@ Zusatz /ˈʦuːzaʦ/, der: additive, addendum, addition, extra
 Zusatzleistung, die: additional capacity, additional service
 
 zusätzlich /ˈʦuːzɛʦlɪç/: additional, extra
+  als Ergänzung, Extra dazukommend
   Entstehen dabei zusätzliche Kosten?
   Will it involve any extra costs?
+  zusätzlich zur Zahnbürste auch Zahnseide benutzen
+  to use floss as well as a toothbrush
 
 zuschauen /ˈʦuːʃauən/: to watch
   Gebannt schauten die Kinder dem Zauberer zu.

@@ -1276,7 +1276,8 @@ Sehenswürdigkeit /ˈzeːənsvʏrdɪçkait/, die: tourist attraction
   Die Touristen bestaunten die Sehenswürdigkeiten der Stadt.
   The tourists were marveling at the city sights.
 
-sehnen /ˈzeːnən/: to long for sb/sth
+sehnen /ˈzeːnən/, sich: to long for sb/sth
+  sich sehr stark wünschen, bei jdm zu sein oder etw. zu haben
   Sie sehnt sich nach Liebe und Geborgenheit.
   She longed for love and security.
 
@@ -1856,6 +1857,10 @@ Spiegel /ˈʃpiːɡəl/, der: mirror
 Spiel /ʃpiːl/, das, Spiele: game
 
 Spielbrett, das: (game) board, backboard
+
+spielen
+  sich mit einem Spiel beschäftigen
+  ein Spiel spielen
 
 Spielsachen /ˈʃpiːlzaxən/, pl: toys
 
