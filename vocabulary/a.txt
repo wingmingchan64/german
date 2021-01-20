@@ -459,6 +459,7 @@ absetzen /ˈapzɛʦən/: to remove, to depose, to stop taking, to cancel, to tak
 
 Absicht /ˈapzɪçt/, die, ~|-en: intention
   der Wille, etw. in der Zukunft zu tun
+  → beabsichtigen
   An guten Absichten fehlt es nicht.
   There is no lack of good intentions.
   mit Absicht: intentionally
@@ -2171,6 +2172,7 @@ aufpassen /ˈaufpasən/: to be careful, to pay attention
   Watch out that you don't fall!
   Du musst im Unterricht besser aufpassen.
   You have to pay more attention in classes.
+  auf jdn / etw. aufpassen: jdn / etw. beaufsichtigen
   Kannst du mal kurz auf meine Tasche aufpassen?
   Could you look after my purse for a bit?
 
@@ -2249,6 +2251,7 @@ aufsetzen /ˈaufzɛʦən/: to put on, to don, to land, to put down, to sit up [r
 Aufsicht /ˈaufzɪçt/, die, -en: supervision, supervisor, person in charge
   die Aufsicht (bei / über etw.) haben / führen: to be in charge (of sth)
   sich bei der Aufsicht melden: to report to the person in charge
+  → beaufsichtigen
 
 aufsparen: to save up
 
@@ -2262,6 +2265,7 @@ Aufstand /ˈaufʃtant/, der, ..e: revolt, rebellion
 aufstecken: to put on, to put up, to plug in, to pin up
 
 aufstehen /ˈaufʃteːən/: to get up, to stand up, to be open
+  aus einer sitzenden / liegenden Haltung zum Stehen kommen; das Bett verlassen; offen sein
   Er stand auf und bot dem Mann seinen Platz an.
   He got up and offered the man his seat.
   früh aufstehen müssen: to have to get up early
@@ -2332,6 +2336,7 @@ aufwecken /ˈaufvɛkən/: to wake up
 Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
 
 Aufzug /ˈaufʦuːk/, der, Aufzüge: elevator, (theatre) act
+  Kasten, in dem man in einem Gebäude senkrecht nach oben oder unten fahren kann
 
 Auge /ˈauɡə/, das, -s|-n: eye
   blaue/gute Augen haben

@@ -1567,7 +1567,7 @@ Bewerber /bəˈvɛrbɐ/, -, Bewerberin: applicant, candidate
   Wir haben zahlreiche hochqualifizierte Bewerber zur Auswahl.
   We have a large number of highly qualified candidates to choose from.
 
-Bewerbung /bəˈvɛrbʊŋ/: application
+Bewerbung /bəˈvɛrbʊŋ/, die: application
 
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
@@ -2139,7 +2139,7 @@ bringen
 
 brisant /brɪˈzant/: explosive, controversial
 
-Brokkoli /ˈbrɔkoliː/ , der, Brokkoli: broccoli
+Brokkoli /ˈbrɔkoliː/, der, -s|~: broccoli
 
 *Bronze /ˈbrõːsə/, die: bronze
 
