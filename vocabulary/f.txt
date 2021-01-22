@@ -401,10 +401,9 @@ Fest, das, -(e)s|-e: celebration, party
   Ihre Hochzeit sollte ein großes Fest werden.
 
 fest /fɛst/: firm, solid
+  nicht flüssig (oder gasförmig)
 
 festdrehen: to screw up tightly
-
-
 
 festhalten /ˈfɛsthaltən/: to hold on to, to detain, to record, to stand by sb
   jdn am Arm festhalten: to hold on to sb's arm
@@ -715,6 +714,9 @@ Flugzeug, das: plane
 
 Flur /fluːɐ/, der, -(e)s|-e: hall, corridor
   auf dem / im Flur warten: to wait in the corridor
+
+flüssig
+  Zustand einer Substanz, in der sie fließen kann
 
 Flüssigkeit /ˈflʏsɪçkait/, die: fluid, liquid
   eine farblose/trübe Flüssigkeit: a colorless/cloudy liquid

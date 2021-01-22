@@ -2,6 +2,8 @@
 T /teː/ T wie Theodor
 ========================================================
 
+T-Shirt /ˈtiːʃøːɐt/, das, -s|-s
+
 Tabak /ˈtaːbak/, der, |uncountable: tobacco
   Tabak anbauen: to grow tobacco
   starken / milden Tabak rauchen: to smoke strong/mild tobacco
@@ -12,6 +14,9 @@ Tablet /ˈtɛblet/, das: tablet
 Tablett /taˈblɛt/, das: tray
   das Frühstück auf einem Tablett ans Bett bringen
   to have breakfast in bed on a tray
+  
+Tablette, die
+  Medikament in fester Form zum Schlucken
 
 Tabu /taˈbuː/, das: taboo
 
@@ -309,6 +314,10 @@ Teppich /ˈtɛpɪç/, der, -e: carpet
 Termin /tɛrˈmiːn/, der, -s|-e: deadline, date, appointment
   Wann ist der letzte Termin für die Anmeldung?
   When is the deadline for registration?
+  Ist am Montag noch ein Termin frei?
+  Ja. Am Montag ist noch ein Termin Frei.
+  Nein. Am Montag ist kein Termin mehr frei.
+  Arzttermin
 
 Terminal /ˈtøːɐminəl/, der/das, -s|-s
   einer der Bereiche eines großen Flughafens, Hafens oder Bahnhofs, in dem bestimmte Flüge, Schiffe bzw. Züge abgefertigt werden

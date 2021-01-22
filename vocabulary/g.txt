@@ -115,6 +115,9 @@ Garten /ˈɡartən/, der, -s|..
 
 Gas, das
 
+gasförmig
+  nicht fest und nicht flüssig
+
 Gasse /ˈɡasə/, die, Gassen: lane, alley
   in den Gassen der Altstadt: in the alleys of the historic old city
   Sie bildeten eine Gasse für den Rettungsdienst.
@@ -770,6 +773,8 @@ Genussmittel /ɡəˈnʊsmɪtəl/, das, -s|~: luxury food and drinks, stimulant
 
 geöffnet
   Wir haben jetzt geöffnet.
+  Bis wann hat der Supermarkt geöffnet?
+  Der Supermarkt hat bis 20 Uhr geöffnet.
 
 Geograf /ɡeoˈɡraːf/, der, -en|-en: geographer
   Sie ist Diplom-Geografin.
@@ -1071,6 +1076,8 @@ gestoßen → stoßen
 gestrichen → streichen
 
 gesund /ɡəˈzʊnt/: healthy
+  Isst du gesund?
+  Nein. Ich esse selten gesund.
 
 Gesundheit /ɡəˈzʊnthait/, die: health
   Er erfreut sich bester Gesundheit.
@@ -1244,6 +1251,9 @@ Girokonto /ˈʒiːrokɔnto/, das, Girokonten: check account
 Gischt /ɡɪʃt/, die, ~|uncountable: spray 水花；飛沫
   Die Gischt spritzte hoch an die Fenster.
   The spray splashed up to the windows.
+
+Gitarre, die
+  Musikinstrument mit sechs Saiten zum Zupfen
 
 Gitter, das: bars, grid, grate
   Der Affe streckte eine Pfote durchs Gitter.
@@ -1444,6 +1454,9 @@ grässlich: hideous, dreadful, dreadful, terrible, horrible
   Firefighters are often confronted with hideous sights.
   grässlichen Durst haben: to be terribly thirsty
 
+gratis /ˈɡraːtɪs/
+  ohne dass man dafür bezahlen müsste
+
 Gratulation /ɡratulaˈʦjoːn/, die, -en: congratulations
   Gratulation zum bestandenen Examen!
   Congratulations on passing your exam!
@@ -1522,9 +1535,10 @@ Großvater /ˈɡroːsfaːtɐ/, der, -s|.. /ˈɡroːsfɛːtɐ/
 großzügig: generous
   so, dass man Geld und Besitz nicht so wichtig nimmt und gerne teilt, schenkt usw
 
-
 Grube /ˈɡruːbə/, die, -n: pit, hole
   eine Grube graben / ausheben: to dig a hole/pit
+
+grüezi /ˈɡryːɛtsi/: hello, hi
 
 grummeln /ˈɡrʊməln/: to grumble, to growl, to rumble
   In meinem Bauch grummelt es. Ich glaube, ich habe das Essen nicht vertragen.
@@ -1615,6 +1629,7 @@ Gürtel /ˈɡʏrtəl/, der, -: belt
 gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.
   For the time of the year the weather was quite good.
+  Kannst du gut kochen?
 
 Güter, pl: goods
 

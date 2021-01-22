@@ -730,7 +730,8 @@ robust /roˈbʊst/
 
 roch → riechen
 
-Rock /rɔk/, der: skirt
+Rock /rɔk/, der, -(e)s|..e: skirt
+  Kleidungsstück für die untere Körperhälfte, das frei herunterhängt
   Sie trug einen kurzen Rock.
   She was wearing a short skirt.
 
@@ -845,6 +846,9 @@ Rückkehr ˈrʏkkeːɐ/, die: return
   die Rückkehr der Flüchtlinge in die Heimat: the refugees' return home
 
 Rückrufbitte, die: recall request
+
+Rucksack, der
+  Tasche, die auf dem Rücken getragen wird
 
 Rückschein, der:
   etwas per (od als) Einschreiben mit Rückschein verschicken
