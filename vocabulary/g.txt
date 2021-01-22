@@ -330,6 +330,7 @@ Gefallen /ɡəˈfalən/, der, -s|~: favor, pleasure
   an etw Gefallen finden: to get pleasure from sth
   bei jdm Gefallen finden: to appeal to sb
   jdm einen Gefallen tun / erweisen: to do sb a favor
+  Könnt ihr mir einen Gefallen tun?
   jdn um einen Gefallen bitten: to ask sb a favo(u)r
 
 gefallen: to please
@@ -929,6 +930,7 @@ Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
 geschickt: skillful, numbly, cleverly
 
 Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
+  meist aus Porzellan oder Ton bestehende Gefäße zum Essen und Trinken
   Dieses Geschirr ist spülmaschinenfest.
   These dishes are dishwasher safe.
   das Geschirr spülen: to do the dishes

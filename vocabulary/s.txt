@@ -406,7 +406,8 @@ scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
   Sie scheut sich (davor), ihn zu kritisieren.
   She shrank from criticizing him. 
 
-Schicht, die: layer, class
+Schicht /ʃɪçt/, die: layer, class
+  eine relativ flach verteilte Substanz auf oder unter einer anderen; Teil der Bevölkerung mit ähnlichem sozialem Status oder Einkommen
 
 Schichtdienst, der: shiftwork
 
@@ -423,6 +424,8 @@ schicken /ˈʃɪkən/: to send, to send for, to hurry up
   to send the children to bed/school
 
 Schicksal /ˈʃɪkzaːl/, das, -s|-e: fate, destiny
+  Ereignisse im Leben, die man nicht ändern kann
+  ≈ Los
   ein schweres Schicksal haben: to be fated to have a hard life
   das Schicksal entscheiden lassen: to leave it to fate
 
@@ -997,6 +1000,9 @@ schuften /ˈʃʊftən/: to slave away
 
 Schuh /ʃuː/, der: shoe
   ein Paar Schuhe: a pair of shoes
+  
+Schuhgröße, die
+  Welche Schuhgröße hast du?
 
 Schulabschluss, der: school-leaving qualification, school-leaving certificate
   ≈ high school diploma 
@@ -2149,6 +2155,7 @@ stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
   jdm (gut) stehen: to (really) suit sb
   Das Kleid / Die Frisur steht dir nicht.
   That dress/hairstyle doesn't suit you.
+  Das steht dir gut!
 
 stehenbleiben, stehen bleiben: to stay, to stop
   Egal, was ich machte, der Esel blieb wie angewurzelt stehen.

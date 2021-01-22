@@ -618,6 +618,7 @@ lieb /ˈliːp/: dear, nice, kind
   liebe Gäste: dear guests
   Sie war sehr lieb zu mir.
   She was very nice to me.
+  Das ist lieb von dir.
 
 Liebe /ˈliːbə/, die, ~|-n: love, sex
   die Liebe der Eltern für ihre Kinder/zu ihren Kindern
@@ -754,12 +755,13 @@ lokal: local
 
 △Lorbeer /ˈlɔrbeːɐ/, der, -en: laurel
 
-Los /loːs/, das: ticket
-  Stück Papier, das man kauft, um etw. zu gewinnen
+Los /loːs/, das: ticket, fate
+  Stück Papier, das man kauft, um etw. zu gewinnen; Ereignisse im Leben, die man nicht ändern kann
   ein Lotterielos kaufen
 
 los: loose
   Los! Come on!
+  Es geht los!
 
 löschen /ˈlœʃən/: to extinguish, to put out, to delete
   Die Feuerwehr konnte den Brand schnell löschen.

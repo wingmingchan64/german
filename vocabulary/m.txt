@@ -338,12 +338,14 @@ Meinung /ˈmainʊŋ/, die, -en: opinion
   In my opinion, …
 
 meist /maist/: mostly
+  in den meisten Fällen
+  ≈ meistens
   Er kommt meist sehr spät nach Hause.
   He comes home very late most of the time.
 
-meiste, meisten: most, mostly
+meiste, pronoun, indefinite, meisten: most, mostly
 
-meistens /ˈmaistəns/: mostly
+meistens /ˈmaistəns/, adv: mostly
   Ich gehe meistens früh ins Bett.
   I go to bed early most of the time.
 

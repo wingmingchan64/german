@@ -573,6 +573,7 @@ abwärts: down, downwards
   vom Hals abwärts gelähmt sein
 
 abwaschen /ˈapvaʃən/: to wash up
+  mit Wasser reinigen
 
 Abwasser /ˈapvasɐ/, das, -s|..: waste water
   Abwasserkanal: gully
@@ -1714,7 +1715,7 @@ applaudieren /aplauˈdiːrən/: to applaud, to clap
 Ära /ˈɛːra/, die, ~|Ären: era
   die Ära Adenauer: the Adenauer era
 
-Arbeit, die
+Arbeit, die, ~|-en
   Tätigkeit mit einem bestimmten Ziel, die man aus Pflicht oder Notwendigkeit tut
 
 Arbeitsamt, das
