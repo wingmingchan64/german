@@ -929,6 +929,9 @@ wohl: well
   Lebe wohl! Farewell!
   Jetzt ist mir wieder wohler.
 
+wohlfühlen /ˈvoːlfyːlən/
+  sich in einem guten Zustand befinden
+
 wohlhabend: well-to-do, prosperous
   relativ reich
   Sie sind nicht direkt reich, aber doch recht wohlhabend.

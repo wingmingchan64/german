@@ -208,7 +208,8 @@ taufen: to christen, to baptize
 
 Tausch /tauʃ/, der: exchange, swap
 
-tauschen /ˈtauʃən/: to exchange, to swap
+tauschen /ˈtauʃən/: to exchange, to swap 交换
+  jdm etw. geben und dafür etw. anderes bekommen
   Wenn dir dein Eis nicht schmeckt, können wir gerne tauschen.
   If you don’t like your ice cream, we can swap.
   mit jdm tauschen: to change places with sb

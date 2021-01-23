@@ -138,6 +138,8 @@ Landesebene, die: at the state level
 
 Landesinnere, das: interior
 
+Landessprache, die: national language
+
 Landkreis, der: administrative district
 
 Landschaft /ˈlantʃaft/, die, -en: landscape, scenery, countryside
@@ -408,6 +410,8 @@ Leere /ˈleːrə/, die, |uncountable: emptiness
   The city is completely deserted on Sunday mornings.
   eine große innere Leere verspüren: to feel a great inner emptiness
 
+legen
+
 leeren /ˈleːrən/: to empty
   eine Flasche / den Mülleimer leeren: to empty a bottle/the garbage can
 
@@ -660,6 +664,7 @@ liefern /ˈliːfɐn/: to deliver, to supply, to produce, to provide
 liegen /ˈliːɡən/: to lie, to be
   liege, liegst, liegt, habe gelegen
   auf dem Sofa / im Bett liegen: to lie on the sofa/in bed
+  Genf liegt im Südwesten der Schweiz.
 
 ließ → lassen
 

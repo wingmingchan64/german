@@ -325,6 +325,9 @@ hauptsächlich /ˈhauptzɛçlɪç/: main, primary, chief
   Dieses Produkt wird hauptsächlich von Frauen gekauft.
   This product is bought primarily by women.
 
+Hauptstadt, die
+  Stadt eines Landes, in der die Regierung ihren Sitz hat
+
 Hauptverkehrszeit: rush hour
   ≈ Stoßzeit
 
@@ -623,6 +626,7 @@ Herbst /hɛrpst/, der: autumn
    It'll soon be fall.
 
 Herd /heːɐt/, der, -(e)s|-e: stove, range, epicenter, focus
+  Gerät zum Kochen
   Er stand am Herd und rührte die Suppe um.
   He was standing at the stove stirring the soup.
   Brandherd: the source of the fire

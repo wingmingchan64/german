@@ -131,6 +131,8 @@ Ratschlag /ˈraːtʃlaːk/, der: piece of advice
   Auf solche Ratschläge kann ich verzichten!
   I can do without advice like that!
 
+rätoromanisch /rɛtoroˈmaːnɪʃ/: Rhaeto-Romanic (Austria)
+
 Rätsel /ˈrɛːʦəl/, das, -s|~: puzzle, riddle, mystery
   Ich gebe dir ein Rätsel auf: …
   I've got a riddle for you: …
@@ -570,10 +572,10 @@ rentabel /rɛnˈtaːbəl/: profitable
 
 Rente /ˈrɛntə/, die: pension
 
+Renteneintritt, der: retirement
+
 Rentner, Rentnerin: pensioner, senior (citizen)
   Kinder und Rentner erhalten eine Ermäßigung von 20%.
-
-Renteneintritt, der: retirement
 
 Requiem /ˈreːkviɛm/, das, -s
 
@@ -900,6 +902,10 @@ ruhen /ˈruːən/: to (take a) rest, to have stopped, to be at a standstill
   die Arbeit / Waffen ruhen lassen: to stop work/lay down your weapons
   Sein Blick ruhte nachdenklich auf ihr.
   His gaze rested thoughtfully on her.
+
+Ruhestand, der
+  Ich bin im Ruhestand.
+  in den Ruhestand gehen
 
 ruhig /ˈruːɪç/: quiet, calm, still
   ruhig bleiben: keep one's temper

@@ -169,6 +169,7 @@ Gebäude /ɡəˈbɔydə/, das, -s|~: building
   The police had the building evacuated.
 
 geben /ˈɡeːbən/: to give, to pass
+  Nein, den Pullover gibt es nicht in rot.
   Gibst du mir bitte mal den Zucker?
   Can you pass me the sugar?
   Wer hat dir denn die Erlaubnis gegeben, das zu tun?
@@ -340,6 +341,7 @@ Gefallen /ɡəˈfalən/, der, -s|~: favor, pleasure
 gefallen: to please
   Der Film hat mir überhaupt nicht gefallen.
   I didn't like the movie at all.
+  Mir gefällt der Kleiderschrank.
   sich etw. gefallen lassen [dative]
   Willst du dir diese Unverschämtheit etwa gefallen lassen?
   Are you actually going to put up with this impertinence?
@@ -728,6 +730,8 @@ Genehmigung /ɡəˈneːmɪɡʊŋ/, die, -en: permission, approval, authorization
 
 geneigt /ɡəˈnaikt/: inclined
   → neigen
+
+Genf: Geneva
 
 Genick /ɡəˈnɪk/, das, -(e)s|-e: neck
   Das Tier hat sich bei dem Sturz das Genick gebrochen.
@@ -1521,6 +1525,8 @@ großartig /ˈɡroːs|artɪç/: wonderful, terrific, great
   It doesn't make much of a difference.
 
 Größe /ˈɡrøːsə/, die: size
+  Hosen in großen Größen
+  Wir haben die Hose noch / nicht mehr in Größe 52.
 
 Großeinsatz, der: large-scale operation/deployment
   Großeinsatz der Feuerwehr / Polizei

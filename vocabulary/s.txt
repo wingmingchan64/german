@@ -703,6 +703,7 @@ schmatzen: to eat noisily
 
 schmecken /ˈʃmɛkən/: to taste, to like
   Hat's geschmeckt?
+  Lasst es euch schmecken.
 
 schmeicheln /ˈʃmaiçəln/: to flatter
   Du brauchst mir gar nicht so zu schmeicheln!
@@ -2389,6 +2390,8 @@ stochern /ˈʃtɔxɐn/: to poke
 
 Stock /ʃtɔk/, der, -(e)s|..e: stick, story
   ein alter Mann, der am Stock geht: an old man who walks with a stick
+  im ersten Stock ist …
+  Gehen Sie in den ersten Stock.
   Er wohnt im zehnten Stock eines Hochhauses.
   He lives on the eleventh floor of a high rise.
 
@@ -2397,6 +2400,9 @@ stocken /ˈʃtɔkən/: to falter, to come to a halt, to be interrupted
   The negotiations ground to a halt.
   Er stockte kurz, als er sie sah.
   He faltered for a moment when he saw her.
+
+Stockwerk, das: floor, story
+  ein Gebäude mit drei Stockwerken
 
 Stoff /ʃtɔf/, der, -(e)s|-e: substance, material, subject matter, fabric
   einer der festen, flüssigen oder gasförmigen Bestandteile der Welt;

@@ -516,7 +516,8 @@ umstritten /ʊmˈʃtrɪtən/: controversial
   Diese Theorie ist ziemlich umstritten.
   This theory is pretty controversial.
 
-umtauschen: to exchange
+umtauschen: to exchange （akusativ)
+  gekaufte Ware gegen Geld oder andere Ware tauschen
 
 Umwelt /ˈʊmvɛlt/, die: environment
   Schadstoffe verschmutzen die Umwelt.
