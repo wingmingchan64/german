@@ -188,6 +188,9 @@ baumeln /ˈbauməln/: to dangle, to swing
 
 Baustelle, die: construction site
 
+Bauvorhaben, das: building project or scheme
+  → Vorhaben: plan
+
 bayerisch /ˈbaiərɪʃ/: Bavarian
 
 Bayreuth /baiˈrɔyt/
@@ -840,6 +843,12 @@ Bemerkung /bəˈmɛrkʊŋ/, die, ~|-en: remark, comment
 bemitleiden /bəˈmɪtlaidən/: to pity
   Er ist wirklich zu bemitleiden!
   He really is to be pitied.
+
+bemühen
+  sich Mühe geben; versuchen, jdm zu gefallen
+  Das wird schon, du musst dich nur ein bisschen mehr bemühen.
+  sich um jdn bemühen: sich um jdn kümmern
+  Mehrere Ärzte bemühten sich um die Verletzten.
 
 bemüht /bəˈmyːt/: conscientious
   ein sehr bemühter Lehrer: a very conscientious teacher
