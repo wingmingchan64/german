@@ -126,6 +126,9 @@ Mannequin /ˈmanəkɛ̃/, das: model
 männlich /ˈmɛnlɪç/: male
   ↔ weiblich
 
+Mantel, der, -s|..: coat
+  längeres Kleidungsstück, das gegen Kälte schützt
+
 Mappe /ˈmapə/, die, -n: folder, briefcase
   gefaltetes Stück Karton oder Plastik, in dem man Dokumente, Bilder o. Ä. sammelt
   Papiere in einer Mappe abheften: to file some papers in a folder
@@ -160,7 +163,7 @@ marschieren /marˈʃiːrən/: to trek, to march
   We trekked through the forest.
   im Gleichschritt marschieren: to march in step
 
-März /mɛrts/, der, (-es)|-e
+März /mɛrʦ/, der, (-es)|-e
 
 Maschine /maˈʃiːnə/, die: machine, plane
 
@@ -557,6 +560,7 @@ mithalten /ˈmɪthaltən/: to keep up, to join
   Er läuft so schnell, da kann ich nicht mithalten.
 
 Mitleid /ˈmɪtlait/, das, -(e)s|uncountable: pity, compassion, sympathy
+  Gefühl, jdn trösten oder in Not helfen oder nicht quälen zu wollen
   Sein Schicksal erregte viel Mitleid.
   His fate aroused a lot of sympathy.
 

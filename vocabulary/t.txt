@@ -127,7 +127,7 @@ Tarif /taˈriːf/, der, -e: tariff, rate, agreed rate
 tarnen: to camouflage, to disguise
   jdn / etw. so gestalten, dass er / es nicht gesehen oder erkannt werden kann
 
-Tasche /ˈtaʃə/, die: pocket, bag
+Tasche /ˈtaʃə/, die, ~|-n: pocket, bag
 
 Taschenrechner /ˈtaʃənrɛçnɐ/, der, -: calculator
 
@@ -178,6 +178,7 @@ tätlich /ˈtɛːtlɪç/: physical
 Tatort /ˈtaːt|ɔrt/, der: crime scene
 
 Tatsache /ˈtaːʦaxə/, die， -n: fact
+  ≈ Sachverhalt
   Es ist eine traurige Tatsache, dass er sie nicht mehr liebt.
   It's a sad fact that he doesn't love her any more.
 
@@ -290,6 +291,7 @@ Telefonkarte, die
 Teller /ˈtɛlɐ/, der, -s|~: plate
   Er hat sich Berge von Nudeln auf seinen Teller gehäuft.
   He heaped up huge piles of pasta on his plate.
+  Ich bezahle den Teller Spaghetti und das Bier.
 
 Temperament /tɛmpəraˈmɛnt/, das, -e: temperament
   Er hat ein aufbrausendes / ruhiges Temperament.
@@ -453,6 +455,8 @@ Titelseite, die: front page
 
 tja /tja/: well
 
+Toast /toːst/, der
+
 toben /ˈtoːbən/: to rage, to rave, to go wild
   Als er das hörte, tobte er vor Wut.
   He was absolutely furious when he heard about it.
@@ -479,6 +483,8 @@ Todesengel /ˈtoːdəs|ɛŋəl/, der, -s|~: angel of death
 Todesstrafe /ˈtoːdəsʃtraːfə/, die, |uncountable: death penalty
   In Deutschland wurde die Todesstrafe 1949 abgeschafft.
   The death penalty was abolished in Germany in 1949.
+
+Tokio
 
 toll /tɔl/: great
   Sie hatte ein tolles Kleid an.
@@ -627,9 +633,9 @@ Trauzeuge /ˈtrauʦɔyɡə/, Trauzeugin: witness
   Möchtest du meine Trauzeugin sein?
   Would you like to be my witness?
 
-treffen /ˈtrɛfən/: to hit, to meet
+treffen /ˈtrɛfən/: to hit, to meet, to score
   erreichen, berühren (und dabei oft beschädigen, verletzen oder töten)
-  treffe, triffst, trifft, habe getroffen
+  treffe, triffst, trifft, trefft habe getroffen
   Die Kugel traf genau ins Ziel.
   The bullet hit its target.
   Ich habe sie gestern zufällig in der Stadt getroffen.

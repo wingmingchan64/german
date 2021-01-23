@@ -68,6 +68,7 @@ Gänserich /ˈɡɛnzərɪç/, der: gander
 
 ganz /ganʦ/: whole, entire
   eine ganze Zahl: an integer
+  ganz rechts: far right
 
 ganz und gar: completely
 
@@ -934,11 +935,14 @@ Geschicklichkeit /ɡəˈʃɪklɪçkait/, die: skillfulness
 
 geschickt: skillful, numbly, cleverly
 
+geschieden: divorced
+
 Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
   meist aus Porzellan oder Ton bestehende Gefäße zum Essen und Trinken
   Dieses Geschirr ist spülmaschinenfest.
   These dishes are dishwasher safe.
   das Geschirr spülen: to do the dishes
+  Ich wasche das Geschirr nicht ab.
 
 Geschlecht, das: sex, gender, race, generation, house, lineage
   Eigenschaft, männlich oder weiblich zu sein; alle männlichen oder weiblichen Lebewesen
@@ -1227,6 +1231,7 @@ Gier /ɡiːɐ/, die, |uncountable: greed
   Driven by greed, they made a dive for the food.
 
 gießen /ˈɡiːsən/: to pour, to water
+  Ich gieße nicht gern die Blumen.
 
 Gift, das: poison
 

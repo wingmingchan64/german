@@ -114,6 +114,7 @@ Zeile /ˈʦailə/, die, -n: line
   The poem is only a few lines long.
 
 Zeit /ʦait/, die, ~|-en: time
+  Ich habe heute keine Zeit.
   mit der Zeit: in time
   es wird langsam Zeit, dass …
   it’s about time that …
@@ -352,6 +353,9 @@ zittern /ˈʦɪtɐn/: to tremble, to shake, to shiver
   The walls shook during the earthquake.
 
 Zivilist /ʦiviˈlɪst/
+
+Zivilstand, der
+  Familien-, Personenstand
 
 zocken /ˈʦɔkən/: to gamble
   beim Zocken viel Geld verlieren: to lose a lot of money gambling
@@ -632,6 +636,9 @@ zusammenfassen /ʦuˈzamənfasən/: to summarize, to combine, to merge, to integ
 zusammenfassend /ʦuˈzamənfasənt/: summarizing
   ein zusammenfassender Bericht: a summary
 
+Zusammenhang, der: connection, link
+  zwischen Vorgängen, Sachverhalten o. Ä. bestehende innere Beziehung, Verbindung
+
 zusammenhängen /ʦuˈzamənhɛŋən/: to be connected/related
   die Folge von etw. sein; mit etw. zu tun haben; mit etw. eine Einheit bilden
 
@@ -822,7 +829,7 @@ zwinkern /ˈʦvɪŋkɐn/: to blink, to wink
 zwirbeln: to twirl
   sich [ dative ] den Schnurrbart zwirbeln
 
-zwischen /ˈʦvɪʃən/: between
+zwischen /ˈʦvɪʃən/: between, among
   Er setzte sich zwischen mich und das Fenster.
   He sat down between me and the window.
 

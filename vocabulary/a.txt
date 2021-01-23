@@ -294,6 +294,10 @@ abnehmen /ˈapneːmən/: to decrease, to lose weight, to wane, to take off, to a
   Take off your cap when you're greeting someone.
   Ihm wurde der Führerschein abgenommen.
 
+abonnieren: to subscribe
+  eine Zeitung abonniert haben
+  Abonniere useren Kanal!
+
 abrasieren /ˈapraziːrən/: to shave off
   Der Sturm hat alle Bäume entlang der Straße abrasiert.
   The storm razed all the trees lining the road.
@@ -916,6 +920,8 @@ altruistisch /altruˈɪstɪʃ/: altruistic
   altruistisches Verhalten: altruistic behavior
 
 △am /am/
+  am Morgen / Vormittag / Mittag / Nachmittag / Abend
+  in der Nacht
   Ich bin am größten!
   I'm tallest!
   → in + dem

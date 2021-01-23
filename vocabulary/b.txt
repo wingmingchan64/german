@@ -27,6 +27,8 @@ Backstein /ˈbakʃtain/, der, -(e)s|-e: brick
 
 Bad /baːt/, das: bath, bathroom
 
+Badeanzug, der: swimsuit
+
 baden /ˈbaːdən/: to take a bath, to bathe, to swim
   Willst du baden oder duschen?
   Do you want to have a bath or a shower?
@@ -159,6 +161,7 @@ Bau /bau/, der, -(e)s, -e: den, burrow
   The dog followed the fox into its den.
 
 Bauch /baux/, der, -(e)s|..e: stomach, belly
+  Sein Bauch ist dick.
   sich auf den Bauch legen: to lie on your stomach
   sich [ dative ] den Bauch vollschlagen: to stuff yourself
   aus dem Bauch (heraus): intuitively
@@ -745,6 +748,7 @@ bekömmlich /bəˈkœmlɪç/: digestible
   Green potatoes aren't good for the digestion.
 
 belasten /bəˈlastən/: to burden, to pollute
+  stark beanspruchen, negativ auf den Zustand / die Stimmung wirken
   Treibgase, die das Klima belasten
   propellants that have a negative effect on the climate
 
@@ -1600,6 +1604,7 @@ Bewusstsein /bəˈvʊstzain/, das: consciousness, awareness
   Pflichtbewusstsein: sense of duty
 
 bezahlen /bəˈʦaːlən/: to pay for
+  Ich bezahle den Orangensaft.
   eine Rechnung bar bezahlen: to pay an invoice in cash
   Was bezahlst du deiner Putzfrau pro Stunde?
   How much do you pay your cleaning lady an hour?
@@ -1904,6 +1909,9 @@ blühend: blossoming, flourishing, thriving
 Blumenkohl /ˈbluːmənkoːl/, der: cauliflower
 
 Blumenstrauß, der: bunch of flowers
+
+Bluse, die
+  eine Art Hemd für Frauen
 
 Blut /bluːt/, das, -(e)s|uncountable: blood
   Er hat bei dem Unfall viel Blut verloren.

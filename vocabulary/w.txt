@@ -712,6 +712,9 @@ Wiedererkennung /ˈviːdɐ|ɛɐkɛnʊŋ/, die, |uncountable: recognition
 
 wiedergutmachen: to compensate for, to rectify
 
+wiederholen /viːdɐˈhoːlən/
+  noch einmal machen, sagen
+
 Wiederholung /viːdɐˈhoːlʊŋ/, die, ~|-en: repetition
   Ich wünsche keine Wiederholungen dieses Vorfalls!
   I do not want any repeats of this incident!
@@ -898,6 +901,8 @@ wöchentlich /ˈvœçəntlɪç/: weekly
 
 Wodka /ˈvɔtka/, der, -s: vodka
   zwei Wodka bestellen: to order two vodkas
+
+wodurch /voˈdʊrç/: through which
 
 woher /voˈheːɐ/: from where
   Woher kommt er?

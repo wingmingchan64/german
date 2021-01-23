@@ -97,6 +97,10 @@ Hals /hals/, der, -es|..e: neck
   Ich band mir ein Tuch um den Hals.
   I tied a scarf around my neck.
 
+Halskette, die: necklace
+
+Halstuch, das: scarf
+
 Halt /halt/, der: stop
   Nächster Halt: Hauptbahnhof.
   Next stop: Central Station.
@@ -179,6 +183,10 @@ handeln /ˈhandəln/: to deal, to trade, to bargin, to negotiate, to act
   es handelt sich um jdn / etw.: to be about sb/sth
   Es handelt sich hier um einen Notfall.
   It's an emergency.
+
+handelnd
+  die handelnd Personen in einem Drama: the characters in a drama, the dramatis personae
+  das handelnde Subjekt: the active subject
 
 Handgelenk /ˈhantɡəlɛŋk/, das: wrist
   einen Armreif ums Handgelenk tragen: to have a bracelet on your wrist
@@ -482,7 +490,8 @@ helfen /ˈhɛlfən/: to help
   aktiv werden, damit jd ein Ziel schneller / besser erreicht
   um meinem Vater zu helfen
   Ich muss einem Kollegen helfen.
-  Wir helfen dir!
+  Hilfst du mir?
+  Nein. Ich helfe dir nicht.
 
 hell /hɛl/: light, bright
   ↔ dunkel
@@ -492,6 +501,8 @@ hell /hɛl/: light, bright
 hellauf /ˈhɛlˈ|auf/: completely
   Ich war hellauf begeistert / entsetzt.
   I was completely delighted/aghast.
+
+hellblau: light blue
 
 Helle /ˈhɛlə/, das, Hellen: light beer, lager
   Ein großes Helles, bitte!
@@ -518,7 +529,7 @@ hellwach /ˈhɛlvax/: wide awake
   Plötzlich war er hellwach und sprang aus dem Bett.
   He was suddenly wide awake and leapt out of bed.
 
-Hemd /hɛmt/, das, Hemden: shirt
+Hemd /hɛmt/, das, -(e)s|-en: shirt
   Er trug zur Hose Hemd und Krawatte.
   He was wearing a shirt and tie with the pants.
 
@@ -1029,6 +1040,8 @@ hochbeglückt: supremely or blissfully happy, highly delighted
 Hochburg /ˈhoːxbʊrk/, die, -en: stronghold, bastion
   eine Hochburg des Rechtsextremismus: a bastion of right-wing extremism
 
+Hochdeutsch
+
 Hochebene, die: plateau
 
 hochfahren: to go up, to boot up, to start
@@ -1152,6 +1165,8 @@ Hornisse /hɔrˈnɪsə/, die, -n: hornet
   Hornissenschwarm: swarm of hornets
 
 Hort /hɔrt/, der: after-school center, day care center
+
+Hörvermögen, das: hearing (capacity)
 
 Hose /ˈhoːzə/, Hosen, die: trousers
   Die Hose ist mir zu eng.

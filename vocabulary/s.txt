@@ -24,6 +24,9 @@ sachlich /ˈzaxlɪç/: objective, matter-of-fact, factual, objectively
 
 sacht: soft, gentle
 
+Sachverhalt, der: fact
+  die Tatsachen und Zusammenhänge in einer Situation
+
 Sackgasse /ˈzakɡasə/, die, -n: dead end, cul-de-sac
   Das Haus steht am Ende einer Sackgasse.
   The house is at the end of a cul-de-sac.
@@ -931,6 +934,7 @@ Schrei /ʃrai/, der, -(e)s|-e: cry
 
 schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
+  Wie schreibt man das? Kannst du das bitte buchstabieren?
 
 Schreibwaren /ˈʃraipvaːrən/, pl.: stationary
   Schreibwarenladen: stationery store
@@ -1045,6 +1049,8 @@ Schule /ˈʃuːlə/, die: school
 
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
+
+Schüler, der, -s|~, Schülerin
 
 Schulpflicht /ˈʃuːlpflɪçt/, die, |uncountable: compulsory school attendance
   Die allgemeine Schulpflicht beginnt für alle Kinder nach der Vollendung des 6. Lebensjahres.
@@ -1173,6 +1179,8 @@ Schweiß /ʃvais/, der, -es|uncountable: sweat
 Schweiz /ʃvaits/, die, ~
 
 Schweizer, der, Schweizerin, Schweizer
+
+Schweizerdeutsch
 
 Schwelle: threshold
   die Braut über die Schwelle tragen
@@ -1569,6 +1577,9 @@ Smaragd /smaˈrakt/, der, -(e)s|-e: emerald
 
 smaragdgrün: emerald (green)
 
+Snowboard /ˈsnoːbɔːɐd/, das
+  Snowboard fahren
+
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
   I'll let you know as soon as he phones.
@@ -1580,6 +1591,8 @@ soeben /zo|ˈeːbən/: just (this moment), just
   I'm just ironing your shirt.
   Er hat soeben erfahren, dass er versetzt wird.
   He just heard that he's being transferred.
+
+Sofa, das
 
 sofern /zoˈfɛrn/: if
   Sofern das Wetter schön ist, können wir am Wochenende in die Berge fahren.
@@ -1905,6 +1918,8 @@ Spitzname /ˈʃpɪʦnaːmə/, der: nickname
 spontan /ʃpɔnˈtaːn/
 
 Sport /ʃpɔrt/, der, -(e)s|uncountable: sport, sports
+  Machst du oft Sport?
+  Nein. Ich mache selten Sport.
 
 Sportart, die, ~|-en: (kind of) sport
 
@@ -2572,7 +2587,7 @@ Streit /ʃtrait/, der, -(e)s|uncountable: argument, quarrel, dispute
   Ich bekam mit den Nachbarn Streit wegen der Katze.
   I got into an argument with the neighbors over the cat.
 
-streiten: to argue, to quarrel
+streiten: to argue, to quarrel, to fight
   Er stritt (sich) mit seiner Schwester um die Fernbedienung.
 
 streitig /ˈʃtraitɪç/: to dispute sb's right to sth
@@ -2687,7 +2702,6 @@ stürzen /ˈʃtʏrʦən/: to fall, to drop, to throw
 stützen /ˈʃtʏʦən/: to support, to prop up
   eine Mauer mit Stangen stützen: to support a wall with poles
   die Ellenbogen auf den Tisch stützen: to lean your elbows on the table
-
   es stürmt: it's blowing a gale
   Es hat die ganze Nacht gestürmt und geschneit.
   It was blowing a gale and snowing all night.

@@ -87,6 +87,8 @@ Kampf /kampf/, der, ..e: battle, fight, struggle
 kämpfen /ˈkɛmpfən/: to fight
   Wie eine Münchner Lokalzeitung gegen die Nazis kämpfte
 
+Kanal, der
+
 Kandidat /kandiˈdaːt/, -in, -en
   die Kandidaten für das Amt des Bürgermeisters
   the candidates for the mayor's office
@@ -257,6 +259,8 @@ kein: not, not a, less than
   Ich musste keine zwei Minuten auf den Bus warten.
   I had to wait less than two minutes for the bus.
   Ich habe keinen Bruder.
+  Ist das eine Lampe?
+  Nein. Das ist keine Lampe.
 
 keinesfalls /ˈkainəsˈfals/: under no circumstances, on no account, by no means
   Ich darf keinesfalls zu spät zum Meeting kommen.
@@ -296,6 +300,9 @@ kennzeichnen /ˈkɛnʦaiçnən/: to mark, to brand, to characterize
   to mark the trees for felling with a cross
   Diese Jahre waren von gesellschaftlichen Umbrüchen gekennzeichnet.
   Those years were characterized by social upheaval.
+
+Kennzeichnung /ˈkɛnʦaiçnʊŋ/, die: marking, labeling, label, tag
+
 
 Kerl /kɛrl/, der, -s|-e/-s: guy, chap, fellow
   Armer Kerl! Poor guy.
@@ -495,7 +502,7 @@ Klebezettel, der: adhesive (or sticky) label, sticker
 Klecks /klɛks/, der, -e: stain, blob
   ein Klecks an der Wand: a stain on the wall
 
-Kleid /klait/, das, -er: dress, clothes
+Kleid /klait/, das, -(e)s|-er: dress, clothes
   einteiliges Kleidungsstück für Frauen und Mädchen
   warme Kleider mitbringen: to bring warm clothes
   Sie trug ein langes Abendkleid.
@@ -827,6 +834,7 @@ Kongo /ˈkɔŋɡo/, der
 König /‘køːnɪç/
 
 konjugieren /kɔnjuˈɡiːrən/: to conjugate
+  Verben konjugieren
 
 Konjunktion /kɔnjʊŋkˈʦjoːn/, die, ~|-en: conjunction
 

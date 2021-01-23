@@ -484,6 +484,8 @@ einkaufen: shopping
 
 Einkaufsliste: shopping list
 
+Einkaufszentrum, das
+
 Einkommen /ˈainkɔmən/, das, -s|~: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
   Roughly how high is your monthly income?
@@ -1240,6 +1242,10 @@ er /eːɐ/: he, it
 er-: some result is achieved, the beginning of a process
 
 erachten /ɛɐˈ|axtən/
+
+erbarmen
+  sich jds erbarmen: Mitleid mit jdm empfinden und ihm helfen
+  Sie erbarmte sich des Jungen und gab ihm zu essen.
 
 Erbe /ˈɛrbə/, das, -s|uncountable: inheritance, heritage
   Er hat sein ganzes Erbe verspielt.

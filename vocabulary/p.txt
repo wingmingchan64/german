@@ -430,6 +430,7 @@ Postbote /ˈpɔstboːtə/, -n|-n, Postbotin: mailman
 Postkutsche, die: stagecoach
 
 Postleitzahl (PLZ) /ˈpɔstlaitʦaːl/, die, -n: zip code, postcode
+  Zahl zur Kennzeichnung des Ortes in einer Adresse
 
 prächtig /ˈprɛçtɪç/: splendid, magnificent
   ein prächtiger Ballsaal: a magnificent ballroom
@@ -637,6 +638,8 @@ pusten /ˈpuːstən/: to blow, to puff and pant
 Pute /ˈpuːtə/, die, -n: turkey
 
 putzen /ˈpʊʦən/: to clean
+  putze, putzt, putzt, putzen, putzt (note: zt)
+  putzte, putztest
   Hier sollte mal wieder geputzt werden.
   This needs cleaning again.
   putzen gehen: to work as a cleaner
