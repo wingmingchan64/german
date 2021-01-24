@@ -243,6 +243,15 @@ Schale /ˈʃaːlə/, Schalen: (fruit) skin, shell
 Schal, der: scarf
   langes schmales Tuch für den Hals
 
+Schale, die
+  die äußere Schicht von Obst, Gemüse
+
+schälen /ˈʃɛːlən/
+  die Schale entfernen
+
+Schallplatte, die: record
+  schwarze Scheibe mit Musik zum Abspielen auf einem Plattenspieler
+
 schalten: to switch, to turn, to shift gear, to connect
   den Fernseher auf Standby schalten: to turn the TV to standby
   Die Heizung hat schon auf Nachtbetrieb geschaltet.
@@ -1047,6 +1056,8 @@ Schuldige /ˈʃʊldɪɡə/, der-die: culprit
   Schuldige besonders: guilty person/party
 
 Schule /ˈʃuːlə/, die: school
+  Ich gehe in die Schule
+  Ich gehe zur Schule
 
 schulen /ˈʃuːlən/: to train
   Mitarbeiter im Umgang mit der neuen Software schulen: to train employees to use the new software
@@ -1111,6 +1122,7 @@ schützen /ˈʃʏʦən/: to protect
 schwach /ʃvax/: weak, poor
   Dafür sind seine Muskeln zu schwach.
   My muscles are too weak for that.
+  Der Kaffee ist viel zu schwach.
   
 Schwachheit, die: weakness, frailty
   Schwachheit, dein Name ist Weib.
@@ -1381,7 +1393,7 @@ selbst /zɛlpst/: in person, self, even
   Even if he wanted to, he couldn't do it.
   selbst gebackenes Gebäck: homemade cookies
 
-selbstständig /ˈzɛlpstʃtɛndɪç/: independent, self-employed
+selbstständig, selbständig /ˈzɛlpstʃtɛndɪç/: independent, self-employed
   an selbstständiges Arbeiten gewöhnt sein: to be used to working independently
   
 selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, of course
@@ -1391,6 +1403,9 @@ selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, o
   Of course I'll come.
 
 Selbstverständlichkeit: self-evident truth, truism, lack of inhibition
+
+selig /ˈzeːlɪç/
+  völlig von Glück erfüllt
 
 selten /ˈzɛltən/: rare
   Er ist ein seltener Gast in unserem Haus.
@@ -1459,6 +1474,9 @@ setzen /ˈzɛʦən/: to sit, to set
 
 sexuell /zɛˈksuɛl/: sexual
 
+shoppen
+  einen Einkaufsbummel machen
+
 sicher /ˈzɪçɐ/: certain, clear, positive, safe, secure, steady, sure
   sich irgendwo sicher fühlen: to feel safe somewhere
   Das weiß ich aus sicherer Quelle.
@@ -1524,6 +1542,12 @@ Sigel, Siegel
 Sinfonie /zinfoˈniː/, die
 
 singen /ˈzɪŋən/: to sing
+
+Single, der
+  jd, der ohne Partner lebt
+  
+Single, die
+  Schallplatte, CD mit nur einem Haupttitel
 
 Sinn /zɪn/, der: sense, meaning, mind
   einen guten Orientierungssinn haben: to have a good sense of direction
@@ -1598,6 +1622,8 @@ Sofa, das
 sofern /zoˈfɛrn/: if
   Sofern das Wetter schön ist, können wir am Wochenende in die Berge fahren.
   If the weather is nice, we can go to the mountains at the weekend.
+
+Software, die
 
 Sog /zoːk/, der, -e: suction, wake, vortex
   in den Sog eines sinkenden Schiffs geraten
@@ -2767,6 +2793,9 @@ summen /ˈzʊmən/: to hum
 
 Sünde, die, ~|-n: sin
   Verstoß gegen die Regeln der Religion
+
+Supermarkt, der
+  im Supermarkt an der Kasse anstehen
 
 Suppe /ˈzʊpə/, die, ~|-n: soup
   Sie saßen am Tisch und aßen / löffelten Suppe.

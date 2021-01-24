@@ -33,6 +33,10 @@ Fachmann /ˈfaxman/, der, -(e)s|..er: expert
 Fachsprache /ˈfaxʃpraːxə/, die, -n: technical language/jargon
   die juristische / medizinische Fachsprache: legal jargon/medical language
 
+fad: bland
+  ohne würzigen Geschmack
+  Die Suppe war / schmeckte ziemlich fade.
+
 Faden /ˈfaːdən/, der, -s|..: thread
   einen Faden in die Nadel einfädeln: to thread the needle
   
@@ -313,6 +317,7 @@ feiern /ˈfaiɐn/: to celebrate, to acclaim, to laud, to hail
   I've been promoted. This calls for a real celebration!
 
 Feiertag /ˈfaiɐtaːk/, der: holiday
+  Schöne Feiertage!
 
 Feige, die: fig
   süße, weiche Frucht eines Baums, der in warmen Ländern wächst
@@ -937,6 +942,9 @@ freiwillig /ˈfraivɪlɪç/: voluntary
   freiwillige Überstunden: voluntary overtime
   Er hat freiwillig geholfen.
   He helped voluntarily.
+
+Freizeit, die
+  Was machst du in der Freizeit?
 
 fremd /frɛmt/: foreign, outside, strange, alien
 

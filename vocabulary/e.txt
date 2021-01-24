@@ -486,6 +486,9 @@ Einkauf /ˈainkauf/, der, -(e)s|..e: shopping
 
 einkaufen: shopping
 
+Einkaufsbummel, der: shopping spree
+  Wir gaben bei unserem Einkaufsbummel viel Geld aus.
+
 Einkaufsliste: shopping list
 
 Einkaufszentrum, das
@@ -862,6 +865,7 @@ Einzugsermächtigung /ˈainʦuːks|ɛɐmɛçtɪɡʊŋ/, die, -en: direct debit a
 
 *Eis /ais/, das, -es|~: ice, ice cream
   Eis am Stiel
+  Becher Eis
 
 Eisscholle, die: floe
 

@@ -222,6 +222,7 @@ abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
   I'd like to withdraw 300 euros from my savings account.
 
 abholen: to pick up
+  Wann holst du mich ab?
 
 Abitur /abiˈtuːɐ/, das, -s|-e: high school graduation (exam)
   Hast du Abitur?
@@ -476,6 +477,9 @@ absichtlich /ˈapzɪçtlɪç/: intentional
 Absperrung /ˈapʃpɛrʊŋ/, die, ~|-en: barrier
   Absperrungen errichten: to put up barriers
 
+abspielen
+  durch ein Gerät wiedergeben
+
 absprechen /ˈapʃprɛçən/: to agree on
   „Wir machen jetzt Schluss.‟ – „Ist das mit dem Chef so abgesprochen?‟
   “Let's call it a day.” – “Did you clear that with the boss?”
@@ -586,6 +590,7 @@ Abwechslung /ˈapvɛkslʊŋ/, die: diversion
   eine willkommene Abwechslung: a welcome change
 
 abwechslungsreich /ˈapvɛkslʊŋsraiç/: varied
+  voller Abwechslungen
 
 abwehren /ˈapveːrən/: to block, to ward off, to refuse
   verhindern, dass er zum Ziel führt; verhindern, dass Schlimmes geschieht oder Schaden entsteht; zurückweisen
@@ -820,6 +825,8 @@ Alibi /ˈaːlibi/, das, -s|-s: alibi
   ein Alibi für die Tatzeit haben
   to have an alibi for the time of the crime 
 
+Alkohol /ˈalkohoːl/, der
+
 All /al/, das, -s|uncountable: space, outer space, universe
   Spaziergang im All: space walk
   das weite/unerforschte All: the immense/unknown universe
@@ -996,6 +1003,10 @@ Anblick /ˈanblɪk/, die, -(e)s|-e: sight, view
 anblicken: to look at
 
 anbrachten → anbringen
+
+anbraten
+  etw. anfangs kurz bei sehr hoher Temperatur braten
+  das Fleisch scharf anbraten und dann Wasser zugeben
 
 anbrechen /ˈanbrɛçən/: to open
   Angebrochene Medikamente bald verbrauchen!
@@ -1533,6 +1544,9 @@ anstarren /ˈanʃtarən/: to stare at
   Sie starrte ihn voller Verwunderung an.
   She gazed at him in amazement.
 
+anstehen
+  warten, bis man bedient wird
+
 ansteigen: höher werden
   ↔ abfallen
 
@@ -1617,6 +1631,7 @@ antworten /ˈantvɔrtən/ [dative]: to answer
   mit Ja/Nein antworten: to answer yes/no
 
 Anwalt /ˈanvalt/: lawyer
+  Als Anwalt verdient man viel Geld.
 
 Anweisung /ˈanvaizʊŋ/, die, -en: instruction
   auf jds Anweisung handeln: to act on sb's instructions
@@ -1729,6 +1744,7 @@ applaudieren /aplauˈdiːrən/: to applaud, to clap
 
 Arbeit, die, ~|-en
   Tätigkeit mit einem bestimmten Ziel, die man aus Pflicht oder Notwendigkeit tut
+  Was findest du positiv und was negativ an deiner Arbeit?
 
 Arbeitsamt, das
   staatliche Institution, die Arbeitslose betreut und ihnen bei der Suche nach neuer Arbeit hilft
@@ -2703,9 +2719,15 @@ Ausrichtung /ˈausrɪçtʊŋ/, die, -en: organization, direction
   eine neue Ausrichtung der Wirtschaftspolitik fordern
   to demand a new direction for the country's economic policy
 
+ausrollen: to roll
+  (Teig) auf einer Fläche in die Länge ziehend ausbreiten
+
 ausrücken /ˈausrʏkən/: zum Einsatz gehen / fahren; weglaufen, ausreißen
   Die Bergwacht ist zum Großeinsatz ausgerückt.
   Der Hamster ist schon wieder mal ausgerückt; wir müssen ihn suchen.
+
+ausrufen
+  öffentlich bekannt geben; plötzlich rufen; über Lautsprecher bekannt geben / suchen 
 
 ausruhen /ˈausruːən/: to rest
   nichts tun, um wieder Kraft zu bekommen

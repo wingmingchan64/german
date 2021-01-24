@@ -75,9 +75,17 @@ Veranstaltung /fɛɐˈ|anʃtaltʊŋ/, die, -en: organization, event
   eine öffentliche Veranstaltung besuchen: to go to a public event
   Kulturveranstaltung
 
+verantworten
+  die Verantwortung übernehmen
+  Wer hat das Unglück zu verantworten?
+
 verantwortlich /fɛɐˈ|antvɔrtlɪç/: responsible
   Wer ist für diese Entscheidung verantwortlich?
   Who is responsible for this decision?
+
+Verantwortlichkeit, die
+
+Verantwortung, die
 
 verantwortungslos /fɛɐˈ|antvɔrtʊŋsloːs/: irresponsible
 
@@ -501,6 +509,9 @@ Verkleidung /fɛɐˈklaidʊŋ/, die, ~|-en: disguise, fancy dress
   No-one will recognize you in this disguise.
 
 verknallen: to fall head over heels in love
+
+verkochen: to overcook
+  etw. so lange kochen, bis es zu Brei wird
 
 verkraften: to cope with, to afford, to manage
 
@@ -1455,6 +1466,7 @@ vorbeigehen /foːɐˈbaiɡeːən/: to go past, to pass
   She went past us without saying hello.
 
 vorbereiten /ˈfoːɐbəraitən/: to prepare, to get ready
+  körperlich und geistig bereit machen; Arbeiten im Voraus erledigen
   Ich habe einen kleinen Imbiss für Sie vorbereitet.
   I've fixed you a little snack.
   Schweden bereitet Bürger auf Krieg vor
@@ -1679,6 +1691,7 @@ vortäuschen /ˈfoːɐtɔyʃən/: to fake, to feign
   so tun, als ob etw. der Fall wäre
 
 Vorteil /ˈfɔrtail/, der, -e: advantage
+  ↔ Nachteil
   Das bringt auch Vorteile mit sich.
   It also has its advantages.
 

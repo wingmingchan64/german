@@ -750,6 +750,8 @@ bekömmlich /bəˈkœmlɪç/: digestible
   Grüne Kartoffeln sind nicht bekömmlich.
   Green potatoes aren't good for the digestion.
 
+Belag, der: coating, layer, film, topping, filling, fur, covering
+
 belasten /bəˈlastən/: to burden, to pollute
   stark beanspruchen, negativ auf den Zustand / die Stimmung wirken
   Treibgase, die das Klima belasten
@@ -771,6 +773,11 @@ beleben /bəˈleːbən/: to stimulate, to be revitalized, to brighten up, to liv
   abwechslungsreicher und interessanter machen; sich mit Menschen, Fahrzeugen usw. füllen
   Allmählich beleben sich die Straßen.
   The streets are gradually beginning to liven up.
+
+Beleg, der: instance, piece of evidence; reference; receipt
+
+belegen
+  durch Belege zeigen, beweisen; mit einem Belag bedecken
 
 belegt /bəˈleːkt/: occupied, busy, hoarse, husky
   Alle anderen Räume waren schon belegt.
@@ -897,6 +904,9 @@ beobachten /bəˈ|oːbaxtən/: to observe, to watch
 bepacken: to load
   ↔ ausladen
 
+bequem
+  so, dass man sich beim Benutzen entspannen kann und wohlfühlt
+
 berauschend /bəˈrauʃənt/: intoxicating
   → Rausch, der: intoxication
 
@@ -985,11 +995,15 @@ berücksichtigen /bəˈrʏkzɪçtɪɡən/: to take into account/consideration, t
   Das muss bei der Planung berücksichtigt werden.
 
 Beruf /bəˈruːf/, der, -e: occupation
+  Was ist dein Beruf?
+  Was bist du von Beruf?
+  Was ist schwierig am Beruf Informatiker?
   einen Beruf erlernen, ausüben: to train for / do a job
 
 Berufserfahrung /bəˈruːfs|ɛɐfaːrʊŋ/, die: work experience, professional experience
 
 beruflich: professional
+  Was machen Sie beruflich?
 
 berufstätig /bəˈruːfstɛːtɪç/: working
   Sind Sie berufstätig?
@@ -1775,6 +1789,8 @@ bitten /ˈbɪtən/: to ask, to beg, to request
   Würden Sie ihn bitten, mich anzurufen?
 
 bitter /ˈbɪtɐ/: bitter, bitterly
+  beißend im Geschmack
+  Dieses Bier ist mir zu bitter.
 
 Beziehung: relationship
   Wir haben eine freundschaftliche Beziehung zueinander.
@@ -2100,7 +2116,7 @@ brechen /ˈbrɛçən/: to break
 
 brecht → brechen
 
-Brei /brai/, der, -(e)s|-e: porridge, baby food
+Brei /brai/, der, -(e)s|-e: porridge, baby food, mush
   ein Baby mit Brei füttern: to feed baby food to a baby
 
 breit /brait/: wide, broad
@@ -2187,6 +2203,9 @@ Brücke /ˈbrʏkə/, die, Brücken: bridge
 Bruder /ˈbruːdɐ/, der, -s|..
   einen älteren / jüngeren Bruder haben
 
+Brühe, die: stock, broth
+  klare Suppe; schmutziges Wasser
+
 brühen: to blanch, to soak in boiling water 灼
 
 brüllen /ˈbrʏlən/: to roar, to scream
@@ -2271,7 +2290,11 @@ buddeln /ˈbʊdəln/: to dig
   Die Kinder buddeln im Sand.
   The kids are digging holes in the sand.
 
+Bügeleisen /ˈbyːɡəl|aizən/, das
+  Gerät mit heißer, glatter Fläche zum Glätten von Wäsche
+
 bügeln /ˈbyːɡəln/: to iron
+  mit dem Bügeleisen glatt machen
 
 Bühne /ˈbyːnə/, die: stage
   erhöhte Spielfläche in einem Theater

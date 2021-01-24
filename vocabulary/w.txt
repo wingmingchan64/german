@@ -218,6 +218,9 @@ warum /vaˈrʊm/: why
 
 Waschbecken, das: washbasin, washbowl
 
+Wäsche, die
+  alle Textilien, die gewaschen werden sollen oder gewaschen wurden
+
 waschen /ˈvaʃən/: to wash
   sich mit Wasser und Seife waschen: to wash up with soap and water
   Sie wusch sich die Haare.
@@ -704,6 +707,10 @@ wie /viː/: how, as, like, such as, what
 wieder /ˈviːdɐ/: again
   Musst du morgen wieder arbeiten?
   Do you have to work again tomorrow?
+
+wiedergeben: to play
+  sichtbar oder hörbar machen
+  Mein alter CD-Spieler kann selbst gebrannte CDs nicht wiedergeben.
 
 wiedererkennen /ˈviːdɐ|ɛɐkɛnən/: to recognize
   Er hätte sie nach all den Jahren fast nicht mehr wiedererkannt.

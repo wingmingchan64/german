@@ -123,7 +123,7 @@ Dankbarkeit /ˈdaŋkbaːɐkait/, die, ~|uncountable: gratitude, appreciation
 danke /ˈdaŋkə/
   Danke (schön / sehr)!
 
-danken /ˈdaŋkən/: to thank
+danken /ˈdaŋkən/: to thank (note: dative)
   Ich möchte dir für deine Hilfe vielmals danken.
   I'd like to thank you very much for your help.
 
@@ -507,7 +507,9 @@ Dirndl /ˈdɪrndl/, das, -(n), Dirndlkleid: dirndl, girl
 
 Diskriminierung /dɪskrimiˈniːrʊŋ/, die: discrimination
 
-Diskothek /dɪsko'teːk/, die
+Disco, die, ~|-s
+
+Diskothek /dɪsko'teːk/, die, ~|-en
 
 Diskrepanz /dɪskreˈpants/, die, -en: discrepancy
   die Diskrepanz zwischen offiziellen Empfehlungen und Impfraten
@@ -564,6 +566,7 @@ dortige /ˈdɔrtɪɡə/: local
 Dose /ˈdoːzə/, die, -n: canister, can
   Keksdose: cookie jar
   eine Dose Ananas / Bohnen: a can of pineapples/beans
+  Ich bezahle die Dose Cola.
 
 Dotter /ˈdɔtɐ/, der-das, -: yolk
   ≈ Eigelb
@@ -663,6 +666,8 @@ dringend /ˈdrɪŋənt/: urgent
   Bitte kommen Sie schnell, Herr Doktor, es ist dringend!
   Please come quickly, doctor, it's urgent!
   eine dringende Bitte an jdn haben: to have an urgent request of sb
+
+Drink, der, (-s)|-s
 
 dritte /ˈdrɪtə/: third
   im dritten Stock
@@ -887,6 +892,8 @@ dürr /dʏr/: dry, dead, arid, barren, scrawny, meager
 
 Dusche /ˈduːʃə/ /ˈdʊʃə/, die: shower
   Vorrichtung, die Wasser zum Waschen fein verteilt
+
+duschen
 
 Durst /dʊrst/, der, -(e)s: thirst
 
