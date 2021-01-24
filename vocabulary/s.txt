@@ -713,6 +713,8 @@ schmatzen: to eat noisily
 schmecken /ˈʃmɛkən/: to taste, to like
   Hat's geschmeckt?
   Lasst es euch schmecken.
+  Wie schmeckt dir das Essen?
+  Es schmeckt mir sehr gut / nicht.
 
 schmeicheln /ˈʃmaiçəln/: to flatter
   Du brauchst mir gar nicht so zu schmeicheln!
@@ -1684,6 +1686,7 @@ sondern /ˈzɔndɐn/
 Sonnabend /ˈzɔnaːbənt/, der, -s|-e: Saturday
 
 Sonne /ˈzɔnə/, die: sun, sunlight
+  Die Sonne scheint.
 
 Sonnenaufgang, der: sunrise
 

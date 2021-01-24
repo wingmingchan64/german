@@ -789,11 +789,16 @@ wimmern /ˈvɪmɐn/: to whimper
 Wind /vɪnt/, der, -(e)s|-e: wind
   Draußen weht ein frischer Wind.
   A fresh wind is blowing outside.
+  
+Windfang, der: porch
+  zusätzlicher Raum vor der Haustür, der vor Wind schützt
+  die Windfangtür schließen
 
 Windel /ˈvɪndəl/, die, -n: diaper
   einem Baby die Windel wechseln: to change a baby's diaper
 
 winden /ˈvɪndən/: to make, to bind, to twine, to wind
+  Es windet. (sw)
   aus einem Draht eine Schlinge winden: to twine a piece of wire into a loop
   Sie wand sich die Leine um das Handgelenk.
   She wound the cord around her wrist.
@@ -803,6 +808,9 @@ winden /ˈvɪndən/: to make, to bind, to twine, to wind
   She squirmed under his searching gaze.
   Ein schmaler Pfad wand sich durchs Tal.
   A narrow path wound its way through the valley.
+
+windig
+  mit viel Wind
 
 Windschutzscheibe /ˈvɪntʃʊʦʃaibə/, die, ~|-n: windshield
 

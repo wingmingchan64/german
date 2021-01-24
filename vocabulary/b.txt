@@ -1930,6 +1930,9 @@ bloß /bloːs/: bare, mere, only
   Hätte ich das bloß nicht gesagt!
   If only I hadn't said that!
 
+blühen: to bloom, to blossom
+  Blüten tragen
+
 blühend: blossoming, flourishing, thriving
 
 Blumenkohl /ˈbluːmənkoːl/, der: cauliflower
@@ -1944,6 +1947,7 @@ Blut /bluːt/, das, -(e)s|uncountable: blood
   He lost a lot of blood in the accident.
 
 Blüte /ˈblyːtə/, die, -e: flower
+  bunter Teil von Pflanzen, aus dem sich später eine Frucht entwickelt
   eine Rose mit roten Blüten: a rose with red flowers
 
 blutig /ˈbluːtɪç/: bloody, gory, violently, (meat) rare

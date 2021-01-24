@@ -959,7 +959,8 @@ verständnislos: etw. nicht begreifend
 
 verständnisvoll: understanding, sympathetic
 
-verstärken /fɛɐˈʃtɛrkən/: to strengthen, to reinforce, to increase, to increase
+verstärken /fɛɐˈʃtɛrkən/: to strengthen, to reinforce, to increase, to amplify
+  stärker und stabiler machen
   den Deich mit Sandsäcken verstärken: to reinforce the dyke with sandbags
   Ein neuer Mitarbeiter wird unser Team demnächst verstärken.
   A new co-worker will soon be reinforcing our team.

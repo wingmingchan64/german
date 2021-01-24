@@ -1248,6 +1248,7 @@ hundert
 
 Hunger /ˈhʊŋɐ/, der, -s: hunger, starvation, yearning
    Ich habe Hunger und Durst.
+   Ich habe keinen Hunger.
 
 hungrig /ˈhʊŋrɪç/: hungry
   Bist du auch so hungrig?
