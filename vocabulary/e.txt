@@ -158,6 +158,8 @@ Eichhörnchen /ˈaiçhœrnçən/, das, -s|~: squirrel
 
 Eid /ait/, der: oath
 
+Eidgenossenschaft, die: confederation
+
 Eifer /ˈaifɐ/, der, -s|uncountable: eagerness, enthusiasm
   
   Voller Eifer machte sich der Junge an die Arbeit.
@@ -384,6 +386,8 @@ einführen/ˈainfyːrən/: to import, to introduce, to insert
   einen Schlauch in die Nase einführen
   to insert a tube into sb's nose
 
+Einführung, die: introduction
+
 Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
 
 eingeben: to enter, to key in
@@ -494,6 +498,9 @@ Einkaufsbummel, der: shopping spree
 Einkaufsliste: shopping list
 
 Einkaufszentrum, das
+
+Einklang, der: harmony, accord
+  angenehme Harmonie
 
 Einkommen /ˈainkɔmən/, das, -s|~: income, earnings
   Wie hoch ist Ihr monatliches Einkommen in etwa?
@@ -841,6 +848,10 @@ Einzelheit /ˈainʦəlhait/, die, ~|-en: detail
   Weitere Einzelheiten des Vorfalls wurden erst später bekannt.
   Further details of the incident only came to light later.
   
+Einzelkind /ˈainʦəlkint/, das
+  Kind, das keine Geschwister hat
+  Er / Sie ist ein Einzelkind.
+
 einzeln /ˈainʦəln/: single, individual
   die einzelnen Abschnitte des Textes
   the individual paragraphs of the text
@@ -1800,6 +1811,7 @@ Erste /ˈeːɐstə/ m/f, kein pl: first
 
 erste /ˈeːɐstə/: first
   jeden Ersten des Monats
+  Am ersten August ist der Nationalfeiertag der Schweiz.
 
 erstellen /ɛɐˈʃtɛlən/: to draw up, to create, to construct
   für eine Kontaktbörse im Internet sein Profil erstellen
@@ -1924,6 +1936,8 @@ erzählen /ɛɐˈʦɛːlən/: to tell, to narrate, to recount, to relate
 
 erzeugen: to generate, to produce
   produzieren, herstellen
+  Die Bauern haben einen Überschuss an Milch erzeugt.
+  Gewalt erzeugt wieder Gewalt.
 
 Erzeugung, die: production, generation, creation
   Stromerzeugung

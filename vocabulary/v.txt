@@ -229,6 +229,8 @@ Verein /fɛɐˈ|ain/, der, -e: association, club, society
   Mitglied im Sportverein sein: to be a member of the sports club
 
 vereinbaren /fɛɐˈ|ainbaːrən/: to agree, to arrange
+  gemeinsam beschließen; in Einklang bringen
+  einen Termin beim Zahnarzt vereinbaren
 
 Vereinbarung /fɛɐˈ|ainbaːrʊŋ/, die: agreement, arrangement
 
@@ -1358,6 +1360,9 @@ Vokabel /voˈkaːbəl/, die, Vokabeln: item of vocabulary
   She is testing her son on the vocabulary.
 
 Volk /fɔlk/, das, Völker /ˈfœlkɐ/: people, nation
+
+Volksabstimmung, die: plebiscite, referendum
+  Abstimmung der [wahlberechtigten] Bürger[innen] über eine bestimmte [grundsätzliche] politische Frage; Plebiszit
 
 vollbringen /fɔlˈbrɪŋən/: to achieve, to perform
   Da hast du aber eine Meisterleistung vollbracht!

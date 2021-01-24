@@ -223,6 +223,8 @@ beanspruchen: to claim, to strain
   → Anspruch
 
 beantragen /bəˈ|antraːɡən/: to apply for
+  einen schriftlichen Antrag stellen, um etw. zu bekommen
+  → Antrag: application
   ein Visum beantragen: to apply for a visa
 
 beantworten /bəˈ|antvɔrtən/: to answer
@@ -1604,6 +1606,12 @@ Bewerbung /bəˈvɛrbʊŋ/, die: application
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
 
+bewilligen
+  jdm etw., das er beantragt hat, geben
+  Die Mittel für den Bau der Straße wurden bewilligt.
+
+Bewilligung, die: approval
+
 bewirken /bəˈvɪrkən/: to cause, to achieve
   etw. hervorrufen, verursachen; durch Einsatz etw. erreichen, bewerkstelligen
   Die Maßnahmen haben das Gegenteil von dem bewirkt, was beabsichtigt war.
@@ -2062,7 +2070,8 @@ Branche /ˈbrãːʃə/, die: sector, industry, business
   Wir sind in der gleichen Branche tätig.
   We're in the same business.
 
-Brand /brant/, der, ..e: fire
+Brand /brant/, der, -(e)s|..e: fire
+  gefährliches Feuer, das Schaden anrichtet
   Die Feuerwehr konnte den Brand löschen.
   The fire department managed to put out the fire.
 

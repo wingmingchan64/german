@@ -54,6 +54,7 @@ Fahndung /ˈfaːndʊŋ/, die: search, manhunt
 Fahne /ˈfaːnə/, die, -n: flag
   die Fahne hissen / einholen: to raise/take down the flag
   Fahnchen
+  Viele Leute hängen Fahnen auf.
 
 fahrbar: wheeled, mobile
 
@@ -209,6 +210,8 @@ färben /ˈfɛrbn/: to color
 Fasching /ˈfaʃɪŋ/, der, -s|uncountable: carnival
   Er will dieses Jahr im Fasching als Cowboy gehen.
   He wants to go as a cowboy in this year's carnival.
+
+Fasnacht, Fastnacht, die
 
 Fass /fas/, das, -es|..er: barrel
   Bierfass
@@ -369,6 +372,8 @@ Fenster /ˈfɛnstɐ/, das, -s|~: window
 
 Ferien /ˈfeːrjən/, pl
   Meine Kinder haben im August Ferien.
+  Ferien haben
+  in die Ferien fahren
 
 Ferkel /ˈfɛrkəl/, das: piglet
 
@@ -500,6 +505,10 @@ Feuerwehrleute, pl
 Feuerwehrmann, der: fireman
 
 Feuerwehrwache, die: fire-station
+
+Feuerwerk, das
+  bunte Lichteffekte, die man (z. B. an Silvester) zum Vergnügen am Himmel erzeugt
+  ein Feuerwerk abbrennen
 
 Feuilleton /føjəˈtõ/, das, -s: arts section
 

@@ -48,6 +48,7 @@ Gang /ɡaŋ/, der, -(e)s|..e: walk, gait, corridor, aisle, passage(way), gear, c
   etw. in Gang halten: to keep sth going
   in Gang kommen: to get going
   in / im Gang(e) sein: to be underway
+  etw in Gang bringen or setzen: to get or set sth going
   Das Fest war schon in vollem Gang.
   The party was in full swing.
   ein Menü in / mit fünf Gängen: a five-course set meal
@@ -760,6 +761,9 @@ Genosse /ɡəˈnɔsə/, -n|-n, Genossin: comrade, buddy, member
   ein Revierkampf unter Artgenossen
   a territorial fight among members of the same species
 
+Genossenschaft, die: cooperative 合作社
+  Zusammenschluss mehrerer Personen, z. B. Bauern, Handwerker o. Ä., um gemeinsam ihre Ziele besser zu erreichen
+
 genug /ɡəˈnuːk/: enough
 
 genügen /ɡəˈnyːɡən/: 
@@ -1469,6 +1473,7 @@ gratis /ˈɡraːtɪs/
 Gratulation /ɡratulaˈʦjoːn/, die, -en: congratulations
   Gratulation zum bestandenen Examen!
   Congratulations on passing your exam!
+  Herzliche Gratulation zum Geburtstag!
 
 gratulieren: to congratulate
 
@@ -1509,6 +1514,8 @@ Grill /ɡrɪl/, der, -s: grill
 grillen: to barbecue, to grill
   Welche Gemüsesorten eignen sich denn zum Grillen?
   What sorts of vegetables are suitable for barbecuing?
+
+grillieren: grillen
 
 Grillspieß, der: spit, rotisserie
 

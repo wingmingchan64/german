@@ -78,7 +78,10 @@ Rasen  /ˈraːzən/, der, -: lawn, grass
 
 rasen /ˈraːzən/: to rush, to race
 
+Rasierapparat, der: shaver
+
 rasieren /raˈziːrən/: to shave
+  Muss er sich schon rasieren?
 
 Rasierer /raˈziːrɐ/, der: razor
 
@@ -577,6 +580,8 @@ Renteneintritt, der: retirement
 Rentner, Rentnerin: pensioner, senior (citizen)
   Kinder und Rentner erhalten eine Ermäßigung von 20%.
 
+Republik, die
+
 Requiem /ˈreːkviɛm/, das, -s
 
 reservieren /rezɛrˈviːrən/
@@ -966,6 +971,8 @@ Russland /ˈrʊslant/: Russia
 rüsten: to arm, to prepare yourself
   Das Land rüstet (zum Krieg).
   sich für eine Expedition rüsten
+
+Rütlischwur, der: oath taken on the Rütli Mountain by the founders of Switzerland
 
 Rutsch /rʊtʃ/, der, -e: landslide
   (einen) guten Rutsch ins neue Jahr: Happy New Year

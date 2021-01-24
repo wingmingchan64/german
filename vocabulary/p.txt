@@ -534,6 +534,10 @@ Privatleben, das
 
 Privatwohnung: private apartment
 
+pro
+  Der Eintritt kostet 3 Euro pro Person.
+  dreimal pro Tag
+
 Probe /ˈproːbə/, die: rehearsal, test, sample
   Blutprobe: blood sample
 

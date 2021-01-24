@@ -1436,6 +1436,9 @@ anreden /ˈanreːdən/: to address
 anregen /ˈanreːɡən/: to stimulate, to suggest
   stimulieren, beleben; den Anstoß zu etw. geben
 
+anrichten
+  verursachen
+
 Anrufbeantworter, der, -s|~: answering machine
 
 anrufen /ˈanruːfən/: to call, to phone
@@ -1619,6 +1622,9 @@ Antragsteller /ˈantraːkʃtɛlɐ/, Antragstellerin: applicant, claimant, petiti
 
 antreiben: to drive
   in Bewegung setzen
+
+Antrieb, der: drive, impulse, impetus
+  Kraft, die eine Maschine, ein Fahrzeug o. Ä. antreibt; Gründe, die einen dazu bewegen, etw. zu tun
 
 antrocknen: to begin to dry
 
@@ -2069,6 +2075,10 @@ aufhalten /ˈaufhaltən/: to hold up, to stop, to detain
   He politely held the door for me.
   Es war kalt und so hielten sie sich viel im Haus auf.
   It was cold, so they spent a lot of time in the house.
+
+aufhängen
+  an einen Ort hängen
+  die Wäsche zum Trocknen aufhängen
 
 aufheben /ˈaufheːbən/: to pick up, to keep, to overturn, to cancel, to annul
   Was hast du da weggeworfen? Heb es wieder auf!
