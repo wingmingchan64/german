@@ -140,6 +140,9 @@ Zeitpunkt /ˈʦaitpʊŋkt/, der, -(e)s|-e
 Zeitraum, der: period
   Zeit, die für eine Tätigkeit zur Verfügung steht oder mit Ereignissen angefüllt ist
 
+Zeitrechnung, die: calendar 曆法
+  die Grundlage von Jahreszahlen und Datumsangaben eines bestimmten Kulturkreises
+
 Zeitschrift /ˈʦaitʃrɪft/, die, -en: magazine
 
 zeitweise /ˈʦaitvaizə/: temporarily
@@ -157,6 +160,7 @@ Zentrum /ˈʦɛntrʊm/, das, -s|Zentren: center
   im Zentrum der Stadt wohnen: to live downtown
   das kulturelle Zentrum eines Landes: the cultural center of a country
   ein Kulturzentrum errichten: to build a cultural center
+  Luzern liegt im Zentrum der Schweiz.
 
 zer-: into pieces
 
@@ -492,6 +496,11 @@ zuhalten /ˈʦuːhaltən/: to hold closed, to put your hands over, to cover, to 
   Der Wagen hielt genau auf uns zu.
   The car was heading straight for us.
 
+zuhören
+  aufmerksam hören
+  ↔ weghören
+  Viele Menschen haben nicht gelernt, anderen zuzuhören.
+
 zuknallen: to bang, to slam
   → knallen
 
@@ -518,6 +527,7 @@ zuletzt /ʦuˈlɛʦt/: last, in the end
   zu dem (m, n)
 
 zumachen: to close, to shut
+  ↔ aufmachen
   Machst du bitte den Kühlschrank zu?
   Would you close the fridge, please?
   Wann macht die Post samstags zu?
@@ -613,6 +623,10 @@ zurückkehren /ʦuˈrʏkkeːrən/: to return , to come/go back
 
 Zurückhaltung /ʦuˈrʏkhaltʊŋ/, die: reserve
   vornehme/abweisende Zurückhaltung: polite/cool reserve
+
+zurückrufen
+  jdn / ein Tier durch Rufe zum Zurückkommen auffordern; jdn anrufen, der einen telefonisch nicht erreicht hat
+  Ruf mich bitte zurück!
 
 zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
 

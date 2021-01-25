@@ -310,6 +310,7 @@ Laut /laut/, der: sound
   keinen Laut von sich geben: not to make a sound 
 
 laut: loud, noisy
+  lauter, am lautesten
   eine laute Stimme haben: to have a loud voice
   In Städten ist es mir einfach auf Dauer zu laut.
   I always find cities just too noisy.
@@ -415,6 +416,7 @@ Leere /ˈleːrə/, die, |uncountable: emptiness
   eine große innere Leere verspüren: to feel a great inner emptiness
 
 legen
+  Ich lege mich ins Bett.
 
 leeren /ˈleːrən/: to empty
   eine Flasche / den Mülleimer leeren: to empty a bottle/the garbage can
@@ -472,6 +474,7 @@ Leiche /ˈlaiçə/, die, ~|-n: corpse, body
 leicht /laiçt/: light, easy
   Das ist keine leichte Entscheidung.
   It's not an easy decision.
+  Ich bin leichter als du.
 
 Leid /lait/, das, -(e)s|uncountable: sorrow, suffering
   unermessliches Leid erfahren
@@ -515,7 +518,7 @@ Leinwand /ˈlainvant/, die, ..e: screen
   The thieves simply cut the canvas out of the frame.
 
 leise /ˈlaizə/: quiet, quietly
-  Pst, seid bitte leise!
+  Pst, sei / seid bitte leise!
   Ssh! Please be quiet!
   Ich hatte nicht die leiseste Ahnung, dass …
   I didn't have the faintest idea that …
@@ -527,6 +530,7 @@ Leiste /ˈlaistə/, die, -n: groin, strip, trim, border
   Fußbodenleisten: baseboards
 
 leisten /ˈlaistən/: to achieve, to do
+  vollbringen, schaffen
   Sie leistet gute Arbeit.
   She does good work.
 ​  jdm Erste Hilfe leisten: to perform first aid on sb
@@ -645,6 +649,11 @@ lieben /ˈliːbən/: to love
 
 liebenswert /ˈliːbənsveːɐt/: likeable
 
+lieber
+  als bessere Alternative
+  Du hättest lieber nichts sagen sollen.
+  Ich wäre jetzt auch lieber im Urlaub.
+
 lieblich /ˈliːplɪç/: charming, sweet
   die liebliche Stimme der Nachtigall: the sweet voice of the nightingale
   Sie bevorzugt liebliche Weine.
@@ -652,6 +661,11 @@ lieblich /ˈliːplɪç/: charming, sweet
 
 Lieblings- /ˈliːplɪŋs/: favorite
 jds Lieblingsbeschäftigung: sb's favorite activity
+
+liebste: favorite
+  Pizza ist mein liebstes Essen.
+  am liebsten: mehr als alles andere
+  Er trinkt am liebsten Rotwein.
 
 Lied /liːt/, das, -er: song
   ein Lied singen: to sing a song

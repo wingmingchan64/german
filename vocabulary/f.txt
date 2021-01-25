@@ -9,7 +9,7 @@ Fabrik /faˈbriːk/, die, -en: factory
   Fabrikarbeiter: factory workers
   eine Fabrik bauen / abreißen: to build / pull down a factory
 
-Fach /fax/, ..er: compartment, field, subject
+Fach /fax/, -(e)s|..er /ˈfɛçɐ/: compartment, field, subject
   Die Socken sind im untersten Fach der Kommode.
   The socks are in the bottom compartment of the dresser.
   Sie ist Expertin in diesem Fach.
@@ -517,6 +517,7 @@ Fibel /ˈfiːbl/, die, Fibeln: primer
 Fick /fɪk/, der, -s|-s: fuck
 
 Fieber /ˈfiːbɐ/, das, -: temperature, fever, bug
+  krankhafte Erhöhung der Körpertemperatur
   Das Kind hatte 38,5 Grad Fieber.
   The child had a temperature of 38.5°C.
   an einem Fieber sterben: to die of a fever
@@ -529,7 +530,7 @@ fielen → fallen: to be fired
 
 fies /fiːs/: nasty, disgusting, horrible
 
-Figur /fiˈɡuːɐ/, die
+Figur /fiˈɡuːɐ/, die, ~|-en
   äußere Gestalt eines Menschen 外表; handelnde Person in einem Roman, Film usw
 
 Fimmel, der: mania, craze
@@ -1070,6 +1071,9 @@ fuhr → fahren
   ich fuhr, du fuhrst, er fuhr, wir fuhren, ihr fuhrt
 
 fühlen /ˈfyːlən/: to feel
+  fühle, fühlst, fühlt, habe gefühlt
+  fühlte
+  fühl, fühlt
   Wie fühlst du dich?
   Ich fühle mich nicht gut.
 

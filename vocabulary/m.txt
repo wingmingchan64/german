@@ -7,6 +7,9 @@ Maat, der, -e(n): ship's mate
 Mach's gut! Goodbye! Cheers!
 
 machen /ˈmaxən/
+  mache, machst, macht, habe gemacht
+  machte, machtest, machtet
+  mach, macht
   Was macht das? How much is that?
 
 Macht /maxt/, die, Mächte /ˈmɛçtə/: power, force
@@ -225,6 +228,8 @@ matt: weak, feeble
 
 Matte, die: mat, meadow
 
+Matterhorn, das
+
 Mauer /ˈmauɐ/, die, ~|-n: wall
   die (Berliner) Mauer
   die Chinesische Mauer: the Great Wall of China
@@ -251,6 +256,7 @@ Maximum /ˈmaksimʊm/, das, -s|Maxima: maximum
 Mäzen /mɛˈʦeːn/, -s|-e, -in: patron
 
 Mechaniker /meˈçaːnikɐ/: mechanic
+  jd, der Maschinen und technische Anlagen zusammenbaut oder repariert
 
 Mechatroniker: mechatronics engineer
 
@@ -261,6 +267,9 @@ meckern /ˈmɛkɐn/: to moan, to grumble
 Medaille /meˈdaljə/, die, -n: medal
 
 Medaillon /medalˈjõ/, das, -s: locket, medallion
+
+Medikament, das: 
+  Mittel, das man nimmt, um wieder gesund zu werden
 
 Medizin /mediˈʦiːn/, die, -en: medicine
   Medizin studieren: to study medicine
@@ -350,6 +359,7 @@ meist /maist/: mostly
   He comes home very late most of the time.
 
 meiste, pronoun, indefinite, meisten: most, mostly
+  am meisten
 
 meistens /ˈmaistəns/, adv: mostly
   Ich gehe meistens früh ins Bett.
@@ -414,6 +424,10 @@ merkwürdig /ˈmɛrkvʏrdɪç/: strange, odd
   That seems odd to me.
 
 messen /ˈmɛsən/: to meaure
+  messe, misst, messt, habe gemessen
+  maß, maßest, maß
+  miss, messt
+  die Größe oder Menge von etw. bestimmen
   bei jdm Fieber messen: to take sb's temperature
   Er misst 1,85 Meter.
   He's 1.85 meters tall.
@@ -604,7 +618,7 @@ mitteilen /ˈmɪttailən/: to confide, to impart, to communicate, to convey
 
 Mitteilung /ˈmɪttailʊŋ/, die: communication, announcement, information, message, notification
 
-Mittel /ˈmɪtəl/, das: means , way , method
+Mittel /ˈmɪtəl/, das: means , way , method, medicine
   ein Mittel gegen die Einsamkeit: a means of combatting loneliness
 
 Mittelalter, das: Middle Ages
@@ -709,6 +723,8 @@ Monarch /moˈnarç/, Monarchen: monarch
 
 Monat /ˈmoːnat/, der, -(e)s|-e
   im schönen Monat Mai
+
+monatlich /ˈmoːnatlɪç/
 
 ▲Mond /moːnt/, der: moon
 

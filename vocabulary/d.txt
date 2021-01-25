@@ -23,7 +23,7 @@ dabei /daˈbai/: there, at the same time, in the process
   Sie sieht fern und bügelt dabei.
   She watches TV and irons at the same time.
 
-Dach, das: roof
+Dach, das, -(e)s|..er /ˈdɛçɐ/: roof
   Dachfenster: dormer
   unter einem Dach
 
@@ -202,7 +202,10 @@ Dattel /ˈdatəl/, die, ~|-n: date
 
 Datum /ˈdaːtʊm/, das, Daten: date
   Welches Datum haben wir heute?
-  What's today's date? 
+  What's today's date?
+  
+Datumsangabe, die
+  Angabe des Datums
 
 Dauer /ˈdauɐ/, die: duration
   auf (die) Dauer: in the long run, always
@@ -298,6 +301,8 @@ demnächst /demˈnɛːçst/: soon
   The plan to buy a new car soon.
 
 Demokrat /demoˈkraːt/
+
+Demokratie, die
 
 demolieren /demoˈliːrən/: to trash, to wreck
 
@@ -771,7 +776,7 @@ dünn /dʏn/: thin
 
 dünsten: to steam
 
-durch /dʊrç/: through, around, by, gone, past, over
+durch /dʊrç/: through, around, by, gone, past, over (accusative)
   Der Ball flog durch die Scheibe.
   The ball flew through the window.
   durch und durch: through and through, completely

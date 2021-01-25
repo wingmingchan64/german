@@ -46,6 +46,7 @@ Kalorie /kaloˈriː/, die, -n: calorie
   Vegetables don't have many calories.
 
 kalt /kalt/, kälter, kälteste: cold
+  kälter, am kältesten
 
 Kälte /ˈkɛltə/, die, |uncountable: cold
   klirrende/eisige Kälte bitter/icy cold 
@@ -397,6 +398,8 @@ Kiste /ˈkɪstə/, die, ~|-n: box, crate, Sache
 
 kitschig /ˈkɪtʃɪç/: cheesy
 
+Kiwi, die
+
 klagen /'klaːɡən/: complain, to take legal action
   „Wie geht es dir?‟ – „Ich kann nicht klagen!‟
   "How are you?" –  "Can't complain!"
@@ -514,10 +517,14 @@ Kleiderbügel /ˈklaidɐbyːɡəl/, der, -s|~: coat hanger
 
 Kleiderschrank, der: wardrobe
 
+Kleiderständer, der
+  Ständer mit Haken zum Aufhängen von Kleidungsstücken
+  Ich hänge den Mantel an den Kleiderständer.
+
 Kleidung /ˈklaidʊŋ/, Kleidung: clothes
   warme Kleidung anziehen: to put on some warm clothes
 
-klein /klain/: small, little
+klein /klain/: small, little, short
   ein kleiner Garten: a small garden
   Einen kleinen Moment, bitte.
   Just a moment, please.
@@ -953,6 +960,8 @@ Körperhaltung, die: posture
 korrekt /kɔˈrɛkt/
 
 Korrekturstift, der, -e: correction pen
+
+korrigieren
 
 Kost /kɔst/, die: food
 

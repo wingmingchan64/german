@@ -800,7 +800,8 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Admission to the exhibition is free.
   Eintritt verboten!
 
-einverstanden, adj: to agree
+einverstanden, adj: 
+  (mit etw.) einverstanden sein: to agree
 
 Einverständnis /ˈainfɛɐʃtɛntnɪs/, das: consent, understanding
   ≈ Zustimmung
@@ -967,6 +968,9 @@ empfänglich: receptive, responsive, susceptible
   Wer Stress hat, ist empfänglicher für Infektionen.
 
 empfehlen /ɛmˈpfeːlən/: to recommend
+  empfehle, empfiehlst, empfiehlt, habe empfohlen
+  empfahl
+  empfiehl, empfehlt
   Kannst du mir einen guten Friseur empfehlen?
   Can you recommend a good hairdresser?
 
@@ -1193,6 +1197,8 @@ entspannen /ɛntˈʃpanən/: to relax, to unwind
   Winning the lottery eased our financial situation.
 
 entsprechen /ɛntˈʃprɛçən/: to be in line with, to conform with, to be equivalent to, to be consistent with, to comply with, to meet
+  gleichwertig sein; damit übereinstimmen; das tun, was jd fordert, wünscht
+  einer Sache entsprechen: sie erfüllen
   Entspricht dieses Modell Ihren Erwartungen?
   Is this model in line with your expectations?
   Ein Inch entspricht 2,54 Zentimetern.
@@ -1396,6 +1402,7 @@ erfrischen /ɛɐˈfrɪʃən/: to refresh
 Erfrischung: refreshment
 
 erfüllen /ɛɐˈfʏlən/: to be fulfilled, to come true, to perform
+  wahr werden; für jdn wahr werden lassen; tun, was man muss oder was jd wünscht
   Leider haben sich meine Träume nicht erfüllt.
   Unfortunately my dreams weren't fulfilled.
 
@@ -1484,6 +1491,7 @@ erheiternd /ɛɐˈhaitɐn/: amusing
 Erheiterung: amusement, entertainment
 
 erhöhen /ɛɐˈhøːən/: to increase, to raise
+  
   Schnelles Fahren erhöht das Unfallrisiko.
   Fast driving increases the risk of accidents.
 
@@ -1646,6 +1654,9 @@ ernähren: to eat
   sich gesund / vegetarisch ernähren
 
 Ernährung /ɛɐˈnɛːrʊŋ/, die: food, diet, nutrition
+
+erneuern
+  etw. Altes gegen etw. Neues austauschen
 
 erneut: renewed, further, again
 
@@ -1978,6 +1989,8 @@ Eskalation /ɛskalaˈʦjoːn/, die: escalation
 
 essen /ˈɛsn/
   esse, isst, esst, habe gegessen
+  aß, aßest, aßt
+  iss, esst
 
 Essig /ˈɛsɪç/, der: vinegar
 

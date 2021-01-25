@@ -47,6 +47,7 @@ Tagesablauf, der: daily routine
 Tagesdecke, die: bedspread
 
 täglich /ˈtɛːklɪç/: daily
+  jeden Tag stattfindend
 
 tagsüber /ˈtaːks|yːbɐ/: by / during the day
   Tagsüber ist das Baby ruhig und zufrieden, nur nachts schreit es noch oft.
@@ -340,6 +341,9 @@ Test /tɛst/, der, -s: test
   She didn't pass the math test.
 
 testen /ˈtɛstən/: to test
+
+teuer
+  teurer, am teuersten
 
 Teufel /ˈtɔyfəl/, der, -: devil
   Ach, hol dich doch der Teufel!
@@ -837,7 +841,9 @@ tschüs, tschüss /tʃyːs/
   sich [ dative ] ein Tuch um die Schultern legen
   to wrap a shawl around your shoulders
 
-tüchtig: capable, efficient, hard
+tüchtig /ˈtʏçtɪç/: capable, efficient, hard-working
+  viel leistend, seine Aufgaben gut und schnell erfüllend
+  Wir hatten viele tüchtige Helfer.
 
 Tulpe /ˈtʊlpə/, die, -n: tulip
   Tulpenzwiebeln in die Erde setzen: to plant tulip bulbs
@@ -852,6 +858,8 @@ tun /tuːn/: to do, to pretend
   irgendwie tun: sich so benehmen, als wäre man / etw. irgendwie
   so tun, als ob …: to pretend that …
   sie tut nur so: she's only pretending
+
+Tunnel, der
 
 Tupfen /ˈtʊpfən/, der, -s|~: dot, spot
   ein Vorhang mit grünen Tupfen: a curtain with green dots

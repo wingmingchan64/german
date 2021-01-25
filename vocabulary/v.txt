@@ -975,6 +975,9 @@ Verstärkung /fɛɐˈʃtɛrkʊŋ/, die, -en: strengthening, reinforcement, incre
   eine Verstärkung der Wirkung: an increase in the effect
   warten, bis Verstärkung eintrifft: to wait for reinforcements
 
+verstauchen: to sprain
+  sich ein Gelenk durch einen Sturz o. Ä. verletzen
+
 verstauen: to stow
   Bücher in Kisten verstauen
 
@@ -1307,6 +1310,7 @@ Vieh /fiː/, das, |uncountable: livestock, critter
   10 Cent das Stück, pro Stück 10 Cent
 
 viel /fiːl/
+  mehr, am meisten
   Woher hast du denn das viele Geld?
 
 △vielleicht /fiˈlaiçt/
@@ -1365,6 +1369,8 @@ Volksabstimmung, die: plebiscite, referendum
   Abstimmung der [wahlberechtigten] Bürger[innen] über eine bestimmte [grundsätzliche] politische Frage; Plebiszit
 
 vollbringen /fɔlˈbrɪŋən/: to achieve, to perform
+  etw. Besonderes tun, schaffen
+  ≈ leisten
   Da hast du aber eine Meisterleistung vollbracht!
   What a masterly performance!
 
@@ -1530,6 +1536,9 @@ vorgestern /ˈfoːɐɡɛstɐn/: the day before yesterday
 Vorhaben /ˈfoːɐhaːbən/, das: plan
   ein gewagtes / ehrgeiziges Vorhaben
   a daring/ambitious plan
+
+vorhaben
+  die Absicht haben, etw. zu tun
 
 vorhalten /ˈfoːɐhaltən/: to hold up, to accuse, to reproach, to last
   Halt dir beim Husten die Hand vor!

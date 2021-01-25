@@ -300,7 +300,8 @@ Uhrzeit /ˈuːɐʦait/, die, ~|-en: time
   Um welche Uhrzeit soll ich dich abholen?
   What time should I pick you up?
 
-△um /ʊm/: around at
+△um /ʊm/: around at (accusative)
+  um die Ecke, um den Hals
   um … zu: in order to
 
 umarmen /ʊmˈ|armən/: to hug
@@ -863,6 +864,7 @@ unterstützen /ʊntɐˈʃtʏʦən/: to support, to promote, to boost
   Does your computer support wireless?
 
 untersuchen /ʊntɐˈzuːxən/: to examine
+  jdn / etw. genau ansehen und abtasten, um Gesundheitszustand, Krankheiten usw. festzustellen
   Mir gehts nicht gut. Ich glaube, ich sollte mich mal untersuchen lassen.
   I don't feel well. I think I should get someone to take a look at me.
 

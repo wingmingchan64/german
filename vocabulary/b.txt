@@ -988,6 +988,7 @@ Berichterstattung /bəˈrɪçt|ɛɐʃtatʊŋ/, die, -en: reporting
   Private TV channels pay little attention to reporting on political developments.
 
 berichtigen /bəˈrɪçtɪɡən/: to correct, to rectify
+  richtigstellen, korrigieren
 
 berichten /bəˈrɪçtən/: to report
   Die Zeitungen berichteten ausführlich über das Unglück.
@@ -1015,6 +1016,7 @@ Berufung: appointment, vocation, calling, reference, appeal
   die Berufung eines neuen Richters: the appointment of a new judge
 
 berühmt /bəˈryːmt/: famous
+  der berühmteste Berg
   Das Hotel ist für seine gute Küche berühmt.
   The hotel is famous for its good cuisine.
 
@@ -1368,6 +1370,10 @@ beten /ˈbeːtən/: to pray
   The child said his evening prayers.
 
 Beton /beˈtɔŋ/, der, -s|uncountable: concrete
+
+Betonung /bəˈtoːnʊŋ/, die: stress
+  ≈ Akzent
+  Die Betonung liegt auf der ersten Silbe.
 
 betrachten /bəˈtraxtən/: to look at, to consider, to observe
   ein Kunstwerk eingehend betrachten: to view an art work in detail
@@ -1828,6 +1834,7 @@ Blaskapelle, die: brass band
 Blasmusik: brass musik
 
 blass /blas/: pale, faint
+  mit wenig Farbe, ungesund wirkend
   Du bist ja ganz blass. Bist du krank?
   You look really pale. Are you ill?
   ein blasses Gelb: a pale yellow
@@ -1853,6 +1860,9 @@ blättern /ˈblɛtɐn/: to browse
 Blätterteig /ˈblɛtɐtaik/, der, -(e)s|-e: puff paste/pastry
   Blätterteigpasteten: vol-au-vents
 
+blau
+  die blauen Schuhe
+
 Blech /blɛç/, das, -(e)s|-e: sheet metal, baking sheet
   dünnes Stück Metall; Platte aus Blech, auf die man etw. zum Backen legt
   Das Schutzblech am hinteren Rad war verbogen.
@@ -1862,6 +1872,10 @@ Blei /blai/, das: (metal) lead
 
 bleiben /ˈblaibən/: to stay
   Bleib zu Hause!
+
+bleich: pale
+  sehr blass
+  vor Schreck ganz bleich werden
 
 Bleistift /ˈblaiʃtɪft/, der, -e: pencil
 
@@ -1954,6 +1968,9 @@ Blut /bluːt/, das, -(e)s|uncountable: blood
   Er hat bei dem Unfall viel Blut verloren.
   He lost a lot of blood in the accident.
 
+Blutdruck, der
+  Druck des Blutes in den Adern
+
 Blüte /ˈblyːtə/, die, -e: flower
   bunter Teil von Pflanzen, aus dem sich später eine Frucht entwickelt
   eine Rose mit roten Blüten: a rose with red flowers
@@ -1966,6 +1983,8 @@ blutig /ˈbluːtɪç/: bloody, gory, violently, (meat) rare
 Blutprobe /ˈbluːtproːbə/, die, -n: blood test, blood sample
   eine Blutprobe machen: to have a blood test done
   eine Blutprobe entnehmen / untersuchen: to take/examine a blood sample
+
+Bluttest, der
 
 Bock /bɔk/, der: buck, ram, billy goat
 
@@ -2330,6 +2349,8 @@ Bundes-…: federal
 Bundesamt, das: Federal Office
 
 Bundesebene, die: at the federal level
+
+Bundeshaus, das: Federal Houses of Parliament
 
 Bundeshaushalt, der: federal budget
 

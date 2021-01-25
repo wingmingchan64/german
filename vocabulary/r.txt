@@ -244,6 +244,7 @@ Rebellion /rebɛˈljoːn/, die, -en: rebellion
   zur Rebellion aufrufen: to incite a rebellion
 
 rechnen /ˈrɛçnən/: to calculate, to count, to estimate, to expect
+  mathematische Aufgaben lösen
   Sie lernen jetzt, mit Prozenten zu rechnen.
   At the moment they're learning to do calculations with percentages.
   kopfrechnen 心算
@@ -607,6 +608,7 @@ Rest /rɛst/, der, -e: rest, remainder, leftovers, remains
   die Reste eines antiken Tempels: the remains of an ancient temple
 
 Resultat /rezʊlˈtaːt/, das, -(e)s|-e: result
+  Ergebnis
   mit einer Methode gute Resultate erzielen: to achieve good results with a method
 
 retten /ˈrɛtən/: to rescue, to save
@@ -887,6 +889,9 @@ Ruf /ruːf/, der: cry, call, reputation
   This school has a bad reputation.
 
 rufen /ˈruːfən/: to call, to shout, to cry
+  rufe, rufst, ruft, habe gerufen
+  rief, riefst, rief, rieft
+  ruf, ruft
   um Hilfe rufen: to cry for help
   Die Heizung ist kaputt, wir müssen einen Handwerker rufen.
   The heating has broken down. We need to call a workman.

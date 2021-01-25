@@ -233,6 +233,7 @@ Schaffner: conductor
 Schal /ʃaːl/, der, Schals: scarf
   Nimm einen Schal um bei der Kälte!
   Put a scarf on in this cold.
+  Er trägt einen Schal um den Hals.
 
 Schale /ˈʃaːlə/, Schalen: (fruit) skin, shell
   Die meisten Vitamine stecken beim Apfel direkt unter der Schale.
@@ -559,7 +560,14 @@ schlank /ʃlaŋk/: slim, slender
   Du bist aber schlank geworden, hast du eine Diät gemacht?
   You're so slim. Have you been on a diet?
 
+Schlauch, der: hose
+  eine Röhre aus Gummi o. Ä
+
 Schlauchboot /ˈʃlauxboːt/, das: rubber dinghy, rubber boat, life raft
+
+schlecht
+  an Qualität, Leistung, Menge usw. nicht so, wie man es erwartet oder wünscht
+  Michael sagt, dass er sich schlecht fülht.
 
 schleichen /ˈʃlaiçən/: to creep, to crawl, to slink
   versuchen, so zu gehen, dass man nicht bemerkt wird
@@ -905,6 +913,7 @@ schon /ʃoːn/
   Warst du schon mal in Australien?
 
 schön /ʃøːn/
+  Das grüne Kleid ist meiner Meinung nach am schönsten.
 
 Schönheit /ˈʃøːnhait/, die, ~|-en: beauty
   Schönheitsideal: ideal of beauty
@@ -930,6 +939,7 @@ Schraube /ˈʃraubə/, die: screw
   die Schrauben festdrehen/lösen: to screw in/unscrew the screws
 
 Schreck /ʃrɛk/, der, |uncountable: fright, scare
+  heftige, plötzliche Angst
   einen Schreck bekommen: to get a fright
 
 schrecklich /ˈʃrɛklɪç/: terrible, dreadful
@@ -1204,6 +1214,8 @@ Schwelle: threshold
 Schwengel, der: clapper, handle, dong (= Penis), tool
 
 schwer /ʃveːɐ/: heavy, severe, difficult
+  Wie schwer bist du?
+  Ich bin 70 Kilo schwer. Ich bin schwerer als du.
 
 schwerfallen: to find sth difficult
 
@@ -1348,6 +1360,7 @@ Seilbahn /ˈzailbaːn/, die, ~|-en: cableway, aerial tramway
 sein /zain/: to be
   bin, bist, ist, sind, ihr seid, bin gewesen
   war, warst, war, waren, wart
+  sei, seid, seien
   Du bist wohl verrückt! (informal) You must be crazy.
   Er ist Lehrer/Inder/ein Verwandter/der Chef.
   He is a teacher/(an) Indian/a relative/the boss.
@@ -1541,6 +1554,8 @@ sieh, siehe, sieht → sehen
 
 Sigel, Siegel
 
+Silbe, die: syllable
+
 Silvester, der/das: der 31. Dezember
   (An) Silvester sind wir jedes Jahr bei Freunden.
 
@@ -1592,6 +1607,8 @@ Skandal /skanˈdaːl/, der: scandal
 
 Ski /ʃiː/, der, -er: ski
   Ski fahren / laufen: to ski/go skiing
+  
+Skifahren, das: skiing
 
 Skizze /ˈskɪʦə/, die, Skizzen: sketch, outline
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
@@ -1954,6 +1971,7 @@ spontan /ʃpɔnˈtaːn/
 Sport /ʃpɔrt/, der, -(e)s|uncountable: sport, sports
   Machst du oft Sport?
   Nein. Ich mache selten Sport.
+  regelmäßig Sport treiben
 
 Sportart, die, ~|-en: (kind of) sport
 
@@ -1967,6 +1985,9 @@ Sprache /ˈʃpraːxə/, die, -n: language
   Latin is a dead language.
 
 sprechen /ˈʃprɛçən/: to speak, to talk
+  spreche, sprichst, spricht, sprecht, habe gesprochen
+  sprach, sprachst, sprach, spracht
+  sprich, sprecht
 
 Sprechstunde /ˈʃprɛçʃtʊndə/, die, -n: consultation, consultation hours
   Sprechstunden nur nach Vereinbarung!
@@ -2066,6 +2087,8 @@ Stand /ʃtant/, der: stall, state, stand, level
 stand → stehen
 
 Standesamt /ˈʃtandəs|amt/, das, ..er: bureau of vital statistics, register office/registry office
+
+Ständer, der: stand
 
 ständig /ˈʃtɛndɪç/: permanent, constantly
   ein ständiges Mitglied im UN-Sicherheitsrat
@@ -2241,6 +2264,9 @@ steigen /ˈʃtaiɡən/: to climb, to get in/on/out/off, to rise
   auf einen Berg steigen: to climb a mountain
   aus dem/ins Auto steigen
   die steigenden Arbeitslosenzahlen
+
+steigern: to improve
+  erhöhen, verbessern oder verstärken
 
 Steigerung /ˈʃtaiɡərʊŋ/, die: increase, improvement
 
@@ -2724,6 +2750,8 @@ Stunde /ˈʃtʊndə/, die, ~|-n: hour, period, class, time
   In der vierten Stunde haben wir Deutsch.
   We have German in our fourth period.
   zur gewohnten Stunde: at the usual time/hour
+
+stündlich
 
 Sturm /ʃtʊrm/, der: storm
   Ein Sturm kam auf.

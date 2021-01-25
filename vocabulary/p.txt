@@ -266,6 +266,7 @@ pflegen /ˈpfleːɡən/: to care for, to look after
   die kranken Eltern pflegen: to care for your sick parents
 
 Pflicht /pflɪçt/, die, -en: duty, compulsory section
+  etw., was man aus rechtlichen oder moralischen Gründen machen muss
   die elterliche Aufsichtspflicht verletzen
   to neglect your legal parental duty to supervise children properly
   ↔ Kür
@@ -604,6 +605,7 @@ prüfen /ˈpryːfən/: to check, to examine, to test, to consider
   feststellen, ob jd das kann und weiß, was verlangt wird; herausfinden, ob etw. so ist, wie es sein soll
   Kenntnisse mit einem Test prüfen: to examine knowledge with a test
   eine Rechnung genau prüfen: to check a bill carefully
+  Post prüfen
   Wir werden Ihre Bitte sorgfältig prüfen.
   We will consider your request carefully.
 

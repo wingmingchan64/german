@@ -170,6 +170,9 @@ Gebäude /ɡəˈbɔydə/, das, -s|~: building
   The police had the building evacuated.
 
 geben /ˈɡeːbən/: to give, to pass
+  gebe, gibst, gibt, gebt, habe gegeben
+  gab, gabst, gab, gaben, gabt
+  gib, gebt, geben
   Nein, den Pullover gibt es nicht in rot.
   Gibst du mir bitte mal den Zucker?
   Can you pass me the sugar?
@@ -383,7 +386,7 @@ gegangen → gehen
 
 gegebenenfalls: if need be, if necessary, if applicable
 
-gegen /ˈɡeːɡən/: against, toward, at about
+gegen /ˈɡeːɡən/: against, toward, at about, for (accusative)
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
   Ich komme gegen fünf Uhr zurück.
   I'll be back around five.
@@ -481,6 +484,7 @@ Geheimtipp /ɡəˈhaimtɪp/, der: insiders' tip
 
 gehen /ˈɡeːən/: to go, to walk, to leave
   gehe, gehst, geht, geht, bin gegangen
+  ging, gingst, ging, gingt
   Wie geht's dir?
   Mir geht es gut / Mir geht's gut.
   es geht um jdn/etw: it's about sb/sth
@@ -1088,6 +1092,7 @@ gestoßen → stoßen
 gestrichen → streichen
 
 gesund /ɡəˈzʊnt/: healthy
+  gesünder
   Isst du gesund?
   Nein. Ich esse selten gesund.
 
@@ -1525,6 +1530,14 @@ grinsen: to grin
   Sie grinste spöttisch / frech.
   She sneered/gave an impudent grin.
 
+groß
+  größer, am größten
+  Wie groß bist du?
+  Ich bin 1,70m groß [einen Meter siebzig].
+  Sie ist größer als ich.
+  Ich bin kleiner als du.
+  die zweitgrößte Stadt
+
 großartig /ˈɡroːs|artɪç/: wonderful, terrific, great
   sehr eindrucksvoll
   eine großartige Künstlerin / Leistung: a wonderful artist / a terrific performance
@@ -1575,6 +1588,7 @@ Grundgesetz, das: Basic Law
   Verfassung der Bundesrepublik Deutschland
 
 Grundlage /ˈɡrʊntlaːɡə/, die, -n: basis
+  etw., worauf man etw. aufbauen kann
   Diese Anschuldigung entbehrt jeder Grundlage.
   That accusation has no basis in fact.
 
@@ -1645,6 +1659,7 @@ Gürtel /ˈɡʏrtəl/, der, -: belt
   den Gürtel enger schnallen: to tighten your belt
 
 gut /ɡuːt/: good
+  besser, am besten
   Für die Jahreszeit war das Wetter ganz gut.
   For the time of the year the weather was quite good.
   Kannst du gut kochen?

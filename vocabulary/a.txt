@@ -405,6 +405,8 @@ abschneiden /ˈapʃnaidən/: to cut off
   → schneiden: to cut
 
 Abschnitt /ˈapʃnɪt/, der, -(e)s|-e: section, paragraph
+  Teil eines Textes
+  ≈ Passage
   einen Abschnitt lesen: to read a section
 
 abschöpfen /ˈapʃɶpfən/: to skim off, to make
@@ -552,6 +554,9 @@ absurd /apˈzʊrt/: absurd
   Es klingt absurd, ist aber wahr.
   It sounds absurd, but it's true.
 
+abtasten: to palpate
+  mit den Händen suchend an mehreren Stellen berühren
+
 Abteil /apˈtail/, das, -(e)s|-e: compartment
   Alle Abteile waren belegt.
   All the compartments were occupied.
@@ -579,6 +584,9 @@ abwarten /ˈapvartən/: to wait
 
 abwärts: down, downwards
   vom Hals abwärts gelähmt sein
+
+Abwaschbecken, das: sink
+  Spülbecken
 
 abwaschen /ˈapvaʃən/: to wash up
   mit Wasser reinigen
@@ -866,6 +874,7 @@ allerletzte /ˈalɐˈlɛʦtə/: very last
 allerorten: everywhere
 
 alles /ˈaləs/: everything
+  Ich hoffe, es ist alles gut.
 
 allgegenwärtig /ˈalɡeːɡənˈvɛrtɪç/: omnipresent
   Es ist schwer, den allgegenwärtigen Handys zu entfliehen.
@@ -906,8 +915,10 @@ also /ˈalzo/: therefore, so, well
   Well, if I may say something, too: …
 
 alt /alt/: old
- Für solchen Blödsinn bist du schon zu alt.
- You're too old for such nonsense. 
+  älter, am ältesten
+  Für solchen Blödsinn bist du schon zu alt.
+  You're too old for such nonsense.
+  Ich bin älter / jünger als du.
 
 altbewährt: well-proven
   → bewährt: proven
@@ -1162,8 +1173,14 @@ Anführer /ˈanfyːrɐ/, der, -s|~: leader
   der Anführer der Bande: the leader of the gang
 
 Angabe /ˈanɡaːbə/, die, ~|-n: information, statement
+  Informationen, die man jdm gibt
   Er hat der Polizei gegenüber falsche Angaben gemacht.
   He made false statements to the police.
+
+angeben: to state, to give, to indicate, to brag
+  nennen; anzeigen; übertrieben stolz über etw. sprechen, um bewundert zu werden
+
+Angeber /ˈanɡeːbɐ/, der, -s|~: boaster, show-off
 
 angeblich /ˈanɡeːplɪç/: alleged, supposed, reputed, alleged
   seine angebliche Schwester: his would-be sister
@@ -1171,8 +1188,6 @@ angeblich /ˈanɡeːplɪç/: alleged, supposed, reputed, alleged
   The purported affair turned out to be a mistake.
   Angeblich ist er krank.
   He claims that he's ill.
-
-Angeber /ˈanɡeːbɐ/, der, -s|~: boaster, show-off
 
 Angebot /ˈanɡəboːt/, das, -(e)s|-e: offer, supply
   jdm ein gutes Angebot machen: to make sb a good offer
@@ -1342,6 +1357,7 @@ Ankunft /ˈankʊnft/, die, ..e: arrival
   The arrival of the train is expected to be delayed by 10 minutes.
 
 Anlage /ˈanlaːɡə/, die, ~|-n: facility, plant, works, equipment, investment, laying out, construction
+  Gelände und Gebäude für einen bestimmten Zweck; technische Geräte für einen Zweck
   militärische Anlagen: military installations
   öffentliche Anlage: (public) park
   Industrieanlage: industrial plant
@@ -1461,6 +1477,10 @@ anschaffen /ˈanʃafən/:
   Are you going to buy the book?
   Mach doch erst deine Ausbildung fertig, bevor du dir Kinder anschaffst.
   You really ought to finish your apprenticeship before you have children.
+
+anschalten: to switch on
+  mithilfe eines Schalters o. Ä. in Gang setzen
+  ↔ ausschalten
 
 anschauen: ansehen
 
@@ -2090,10 +2110,12 @@ aufholen: to catch up
   Der Zug konnte die Verspätung wieder aufholen.
 
 aufhören /ˈaufhøːrən/: to stop
+  zu einem Ende kommen; mit etw. nicht weitermachen
   Wann hört der Regen endlich auf?
   When's the rain finally going to stop?
   aufhören zu arbeiten: to stop working
   Sofort hörte Dudley auf mit seinem falschen Weinen
+  Hör auf zu rauchen!
 
 aufklappen: to open up, to lift up, to fold back, to open
   aufklappen Buch, Taschenmesser etc
@@ -2142,6 +2164,7 @@ Auflistung, die: listing
 Auflösung /ˈaufløːzʊŋ/, die: resolution, disintegration
 
 aufmachen /ˈaufmaxən/: to open, to present, to display, to set out, to set off
+  ↔ zumachen
   Machen wir uns eine Flasche Wein auf?
   Shall we open a bottle of wine?
   Mach doch die Augen auf!
@@ -2773,7 +2796,9 @@ Ausschau /ˈausʃau/ halten nach: to look out
   She's on the lookout for a new apartment/job.
 
 ausschalten /ˈausʃaltən/: to switch off
-  ↔ einschalten
+  ↔ einschalten, anschalten
+  Schalte bitte das Licht aus.
+  Schaltet jetzt den Fernseher aus!
 
 Ausschreitung /ˈausʃraitʊŋ/, die: riot
 
