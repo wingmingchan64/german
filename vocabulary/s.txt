@@ -18,15 +18,20 @@ Sache /ˈzaxə/, die: thing
   Was hältst du eigentlich von der ganzen Sache?
   What do you actually think about the whole thing? 
 
+Sachlage, die
+  die Tatsachen und Zusammenhänge in einer Situation
+  ≈ Sachverhalt
+
 sachlich /ˈzaxlɪç/: objective, matter-of-fact, factual, objectively
   Bitte bleiben Sie doch sachlich!
   Please keep to the point!
 
 sacht: soft, gentle
 
-Sachverhalt, der: fact
+Sachverhalt /ˈzaxfɛɐhalt/, der: fact, circumstance, situation
   die Tatsachen und Zusammenhänge in einer Situation
-
+  ≈ Sachlage
+ 
 Sackgasse /ˈzakɡasə/, die, -n: dead end, cul-de-sac
   Das Haus steht am Ende einer Sackgasse.
   The house is at the end of a cul-de-sac.
@@ -1581,6 +1586,9 @@ Sinn /zɪn/, der: sense, meaning, mind
   I couldn't get his words out of my mind.
   etw. im Sinn haben: to have sth in mind
   in jds Sinn(e): what sb intended
+
+Sinneserfahrung, die
+  Erfahrung, die durch die Sinne vermittelt wird
 
 Sinnestäuschung, die: hallucination
 

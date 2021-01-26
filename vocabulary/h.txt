@@ -76,6 +76,8 @@ Haken /ˈhaːkən/, der: hook
 
 halb /halp/: half
 
+Halbtax-Abo: Half-Fare Card
+
 Halbbruder /ˈhalpbruːdɐ/, der
 
 Halbinsel /ˈhalp|ɪnzəl/, die
@@ -138,7 +140,8 @@ Halterung /ˈhaltərʊŋ/, die: bracket, mounting
 
 Haltestelle /ˈhaltəʃtɛlə/, die, -en: stop
    An der nächsten Haltestelle müssen wir aussteigen.
-   We have to get off at the next stop. 
+   We have to get off at the next stop.
+   Wir steigen an der nächsten Haltestelle aus.
 
 Haltung /ˈhaltʊŋ/, die: posture, attitude, composure
   eine aufrechte / gebückte Haltung einnehmen
@@ -754,6 +757,9 @@ hervorbringen /hɛɐˈfoːɐbrɪŋən/: to produce, to generate
   Dieses Land hat einige der berühmtesten Musiker der Welt hervorgebracht.
   This country has produced some of the most famous musicians in the world.
   kein Wort hervorbringen: not to be able to utter a sound
+
+hervorheben /hɛɐˈfoːɐheːbən/: to emphasize, to highlight
+  anders gestalten, sodass es besser auffällt
 
 hervorstoßen: to snap
 

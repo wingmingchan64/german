@@ -887,6 +887,9 @@ Gerichtsurteil, das: court decision
 
 im geringsten: in the slightest
 
+Geruch, der: smell, scent
+  von der Nase wahrgenommene Sinneserfahrung
+
 Gerücht /ɡəˈrʏçt/, das, -(e)s|-e: rumor
   Neuigkeit, von der man nicht weiß, ob sie wahr ist
   ein Gerücht verbreiten / in die Welt setzen: to spread/start a rumor
@@ -1353,8 +1356,10 @@ Gleichschritt /ˈɡlaiçʃrɪt/, der, -(e)s: marching in step
   im Gleichschritt marschierende Soldaten: soldiers marching in step
 
 Gleis, das, -es|e: track, platform
+  Fahrbahn aus zwei Schienen für Züge; Bahnsteig
   einen Zug von einem Gleis auf ein anderes umleiten
   Vorsicht an Gleis 5, der Zug fährt jetzt ein!
+  An welchem Gleis / Bahnsteig fährt der Zug nach München ab?
 
 gleiten /ˈɡlaitən/: to glide, to slide
   Das Boot glitt geräuschlos durchs Wasser.

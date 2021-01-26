@@ -90,6 +90,7 @@ Wahrheit /ˈvaːɐhait/, die, -en: truth
   Tell (me) the truth!
 
 wahrnehmen /ˈvaːɐneːmən/: to perceive, to detect, to take, to look after, to distinguish
+  etw. bewusst hören, sehen, riechen, schmecken oder fühlen
   Er nahm von seiner Umwelt kaum etwas wahr.
   He was hardly aware of his surroundings.
   Sie nahm den vereinbarten Termin beim Arzt nicht wahr.
@@ -208,9 +209,7 @@ wart (imperative du) → warten
 
 warten /ˈvartən/: to wait, to service
   Sie wartete vor dem Bahnhof auf ihn.
-  She waited for him in front of the station.
   Das Auto wurde regelmäßig gewartet.
-  The car was regularly serviced.
 
 warum /vaˈrʊm/: why
 

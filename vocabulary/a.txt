@@ -1,5 +1,6 @@
 ﻿========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
+
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
@@ -294,6 +295,9 @@ abnehmen /ˈapneːmən/: to decrease, to lose weight, to wane, to take off, to a
   Nimm doch zum Grüßen die Mütze ab.
   Take off your cap when you're greeting someone.
   Ihm wurde der Führerschein abgenommen.
+
+Abonnement /abɔnəˈma͂ː/, das: subscription
+  Vereinbarung, etw. regelmäßig zu kaufen
 
 abonnieren: to subscribe
   eine Zeitung abonniert haben
@@ -1871,10 +1875,13 @@ Arzthelfer /ˈarʦthɛlfɐ/, -in, -: medical assistant
   She works as a medical assistant.
 
 Asche, die
+  Teil eines Sachverhaltes
 
 Aschenbecher /ˈaʃənbɛçɐ/, der: ashtray
 
 asiatisch /aˈzjaːtɪʃ/
+
+Aspekt, der
 
 Ast /ast/, der, -(e)s|..e: branch
   Die Affen schwingen sich von Ast zu Ast.
@@ -2387,6 +2394,12 @@ Auftritt /ˈauftrɪt/, der, Auftritte: appearance, performance, (theatre) scene
 aufwachen /ˈaufvaxən/: to wake up
   Sie wachte mitten in der Nacht auf.
   She woke up in the middle of the night.
+
+aufwarten
+  mit etw. aufwarten: etw. Besonderes zu bieten haben
+  Ich kann leider noch nicht mit Ergebnissen aufwarten.
+  jdm etw. servieren, anbieten
+  Der Hausherr wartete mit einem Karpfen auf.
 
 aufwärts: up, upwards
   Aufwärts gehen wir zu Fuß, abwärts fahren wir mit der Seilbahn.

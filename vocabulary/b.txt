@@ -55,9 +55,11 @@ Bahnhof /ˈbaːnhoːf/, der, -(e)s|..e
   Der Zug hält nicht an jedem Bahnhof.
 
 Bahnsteig /ˈbaːnʃtaik/, der, -(e)s|-e: track, platform
+  erhöhte Fläche neben den Gleisen, von der aus man in Züge ein- und aussteigen kann
   Die Gleise 2 und 3 liegen am gleichen Bahnsteig.
   Tracks 2 and 3 are on the same platform.
   Von welchem Bahnsteig fährt der Zug ab?
+  Sie warteten auf dem Bahnsteig auf die Ankunft ihres Zuges.
 
 Bakterien /bakˈteːrjən/, pl
   Bakterien, die Infektionen verursachen
@@ -1371,6 +1373,9 @@ beten /ˈbeːtən/: to pray
 
 Beton /beˈtɔŋ/, der, -s|uncountable: concrete
 
+betonen /bəˈtoːnən/
+  beim Sprechen hervorheben
+
 Betonung /bəˈtoːnʊŋ/, die: stress
   ≈ Akzent
   Die Betonung liegt auf der ersten Silbe.
@@ -1633,7 +1638,7 @@ bewölkt /bəˈvœlkt/: cloudy
 
 bewundern /bəˈvʊndɐn/: to admire
 
-bewusst /bəˈvʊst/: deliberate
+bewusst /bəˈvʊst/: deliberate, conscious 
   mit Absicht
   Das war bewusste Irreführung!
   That was deliberate deception!
@@ -1661,6 +1666,7 @@ beziehen /bəˈʦiːən/: to get, to receive, to move into, to cover
   Diese Bemerkung bezog sich nicht auf dich.
 
 Beziehung /bəˈʦiːʊŋ/, die, ~|-en: relationship, connection, respect
+  Verbindung, Kontakt zwischen Personen; eine Beziehung als Liebespaar; vorteilbringende Kontakte; der Aspekt, der gerade angesprochen wird
   Wir haben eine freundschaftliche Beziehung zueinander.
   We have a friendly relationship with one another.
   Wir haben seit drei Monaten eine (feste) Beziehung.
@@ -1751,6 +1757,8 @@ Bildung /ˈbɪldʊŋ/, die: education, forming
 
 Billard /ˈbɪljart/, das, |uncountable: billards
   Billardtisch: billiard table
+
+Billett /bɪlˈjɛt/, das: ticket, note, letter
 
 billig /ˈbɪlɪç/: cheap
    einen billigen Flug /fluːk/ buchen: to book a cheap flight

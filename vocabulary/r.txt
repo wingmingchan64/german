@@ -681,6 +681,7 @@ Richtung /ˈrɪçtʊŋ/, die: direction
   The wind was blowing in a westerly direction/coming from an easterly direction. 
 
 riechen /ˈriːçən/: to smell
+  einen Geruch wahrnehmen
   Riechst du das, hier brennts doch irgendwo!
   Can you smell that? There's something burning somewhere!
 
@@ -925,6 +926,7 @@ Ruhm /ruːm/, der, -(e)s|uncountable: fame
   to find international fame as an artist
 
 rühmen: to praise, glorify
+  gute Eigenschaften oder Leistungen betonen
 
 rühren /ˈryːrən/: to stir, to beat, to move
   einen Löffel o. Ä. in etw. im Kreis bewegen, bes. um es zu mischen
