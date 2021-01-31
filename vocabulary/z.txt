@@ -308,6 +308,9 @@ Zimmer n. /ˈʦɪmɐ/: room
 
 Zimmerservice, der
 
+Zimt, der
+  cinnamon
+
 Zinn, das: tin
 
 Zinne, die: merlon, pinnacle
@@ -403,6 +406,9 @@ zornig /ˈʦɔrnɪç/: angry, mad, furious
   Bist du zornig auf mich / über den Fehler?
   Are you mad at me/about the mistake?
   mit zornig funkelnden Augen: with eyes glinting with anger
+
+zu: to (dative)
+  zum Arzt
 
 zu: closed
   Tür/Fenster zu!
@@ -850,10 +856,11 @@ zwinkern /ˈʦvɪŋkɐn/: to blink, to wink
 zwirbeln: to twirl
   sich [ dative ] den Schnurrbart zwirbeln
 
-zwischen /ˈʦvɪʃən/: between, among
+zwischen /ˈʦvɪʃən/: between, among (accussative/dative)
   Er setzte sich zwischen mich und das Fenster.
   He sat down between me and the window.
-
+  Das Dorf liegt zwischen den Bergen. (dative; accusative: die Berge)
+  
 Zwischenaufenthalt, der: stopover, stop-off
 
 Zwischenfall /ˈʦvɪʃənfal/, der, ..e: incident

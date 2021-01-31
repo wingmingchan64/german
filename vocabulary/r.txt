@@ -269,6 +269,9 @@ recht: right, real
   When his mother told him to be quiet, he screamed all the more.
   ein rechter Feigling sein
 
+Rechtschreibung, die: spelling
+  Regeln dafür, wie Wörter geschrieben werden sollen
+
 Rechtsstaat /ˈrɛçʦʃtaːt/, der: state founded on the rule of law, constitutional state
   Wir leben in einem Rechtsstaat.
   We live in a constitutional state.
@@ -410,6 +413,12 @@ reiben /ˈraibən/: to rub, to grate
   Parmesan über die Spaghetti reiben: to grate some Parmesan over the spaghetti
   Der Stoff reibt unangenehm auf der Haut.
   The material is rubbing unpleasantly against my skin.
+
+Reibung, die: friction
+  Widerstand, der auftritt, wenn zwei sich bewegende Körper sich berühren
+
+reibungslos: smooth, trouble-free
+  problemlos, ohne Konflikt
 
 Reich, das: empire
 

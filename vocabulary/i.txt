@@ -2,7 +2,7 @@
 I /iː/ I wie Ida
 ========================================================
 
-ich: I, me
+ich /ɪç/: I, me
 
 Idee /iˈdeː/, die, -n: idea
 
@@ -54,9 +54,10 @@ impfen/ˈɪmpfən/: to vaccinate, to inoculate
 
 Impfung, die: vaccination, inoculation, shot
 
-△in /ɪn/
+△in /ɪn/ (accussative/dative)
   Pullover in rot
   Er geht in den Supermarkt / den Deutschkurs / den Laden / die Apotheke / ins Restaurant / ins Kino / ins Fitnesscenter
+  Im Zimmer warteten viele Leute auf ihn.
 
 inbegriffen /ˈɪnbəɡrɪfən/: included
   in etw. enthalten

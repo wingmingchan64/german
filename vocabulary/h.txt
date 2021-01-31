@@ -26,6 +26,7 @@ Hacke /ˈhakə/, die, ~|-n: hoe, heel
   She teetered over the catwalk in high heels.
 
 Hafer /ˈhaːfɐ/, der, -s|uncountable: oats
+  Getreidesorte, deren Körner oft zu Flocken gepresst werden
   Haferflocken: oatmeal
 
 Haferbrei, der: porridge, oatmeal
@@ -119,11 +120,12 @@ hält → halten
 halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop, to think
   hältst, hält, habe gehalten
   hielt, hieltest or hieltst, hielt
-  Sie hielt ein Glas in der Hand/das Baby auf dem Arm.
+  Sie hielt ein Glas in der Hand / das Baby auf dem Arm.
   She was holding a glass in her hand/the baby in her arm.
   Die nächste Stunde will unser Lehrer über Zugvögel halten.
   In the next lesson our teacher wants to talk about migrating birds.
   an einer roten Ampel halten: to stop at a red light
+  Hält der Bus beim Museum?
   sich an etw. halten: to follow sth, to obey sth
   Sie hält eine Vorlesung über moderne Architektur.
   She's giving a lecture on modern architecture.
@@ -958,7 +960,9 @@ hinsehen /ˈhɪnzeːən/: hinschauen
 
 hinsetzen, sich: to sit down
 
-hinter /ˈhɪntɐ/: behind
+hinter /ˈhɪntɐ/: behind (accusative/dative)
+  Stell dich hinter deinen Bruder.
+  Sie saß hinter mir.
 
 hinterdrein: afterwards
   Zuerst fühlte er sich stark, doch hinterdrein armselig.
@@ -1063,6 +1067,9 @@ Hochebene, die: plateau
 hochfahren: to go up, to boot up, to start
   nach oben fahren
 
+Hochgenuss, der
+  besonders großer Genuss
+
 hochkommen /ˈhoːxkɔmən/: to come up
   Sie kam die Treppe / den Berg hoch.
   She came up the stairs/mountain.
@@ -1156,6 +1163,7 @@ holen /ˈhoːlən/: to get, to fetch
   Get help quickly!
 
 Hölle /ˈhœlə/, die, ~|uncountable: hell
+  Reich des Teufels
   in die Hölle kommen: to go to hell
   jdm das Leben zur Hölle machen: to make sb's life hell 
 

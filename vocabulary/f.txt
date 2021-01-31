@@ -56,6 +56,9 @@ Fahne /ˈfaːnə/, die, -n: flag
   Fahnchen
   Viele Leute hängen Fahnen auf.
 
+Fahrbahn /ˈfaːɐbaːn/, die/ ~|-en: road(way)
+  Teil der Straße, auf dem die Fahrzeuge fahren
+
 fahrbar: wheeled, mobile
 
 Fähre /ˈfɛːrə/, die
@@ -256,7 +259,7 @@ fauchen /ˈfauxən/: to hiss, to spit
   Die Katze fauchte und schlug mit der Pfote nach ihm.
   The cat hissed and snatched at him with its paw.
 
-faul: lazy, rotten, bad, feeble
+faul /faul/: lazy, rotten, bad, feeble
   Du bist wohl zu faul, dein Zimmer aufzuräumen?
   Are you too lazy to tidy your room or what?
   Der Apfel ist innen faul.
@@ -374,6 +377,7 @@ Ferien /ˈfeːrjən/, pl
   Meine Kinder haben im August Ferien.
   Ferien haben
   in die Ferien fahren
+  Er ist in den Ferien.
 
 Ferkel /ˈfɛrkəl/, das: piglet
 
@@ -1176,7 +1180,7 @@ funken /ˈfʊnkən/: to radio
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Das Handy funktioniert nicht mehr richtig.
 
-für: for
+für: for (accusative)
   Tag für Tag: day after day
 
 furchtbar /ˈfʊrçtbaːɐ/: awful, dreadful, terrible

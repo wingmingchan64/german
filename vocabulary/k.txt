@@ -374,6 +374,9 @@ Kino /ˈkiːno/, das, -s|-s
   What's on at the movie theater this week?
   Wann ist das Kino aus?
   When does the movie finish?
+  
+Kinofilm, der
+  für die Aufführung im Kino produzierter Film
 
 kippen /ˈkɪpən/: to tip (up), to pour, to tilt, to topple over
   das Fenster nachts gekippt lassen: to leave the window tilted open at night
@@ -938,8 +941,11 @@ Korb /kɔrp/, der, ..e: basket
   Ich wollte sie zum Essen einladen, aber sie hat mir einen Korb gegeben.
   I wanted to invite her to dinner but she turned me down.
   Körbe werfen: to shoot hoops
+  in den Warenkorb
 
-Korn /kɔrn/, das: seed, grain, corn
+Korn /kɔrn/, das, -(e)s|..er: seed, grain, corn
+  der Samen, aus dem eine Pflanze wächst; Weizen, Gerste oder Roggen
+  ≈ Getreide
 
 Korb /kɔrp/, der, Körbe: basket
   ein Korb (voll) Äpfel: a basket (full) of apples
@@ -949,6 +955,8 @@ Korea
 Koreaner, der, Koreanerin, Koreaner
 
 Koreanisch
+
+Korn /kɔrn/, das, -(e)s|..er: seed, grain, corn
 
 Körper /ˈkœrpɐ/, der, -s|~: body, torso
   einen muskulösen Körper haben: to have a muscular body

@@ -85,6 +85,10 @@ wahr /ˈvaːɐ/: true
   Das darf/kann doch nicht wahr sein!
   That can't be true!
 
+während (genitive/dative)
+  während des Essens
+  während der Nacht
+
 Wahrheit /ˈvaːɐhait/, die, -en: truth
   Sag (mir) die Wahrheit!
   Tell (me) the truth!
@@ -172,6 +176,8 @@ wanken /ˈvaŋkən/: to sway, to stagger, to totter, to waver
   Ihr Weltbild war ins Wanken geraten.
   Her world view had begun to waver.
 
+wann /van/
+
 Wappen /ˈvapən/, das, -s|~: coat of arms
   Auf dem Wappen von Berlin ist ein Bär abgebildet.
   There is a bear on the coat of arms of Berlin.
@@ -189,7 +195,7 @@ Ware /ˈvaːrə/, die, -n: product, article, goods
   She had stolen goods worth a hundred euros.
   heiße Ware: hot goods
 
-wäre
+wäre /ˈvɛːrə/
   Wie wär’s mit Donnerstag? 
 
 warf → werfen
@@ -247,6 +253,7 @@ wechseln /ˈvɛksəln/: to change, to exchange sth
   They exchanged conspiratorial looks.
 
 wecken: to wake up, to arouse
+  wach machen; bei jdm entstehen lassen
   Weckst du mich morgen um acht?
   Will you wake me (up) at eight tomorrow?
   Es gelang ihr nicht, bei den Kindern Interesse zu wecken.
@@ -444,6 +451,7 @@ weitläufig /ˈvaitlɔyfɪç/: extensive, spacious, distantly
   weitläufig Verwandter, Verwandtschaft: distant relatives
 
 Weizen /ˈvaiʦən/, der: wheat
+  Getreideart, die zur Herstellung von Brot, Gebäck, Nudeln usw. verwendet wird
 
 Welle /ˈvɛlə/, die: wave
   Das Schiff schaukelte auf den Wellen.
@@ -633,6 +641,10 @@ Widder /ˈvɪdɐ/, der, -: Aries 白羊座
   Sie / Er ist Widder.
   She/He is (an) Aries.
 
+wider /ˈviːdɐ/: against (accusative)
+  Das ist wider jede Vernunft!
+  Wider Erwarten entschuldigte er sich.
+
 widerlich /ˈviːdɐlɪç/: disgusting, repugnant
   ein widerlicher Geschmack: a disgusting taste
   Er hat sich ihr gegenüber widerlich benommen.
@@ -645,6 +657,12 @@ Widerrede, die:
   
 Widerruf, der: withdrawal, revocation, repeal
   eine bis auf Widerruf gültige Genehmigung
+
+widerspiegeln
+  sich in etw. widerspiegel: in etw. (als Spiegelbild) erkennbar werden
+  Die Berge spiegeln sich im See wider.
+  jdn / etw. widerspiegeln: (wie) ein Spiegelbild zeigen
+  Das Wasser spiegelt die Wolken wider.
 
 widersprechen /viːdɐˈʃprɛçən/: to contradict, to reject, to be at odds with
   jdm energisch widersprechen: to vehemently contradict sb
@@ -660,6 +678,7 @@ Widerspruch, der: protest
   Äußerung, mit der man einer Aussage oder Forderung widerspricht
 
 Widerstand /ˈviːdɐʃtant/, der, ..e: resistance, opposition
+  
   Er leistete bei der Verhaftung keinen Widerstand.
   He did not resist arrest.
   sich dem Widerstand anschließen: to join the Resistance
@@ -835,6 +854,7 @@ Wintersonnenwende, die: winter solstice
 
 wirken /ˈvɪrkən/: to have an effect, to work, to seem
   wirke, wirkte, gewirkt
+  eine Wirkung zeigen; eine bestimmte Wirkung haben; einen bestimmten Eindruck machen
   Die Tabletten beginnen zu wirken.
   The tablets are starting to have an effect.
   Du wirkst heute ziemlich müde.

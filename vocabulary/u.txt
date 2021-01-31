@@ -27,12 +27,15 @@ U-Bahnstation, die
   Üben Sie bitte zu zweit!
   Please practice in pairs!
 
-über: over, above, across, over, via
+über: over, above, across, over, via (accussative/dative)
   350 Meter über dem Meeresspiegel
   350 meters above sea level
-  über den Fluss schwimmen
-  to swim across the river
+  über den Fluss schwimmen: to swim across the river
+  im Fluss schwimmen: to swim in the river
+  Die Lampe soll über dem Tisch hängen.
   über Madrid oder Barcelona nach Sevilla
+  when meaning about, always accusative
+  Wir haben viel über sie gesprochen.
 
 überall /yːbɐˈ|al/: everywhere
 
@@ -338,6 +341,9 @@ umfallen /ˈʊmfalən/: to fall over
 umdrehen /ˈʊmdreːən/: to turn over, to turn (inside) out, to turn around
   Sie drehte das Blatt um und schrieb auf der Rückseite weiter.
   She turned the sheet over and continued writing on the back.
+
+umfallen: to fall over
+  Das Glas ist umgefallen.
 
 Umfang /ˈʊmfaŋ/, der, -(e)s|..e: circumference, size, extent, scope
   Länge einer zum Ausgangspunkt zurückkehrenden Linie;
@@ -728,11 +734,13 @@ unsinnig /ˈʊnzɪnɪç/: foolish, absurd
 
 unten /ˈʊntən/: down, at the bottom, underneath
 
-unter: under, among, amid, within
+unter: under, among, amid, within (accussative/dative)
   Der Hund liegt unter dem Tisch.
   The dog is lying under the table.
   Unter uns gab es nie Streit.
   There was never any quarreling among us.
+  Sie stellte sich unter den Baum.
+  Sie lebte dort unter Freunden. (dative)
   unter Schmerzen weiterlaufen
   to keep running in spite of/through the pain
   Die Sitzung fand unter Ausschluss der Öffentlichkeit statt.

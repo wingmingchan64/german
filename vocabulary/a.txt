@@ -1,6 +1,6 @@
 ﻿========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
-
+30 https://www.youtube.com/watch?v=NUP9F9_ygoo
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
@@ -70,6 +70,7 @@ abbeißen /ˈapbaisən/
 
 abbiegen /ˈapbiːɡən/: to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
+  Biegen Sie bitte bei der nächten Kreuzung nach rechts ab.
 
 Abbild, das: image
 
@@ -204,14 +205,17 @@ Abgrund /ˈapɡrʊnt/, der, -(e)s|..e: abyss
   vom Gipfel in den Abgrund blicken: to look down into the depths from the summit
   ein Abgrund an Gewalt: extreme violence
 
+abhängen von + dative: to depend on
+  Das hängt von dir ab.
+
+abhängig /ˈaphɛŋɪç/: dependent on
+  von etw. bestimmt
+
 abhauen /ˈaphauən/: to cut off, to split, to vamoose
   einen Ast abhauen: to chop off a branch
   Er ist von zu Hause abgehauen.
   He ran away from home.
   Hau ab! Get lost!
-
-abhängig /ˈaphɛŋɪç/: dependent on
-  von etw. bestimmt
 
 abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
   einen Anruf annehmen; einen Teil des verdeckten Stapels wegnehmen; vom Konto holen
@@ -988,11 +992,14 @@ amüsieren /amyˈziːrən/
 
 amüsiert 
 
-△an /an/: at, on, from, against
+△an /an/: at, on, from, against, to (accusative/dative)
   Auf geht's, an die Arbeit!
   Come on, let's get to work!
   Das Radio ist noch an.
-  The radio's still on. 
+  The radio's still on.
+  Die Lehrerin schrieb das Wort an die Tafel.
+  Das Wort stand an der Tafel.
+  Ich habe einen Brief an meine Mutter geschrieben.
 
 Ananas /ˈananas/, die, ~|(-se): pineapple
   Ananassaft: pineapple juice
@@ -1496,6 +1503,7 @@ anschleichen /ˈanʃlaiçən/: to creep up
   Silently the lions crept towards their prey.
 
 anschießen /ˈanʃiːsən/: to wound
+  mit der Leitung verbinden
 
 anschließen /ˈanʃliːsən/: to connect, to lock, to follow, to join, to add
 
@@ -1588,8 +1596,10 @@ anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
   Now what are we going to do with all these boxes?
   Stellt mir bloß nichts an, während ich weg bin!
   Don't get up to any nonsense while I'm away.
+  etw. (mit jdm / etw.) anstellen: etw. (mit jdm / etw.) tun
   Sie stellte Vermutungen an, was passiert sein könnte.
   She speculated about what might have happened.
+  Berechnungen anstellen
   sich hinten anstellen müssen: to have to go to the back of the line
   sich geschickt anstellen: to act wisely
   Stell dich nicht so an!
@@ -1926,7 +1936,12 @@ attributiv /atribuˈtiːf/: attributive
 ätzend /ˈɛʦənt/: corrosive, lousy, god-awful
   so sauer oder basisch, dass die Haut bei Berührung damit verletzt wird; drückt ein starkes negatives Urteil aus
 
-auf /auf/: on, onto, at, to
+auf /auf/: on, onto, at, to (accussative/dative)
+  Stell die Suppe bitte auf den Tisch.
+  Die Suppe steht auf dem Tisch.
+  Wir fahren morgen aufs Land.
+  Auf dem Land ist die Luft besser.
+  Er warf einen Blick auf das Buch.
   auf dem Sofa sitzen: to sit on the sofa
   auf Englisch: in English
   Auf Wiedersehen!
@@ -2045,6 +2060,8 @@ aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
   im Stichwortverzeichnis aufgeführt sein: to be listed in the index
   Führ dich doch nicht so auf!
   Stop playing up!
+
+Aufführung, die: performance (play), release (film)
 
 Aufgabe /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
 
@@ -2391,6 +2408,8 @@ auftreten /ˈauftreːtən/: to perform, to appear, to arise, to occur, to act, t
 
 Auftritt /ˈauftrɪt/, der, Auftritte: appearance, performance, (theatre) scene
 
+auftritt → auftreten
+
 aufwachen /ˈaufvaxən/: to wake up
   Sie wachte mitten in der Nacht auf.
   She woke up in the middle of the night.
@@ -2439,7 +2458,8 @@ augenblicklich /ˈauɡənblɪklɪç/: current, immediately
 
 August /auˈɡʊst/, der, -(e)s|e
 
-aus: out, out of, from
+aus: out, out of, from (dative)
+  Er trinkt aus der Flasche.
 
 aus-: away, removed, turned off
 
@@ -2619,6 +2639,7 @@ aushalten /ˈaushaltən/: to stand, to hold
   ≈ ertragen
   Diese Hitze ist ja nicht auszuhalten!
   This heat is unbearable.
+  Ich halte es nicht mehr aus.
 
 aushandeln /ˈaushandəln/: to negotiate
 
@@ -2866,6 +2887,11 @@ aussehen /ˈauszeːən/: to look, to appear
 aussehend
   eine blendend aussehende Dame: an extremely good-looking lady
   in verdächtig aussehendes Individuum: a suspicious(-looking) character
+
+außer: out of, except (dative)
+  Der Fahrstuhl war außer Betrieb.
+  Der Patient ist jetzt außer Gefahr.
+  Alle außer mir kamen zu spät.
 
 außerdem: besides
 

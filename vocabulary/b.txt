@@ -113,7 +113,7 @@ Bar /baːɐ/, die, -s: bar
   mit Freunden in eine Bar gehen: to go to a bar with friends
   sich an die Bar setzen: to sit down at the bar  
 
-bar adj: cash, utter
+bar /baːɐ/ adj: cash, utter
   in Münzen oder Scheinen; bloß, rein
   Ich habe noch 100 Euro in bar.
 
@@ -623,10 +623,11 @@ behutsam /bəˈhuːtzaːm/: careful, cautious
   Er deckte das Baby behutsam zu.
   He carefully covered the baby up.
 
-bei: at, near
+bei: at, near (dative)
   Sie wohnt in einem Dorf bei Köln.
   Ich bin bei Freunden eingeladen.
   Hast du deinen Führerschein bei dir?
+  beim Bäcker / Friseur
 
 beibehalten /ˈbaibəhaltən/: to maintain, to retain
   eine Gewohnheit / Geschwindigkeit beibehalten
@@ -680,7 +681,7 @@ beispielsweise /ˈbaiʃpiːlsvaizə/: for example
 
 Beistand /ˈbaiʃtant/, der
   jds Gegenwart oder Worte, die jdm helfen, etw. zu ertragen oder zu schaffen
-
+  
 beißen /ˈbaisən/: to bite, essen, to sting, to clash
   Der Hund hat mich (ins Bein) gebissen.
   The dog bit me (in the leg).
@@ -688,6 +689,10 @@ beißen /ˈbaisən/: to bite, essen, to sting, to clash
   von einer Zecke gebissen werden: to be bitten by a tick
   Das lila Hemd beißt sich mit seinen roten Haaren.
   The purple shirt doesn't go with his red hair.
+
+beistehen: to support, to stand by
+  jdm eine seelische Unterstützung sein
+  Sie ist mir in der Not beigestanden.
 
 Beitrag /ˈbaitraːk/, der: contribution, article
   die Beiträge zur Rentenversicherung erhöhen
@@ -754,7 +759,8 @@ bekömmlich /bəˈkœmlɪç/: digestible
   Grüne Kartoffeln sind nicht bekömmlich.
   Green potatoes aren't good for the digestion.
 
-Belag, der: coating, layer, film, topping, filling, fur, covering
+Belag, der: surface, coating, layer, film, topping, filling, fur, covering
+  Schicht, die als Schutz auf etw. angebracht wird
 
 belasten /bəˈlastən/: to burden, to pollute
   stark beanspruchen, negativ auf den Zustand / die Stimmung wirken
@@ -928,11 +934,13 @@ berechnen /bəˈrɛçnən/: to calculate, to charge, to bill
   I didn't charge you for the first day.
   Also berechnen wir aus allen Menschen in Deutschland erst einmal einen Durchschnitt.
 
-Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging
+Berechnung /bəˈrɛçnʊŋ/, die, -en: calculation, charging, estimate
+  Berechnung der Kosten, des Umfangs
   Nach meiner Berechnung müssten wir jetzt bald ankommen.
   According to my calculations we should be there soon.
   Der Flug wurde ohne Berechnung von Gebühren umgebucht.
   The flight was changed at no additional charge.
+  Eigennutz, auf persönlichen Vorteil zielende Absicht
 
 berechtigen: to entitle
 
@@ -1366,6 +1374,10 @@ beteiligen: to participate, to have a share
 beteiligt: to have a share in sth
 
 beten /ˈbeːtən/: to pray
+  habe gebetet
+  betete
+  bet, betet
+  sich mit einem Gebet, einer Bitte o. Ä. an Gott wenden
   Er betet jeden Abend vor dem Schlafengehen.
   He prays every night before he goes to bed.
   Das Kind betete sein Nachtgebet.
@@ -1578,6 +1590,7 @@ Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement, exercise, emotion, movement
 beweisen: to prove, to show
 
 bewerben /bəˈvɛrbən/: to apply
+  durch ein Schreiben, ein Gespräch versuchen, etw. zu bekommen
   bewarb
   sich für verschiedene Jobs bewerben: to apply for various jobs
   Er hat sich für / um das Amt des Bürgermeisters beworben.
@@ -1664,6 +1677,8 @@ beziehen /bəˈʦiːən/: to get, to receive, to move into, to cover
   to put fresh covers on the beds
   sich: to cloud over, to darken, to refer to
   Diese Bemerkung bezog sich nicht auf dich.
+
+beziehend: related, relating
 
 Beziehung /bəˈʦiːʊŋ/, die, ~|-en: relationship, connection, respect
   Verbindung, Kontakt zwischen Personen; eine Beziehung als Liebespaar; vorteilbringende Kontakte; der Aspekt, der gerade angesprochen wird
@@ -1804,6 +1819,8 @@ bisschen /ˈbɪsçən/
   ein ganz bisschen: just a tiny bit/drop
   Ach, du liebes bisschen!
   Oh, my goodness!
+
+bitte /ˈbɪtə/
 
 bitten /ˈbɪtən/: to ask, to beg, to request
   Sie bat mich, sie nach Hause zu fahren.

@@ -89,6 +89,9 @@ egal /eˈɡaːl/: whatever, irrelevant
   „Wann soll ich kommen?‟ – „Das ist ganz egal.‟
   "When should I come?" – "Any time."
 
+egoistisch /eɡoˈ|ɪstɪʃ/
+  selbstsüchtig
+
 Ehe /ˈeːə/, die: marriage
 
 Ehefrau /ˈeːəfrau/, die, ~|-en
@@ -190,6 +193,10 @@ eigenhändig /ˈaiɡənhɛndɪç/: in your own hand, personal
 
 Eigenleistung, die: borrower's own funding, personal contribution
 
+Eigennutz, der, -es|uncountable: self-interest
+  egoistische Einstellung, Ziele
+  Nachträglich wurde mir klar, dass er mir nur aus Eigennutz geholfen hatte.
+
 Eigenschaft, die: feature, quality, characteristic
   eines von vielen Dingen, deren Kombination eine Person / Sache von anderen unterscheidet
   ≈ Merkmal
@@ -217,6 +224,7 @@ eilen /ˈailən/: to hurry
 eilig /ˈailɪç/: urgent
   ein eiliger Auftrag: an urgent assignment
   es eilig haben: to be in a hurry
+  Ich habe es eilig.
   Warum habt ihr es denn so eilig mit eurer Hochzeit?
   What's the big rush with your wedding?
 ​ schnelle Gerichte für eilige Gäste: fast food for customers in a hurry
@@ -1111,10 +1119,12 @@ entkommen /ɛntˈkɔmən/: to escape, to get away
   Sie ist ihren Verfolgern entkommen.
   She escaped from her pursuers.
 
-entlang: along
-  eine Radtour die Donau entlang/entlang der Donau
+entlang: along (accusative)
+  eine Radtour die Donau entlang / entlang der Donau
   a cycling tour along the Danube
   Fahren Sie in der Nähe vom Museum entlang?
+
+entlanggehen: to walk along
 
 entlassen /ɛntˈlasən/: to dismiss, to let go
   Die Firma hat mehrere Mitarbeiter entlassen.
@@ -1781,6 +1791,9 @@ erschrecken /ɛɐˈʃrɛkən/: to get a fright, to be startled, to frighten
 
 erschweren /ɛɐˈʃveːrən/: to make more difficult, to aggravate, to impede
 
+erschwinglich: affordable
+  so, dass es sich jd ohne Probleme leisten kann
+
 ersetzen /ɛɐˈzɛʦən/: to replace
   einen alten Teppich durch einen neuen ersetzen
   to replace the old carpet with a new one
@@ -1888,6 +1901,7 @@ Erwärmung, die: warming
 erwarten /ɛɐˈvartən/: to expect
   Ich erwarte dich dann um drei in meinem Büro.
   So I'll expect you at three in my office.
+  wider Erwarten: against all expectations
 
 Erwartung /ɛɐˈvartʊŋ/, die, ~|-en: expectation, anticipation
   hohe Erwartungen in jdn setzen: to have high expectations of sb

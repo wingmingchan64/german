@@ -729,6 +729,9 @@ schmecken /ˈʃmɛkən/: to taste, to like
   Wie schmeckt dir das Essen?
   Es schmeckt mir sehr gut / nicht.
 
+schmecken nach + dative: to taste of
+  Der Nachtisch schmeckt nach Zimt.
+
 schmeicheln /ˈʃmaiçəln/: to flatter
   Du brauchst mir gar nicht so zu schmeicheln!
   You don't need to flatter me like that.
@@ -1303,6 +1306,10 @@ Seele /ˈzeːlə/, die: soul
   jdn/etw. aus tiefster Seele verabscheuen
   to loathe sb/sth with all your heart
 
+seelisch /ˈzeːlɪʃ/
+  sich auf die Seele beziehend
+  eine Erkrankung mit seelischen Ursachen
+
 Seetang, der: seaweed, kelb
 
 Segel /ˈzeːɡəl/, das, -s|~: sail
@@ -1378,8 +1385,9 @@ sein /zain/: to be
 sein: his, its, her
   Das ist Simon und das sein Vater und seine Mutter.
 
-seit /zait/: since
+seit /zait/: since (dative, present tense)
   seit ein paar Tagen
+  seit zwei Jahren
 
 seitdem /zaitˈdeːm/: since
   Seitdem er eine Freundin hat, lächelt er viel häufiger.
@@ -1415,7 +1423,12 @@ selbst /zɛlpst/: in person, self, even
 
 selbstständig, selbständig /ˈzɛlpstʃtɛndɪç/: independent, self-employed
   an selbstständiges Arbeiten gewöhnt sein: to be used to working independently
-  
+
+Selbstsucht, die
+
+selbstsüchtig /ˈzɛlpstzʏçtɪç/
+  durch Selbstsucht bestimmt
+
 selbstverständlich /ˈzɛlpstfɛɐʃtɛntlɪç/: obvious, natural, naturally, of course
   Dass ich dir helfe, ist doch selbstverständlich.
   It goes without saying that I'll help you.
@@ -1743,6 +1756,7 @@ Sorge /ˈzɔrɡə/, die, ~|-n: worry
 sorgen /ˈzɔrɡən/: to cater, to provide, to ensure, to worry, to cause
   Wer wird während unseres Urlaubs für die Hasen sorgen?
   Who's going to look after the rabbits while we're on vacation?
+  für etw. sorgen: das Nötige tun, damit etw. da ist, geschieht oder funktioniert
   für einen reibungslosen Ablauf im Verkehr sorgen
   to ensure the traffic flows smoothly
   Sie sorgt sich um seine Gesundheit.
@@ -2217,7 +2231,11 @@ stechen /ˈʃtɛçən/: to sting, to bite, to prick
 Stecher /ˈʃtɛçɐ/: sex partner
 
 Steckdose /ˈʃtɛkdoːzə/, die, -n: outlet, socket
+  Anschlussmöglichkeit für elektrische Geräte in einem Haus
   den Stecker aus der Steckdose ziehen: to pull the plug out of the outlet
+
+Stecker, der
+  Gegenstand, mit dem man ein elektrisches Gerät an einer Steckdose anschließt
 
 stecken /ˈʃtɛkən/: to be, to put
   viel Arbeit / Geld / … in etw. stecken

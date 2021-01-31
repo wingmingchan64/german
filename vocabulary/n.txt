@@ -4,11 +4,13 @@ N /ɛn/ N wie Nordpol
 
 na: well, so
 
-▲nach /naːx/: to, after, according to
+▲nach /naːx/: to, after, according to (dative)
   nach oben schauen
   to look up
   nach dem Mittagessen ein Schläfchen machen
   to have a nap after lunch
+  meiner Meinung nach (when meaing according, placed after)
+  Ihrem Dialekt nach ist sie Süddeutsche.
 
 Nachbar /ˈnaxbaːɐ/: neighbor
 
@@ -58,6 +60,9 @@ nachlässig /ˈnaːxlɛsɪç/: careless, negligent
   ↔ sorgfältig
   seine nachlässige Datensicherung bitter bereuen
   to bitterly regret your negligence in backing up your data
+
+nachmachen: to copy
+  Sie macht mir alles nach.
 
 Nachname /ˈnaːxnaːmə/, der: surname
   Er heißt Robert, mit Nachnamen Schmidt.
@@ -253,11 +258,12 @@ Nebel /ˈneːbəl/, der, -: fog, mist
   Über dem Tal lag noch Nebel.
   The valley was still covered in mist.
 
-neben /ˈneːbən/: next to, apart from, besides, compared to/with
+neben /ˈneːbən/: next to, apart from, besides, compared to/with (accussative/dative)
   Sie sitzt neben ihrer Tante.
   She is sitting next to her aunt.
   Er stellte den Koffer neben das Bett.
   He put the suitcase next to the bed.
+  Die Steckdose ist neben der Tür.
   Wir brauchen neben Schere und Stift auch Kleber.
   Besides scissors and a pen, we also need glue.
   Neben ihm wirkt sie langweilig.

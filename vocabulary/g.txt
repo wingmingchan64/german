@@ -199,6 +199,8 @@ Gebet /ɡəˈbeːt/, das, -(e)s|-e: prayer
 
 gebeten /ɡəˈbeːtən/ → bitten
 
+gebetet → beten
+
 Gebiet /ɡəˈbiːt/, das: region, area
   größerer räumlicher Bereich mit einheitlichen Merkmalen
 
@@ -424,11 +426,13 @@ Gegenteil /ˈɡeːɡəntail/, das, -e: opposite
   Ich bin nicht böse, im Gegenteil, ich freue mich für euch.
   I'm not angry – on the contrary, I'm happy for you.
 
-gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, toward(s)
+gegenüber /ɡeːɡənˈ|yːbɐ/: opposite, compared to, in comparison with, toward(s) (dative, always after a pronoun)
   Die Post ist genau gegenüber dem Bäcker.
   The post office is opposite the baker's.
+  Er wohnt uns gegenüber.
   Erwachsenen gegenüber ist sie immer sehr höflich.
   She's always very polite toward adults.
+  Sie ist mir gegenüber immer sehr freundlich gewesen.
 
 gegenüberliegend: opposite, facing
 
@@ -576,6 +580,8 @@ geladen, geladene → laden
 
 Geländewagen, der: cross-country or general-purpose vehicle
 
+gelang → gelingen
+
 gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to, to reach
   Wie ist dieses Schreiben in deine Hände gelangt?
   How did that letter find its way into your hands?
@@ -627,6 +633,9 @@ Gelegenheit /ɡəˈleːɡənhait/, die, -en: opportunity, occasion
 Gelingen /ɡəˈlɪŋən/, das: success
 
 gelingen /ɡəˈlɪŋən/: to succeed, to be successful, to turn out
+  gelinge, gelingst, bin gelungen
+  gelang
+  geling, gelingt
   ↔ misslingen
   Was, wenn der Plan nicht gelingt?
   What if the plan doesn't succeed?
@@ -779,6 +788,7 @@ Genus /ˈɡeːnʊs/, das, ~|Genera /ˈɡeːnera/: gender
   the three genders – masculine, feminine, and neuter
 
 Genuss /ɡəˈnʊs/, der, -es|..e: enjoyment, pleasure
+  Hörgenuss: listening pleasure
 
 Genussmittel /ɡəˈnʊsmɪtəl/, das, -s|~: luxury food and drinks, stimulant
   Kaffee, Zigaretten und andere Genussmittel
@@ -887,6 +897,8 @@ Gerichtsurteil, das: court decision
 
 im geringsten: in the slightest
 
+gern /ɡɛrn/, gerne /ˈɡɛrnə/
+
 Geruch, der: smell, scent
   von der Nase wahrgenommene Sinneserfahrung
 
@@ -952,6 +964,8 @@ geschickt: skillful, numbly, cleverly
 
 geschieden: divorced
 
+geschieht → geschehen
+
 Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
   meist aus Porzellan oder Ton bestehende Gefäße zum Essen und Trinken
   Dieses Geschirr ist spülmaschinenfest.
@@ -976,6 +990,9 @@ geschnitten → schneiden
 
 Geschöpf /ɡəˈʃœpf/, das: creature
   Lebewesen
+  → schöpfen: to create
+  Wir sind alle Geschöpfe Gottes.
+  Die Geschöpfe des Prometheus (Beethoven)
 
 geschossen → schießen
 
@@ -1107,7 +1124,8 @@ getigert /ɡeˈtiːɡɐt/: striped
 
 Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
 
-*Getreide /ɡəˈtraidə/, das: grain, crop
+*Getreide /ɡəˈtraidə/, das, -s|~: grain, crop
+  Pflanzen wie Weizen, Hafer, Reis usw., aus deren Körnern man z. B. Mehl macht
 
 getrennt: separated, apart
   Sie führten getrennte Kasse.

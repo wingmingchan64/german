@@ -53,7 +53,11 @@ Magnet /maˈɡneːt/, der
 mähen /ˈmɛːən/: to mow, to harvest
   den Rasen mähen: to mow the lawn
 
-Mahl, das: meal
+Mahl, das, -(e)s|-er: meal
+
+mahlen: to grind
+  zu Mehl, kleinen Stücken zerkleinern
+  Wer zuerst kommt, mahlt zuerst. First come, first served.
 
 Mahlzeit /ˈmaːlʦait/, die, ~|-en: meal
   zum Essen zubereitete Speisen, die man zu einer bestimmten Tageszeit isst
@@ -286,10 +290,11 @@ Meeresfrüchte /ˈmeːrəsfrʏçtə/, pl: seafood
 Meeresspiegel /ˈmeːrəsʃpiːɡəl/, der: sea level
 
 Mehl /meːl/, das: flour
+  gemahlenes Getreide zum Backen usw
   Für den Kuchen braucht man 500 Gramm Mehl.
   For the cake you need 500 grams of flour.
 
-mehr
+mehr /meːɐ/
 
 mehrere: several, various
 
@@ -455,6 +460,8 @@ Metzgerei /mɛʦɡəˈrai/, die, ~|-en: butcher shop
 
 Meuterei /mɔytəˈrai/, die, ~|-en: 
 
+mich /mɪç/
+
 Miene /ˈmiːnə/, die, ~|-n: expression
   Er sah ihr mit ernster Miene zu.
   He gave her a serious look.
@@ -551,7 +558,7 @@ Mist: balls-up, a mess
 
 Mist /mɪst/, der, -es|uncountable: droppings, manure
 
-△mit /mɪt/: with
+△mit /mɪt/: with (dative)
 
 Mitarbeiter /ˈmɪt|arbaitɐ/: employee
 
@@ -790,6 +797,7 @@ mühen /ˈmyːən/: to strive
   Whatever they tried, their efforts were in vain.
 
 Mühle /ˈmyːlə/, die: mill, grinder
+  Anlage zum Mahlen von Getreide
   die alte Mühle am Fluss: the old mill by the river
 
 Müll /mʏl/, der: garbage , trash

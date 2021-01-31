@@ -333,6 +333,7 @@ vergangen /fɛɐˈɡaŋən/: past, previous, last
   Turnover was higher in previous years.
 
 Vergangenheit /fɛɐˈɡaŋənhait/, die: past
+  vergangene Zeit
 
 vergeben /fɛɐˈɡeːbən/: to forgive, to award
   Bitte vergib mir!
@@ -801,6 +802,7 @@ Versand /fɛɐˈzant/, der: dispatch
   Your goods will be dispatched immediately upon receipt of payment.
 
 verschaffen /fɛɐˈʃafən/: to get, to obtain
+  dafür sorgen, dass jd / man selbst etw. bekommt
   Ich kann dir günstige Konzertkarten verschaffen.
   I can get (hold of) cheap concert tickets for you.
 
@@ -1409,12 +1411,15 @@ volltanken /ˈfɔltaŋkən/: to fill up (with gas)
 
 △vom /fɔm/
 
-△von /fɔn/
+△von /fɔn/ (dative)
   Entschuldigen Sie bitte, wie komme ich von hier aus zum Bahnhof?
+  von ihm
 
-vor /foːɐ/: in front of, ago, with
-  Die Haltestelle ist direkt vor unserem Haus.
+vor /foːɐ/: in front of, ago, with (accussative/dative)
+  Die Haltestelle ist direkt vor unserem / dem Haus.
   The stop is directly in front of our house.
+  Vor dem Krankenhaus links abbiegen.
+  Stell den Stuhl vor das Fenster.
   Ich habe ihn vor vielen Jahren einmal getroffen.
   I met him once many years ago.
   Es ist zehn (Minuten) vor zwölf.
@@ -1577,6 +1582,8 @@ vorkommen /ˈfoːɐkɔmən/: to happen, to occur, to be found, to seem, to come 
   Das kommt mir seltsam vor.
   That seems strange to me.
 
+Vorlage, die: presentation, production, pattern, template
+
 vorlegen /ˈfoːɐleːɡən/: to present, to produce, to show
   der Behörde eine Bescheinigung vorlegen: to produce a certificate for the authority
 
@@ -1588,8 +1595,9 @@ Vorlesung /ˈfoːɐleːzʊŋ/, die, -en: lecture
   Sie hält eine Vorlesung über moderne Architektur.
   She's giving a lecture on modern architecture.
 
-vorn /fɔrn/: in front
+vorn /fɔrn/, vorne: in front
   von vorn: vom Anfang
+  Lassen Sie mich bitte da vorne raus.
 
 Vorname /ˈfoːɐnaːmə/, der: first name
   ein männlicher/weiblicher Vorname: a male/female first name
