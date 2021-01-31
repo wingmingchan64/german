@@ -1,0 +1,69 @@
+Vowels
+iː		bieten /ˈbiːtən/
+ɪ		bitten /ˈbɪtən/
+eː		beten /ˈbeːtən/
+ɛ		Bett /bɛt/
+ɛː		wäre /ˈvɛːrə/
+a		Band /bant/
+aː		Vater /ˈfaːtɐ/
+ɔ		kommen /ˈkɔmən/
+oː		Boot /boːt/
+ʊ		Butter /ˈbʊtɐ/
+uː		Kuh /kuː/
+ʏ		Fülle /ˈfʏlə/
+yː		Mühle /ˈmyːlə/
+œ		Hölle /ˈhœlə/
+øː		Höhle /ˈhøːlə/
+aɪ, ai	fein /faɪn/
+aʊ, au	Maus /maʊs/
+œʏ, ɔy	Mäuse /ˈmœʏzə/
+ə		bitte /ˈbɪtə/
+ɐ		bitter /ˈbɪtɐ/
+iːɐ		Ihr /iːɐ/
+eːɐ		mehr /meːɐ/
+ɛːɐ		Bär /bɛːɐ/
+ɛr		gern /ɡɛrn/
+aːɐ		bar /baːɐ/
+ɔr		Korn /kɔrn/
+
+Unstressed short vowels
+e		Methan /meˈtaːn/
+i		vital /viˈtaːl/
+o		Moral /moˈraːl/
+ø		Ökonomie /økonoˈmiː/
+u		kulant /kuˈlant/
+y		Psychologie /psyçoloˈɡiː/
+
+Semivowels
+̯ɐ		Uhr /uː̯ɐɐ/
+i̯		Studie /ˈʃtuːdi̯ə/
+u̯		aktuell /akˈtu̯ɛl/
+y̯		Libyen /ˈliːby̯ən/
+
+Consonants
+p		papp /pap/
+b		Baby /ˈbeːbi/
+t		tut /tuːt/
+d		dumm /dʊm/
+k		kommen /ˈkɔmən/
+g		gut /ɡuːt/
+f		faul /faul/
+v		wann /van/
+s		lassen /ˈlasən/
+z		saß /zaːs/
+ʃ		schießen /ˈʃiːsən/
+x		Buch /buːx/, never word-initial
+ç		ich /ɪç/, never word-initial
+h		holen /ˈhoːlən/, never word-final
+m		mich /mɪç/
+n		nicht /nɪçt/
+ŋ		lang /laŋ/
+l		laut /laut/
+ʁ, r	rot /roːt/
+j		ja /jaː/
+ʒ		Genie /ʒeˈniː/
+ʤ		Dschungel /ˈʤʊŋəl/
+ʦ		zehn /ʦeːn/
+ʧ		Matsch /maʧ/
+pf		Pfahl  /pfaːl/
+ʔ		Beamter /bəˈʔamtɐ/
