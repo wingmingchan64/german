@@ -194,7 +194,7 @@ räumlich /ˈrɔymlɪç/: spatial, physical
 Raumschiff /ˈraumʃɪf/, das: spaceship
   ein ultramodernes Raumschiff
 
-raunzen: to moan
+raunzen: (S Germany) to moan, to grouse
 
 raus: (get) out!
 
@@ -318,6 +318,9 @@ redlich: honest
 Reduktion, die: Abbau
 
 Reduzierung, die: Reduktion
+
+Referendar: student teacher
+  jd, der nach dem Studium den praktischen Teil der Ausbildung als Lehrer oder Jurist macht
 
 Reform /reˈfɔrm/, die, -en: reform
   Vorschläge für eine grundlegende Reform des Gesundheitssystems machen

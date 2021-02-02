@@ -392,6 +392,13 @@ befallen /bəˈfalən/: to affect, to infest, to afflict
   Als er nicht heimkam, befiel mich ein Gefühl der Unruhe.
   When he didn't come home I was seized with a sense of anxiety.
 
+befangen, adj: timid, self-conscious, biased, prejudiced
+  verlegen, gehemmt; nicht objektiv
+  Das Mädchen schien sehr befangen zu sein.
+  Die Richterin ist befangen, weil der Angeklagte ein Freund ihrer Familie ist.
+
+Befangenheit, die: self-consciousness, awkwardness, bias, prejudice
+
 befassen /bəˈfasən/: to deal with, to concern yourself with
   Mit diesem Problem habe ich mich noch nicht befasst.
   I haven't addressed that problem yet.

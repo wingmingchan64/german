@@ -588,6 +588,9 @@ verlegen /fɛɐˈleːɡən/: to move, to mislay, to lose, to lay
 verlegen /fɛɐˈleːɡən/: embarrassed
   Sie ist in seiner Gegenwart immer verlegen.
   She's always embarrassed when he's around.
+  
+Verlegenheit, die: embarrassment
+  Mit ihrem leidenschaftlichen Kuss brachte sie ihn ganz schön in Verlegenheit.
 
 verleihen /fɛɐˈlaiən/: to lend, to loan, to rent (out), to award, to confer
   Das Buch, das ich von der Bücherei wollte, war schon verliehen.
@@ -1149,6 +1152,9 @@ verunglimpfen /fɛɐˈ|ʊnɡlɪmpfn/: to disparage, to belittle
 verunsichern: to make uncertain, to unnerve
 
 verursachen /fɛɐˈ|uːɐzaxən/: to cause
+  verursachst, verursacht, habe verursacht
+  verursachte
+  verursach, verursacht
   die Ursache / der Urheber von etw. 
   → Ursache
   Wer hat den Unfall verursacht?
@@ -1505,6 +1511,13 @@ Vordermann /ˈfɔrdɐman/, der: person in front
   to drive too close to the person in front
   etw. auf Vordermann bringen: etw. wieder in einen sauberen, ordentlichen usw. Zustand bringen
 
+voreingenommen
+  mit Vorurteilen
+  Die Schüler waren der neuen Lehrerin gegenüber voreingenommen.
+
+Voreingenommenheit /ˈfoːɐ|ainɡənɔmənhait/, die
+  
+
 Vorfahrt, die: right of way
   Vorfahrt achten: Yield (traffic sign)
 
@@ -1744,7 +1757,8 @@ vorübergehen /foˈryːbɐɡeːən/: to pass, to be over, to go/walk past
 vorübergehend /foˈryːbɐɡeːənt/: temporary, brief
   nur für relativ kurze Zeit
 
-Vorurteil /ˈfoːɐ|ʊrtail/, das, -e: prejudice, bias
+Vorurteil /ˈfoːɐ|ʊrtail/, das, -(e)s|-e: prejudice, bias
+  oft negative Meinung, die man über jdn / etw. hat, ohne ihn / es richtig zu kennen
   Vorurteile gegen Minderheiten haben
   to be prejudiced against minorities
 
@@ -1760,6 +1774,14 @@ vorwärtsgehen /ˈfoːɐvɛrʦɡeːən/: to go/walk forward(s)
   She took a couple of steps forwards.
   Seit Krüger die Projektleitung übernommen hat, geht überhaupt nichts mehr vorwärts.
   Since Krüger took over management of the project absolutely no progress has been made.
+
+Vorwegnahme, die
+  das Vorwegnehmen
+  die Vorwegnahme eines Gedankens, kommender Freuden
+
+vorwegnehmen /foːɐˈvɛkneːmən/: to anticipate
+  etw. tun oder sagen, was eigentlich erst später kommen sollte
+  den Schluss einer Geschichte vorwegnehmen
 
 Vorwurf /ˈfoːɐvʊrf/, der, -(e)s|..e: reproach, accusation
   jdm bittere Vorwürfe machen: to reproach sb bitterly

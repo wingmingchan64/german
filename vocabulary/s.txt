@@ -565,6 +565,9 @@ schlank /ʃlaŋk/: slim, slender
   Du bist aber schlank geworden, hast du eine Diät gemacht?
   You're so slim. Have you been on a diet?
 
+schlau
+  klug, intelligent
+
 Schlauch, der: hose
   eine Röhre aus Gummi o. Ä
 
@@ -1027,7 +1030,8 @@ schubsen /ˈʃʊpsn/: to shove, to push, to nudge
   Die Kinder schubsten sich gegenseitig ins Wasser.
   The children were pushing each other into the water.
 
-schüchtern: shy
+schüchtern /ˈʃʏçtɐn/: shy
+  ängstlich zurückhaltend, unsicher
 
 schuf → schaffen
 
@@ -2820,6 +2824,10 @@ stürzen /ˈʃtʏrʦən/: to fall, to drop, to rush, to throw, to bring down, to
 Subjekt /zʊpˈjɛkt/, das, -e: subject, individual
   Subjekt, Prädikat und Objekt identifizieren: to identify the subject, predicate and object
   kriminelle / verkommene Subjekte: criminal/degenerate individuals
+
+subjektiv, adj /ˈzʊpjɛktiːf/, adv /zʊpjɛkˈtiːf/
+
+Subjektivität, die
 
 Subkontinent /ˈzʊpkɔntinɛnt/, der, -e: subcontinent
   der indische Subkontinent: the Indian subcontinent

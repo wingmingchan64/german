@@ -496,13 +496,17 @@ Heldentum /ˈhɛldəntuːm/, das, -s|uncountable: heroism
   Die Polizei warnt vor Heldentum in solchen Situationen.
   The police warn against trying to play the hero in situations like that.
 
-helfen /ˈhɛlfən/: to help
-  helfe, hilfst, hilft, habe geholfen, half
+helfen /ˈhɛlfən/: to help (dative)
+  helfe, hilfst, hilft, habe geholfen
+  half, halfst, half, halft
+  hilf, helft
   aktiv werden, damit jd ein Ziel schneller / besser erreicht
   um meinem Vater zu helfen
   Ich muss einem Kollegen helfen.
   Hilfst du mir?
   Nein. Ich helfe dir nicht.
+  jdm bei etw helfen
+  jdm etw tun helfen
 
 hell /hɛl/: light, bright
   ↔ dunkel
