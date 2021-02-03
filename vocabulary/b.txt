@@ -505,6 +505,8 @@ Beginn /bəˈɡɪn/, der, -s|uncountable: beginning, start
 beginnen /bəˈɡɪnən/: to begin
   Es beginnt zu regnen: It's starting to rain
 
+Beglaubigung, die: authentication, verification, certification
+
 begleiten /bəˈɡlaitən/: to accompany, to escort
   Soll ich dich nach Hause begleiten?
   Shall I accompany you home?
@@ -838,7 +840,7 @@ bellen /ˈbɛlən/: to bark
 belohnen: to reward
   jdm für einen Erfolg, eine gute Tat o. Ä. etw. geben
 
-belügen /bə’lyːɡən/
+belügen /bə'lyːɡən/
   jdm eine Lüge sagen
   Er hat mich schamlos belogen.
 
@@ -1105,7 +1107,7 @@ Bescheid /bəˈʃait/, der: notification
 
 bescheiden: to content yourself, to give, to inform
   Sie ging nicht auf seine Ausführungen ein, sondern beschied sich damit, bedächtig zu nicken.
-  She didn’t go into his remarks but contented herself with nodding thoughtfully.
+  She didn't go into his remarks but contented herself with nodding thoughtfully.
   Leider war ihm kein Glück / Erfolg beschieden.
   Unfortunately he was not blessed with good fortune/success.
   Auf Anfrage beschied der Pressesprecher des Ministeriums, ein Termin stehe noch nicht fest.
@@ -1126,6 +1128,9 @@ Bescherung /bəˈʃeːrʊŋ/, die, ~|-en: giving Christmas presents, state of af
 
 beschimpfen /bəˈʃɪmpfən/: to insult, to swear at, to abuse
   jdn am Telefon wüst beschimpfen: to hurl abuse at sb on the phone
+
+beschleunigen: to accelerate
+  schneller fahren, fliegen
 
 beschließen /bəˈʃliːsən/: to decide, to resolve, to pass, to end
   habe beschlossen
@@ -1563,6 +1568,9 @@ Bewährung /bəˈvɛːrʊŋ/, die: probation, test of character
 
 Bewährungsprobe, die: test
 
+bewältigen: to overcome, to manage
+  mit Erfolg hinter sich bringen
+
 Bewältigung /bəˈvɛltɪɡʊŋ/, die: coping (with), handling
   die Bewältigung einer Krise: coping with a crisis
 
@@ -1594,7 +1602,15 @@ Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement, exercise, emotion, movement
   The accused showed no emotion when the verdict was being read.
   Arbeiterbewegung: labor movement
 
-beweisen: to prove, to show
+Beweis /bəˈvais/, der, -es|-e: proof, evidence
+  einen Beweis für etw. erbringen: to produce proof of sth
+  aus Mangel an Beweisen freigesprochen werden: to be acquitted due to lack of evidence
+  mangels Beweisen / Beweises: for lack of evidence/proof
+
+beweisen /bəˈvaizən/: to prove, to show
+  jds Schuld beweisen: to prove sb's guilt
+  Er hat Mut bewiesen.
+  He showed courage.
 
 bewerben /bəˈvɛrbən/: to apply
   durch ein Schreiben, ein Gespräch versuchen, etw. zu bekommen
@@ -1616,16 +1632,6 @@ bewerfen: to throw at
 Bewegungsmelder /bəˈveːɡʊŋsmɛldɐ/, der, -: motion detector/sensor
   einen Bewegungsmelder am Garagentor anbringen: to fix a motion sensor to the garage door
 
-Beweis /bəˈvais/, der, -es|-e: proof, evidence
-  einen Beweis für etw. erbringen: to produce proof of sth
-  aus Mangel an Beweisen freigesprochen werden: to be acquitted due to lack of evidence
-  mangels Beweisen / Beweises: for lack of evidence/proof
-
-beweisen /bəˈvaizən/: to prove, to show
-  jds Schuld beweisen: to prove sb's guilt
-  Er hat Mut bewiesen.
-  He showed courage.
-
 bewerben /bəˈvɛrbən/: to apply
 
 Bewerber /bəˈvɛrbɐ/, -, Bewerberin: applicant, candidate
@@ -1636,6 +1642,9 @@ Bewerbung /bəˈvɛrbʊŋ/, die: application
 
 bewerfen /bəˈvɔrfən/: to pelt, to bombard
   jdn/etw mit etw bewerfen: to throw sth at sb/sth
+
+bewerten: to grade, to rate
+  eine Note für jds Leistung vergeben; Bedeutung, Qualität, Wert o. Ä. einer Sache beurteilen
 
 bewilligen
   jdm etw., das er beantragt hat, geben
@@ -2019,6 +2028,8 @@ Blutprobe /ˈbluːtproːbə/, die, -n: blood test, blood sample
 Bluttest, der
 
 Bock /bɔk/, der: buck, ram, billy goat
+  sl: = Lust, Spaß
+  Kein Bock auf ein Bier?
 
 Boden /ˈboːdən/, der, ..: ground, soil
   ein fruchtbarer / steiniger / sandiger Boden: fertile/stony/sandy ground

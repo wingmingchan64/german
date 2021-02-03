@@ -75,7 +75,7 @@ U-Bahnstation, die
 Überführung /yːbɐˈfyrʊŋ/, die: conviction, transfer, overpass
   die erfolgreiche Überführung des Mörders
   Wer kommt für die Überführung der Leiche in die Heimat auf?
-  Who is paying for the body to be returned to the victim’s home country?
+  Who is paying for the body to be returned to the victim's home country?
   Fußgänger bitte Überführung benutzen!
 
 überfüllt /yːbɐˈfʏlt/: packed, overcrowded, congested
@@ -200,6 +200,10 @@ U-Bahnstation, die
   The car rolled over several times.
 
 überschreiten /yːbɐˈʃraitən/: to cross, to exceed
+  habe überschritten
+  überschritt
+  hinübergehen oder -fahren
+  Über eine Liebe, die alle Grenzen überschritten hat.
   Die Truppen überschritten bei Mainz den Rhein.
   The troops crossed the Rhine at Mainz.
   Die Belastung überschreitet jetzt schon die Grenze des Erträglichen.
@@ -257,6 +261,9 @@ U-Bahnstation, die
   My family doctor referred me to a specialist for further treatment.
 
 Überweisung, die
+
+überwinden: to force yourself, to overcome
+  etw., das man eigentlich nicht tun will, schließlich doch tun; mit viel Kraft, Einsatz oder Energie bewältigen
 
 überwintern /yːbɐˈvɪntɐn/: to overwinter, to spend the winter
   Die Störche haben in Afrika überwintert.
@@ -691,9 +698,11 @@ unheilvoll /ˈʊnhailfɔl/: fateful, ominous
   Es herrschte unheilvolles Schweigen.
   There was an ominous silence.
 
-unheimlich /ˈʊnhaimlɪç/: eerie, sinister
+unheimlich /ˈʊnhaimlɪç/: eerie, sinister, incredibly
   Nachts ist es auf dem Friedhof ziemlich unheimlich.
   It's pretty eerie in the graveyard at night.
+  Das freut mich unheimlich für dich!
+  Das ist unheimlich schade.
 
 Uni → Universität
 

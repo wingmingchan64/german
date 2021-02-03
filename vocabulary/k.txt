@@ -131,6 +131,8 @@ karg /kark/: meager, sparsely furnished, barren
   Die Mägde hausten in kargen Dachkammern.
   The maids lived in sparsely furnished attic rooms.
 
+Karre, die: (wheel)barrow
+
 Karriere /kaˈrjeːrə/, die, ~|-n: career
   Sie ist am Höhepunkt ihrer Karriere.
 
@@ -497,6 +499,8 @@ klatschen /ˈklaʧən/: to clap, to slap, to gossip
   Meine Nachbarin klatscht gern.
   My neighbor likes to gossip.
 
+klauen: to steal
+
 Klebeband /ˈkleːbəbant/, das, -(e)s|..er: adhesive tape
   einen Karton mit Klebeband zukleben: to tape up a box with adhesive tape
 
@@ -706,6 +710,9 @@ knuddeln /ˈknʊdəln/: to kiss and cuddle
 knuffen /ˈknʊfən/: to nudge, to poke
   Sie knuffte ihn / ihm in die Seite.
   She poked him in the side.
+
+knuffig: cute
+  Sieh nur die knuffigen Hundewelpen!
 
 knüpfen /ˈknʏpfən/: durch Knoten herstellen; beginnen, herstellen
   etw. an etw. knüpfen: etw. mit etw. verbinden
@@ -992,6 +999,10 @@ Kostprobe , die: taste, sample
 kostümieren /kɔstyˈmiːrən/: to dress up
   Kinder kostümieren sich zu Halloween gerne als Hexen und Vampire.
   Children like to dress up as witches and vampires for Halloween.
+
+Kot /koːt/, der: excrement
+  Produkt der Verdauung
+  Der Boden im Stall war mit Kot bedeckt.
 
 Köter /ˈkøːtɐ/, der, -s|~: mutt (dog)
   Nimm endlich deinen dämlichen Köter an die Leine!

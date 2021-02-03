@@ -160,6 +160,11 @@ darin /ˈdaːrɪn/: in it/them/there
 Darlehen /ˈdaːɐleːən/, das, -: loan
   jdm ein Darlehen gewähren: to grant sb a loan
 
+Darm, der: intestine
+  langes Organ für die Verdauung von Nahrung
+  Dickdarm
+  Dünndarm
+
 darunter: among them, including
 
 darstellen /ˈdaːɐʃtɛlən/: to describe, to portray, to show, to depict, to pose, to represent
@@ -465,6 +470,9 @@ dick /dɪk/: fat, thick
   Er ist dick geworden.
   He's gotten fat.
 
+Dicker, der: fat man
+  männliche Person, die dick, korpulent ist
+
 Dieb /diːp/: thief
   Haltet den Dieb!
   Stop, thief!
@@ -480,7 +488,7 @@ dienen /ˈdiːnən/: to serve, to do your military service, to be of assistance
 Dienst /diːnst/, der: service, work
   der öffentliche Dienst: the civil service
   Sie ist heute nicht zum Dienst erschienen.
-  She didn’t turn up for work today.
+  She didn't turn up for work today.
 
 Dienstag, der
 
@@ -494,13 +502,13 @@ Dienstag /'diːnstaːk/, der, -(e)s|-e
 Diesel /ˈdiːzəl/, der, -s|~: diesel
   Diesel tanken: to use diesel fuel
 
-digital /diɡi’taːl/
+digital /diɡi'taːl/
 
 Ding, das: thing
   Wir konnten nur wenige persönliche Dinge mitnehmen.
   We were only able to take a few personal items with us.
 
-Dingsda: what’s-his-name
+Dingsda: what's-his-name
 
 direkt /diˈrɛkt/: direct
   der direkte Weg zum Flughafen: the direct way to the airport
@@ -535,7 +543,7 @@ Doktor /'dɔktoːɐ/, der, Doktoren, Doktorin: doctor
 Dokument /dokuˈmɛnt/, das, -(e)s|-e: document
   ein beglaubigtes Dokument vorlegen: to produce a certified document
 
-Dom /’doːm/, der, -(e)s|-e: cathedral
+Dom /'doːm/, der, -(e)s|-e: cathedral
   der Kölner Dom
 
 Donner /'dɔnɐ/, der, -s|~: thunder
@@ -547,6 +555,7 @@ donnernd: thunderous
 Donnerstag /ˈdɔnɐstaːk/, der, -(e)s|-e
 
 doof /doːf/: dumb, stupid
+  nicht intelligent
   Er ist zu doof, das zu kapieren.
   He's too dumb to understand that.
   So ein doofes Wetter!
@@ -616,6 +625,9 @@ drastisch /ˈdrastɪʃ/: strong, drastic
 
 drauf /drauf/: on it/them
   → darauf
+
+draufgehen: to die
+  umkommen, sterben
 
 draußen /ˈdrausən/: outside
   Er war schon seit Tagen nicht mehr draußen.

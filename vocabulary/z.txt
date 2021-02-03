@@ -2,6 +2,8 @@
 Z /ʦɛt/ Z wie Zeppelin /ˈʦɛpəliːn/
 ========================================================
 
+zack: whoosh
+
 zäh /ʦɛː/: tough
   Keine Angst, er ist ein zäher Bursche und hält das aus.
   Don't worry. He's a tough guy and will handle it.
@@ -51,6 +53,8 @@ Zapfen, der: cone
 zapfen: to tap, to draw
   durch einen Hahn aus einem Behälter fließen lassen
   frisch gezapftes Bier
+
+zappeln: to wriggle, to jiggle, to fidget
 
 zart /ʦaːɐt/: delicate, tender, gentle
   Mit so einem zarten Pflänzchen muss man vorsichtig umgehen.
@@ -117,7 +121,7 @@ Zeit /ʦait/, die, ~|-en: time
   Ich habe heute keine Zeit.
   mit der Zeit: in time
   es wird langsam Zeit, dass …
-  it’s about time that …
+  it's about time that …
 
 Zeitangabe, die: date, time (of day)
 
@@ -440,7 +444,7 @@ Zucker /ˈʦʊkɐ/, der, ~|uncountable: sugar
   Kaffee mit Milch und Zucker
   
 Zuckerschlecken, das
-  das ist kein Zuckerschlecken: it’s no picnic
+  das ist kein Zuckerschlecken: it's no picnic
 
 zudem /ʦuˈdeːm/: moreover, besides
   Sie ist hübsch und zudem intelligent.
@@ -635,6 +639,9 @@ zurückrufen
   Ruf mich bitte zurück!
 
 zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
+
+zurücksetzen: to put back, to move back
+  jdn / etw. / sich wieder an den früheren Platz setzen; nach hinten versetzen
 
 zurückweisen /ʦuˈrʏkvaizən/: nicht akzeptieren
   ≈ ablehnen

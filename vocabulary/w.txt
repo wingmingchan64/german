@@ -196,7 +196,7 @@ Ware /ˈvaːrə/, die, -n: product, article, goods
   heiße Ware: hot goods
 
 wäre /ˈvɛːrə/
-  Wie wär’s mit Donnerstag? 
+  Wie wär's mit Donnerstag? 
 
 warf → werfen
 
@@ -460,6 +460,7 @@ Welle /ˈvɛlə/, die: wave
 Wellhornschnecke, die: whelk 蛾螺
 
 *Welpe /ˈvɛlpə/, der, -n: puppy
+  Hundewelpen
 
 Welt /vɛlt/, die: world
   ganzen Welt: all over the world
@@ -504,6 +505,12 @@ wenn /vɛn/: if, when
   wenn auch …: albeit / even if
   Er hat mir geholfen, wenn auch widerwillig.
   He helped me, albeit reluctantly.
+
+wennschon
+  Na wennschon! So what?
+  Wennschon, dennschon!
+  wenn man schon etw. tut, sollte man es gleich richtig tun
+  If you're going to do something at all, you might as well do it properly!
 
 wer /veːɐ/: who, whoever
   Wer bist du?
@@ -1064,6 +1071,7 @@ worum /voˈrʊm/: what … about
   What is it all about?
 
 wovon /voˈfɔn/: from what, from which
+  Wovon lebst du?
   Wovon soll ich das bezahlen?
   What am I supposed to pay for that with?
   Technik ist etwas, wovon ich leider gar nichts verstehe.

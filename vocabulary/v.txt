@@ -183,12 +183,19 @@ verdächtigen /fɛɐˈdɛçtɪɡən/: to suspect
 
 verdammen: to damn, to condemn
 
+verdammt /fɛɐˈdamt/
+
 verdanken: to owe
   jdm / einer Sache dankbar sein
   Ich habe Ihnen viel zu verdanken.
 
 verdattert /fɛɐˈdatɐt/: dazed
   jdn verdattert ansehen: to look at sb in a daze
+
+verdauen: to digest
+  Die Nahrung wird in Magen und Darm verdaut.
+
+Verdauung, die: digestion
 
 Verdeck /fɐɐˈdɛk/, das, -(e)s|-e: top, canopy, deck, hood
   ein Cabrio mit offenem Verdeck fahren: to drive an open-top convertible
@@ -297,6 +304,9 @@ verfluchen /fɛɐˈfluːxən/: to curse
   He cursed his own father.
   Ich verfluche den Tag, an dem ich dieses Auto gekauft habe!
   I curse the day I bought this car!
+
+verflucht /fɛɐˈfluːxt/
+  verdammt
 
 verfolgen /fɛɐˈfɔlɡən/: to pursue, to follow
   ≈ folgen
@@ -623,6 +633,8 @@ verlieren /fɛɐˈliːrən/: to lose, to disappear, to fade away
   nichts mehr zu verlieren haben: to have nothing to lose
   Das letzte Spiel verloren sie 2:1.
   They lost their last match 2-1.
+  Das/er hat hier nichts verloren.
+  That/he has no business to be here.
 
 verließ → verlassen
 
@@ -1040,6 +1052,10 @@ Versuch /fɛɐˈzuːx/, der: attempt
 
 versuchen /fɛɐˈzuːxən/: to try, to attempt
 
+Versuchung, die: temptation
+  der Wunsch, etw. zu tun, das man eigentlich nicht tun sollte
+  einer Versuchung nicht widerstehen können
+
 vertagen /fɛɐˈtaːɡən/: to adjourn
   ohne ein Ergebnis beenden und auf einen späteren Zeitpunkt verlegen
   Die Abstimmung über den Antrag wurde auf die nächste Sitzung vertagt.
@@ -1092,7 +1108,7 @@ Vertrauen /fɛɐˈtrauən/, das: trust, confidence
   Ich habe großes Vertrauen in Ihre Kompetenz.
   I have great confidence in your competence.
 
-vertrauen /fɛɐˈtrauən/: to trust
+vertrauen /fɛɐˈtrauən/: to trust (dative)
   Ich vertraue ihm blind.
   I trust him completely.
   auf jdn / etw. vertrauen: to trust (in) sb/sth
@@ -1215,6 +1231,9 @@ Verwendung /fɛɐˈvɛndʊŋ/, die, -en: use
   Do you have any use for him in your department?
 
 Verwendungszweck, der: use, purpose
+
+verwerten: to use, to utilize
+  für einen Zweck nutzen, sinnvoll verwenden
 
 verwesen /fɛɐˈveːzən/: to decompose
   sich zersetzen, verrotten
@@ -1491,6 +1510,11 @@ vorbeigehen /foːɐˈbaiɡeːən/: to go past, to pass
   Sie ging an uns vorbei, ohne zu grüßen.
   She went past us without saying hello.
 
+vorbeikommen: to pass, to drop by
+  auf dem Weg zu einem anderen Ziel irgendwohin kommen und dann weiterfahren o. Ä; kurz besuchen
+
+vorbeischauen: vorbeikommen
+
 vorbereiten /ˈfoːɐbəraitən/: to prepare, to get ready
   körperlich und geistig bereit machen; Arbeiten im Voraus erledigen
   Ich habe einen kleinen Imbiss für Sie vorbereitet.
@@ -1629,6 +1653,8 @@ Vorort /ˈfoːɐ|ɔrt/, der, -e: suburb
   Er wohnt in einem Pariser Vorort.
   He lives in a suburb of Paris.
 
+Vorprogramm, das: supporting bill/program
+
 Vorrat /ˈfoːɐraːt/, der: reserves, supply, stock
   Dinge, die im Bedarfsfall zur Verfügung stehen
 
@@ -1639,7 +1665,7 @@ Vorrecht, das: privilege
 Vorrichtung /ˈfoːɐrɪçtʊŋ/, die: device
   (technische) Anlage, die meist als Hilfsmittel für etw. dient
 
-vorrücken /’foːɐrʏkən/: to move forward(s), to advance
+vorrücken /'foːɐrʏkən/: to move forward(s), to advance
   Könnten Sie mit dem Stuhl ein wenig vorrücken?
   Could you move your chair forward a little?
 
@@ -1658,7 +1684,7 @@ vorschreiben /ˈfoːɐʃraibən/: to stipulate, to dictate
   Welches Mindestalter ist dafür vorgeschrieben?
   What is the minimum age stipulated for that?
   Ich lasse mir von niemandem vorschreiben, wie ich meine Kinder zu erziehen habe!
-  I won’t let anyone dictate to me how to bring up my children!
+  I won't let anyone dictate to me how to bring up my children!
 
 Vorsicht /ˈfoːɐzɪçt/, die: caution, care
 

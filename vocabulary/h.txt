@@ -17,6 +17,8 @@ haben /ˈhaːbən/: to have
   etw. hinter / vor sich haben [dative]: to have sth over and done with/to have sth ahead of you
   Ich habe eine Prüfung schon hinter mir und noch zwei vor mir.
   I have one exam under my belt and another two still to come.
+  Was hat er denn? What's the matter with him?
+  Was willst'n dafür haben?
 
 Hacke /ˈhakə/, die, ~|-n: hoe, heel
   mit einer Hacke Löcher ins Eis schlagen: to make holes in the ice with a hoe
@@ -132,6 +134,8 @@ halten /ˈhaltən/: to hold, to keep, to give, to deliver, to stop, to think
   etw. von jdm / etw. halten: to think sth of sb/sth
   Was hältst du von meinem Vorschlag?
   What do you think of my suggestion?
+  Halt dich da raus!
+  Stay out of it!
 
 Halter /ˈhaltɐ/, der, -: holder, mount
   Handtuchhalter: towel rack
@@ -776,10 +780,12 @@ Herz /hɛrʦ/, das, -ens|-en: heart
   Sein Herz klopfte wild / hörte auf zu schlagen.
   His heart was beating wildly/heart stopped beating.
 
-herzeigen /ˈheːɐʦaiɡən/
-  Zeig (mal) her! Let me see, let’s see
+Herzallerliebste /hɛrʦ|alɐˈliːpstə/: darling
 
-Herzenslust /ˈhɛrʦənslʊst/, die: to your heart’s content
+herzeigen /ˈheːɐʦaiɡən/
+  Zeig (mal) her! Let me see, let's see
+
+Herzenslust /ˈhɛrʦənslʊst/, die: to your heart's content
   nach Herzenslust: wie es einem gerade gefällt
   Wir aßen und tranken nach Herzenslust.
 
@@ -789,6 +795,8 @@ herzlich /ˈhɛrʦlɪç/: warm, cordial, very much
   herzlich wenig: precious little
 
 Herzog /ˈhɛrʦoːk/, Herzogin: duke/duchess
+
+Herzversagen, das: heart failure
 
 Heuchelei /hɔyçəˈlai/, die, -en: hypocrisy
   Das ist alles bloß Heuchelei.

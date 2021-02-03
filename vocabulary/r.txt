@@ -42,6 +42,8 @@ rammen /ˈramən/: to ram
   Er drängte sich an uns vorbei und rammte mich dabei mit der Schulter.
   He pushed past us and as he did so he rammed me with his shoulder.
 
+Rampe, die: ramp, apron
+
 ran: up, close, go on
 
 Rand /rant/, der, -(e)s|..er: edge
@@ -201,6 +203,9 @@ raus: (get) out!
 Rausch /rauʃ/, der: intoxication
   sich [ dative ] einen Rausch antrinken: to get drunk
 
+Rauschgift /ˈrauʃɡift/, das: drug, narcotic
+  illegale Substanz, die Rauschzustände verursacht
+
 rauschen /ˈrauʃən/: to rush, to whoosh 發出嗖嗖（呼呼）聲, to hiss
   das gleichmäßige Rauschen des Verkehrs: the constant roar of the traffic
   Das Wasser rauschte in die Badewanne.
@@ -215,6 +220,8 @@ rauschend /ˈrauʃənt/: lavish, rapturous
   The performance received rapturous applause.
 
 rauschhaft: ecstatic, frenzied, repturous
+
+Rauschzustand, der: state of intoxication, intoxicated state
 
 räuspern /ˈrɔyspɐn/: to clear your throat
   Der Redner räusperte sich laut, bevor er zu sprechen anfing.
@@ -319,7 +326,7 @@ Reduktion, die: Abbau
 
 Reduzierung, die: Reduktion
 
-Referendar: student teacher
+Referendar /referɛnˈdaːɐ/: student teacher
   jd, der nach dem Studium den praktischen Teil der Ausbildung als Lehrer oder Jurist macht
 
 Reform /reˈfɔrm/, die, -en: reform
@@ -878,6 +885,7 @@ Rückschein, der:
   to send something by registered mail with confirmation of receipt
 
 Rücksicht /ˈrʏkzɪçt/, die, -en: consideration
+  Verhalten, bei dem man die Gefühle anderer nicht verletzt, ihre Wünsche beachtet oder einer Sache nicht schadet
   Rücksicht üben / zeigen: to be considerate
 
 rücksichtsvoll: considerate

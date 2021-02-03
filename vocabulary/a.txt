@@ -68,6 +68,9 @@ abbauen /ˈapbauən/: to reduce, to cut, to mine, to deteriorate
 abbeißen /ˈapbaisən/
   etw. mit den Zähnen abtrennen
 
+abbekommen /ˈapbəkɔmən/: to get, to get hurt
+  einen Teil von etw. bekommen; einen Schaden, eine Verletzung bekommen
+
 abbiegen /ˈapbiːɡən/: to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
   Biegen Sie bitte bei der nächten Kreuzung nach rechts ab.
@@ -241,6 +244,8 @@ abkommen: to go off sth, to give up sth
   Ich bin davon abgekommen, alles allein schaffen zu wollen.
   I've given up the ideal of trying to all of that on my own.
 
+abkriegen: abbekommen
+
 Abkürzung /ˈapkʏrʦʊŋ/, die, ~|-en: abbreviation, shortcut
   Abkürzungsverzeichnis: list of abbreviations
   eine Abkürzung nehmen / fahren: to take a shortcut
@@ -273,6 +278,9 @@ ablehnen /ˈapleːnən/: to refuse, to reject
   She rejects all forms of violence.
   Er lehnte es ab, mit ihr zu sprechen.
   He refused to speak with me.
+
+ableiten
+  etw. aus etw. ableiten: aus etw. folgern, schließen
 
 ablenken: to distract
   jdn (von etw.) ablenken: jds Aufmerksamkeit stören
@@ -319,6 +327,10 @@ abräumen /ˈaprɔymən/: to clean up
 Abrede: agreement
   eine Abrede treffen: etw. vereinbaren
   etw. in Abrede stellen: leugnen, abstreiten
+
+abregen: to cool off, to calm down
+  sich beruhigen
+  Jetzt reg dich mal wieder ab, so schlimm ist das doch nicht!
 
 Abreise /ˈapraizə/, die, ~|-n: departure
   ihre Abreise nach London: her departure to London
@@ -424,7 +436,7 @@ abschöpfen /ˈapʃɶpfən/: to skim off, to make
 
 abschütteln /ˈapʃʏtəln/: to shake off
   Er läuft mir überallhin nach und lässt sich nicht abschütteln.
-  He follows me wherever I go and I just can’t shake him off.
+  He follows me wherever I go and I just can't shake him off.
 
 absehen /ˈapzeːən/: to foresee, to learn
   Es ist jetzt schon abzusehen, dass daraus nichts wird.
@@ -458,11 +470,11 @@ absetzen /ˈapzɛʦən/: to remove, to depose, to stop taking, to cancel, to tak
   Kann ich die Reisekosten absetzen?
   Can I get tax relief on my travel expenses?
   Setz doch bitte die Sonnenbrille ab, wenn ich mit dir rede.
-  Take off your sunglasses when I’m talking with you, please.
+  Take off your sunglasses when I'm talking with you, please.
   Ich musste den Sack kurz absetzen, weil meine Hände schmerzten.
   I just had to put the sack down for a bit as my hands were hurting.
   Von dem neuen Modell wurden bereits 500 Stück abgesetzt.
-  We’ve already sold 500 units of the new model.
+  We've already sold 500 units of the new model.
   sich ins Ausland absetzen, um seinen Gläubigern zu entkommen
   to defect abroad to escape your creditors
   Am Teichboden hat sich viel Schlamm abgesetzt.
@@ -483,6 +495,8 @@ Absicht /ˈapzɪçt/, die, ~|-en: intention
 absichtlich /ˈapzɪçtlɪç/: intentional 
   ein absichtliches Foul: a deliberate foul
   jdn absichtlich verletzen: to injure sb intentionally
+
+absolut /apzoˈluːt/
 
 Absperrung /ˈapʃpɛrʊŋ/, die, ~|-en: barrier
   Absperrungen errichten: to put up barriers
@@ -1168,6 +1182,9 @@ Anflug, der: approach, trace, touch, hint
   Das Flugzeug befindet sich im Landeanflug auf Berlin.
   Auf seinem Gesicht breitete sich der Anflug eines Lächelns aus.
 
+anfordern: to order, to request
+  bestellen; jdm mitteilen, dass man jdn / etw. braucht
+
 Anfrage, die: inquiry, request, question
 
 anführen /ˈanfyːrən/: to lead, to state, to cite, to fool
@@ -1324,6 +1341,8 @@ anhalten /ˈanhaltən/: to stop, to continue, to last
   Das gute Wetter hielt über Wochen an.
   The good weather went on for weeks.
 
+Anhalter, Anhalterin: hitch-hiker
+
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
   ↔ Gegner
 
@@ -1452,6 +1471,8 @@ anpacken: to take hold of, to tackle, to treat
 
 anpflanzen /ˈanpflanʦən/: to plant
   im Garten Erdbeeren/einen Baum anpflanzen: to plant strawberries/a tree in the yard
+
+anrauschen: to come rushing, to come hurrying along
 
 Anrede /ˈanreːdə/, die: (form of) address
   Wie ist die korrekte Anrede für eine Gräfin?
@@ -1689,6 +1710,11 @@ Anwendung /ˈanvɛndʊŋ/, die: use, application
   ≈ Umsetzung
   Gewaltanwendung: use of force
 
+anwerfen: to start, to fire up
+  einschalten, starten
+  den Propeller / die Turbine anwerfen
+  Wirf doch bitte mal die Heizung an.
+
 Anwesen, das: estate
   Das Anwesen steht zum Verkauf.
   The estate is for sale.
@@ -1858,9 +1884,11 @@ Armutsgrenze, die: poverty line
 
 Arroganz /aroˈɡanʦ/, die, |uncountable
 
+Arsch, der: arse, butt
+
 Art /art/, die: sort, kind, species, way, manner
   Auf diese Art und Weise erreicht du gar nichts.
-  You won’t get anywhere this way.
+  You won't get anywhere this way.
   nach Art von: in the manner of
 
 artgerecht /ˈartɡərɛçt/: species-appropriate
@@ -2612,7 +2640,7 @@ ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
   Das kann doch nicht gut ausgehen!
   etw. geht von jdm/etw. aus
   Ich gehe davon aus, dass ihr alle hungrig seid.
-  I take it you’re all hungry.
+  I take it you're all hungry.
   welche Gefahr von Adolf Hitler ausgeht
 
 ausgerechnet /ˈausɡərɛçnət/ oder /ausɡəˈrɛçnət/: of all things 偏偏

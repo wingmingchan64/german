@@ -576,7 +576,7 @@ Fjord, der
 
 flach /flax/: flat, shallow
   Die Gegend ist dort völlig flach, nicht der kleinste Hügel weit und breit.
-  That region is totally flat – there isn’t even a slight elevation to be seen far and wide.
+  That region is totally flat – there isn't even a slight elevation to be seen far and wide.
 
 Fläche /ˈflɛçə/, die, -: area 面積, surface, side
   unbebaute Flächen in der Stadt: undeveloped land in the city
@@ -659,6 +659,7 @@ fließend /ˈfliːsənt/: fluent, fluid
   ein Zimmer mit fließendem Wasser: a room with running water
 
 Flitterwochen /ˈflɪtɐvɔxən/, pl: honeymoon
+  Zeit unmittelbar nach der Heirat, die oft zu einer Reise genutzt wird
   die Flitterwochen am Gardasee verbringen
   to spend your honeymoon at Lake Garda
 
@@ -1119,7 +1120,7 @@ Führer, der: guidebook
   Sprachführer: phrase book
   Stadtführer
 
-Führerschein /ˈfyːrɐʃain/, der: driver’s license
+Führerschein /ˈfyːrɐʃain/, der: driver's license
   Dokument, das man braucht, um ein Auto, Motorrad o. Ä. fahren zu dürfen
   Ihm wurde der Führerschein abgenommen.
 

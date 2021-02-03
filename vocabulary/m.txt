@@ -244,6 +244,10 @@ mauern /ˈmauɐn/: to build, to stonewall
   Bei der Reform darf nicht gemauert werden.
   There must be no stonewalling of the reforms.
 
+Maul, das: mouth
+  Halt's Maul!
+  Shut up!
+
 Maurer: Handwerker, der die Mauern von Häusern errichtet usw.
 
 Maus /maus/, Mäuse /ˈmɔyzə/, die: mouse
@@ -756,6 +760,9 @@ Morgen /ˈmɔrɡən/, der, -: morning
 morgen /ˈmɔrɡən/: tomorrow
   Bis morgen.
 
+Moschee /mɔˈʃeː/, die: mosque
+  Gebäude, in dem Moslems beten
+
 Most /mɔst/, der: cider
 
 Motor /ˈmoːtoːɐ/ /moˈtoːɐ/, der, -s|-en
@@ -822,6 +829,7 @@ mulmig /ˈmʊlmɪç/: uneasy
 Mund /mʊnt/, der, Münder /ˈmʏndɐ/: mouth
 
 münden: to flow into, to lead
+  Die Themse mündet bei Southend in die Nordsee.
 
 mündlich: oral, verbal
   mit gesprochenen Worten
@@ -838,6 +846,8 @@ murmeln /ˈmʊrməln/: to murmur
   He murmured something incomprehensible to himself.
 
 Murmeltier /ˈmʊrməltiːɐ/, das: marmot
+
+Muschel, die,~|-n: mussel, shell
 
 Museum /muˈzeːʊm/, das, -s|Museen /muˈzeːən/
   ins Museum gehen

@@ -191,6 +191,8 @@ geben /ˈɡeːbən/: to give, to pass
   sich irgendwie geben: to act in a certain manner
   Er gibt sich gern cool.
   He likes to act cool.
+  Das gibts doch nicht!
+  I don’t believe it!
 
 Gebet /ɡəˈbeːt/, das, -(e)s|-e: prayer
   Worte, mit denen man Gott dankt oder ihn um etw. bittet
@@ -274,6 +276,9 @@ Geburtstag /ɡəˈbuːɐʦtaːk/, der, -e: birthday
   Alles Gute zum Geburtstag!
   Mein Geburtstag ist im Juni.
 
+Geburtsurkunde, die: birth certificate
+  Dokument, das die Geburt eines Menschen amtlich bescheinigt
+
 gedacht: intended, imagined
   für einen Anlass o. Ä. bestimmt; nur in der Vorstellung vorhanden
 
@@ -295,7 +300,7 @@ Gedanke /ɡəˈdaŋkə/, der, -ns|-n: thought, idea
 
 gedankenverloren: absentminded, abstracted
 
-Gedenkminute, die: minute’s silence
+Gedenkminute, die: minute's silence
 
 Gedicht, das, -(e)s|-e: poem, poetry
 
@@ -646,6 +651,8 @@ gelingen /ɡəˈlɪŋən/: to succeed, to be successful, to turn out
   Was, wenn der Plan nicht gelingt?
   What if the plan doesn't succeed?
 
+gelitten → leiden
+
 geloben /ɡəˈloːbən/: to vow, to pledge
   Er gelobte Besserung.
   He vowed to turn over a new leaf.
@@ -833,6 +840,7 @@ gerade /ɡəˈraːdə/: straight, at the moment
   völlig gerade: perfectly straight
   gerade dann: just then
   gerade jetzt: just now
+  gerade eben: just now
 
 gerade: especially, particularly
   Diese Impfung ist gerade für Kinder und Ältere wichtig.
@@ -862,6 +870,7 @@ Gerät /ɡəˈrɛːt/, das, -e: tool, appliance, equipment, device, apparatus
 
 geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
   in einen Stau / Sturm geraten: to hit a traffic jam/a storm
+  Wie gerate ich nur in so eine Scheiße!
   in den Sog eines sinkenden Schiffs geraten
   to get caught in the wake of a sinking ship
   Wie ist sie nur an diesen Kerl geraten?
@@ -878,6 +887,9 @@ geräuschvoll /ɡəˈrɔyʃfɔl/: noisy
   geräuschvolles Atmen / Kauen: noisy breathing/chewing
 
 gerecht: just, fair, upright
+
+Gerechtigkeit, die: justice
+  Handlung oder Situation, die als gerecht empfunden wird
 
 gereizt /ɡəˈraiʦt/: irritated, irritable, tetchy
   → reizen: to annoy
@@ -1583,11 +1595,11 @@ Großeinsatz, der: large-scale operation/deployment
 
 Großmutter /ˈɡroːsmʊtɐ/, die, ~|..
   Sie ist zum zweiten Mal Großmutter geworden.
-  She’s become a grandmother for the second time.
+  She's become a grandmother for the second time.
 
 großspurig /ˈɡroːsʃpuːrɪç/: cocky, overconfident, brash
   Mit seiner großspurigen Art hat er sich schon viele Feinde gemacht.
-  He’s made a lot of enemies with his cocky manner.
+  He's made a lot of enemies with his cocky manner.
 
 Großvater /ˈɡroːsfaːtɐ/, der, -s|.. /ˈɡroːsfɛːtɐ/
   sein Großvater mütterlicherseits: his maternal grandfather

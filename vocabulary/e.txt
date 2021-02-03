@@ -416,11 +416,6 @@ eingehend /ˈainɡeːənt/: extensive, detailed, in-depth
 
 eingeliefert: taken
 
-einheimisch /ˈainhaimɪʃ/: local, native
-  → heimisch: local
-  → Heim, das: home
-  einen Einheimischen nach dem Weg fragen: to ask a local for directions
-
 eingeschrieben: registered
 
 eingetragen: registered
@@ -433,7 +428,9 @@ einhalten /ˈainhaltən/: to adhere/stick to, to abide by, to stop
   Haltet ein!
   Stop it!
 
-einheimisch /ˈainhaimɪʃ/: local
+einheimisch /ˈainhaimɪʃ/: local, native
+  → heimisch: local
+  → Heim, das: home
   einen Einheimischen nach dem Weg fragen: to ask a local for directions
 
 Einheit /ˈainhait/, die: unit, unity
@@ -620,6 +617,8 @@ einräumen: to put (away), to fill, to admit, to concede, to grant
   das Regal wieder einräumen: to refill the shelf
   Sie räumte ein, dass es Versäumnisse gegeben habe.
   She admitted there had been failings.
+
+Einräumung, die: granting
 
 Einrede, die: objection, protest, contradiction, defense
 
@@ -988,6 +987,9 @@ Empfehlung /ɛmˈpfeːlʊŋ/, die, -en: recommendation
   We vacationed in South Tyrol on his recommendation.
 
 empfinden /ɛmˈpfɪndən/: to feel
+  habe empfunden
+  empfand
+  empfind, empfindet
   Können Insekten Schmerz empfinden?
   Can insects feel pain?
 
@@ -1097,6 +1099,9 @@ entgegen: toward, against
   der Strömung entgegen: against the current
   allen Erwartungen/den Ankündigungen entgegen
   against all expectations/contrary to announcements
+
+entgegenkommen: to approach, to make concessions, to be favorable (for)
+  auf jdn / etw. zukommen; Rücksicht auf jds Vorstellungen nehmen
 
 entgegenkommend: obliging, considerate
   eine entgegenkommende Verkäuferin: an obliging sales assistant
@@ -1441,7 +1446,7 @@ to mean, to present itself, to come along, to arise, to surrender, to capitulate
   Wie viel ergibt 100 geteilt durch 5?
   How much is 100 divided by 5?
   Die Untersuchung hat ergeben, dass sie nicht die Täterin ist.
-  The investigation showed that she isn’t the perpetrator.
+  The investigation showed that she isn't the perpetrator.
 
 Ergebnis /ɛɐˈɡeːpnɪs/, das, -ses|-se: result, conclusion
   Die Verhandlungen blieben ohne Ergebnis.
@@ -1449,8 +1454,9 @@ Ergebnis /ɛɐˈɡeːpnɪs/, das, -ses|-se: result, conclusion
   Zu welchem Ergebnis ist der Ausschuss gekommen?
   What conclusion did the committee come to?
 
-ergehen /ɛɐˈɡeːən/: 
-  jdm ergeht es irgendwie: things go somehow for sb
+ergehen /ɛɐˈɡeːən/
+  etw. über sich ergehen lassen: etw. ohne Reaktion mit sich geschehen lassen, to endure
+  jdm ergeht es irgendwie: jdm geschieht etw. in bestimmter Weise, things go somehow for sb
   Wie ist es ihr nach dem Umzug in der neuen Stadt ergangen?
   How did things go for her after her move to the new city?
 
@@ -1970,7 +1976,7 @@ Erzeugung, die: production, generation, creation
 
 erziehen /ɛɐˈʦiːən/: to bring up
   Ich möchte meine Kinder zu toleranten Menschen / zur Toleranz erziehen.
-  I’d like to bring up my children to be tolerant.
+  I'd like to bring up my children to be tolerant.
   
 Erzieher: jd, der in einem Kindergarten, Heim, Hort o. Ä. Kinder erzieht
 

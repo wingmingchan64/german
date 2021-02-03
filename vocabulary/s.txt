@@ -32,6 +32,8 @@ Sachverhalt /ˈzaxfɛɐhalt/, der: fact, circumstance, situation
   die Tatsachen und Zusammenhänge in einer Situation
   ≈ Sachlage
  
+Sack, der
+
 Sackgasse /ˈzakɡasə/, die, -n: dead end, cul-de-sac
   Das Haus steht am Ende einer Sackgasse.
   The house is at the end of a cul-de-sac.
@@ -390,6 +392,8 @@ Scheinwerfer /ˈʃainvɛrfɐ/, der, -s|~: headlight, floodlight, spotlight
   The deer stopped in the road, blinded by the headlights.
 
 Scheiße, die: shit, crap
+  Kot, Exkremente
+  Hundescheiße
 
 Scheit /ʃait/, das, -(e)s|-e/-er: piece of wood, log
   Leg noch ein paar Scheite nach, damit das Feuer nicht ausgeht.
@@ -419,6 +423,9 @@ Schere /ˈʃeːrə/, die, -n: scissors, shears
 Scherz /ʃɛrʦ/, der, -es|-e: joke
   Er meinte im Scherz, er sei am Verhungern.
   He said as a joke that he was starving.
+
+scherzen: to joke
+  Scherze machen
 
 scheuen /ˈʃɔyən/: to spare, to shrink from, to shy
   versuchen, etw. Unangenehmes zu vermeiden: Angst oder Bedenken haben, etw. zu tun
@@ -521,7 +528,7 @@ Schlacht /ʃlaxt/, die, ~|-en: battle, fest
   Statt der üblichen Kuchenschlacht gab es auf dem Kindergartenfest nur belegte Brote.
   Instead of the usual cake fest there were just sandwiches at the kindergarten party.
 
-Schlachterei /ʃlaxtəˈrai/, die: butcher’s (shop)
+Schlachterei /ʃlaxtəˈrai/, die: butcher's (shop)
 
 Schlafanzug /ˈʃlaːf|anʦuːk/, der, ..e: pajamas
 
@@ -623,7 +630,7 @@ schließen /ˈʃliːsən/: to close, conclude, contract, fasten, reason, shut, s
   einen Vertrag mit jdm schließen: to sign a contract with sb
   … nach zu schließen: judging by …
   Aus seinem Verhalten kann man schließen, dass er nervös ist.
-  From his behavior one can conclude that he’s nervous.
+  From his behavior one can conclude that he's nervous.
   aus etw auf etw (accusative) schließen
 
 schließlich /ˈʃliːslɪç/: finally, at last, in the end, after all
@@ -789,6 +796,8 @@ schmücken /ˈʃmʏkən/: to decorate, to adorn
   ≈ dekorieren
   den Tisch mit Blumen schmücken: to decorate the table with flowers
 
+schmuggeln: to smuggle
+
 Schmutz /ʃmʊʦ/, der, -es|uncountable: dirt
   Substanzen, die irgendwo unerwünscht sind und bewirken, dass etw. nicht sauber ist
 
@@ -838,6 +847,9 @@ schnauben /ˈʃnaubən/: to snort, to blow your nose
   The old man was snorting with rage.
   Er schnaubte in sein Taschentuch.
   He blew his nose in his handkerchief.
+
+Schnauze, die: mouth, muzzle, snout
+  die Schnauze voll haben: keine Lust mehr haben
 
 schnauzen /ˈʃnauʦən/: to bark, to snap at
   „Müsst ihr beim Essen so schmatzen?‟, schnauzte er.
@@ -1243,7 +1255,7 @@ Schwester /ˈʃvɛstɐ/, die, ~|-n
   als Schwester in einem Krankenhaus arbeiten
   to work in a hospital as a nurse
   Ist es in der schwarzen Schwesterntracht nicht sehr heiß?
-  Isn’t it very hot wearing a black nun’s habit?
+  Isn't it very hot wearing a black nun's habit?
   Hast Du Schwestern? Ich habe keine Schwestern.
 
 schwieg → schweigen
@@ -1281,6 +1293,8 @@ schwören /ˈʃvøːrən/: to swear
 
 schwul /ʃvuːl/: gay, homosexual
   Papst führt privates Gespräch mit schwulem Mann
+
+schwupp, schwuppdiwupp: in a flash
 
 Schwung /ʃvʊŋ/, der, -(e)s|..e /ˈʃvʏŋə/: force, impetus
   einen Ball mit Schwung werfen: to throw a ball hard
@@ -1652,6 +1666,9 @@ smaragdgrün: emerald (green)
 Snowboard /ˈsnoːbɔːɐd/, das
   Snowboard fahren
 
+so
+  so was: something like that
+
 sobald /zoˈbalt/: as soon as
   Sobald er anruft, gebe ich Ihnen Bescheid.
   I'll let you know as soon as he phones.
@@ -1738,6 +1755,8 @@ Sonnenaufgang, der: sunrise
 
 Sonnenstrahl, der: sun beam
 
+Sonnensystem /ˈzɔnənzʏsteːm/, das
+
 Sonnenuntergang, der: sunset
 
 Sonntag /ˈzɔntaːk/, der, -s|-e
@@ -1788,7 +1807,7 @@ sortieren /zɔrˈtiːrən/: to sort
 
 sosehr: however much
   Das lässt sich nicht mehr ändern, sosehr ich es mir auch wünsche.
-  It can’t be changed, however much I’d like to.
+  It can't be changed, however much I'd like to.
 
 Soße /ˈzoːsə/, die, -n: sauce
   Bratensoße: gravy
@@ -1966,6 +1985,8 @@ spielen
 Spielsachen /ˈʃpiːlzaxən/, pl: toys
 
 Spielsucht, die: compulsive gambling
+
+Spielverderber, der: killjoy
 
 spießen: to impale sth on sth, to skewer
 
@@ -2340,6 +2361,9 @@ stellvertretend /ˈʃtɛlfɛɐtreːtənt/: deputy, acting
   als jds Stellvertreter tätig
 
 Stellvertreter, Stellvertreterin: representative, deputy
+
+Stelze, die: stilt, leg
+  Stange mit erhöhten Fußstützen, auf denen man laufen kann; Bein eines Menschen
 
 sterben /ˈʃtɛrbən/: to die
   er stirbt
