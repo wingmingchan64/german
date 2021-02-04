@@ -606,6 +606,10 @@ unbekannt /ˈʊnbəkant/: unfamiliar, unknown
 
 unberechenbar /ˈʊnbərɛçənbaːɐ/: unpredictable
 
+unbescholten /ˈʊnbəʃɔltən/: respectable 清白的
+  noch nie in den Verdacht gekommen, Gesetze zu brechen
+  unbescholtene Menschen willkürlich vor Gericht zerren
+
 undeutlich /ˈʊndɔytlɪç/: unclear, indistinct, vague, 
   Im Nebel waren nur undeutliche Umrisse zu erkennen.
   Only vague outlines could be seen in the fog.
@@ -893,6 +897,8 @@ untersuchen /ʊntɐˈzuːxən/: to examine
 Untersuchung /ʊntɐˈzuːxʊŋ/, die: examination
 
 Untersuchungshaft /ʊntɐˈzuːxʊŋshaft/, die: pretrial detention
+
+Untersuchungshäftling, der: prisoner awaiting trial
 
 Untertasse /ˈʊntɐtasə/, die, ~|-n: saucer
   den Teelöffel auf die Untertasse legen
