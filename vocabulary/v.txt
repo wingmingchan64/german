@@ -680,6 +680,7 @@ vermissen /fɛɐˈmɪsən/: to miss
 
 vermitteln: to impart, to communicate
   bewirken, dass jd etw. versteht
+  Ich konnte ihr nicht vermitteln, was in mir vorging.
 
 Vermittler/-in: mediator, intermediary, arbitrator
 
@@ -742,6 +743,7 @@ verordnen: to prescribe
 Verordnung, die: prescription
 
 veröffentlichen /fɛɐˈ|œfəntlɪçən/: to publish
+  drucken und so der Öffentlichkeit bekannt machen
 
 Veröffentlichung /fɛɐˈ|œfəntlɪçʊŋ/, die: publication
 
@@ -805,6 +807,11 @@ verrückt /fɛɐˈrʏkt/: mad, crazy
   I'm absolutely crazy about chocolate.
 
 Verrückte: lunatic, madman/madwoman
+
+versagen
+  nicht leisten können, was erwartet wird
+  Herzversagen
+  Er hat bei den Prüfungen versagt.
 
 versammeln /fɛɐˈzaməln/: to gather, to assemble
 
@@ -1557,6 +1564,11 @@ vorfinden /ˈfoːɐfɪndən/: to find, to discover
   im Job beste Arbeitsbedingungen vorfinden
   to find excellent working conditions in the job
 
+vorführen: to present, to perform
+  einem Publikum zeigen; anschaulich darstellen und erklären
+  die neue Kollektion auf einer Modenschau vorführen
+  to present the new collection at a fashion show
+
 Vorgang /ˈfoːɐɡaŋ/, der, -(e)s|..e: occurrence, event, process, file
   das, was geschieht; 
 
@@ -1649,6 +1661,7 @@ vornehm /ˈfoːɐneːm/: exclusive, expensive, distinguished, noble
   He's from a noble family.
 
 vornehmen /ˈfoːɐneːmən/: to make, to carry out
+  etw. tun
   Änderungen / Korrekturen vornehmen
   to make changes/corrections
 
@@ -1813,6 +1826,7 @@ vorwegnehmen /foːɐˈvɛkneːmən/: to anticipate
   den Schluss einer Geschichte vorwegnehmen
 
 Vorwurf /ˈfoːɐvʊrf/, der, -(e)s|..e: reproach, accusation
+  Äußerung, mit der man jdn kritisiert
   jdm bittere Vorwürfe machen: to reproach sb bitterly
   Deine Vorwürfe entbehren jeglicher Grundlage.
   Your accusations are completely unfounded.

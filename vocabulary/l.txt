@@ -68,6 +68,7 @@ Lage /ˈlaːɡə/, die, -n: situation, location, position
   The house is in a very beautiful location.
   etw. in eine horizontale Lage bringen: to put sth into a horizontal position
   etw. in mehrere Lagen Papier wickeln: to wrap sth in several layers of paper
+  in der Lage sein, etw. zu tun: capable/able to be, do sth
 
 lagen → liegen
 
@@ -227,6 +228,8 @@ las → lesen
 
 lassen /ˈlasən/: to let, to allow, to cause, to leave
   lasse, lässt, lasst, habe gelassen
+  ließ, ließest
+  lass, lasst
   die Kinder lange schlafen lassen: to let the children sleep late
   einen Arzt kommen lassen: to send for a doctor
   eine Vase fallen lassen: to drop a vase
@@ -239,11 +242,13 @@ lassen /ˈlasən/: to let, to allow, to cause, to leave
   Would you just stop that! It's annoying!
   Lass das! Stop it!
 
-Last, die: load, burden
+Last, die, ~|-en: load, burden
+  etw. Schweres, das getragen oder transportiert werden soll
   sich von der Last der Verantwortung befreien
   to free yourself from the burden of responsibility
 
 lästig /ˈlɛstɪç/: annoying, tiresome
+  → Last
 
 Lastwagen /ˈlastvaːɡən/, der, -: truck
   Lastwagen dürfen hier nicht überholen.
@@ -521,6 +526,7 @@ Leinwand /ˈlainvant/, die, ..e: screen
   The thieves simply cut the canvas out of the frame.
 
 leise /ˈlaizə/: quiet, quietly
+  nur schwach hörbar
   Pst, sei / seid bitte leise!
   Ssh! Please be quiet!
   Ich hatte nicht die leiseste Ahnung, dass …

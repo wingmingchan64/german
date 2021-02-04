@@ -1,6 +1,8 @@
 ﻿========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
 30 https://www.youtube.com/watch?v=NUP9F9_ygoo
+https://www.youtube.com/watch?v=cl42wTJyXVk&t=1057s
+https://www.youtube.com/watch?v=HrSXHs3LMlU
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
@@ -251,6 +253,7 @@ Abkürzung /ˈapkʏrʦʊŋ/, die, ~|-en: abbreviation, shortcut
   eine Abkürzung nehmen / fahren: to take a shortcut
 
 Ablauf /ˈaplauf/, der: sequence, course, procedure
+  Aufeinanderfolge von etw
   der genaue zeitliche Ablauf der Ereignisse
 
 ablaufen: to expire, to run out, to go, to drain
@@ -804,6 +807,7 @@ Aktien → Aktie
 Aktion /akˈʦjoːn/, die, ~|-en: action, operation
 
 aktivieren /aktiˈviːrən/: to activate
+  dazu bringen etw. zu tun
   Viele Parteimitglieder wurden aktiviert, bei dem Fest mitzuhelfen.
   Many party members were mobilized to help at the festivities.
 
@@ -1902,6 +1906,10 @@ artgerecht /ˈartɡərɛçt/: species-appropriate
 
 Arthritis /arˈtriːtɪs/, die
 
+artig /ˈaːɐtɪç/: well-behaved
+  gehorsam, brav
+  Seid schön artig, ja?
+
 Artikel /arˈtɪkəl/, der, -s|~: article
   einen Artikel über etw. [ accusative ] verfassen / lesen
   to write/read an article about sth
@@ -1985,6 +1993,11 @@ auf /auf/: on, onto, at, to (accussative/dative)
   Is the supermarket still open?
 
 auf-: upward, opened, getting bigger
+
+Aufeinanderfolge, die: sequence; succession
+  ≈ Ablauf, Reihenfolge
+
+aufeinanderfolgend: consecutive
 
 Aufbau, der: construction, structure
 
@@ -3061,6 +3074,9 @@ Austreibung, die, ~|uncountable: exorcism, expulsion
 
 austreten: to leave
   seine Mitgliedschaft in einer Gemeinschaft kündigen
+
+ausüben
+  regelmäßig tun; anwenden; auf jdn wirken lassen
 
 Auswahl /ˈausvaːl/, die: -en: selection
   Angesichts des großen Angebots fällt die Auswahl schwer.

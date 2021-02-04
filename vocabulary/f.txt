@@ -43,7 +43,10 @@ Faden /ˈfaːdən/, der, -s|..: thread
 Faden /ˈfaːdən/, der, -s|~: fathom
 
 fähig: capable, competent, able
+  zu etw. in der Lage
   teamfähig
+  zu etw. fähig
+  jd ist zu allem fähig
 
 Fähigkeit /ˈfɛːɪçkait/, die, -en: ability, capability, skill
   gute handwerkliche Fähigkeiten haben: to be good at working with your hands
@@ -193,6 +196,9 @@ fangen /ˈfaŋən/: to bag, to capture, to catch, to trap
 
 Fänger: captor
   → fangen
+
+fantastisch
+  der Vorstellungskraft entspringend, nicht real; sehr gut
 
 Fantasie /fantaˈziː/, die
 
@@ -911,6 +917,8 @@ Frage /ˈfraːɡə/, die, Fragen: question
 Fraktur /frakˈtuːr/, die, ~|-en: fracture, Gothic (lettering type), Old English, black letter
   das Buch ist in Fraktur gedruckt
 
+Franken, der
+
 Frankreich /ˈfraŋkraiç/, das: France
 
 Franzose, der, Französin, Franzosen
@@ -927,7 +935,7 @@ frau /frau/: you, one
 *Fräulein /ˈfrɔylain/, das, -s|~: miss, waitress
   Fräulein Müller: Miss Müller
 
-frech /frɛç/: fresh, cheeky, impudent
+frech /frɛç/: fresh, cheeky, impudent, naughty
   Werd bloß nicht frech!
   Now don't get fresh with me!
 
@@ -1183,6 +1191,7 @@ funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Das Handy funktioniert nicht mehr richtig.
 
 für: for (accusative)
+  für mich / dich / ihn / sie / uns / euch / sie / jemanden
   Tag für Tag: day after day
 
 furchtbar /ˈfʊrçtbaːɐ/: awful, dreadful, terrible

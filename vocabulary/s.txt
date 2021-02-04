@@ -60,6 +60,7 @@ Sage, die: legend
 sagen: to say
   sage, sagst, sagt, habe gesagt
   sagte, sagtest, sagte, sagten, sagtet
+  Worte sprechen
   Ehrlich gesagt: Ich weiß es nicht.
   To be honest, I don't know.
 
@@ -1159,6 +1160,7 @@ schützen /ˈʃʏʦən/: to protect
   to wear a hat and gloves to keep the cold out
 
 schwach /ʃvax/: weak, poor
+  nicht fähig, schwere Lasten zu heben usw
   Dafür sind seine Muskeln zu schwach.
   My muscles are too weak for that.
   Der Kaffee ist viel zu schwach.
@@ -1186,6 +1188,9 @@ Schwalbe /ˈʃvalbə/, die, ~|-en: swallow
   Schwalbennest: swallow's nest
 
 schwanger: pregnant
+  ein Kind erwartend
+
+Schwangerschaft, die: pregnancy
 
 schwank: frail, slender
 
@@ -1473,7 +1478,8 @@ Senat /zeˈnaːt/, der, -(e)s, -e: senate
   Der Berliner Senat erhofft sich Hilfe vom Bundesverfassungsgericht.
   The Berlin Senate is hoping for assistance from the Federal Constitutional Court.
 
-senden /ˈzɛndən/: to broadcast
+senden /ˈzɛndən/: to send, to broadcast
+  im Radio oder Fernsehen bringen; an einen Ort / zu jdm transportieren / gelangen / fahren lassen
   Das ZDF sendet den Spielfilm ab 21:45 Uhr.
   ZDF is broadcasting the movie at 9.45 p.m.
   Sendemast: broadcasting tower
@@ -2881,6 +2887,7 @@ Suite /ˈsviːtə/, die, -n
   eine Suite für Klavier: a suite for piano
 
 Summe /ˈzʊmə/, die, -n: sum
+  Geldbetrag; Ergebnis einer Rechnung, bei der man Zahlen zusammenzählt
   eine sechsstellige Summe verdienen: to earn a six-figure sum
   Die Summe von fünf plus vier ist neun.
   The sum of five plus four is nine.

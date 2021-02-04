@@ -83,6 +83,8 @@ Edle, der, -n: noble, nobleman
 
 edle → edel
 
+Effekt /ɛˈfɛkt/, der
+
 effektiv /ɛfɛkˈtiːf/: effective
 
 egal /eˈɡaːl/: whatever, irrelevant
@@ -254,6 +256,9 @@ einatmen /ˈain|aːtmən/: to breathe in
   She took a deep breath.
 
 Einbahnstraße /ˈainbaːnʃtraːsə/, die: one-way street
+
+einberechnen: to allow for (in one's calculations)
+  → berechnen: to calculate
 
 einbiegen /ˈainbiːɡən/: to turn
   Da vorn musst du rechts einbiegen.
@@ -675,6 +680,9 @@ einschalten /ˈainʃaltən/: to switch on
   Schaltest du bitte den Fernseher/das Licht ein?
   Could you switch on the TV/light, please?
 
+einschieben: to put in, to insert
+  in etwas hineinschieben; in eine Reihenfolge, einen Ablauf o. Ä. zusätzlich einfügen
+
 einschlafen /ˈainʃlaːfən/: to fall asleep, to pass away
   Pst, das Baby ist gerade eingeschlafen!
   Shush – the baby's just fallen asleep.
@@ -979,6 +987,7 @@ empfehlen /ɛmˈpfeːlən/: to recommend
   empfehle, empfiehlst, empfiehlt, habe empfohlen
   empfahl
   empfiehl, empfehlt
+  jdm sagen, dass er sich für jdn / etw. entscheiden soll
   Kannst du mir einen guten Friseur empfehlen?
   Can you recommend a good hairdresser?
 
@@ -1045,8 +1054,11 @@ Engländer, der, Engländerin, Engländer
 Engpass /ˈɛŋpas/, der: bottleneck, narrow pass
   → eng: narrow
 
-Englisch /ˈɛŋlɪʃ/
+Englisch /ˈɛŋlɪʃ/, das
   die englische Sprache
+
+Enkel, Enkelin
+  Kind des eigenen Kindes
 
 Enquete /ãˈkɛːt(ə)/, die, -n: official inquiry
 
@@ -2052,6 +2064,8 @@ etwas /ˈɛtvas/: something, a little, somewhat
 Eule /ˈɔylə/, die, ~|-n: owl
   der Schrei einer Eule: the hoot of an owl
 
+Euro, der
+
 Europa /ɔyˈroːpaː/, das
 
 europäisch /ɔyroˈpɛːɪʃ/: European
@@ -2073,6 +2087,9 @@ Exemplar /ɛksɛmˈplaːɐ/, das, -e: specimen, copy
 
 Existenz /ɛksɪsˈtɛnʦ/, die, -en: existence
   die Existenz Gottes bezweifeln: to cast doubt on the existence of God
+
+existieren /ɛksɪsˈtiːrən/
+  tatsächlich bestehen, leben, auf der Welt vorhanden sein; auf bestimmte Art sein Leben finanzieren
 
 Exklave /ɛksˈklaːvə/, die: exclave
 

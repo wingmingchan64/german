@@ -235,6 +235,8 @@ reagieren /reaˈɡiːrən/: to react, to respond
 
 Reaktion /reakˈʦjoːn/, die: reaction
 
+real /reˈaːl/
+
 realisieren /realiˈziːrən/: to realize, to carry out, to implement
   ≈ verwirklichen
   Ich glaube, das lässt sich realisieren.
@@ -488,6 +490,7 @@ Reihe /ˈraiə/, die: row, line, ranks
    an die Reihe kommen / an der Reihe sein: to be next
 
 Reihenfolge /ˈraiənfɔlɡə/, die, -n: sequence, order
+  festgelegte Ordnung, in der Dinge oder Handlungen nacheinander kommen
   eine Liste in alphabetischer Reihenfolge: a list in alphabetical order
 
 Reim /raim/, der, -(e)s|-e: rhyme

@@ -97,7 +97,8 @@ Tanz /tanʦ/, der, Tänze /ˈtɛnʦə/: dance, ball
   Er bat sie um den nächsten Tanz.
   He asked her for the next dance.
 
-Tante /ˈtantə/, die: aunt
+Tante /ˈtantə/, die, ~|-n: aunt
+  Schwester (oder Frau des Bruders) des Vaters oder der Mutter
   Tante Johanna und Onkel Bernd kommen morgen zu Besuch.
   Aunt Johanna and Uncle Bernd are coming to visit tomorrow. 
 
@@ -742,7 +743,8 @@ trinken: to drink
   trinke, trinkst, trinkt, habe getrunken
   Zum Trinken?
 
-Trinkgeld, das: tip
+Trinkgeld, das, -(e)|-er: tip
+  zusätzliches Geld, das der Kunde für eine Dienstleistung gibt
   Er gab dem Taxifahrer ein großzügiges Trinkgeld.
 
 trist /trɪst/: dreary

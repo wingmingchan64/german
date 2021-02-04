@@ -255,6 +255,7 @@ U-Bahnstation, die
   The suspect is being kept under surveillance around the clock.
 
 überweisen /yːbɐˈvaizən/: to transfer, to refer
+  von einem Konto an ein anderes senden lassen; zu einem anderen Arzt schicken
   Die Miete wird am Monatsanfang per Dauerauftrag auf sein Konto überwiesen.
   The rent is transferred to his account automatically at the beginning of the month.
   Mein Hausarzt hat mich zur Weiterbehandlung an einen Spezialisten überwiesen.
@@ -686,6 +687,7 @@ Ungewissheit /ˈʊnɡəvɪshait/, die: uncertainty
 ungewöhnlich /ˈʊnɡəvøːnlɪç/: unusual
 
 ungezogen: naughty, impertinent
+  frech, nicht gehorsam
   Sei nicht so ungezogen zu deiner Tante!
 
 ungläubig /ˈʊnɡlɔybɪç/: disbelieving, incredulous, unbelieving
@@ -954,7 +956,13 @@ Uraufführung /ˈuːɐ|auffyːrʊŋ/, die: premiere
 
 Ureinwohner, der: native (inhibitant)
 
+Urenkel, Urenkelin
+
 Urgroßeltern: great-grandparents
+
+Urgroßmutter, die
+
+Urgroßvater, der
 
 Urheber /ˈuːɐheːbɐ/, der: author, creator, initiator
 
@@ -976,6 +984,7 @@ Ursache /ˈuːɐzaxə/, die: cause
   → verursachen
   Die eigentliche Ursache des Unglücks ist noch nicht geklärt.
   The real cause of the accident hasn't yet been established.
+  Keine Ursache! You’re welcome! kurze Antwort auf jds Dank
 
 Ursprung /ˈuːɐʃprʊŋ/, der: origin
   der Ursprung des Lebens: the origin of life

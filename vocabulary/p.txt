@@ -103,6 +103,13 @@ parteiisch /parˈtaiɪʃ/: biased
 
 Partikel /parˈtɪkəl/, das: particle
 
+Partner, Partnerin
+
+Partnerschaft, die: partnership
+
+partnerschaftlich: based on partnership
+  wie unter Partnern üblich
+
 Party, die
   eine Party feiern / geben
   Hab viel Spaß bei der Party!
@@ -349,7 +356,7 @@ Plan /plaːn/, der, ..e: plan
   ein teuflischer Plan: a fiendish plan
 
 planen /ˈplaːnən/: to plan
-   eine Reise sorgfältig planen: to plan a journey carefully
+  eine Reise sorgfältig planen: to plan a journey carefully
 
 planmäßig /ˈplaːnmɛːsɪç/: on schedule, as planned
 
@@ -504,7 +511,8 @@ Präsident /prɛziˈdɛnt/, -en|-en, -in
 Praxis /ˈpraksɪs/, die, ~|Praxen / Praktiken: practice
   konkretes Handeln, Anwendung von Methoden und Wissen
 
-Preis /prais/, der: price
+Preis /prais/, der, -es|-e: price
+  Geldbetrag, der für etw. bezahlt werden muss
   Die Preise für Internetzugänge sind gesunken.
   The price of internet access has fallen.
 

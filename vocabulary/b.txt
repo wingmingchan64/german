@@ -204,6 +204,7 @@ beabsichtigen /beˈ|apzɪçtɪɡən/: to intend, to aim
   Wir beabsichtigen, ein Haus zu bauen.
 
 beachten: to heed, to keep in mind, to take notice of
+  tun, was etw. verlangt; berücksichtigen, zur Kenntnis nehmen
   Er hat die Verkehrsregeln nicht beachtet.
   He failed to comply with the traffic regulations.
   Beachten Sie bitte, dass das Rauchen hier untersagt ist.
@@ -892,8 +893,10 @@ benachrichtigen /bəˈnaːxrɪçtɪɡən/: to inform, to notify
 benedeien /beneˈdaiən/: to bless, to glorify
   benedeie, benedeist, habe gebenedeit
 
-benehmen /bəˈneːmən/: to behave
+benehmen /bəˈneːmən/, sich: to behave
   ≈ betragen
+  Benimm dich nicht so ungezogen!
+  Benimm dich!
 
 beneiden: to envy
   jdn um seinen Erfolg beneiden
@@ -1014,6 +1017,7 @@ berichten /bəˈrɪçtən/: to report
   The newspapers had detailed reports of the accident.
 
 berücksichtigen /bəˈrʏkzɪçtɪɡən/: to take into account/consideration, to consider
+  beachten, mit einberechnen
   Das muss bei der Planung berücksichtigt werden.
 
 Beruf /bəˈruːf/, der, -e: occupation
@@ -1285,6 +1289,7 @@ bestaunen /bəˈʃtaunən/: to gaze in admiration at, to marvel at
 
 bestehen /bəˈʃteːən/: to be, to exist, to pass
   bestehe, bestehst, besteht, habe bestanden
+  existieren, vorhanden sein
   Er hat (die Prüfung) nicht bestanden.
   He didn't pass (the exam).
   auf etw bestehen [dative]: to insist on sth
@@ -2067,7 +2072,10 @@ bohren /ˈboːrən/: to drill
   ein Loch in die Wand bohren
   to drill a hole in the wall
 
+Bohrkrone, die: drill bit
+
 Bohrmaschine /ˈboːɐmaʃiːnə/, die: drill
+  elektrisches Werkzeug, mit dem man Löcher bohren kann
   mit der Bohrmaschine Löcher für die Dübel in die Wand bohren
   to use the electric drill to drill holes in the wall for the wall plugs 
 

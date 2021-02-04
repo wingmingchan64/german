@@ -66,6 +66,8 @@ wählen /ˈvɛːlən/: to choose, to vote (for), to elect, to dial
   She was elected mayor/onto the city council.
   den Notruf wählen: to dial the emergency services
 
+Wähler, Wählerin: voter
+
 Wahlkampf /ˈvaːlkampf/, der: election campaign
 
 Wahn /vaːn/, der: delusion, mania
@@ -405,13 +407,16 @@ weise: wise
 
 Weisel, der: queen bee
 
-weisen /ˈvaizən/: to point, to show, to reject
+weisen /ˈvaizən/: to point, to show
   weise, weist, weist, habe gewiesen
   wies, wiesest, wies, wiesen, wieset
   gewiesen
+  irgendwohin zeigen
   Sie wies mit der Hand in seine Richtung.
   She pointed in his direction.
   jdm die Tür weisen: to show sb the door
+  etw. von sich weisen: etw. ablehnen, to reject
+  Er wies die Vorwürfe weit von sich.
 
 weit /vait/: long, far, extensive, vast, big
 
@@ -869,6 +874,8 @@ wirken /ˈvɪrkən/: to have an effect, to work, to seem
 
 Wirkung, die: effect
   Ergebnis eines Vorgangs
+  ≈ Effekt
+  ein Medikament mit starker Wirkung
 
 wirr /vɪr/: confused, in a mess
   eine wirre Verschwörungstheorie: a confused conspiracy theory

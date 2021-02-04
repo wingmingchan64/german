@@ -95,6 +95,7 @@ Garantie /ɡaranˈtiː/, die, ~|-n: guarantee
   I think it'll work but I can't guarantee it.
 
 garantieren /ɡaranˈtiːrən/: to guarantee
+  jdm ein Recht einräumen; für etw. die Verantwortung übernehmen
 
 Garderobe /ɡardəˈroːbə/, die, ~|-n: wardrobe
   Ich muss meine Garderobe für den Sommer aussortieren.
@@ -393,7 +394,8 @@ gegangen → gehen
 
 gegebenenfalls: if need be, if necessary, if applicable
 
-gegen /ˈɡeːɡən/: against, toward, at about, for (accusative)
+gegen /ˈɡeːɡən/: against, toward, at about/around, for (accusative)
+  in Richtung zu jdm / etw. hin; in die Richtung, aus der jd / etw. kommt; drückt einen Widerstand, einen Gegensatz aus; nennt den Gegner im Kampf, Spiel, Streit; nennt die Krankheit o. Ä., die bekämpft wird; gibt einen ungefähren Zeitpunkt an
   gegen Missstände protestieren/vorgehen: to protest/act against social evils
   Ich komme gegen fünf Uhr zurück.
   I'll be back around five.
@@ -527,6 +529,7 @@ gehorchen /ɡəˈhɔrçən/: to obey, to work
 gehören /ɡəˈhøːrən/: to belong to, to be among, to go, to require, to be part of
   Wem gehört dieser Stift?
   Whose pen is this?
+  Er gehört mir.
   Kostenlose Lieferung gehört zu unserem Service.
   Free delivery is part of our service.
   gehören, sich: to be proper
@@ -536,6 +539,7 @@ Gehorsam /ɡəˈhoːɐzaːm/, der, -s|uncountable: obedience
   bedingungslosen Gehorsam verlangen: to demand unquestioning obedience
 
 gehorsam: obedient
+  ↔ ungezogen
 
 Geige, die: violin
 
@@ -596,6 +600,7 @@ Geländewagen, der: cross-country or general-purpose vehicle
 gelang → gelingen
 
 gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to, to reach
+  zu einem bestimmten Ziel kommen; in einen bestimmten Zustand kommen
   Wie ist dieses Schreiben in deine Hände gelangt?
   How did that letter find its way into your hands?
   an die Macht / zu Ruhm gelangen
@@ -622,6 +627,11 @@ Gelbe, das: yolk
 Geld /ɡɛlt/, das, -(e)s|-er: money
   Geld vom Konto abheben: to withdraw money from your account
   Einem hundertstel der Menschen gehören also ein Drittel der Gelder.
+
+Geldautomat, der
+  Gerät, das beim Einschieben einer entsprechenden Karte Bargeld ausgibt
+
+Geldbetrag, der: amount (of money)
 
 Geldbuße, die: fine
   ≈ Strafe
@@ -1618,14 +1628,20 @@ grummeln /ˈɡrʊməln/: to grumble, to growl, to rumble
   In meinem Bauch grummelt es. Ich glaube, ich habe das Essen nicht vertragen.
   My stomach's growling. I don't think the food agreed with me.
 
+Grün /ɡryːn/, das: green
+  ein helles/kräftiges Grün: a light/strong green
+  
 grün /ɡryːn/: green
   grüner Salat: lettuce
 
 Grund /ɡrʊnt/, der: reason, ground
 
-gründen /ˈɡrʏndən/: to found, to establish, sth is based on sth
+gründen /ˈɡrʏndən/: to found, to establish
   Wann wurde Rom gegründet?
+  When was Rome founded?
+  etw. gründet sich auf etw.: sth is based on sth
   Worauf gründet sich sein Erfolg / Ruhm?
+  What's his success/fame based on?
 
 Grundgesetz, das: Basic Law
   Verfassung der Bundesrepublik Deutschland
@@ -1635,17 +1651,8 @@ Grundlage /ˈɡrʊntlaːɡə/, die, -n: basis
   Diese Anschuldigung entbehrt jeder Grundlage.
   That accusation has no basis in fact.
 
-Grün /ɡryːn/, das: green
-  ein helles/kräftiges Grün: a light/strong green
-
-Grund /ɡrʊnt/, der: reason
-
-gründen /ˈɡrʏndən/: to found, to establish
-  Wann wurde Rom gegründet?
-  When was Rome founded?
-  etw. gründet sich auf etw.: sth is based on sth
-  Worauf gründet sich sein Erfolg / Ruhm?
-  What's his success/fame based on?
+gründlich
+  (fast) alles berücksichtigend, erfassend
 
 Grundsatz /ˈɡrʊntzaʦ/, der, -es|..e: principle
   strenge erzieherische Grundsätze haben

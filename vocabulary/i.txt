@@ -168,6 +168,8 @@ irgendjemand: anyone
 
 irgendwann: sometime
 
+irgendwelcher/irgendwelche/irgendwelches: any
+
 irgendwie :somehow
 
 irgendwo: somewhere

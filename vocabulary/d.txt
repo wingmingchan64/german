@@ -167,7 +167,8 @@ Darm, der: intestine
 
 darunter: among them, including
 
-darstellen /ˈdaːɐʃtɛlən/: to describe, to portray, to show, to depict, to pose, to represent
+darstellen /ˈdaːɐʃtɛlən/: to describe, to portray, to show, to depict, to pose, to represent, to constitute
+  anderen erklären, wie etw. ist; etw. zeigen; eine Rolle spielen; bedeuten, sein
   die Probleme völlig falsch / realistisch / übertrieben darstellen
   to give a completely wrong/a realistic/an exaggerated depiction of the problems
   Was soll dieses Bild darstellen?
@@ -494,6 +495,9 @@ Dienstag, der
 
 Dienstbarkeit, die: servitude, service
 
+Dienstleistung, die: service
+  berufliche Tätigkeit, bei der man keine Waren produziert, sondern etw. für jdn tut
+
 dienstlich: official, business, on business
   dienstlich unterwegs sein: to be away on business
 
@@ -543,6 +547,8 @@ Doktor /'dɔktoːɐ/, der, Doktoren, Doktorin: doctor
 Dokument /dokuˈmɛnt/, das, -(e)s|-e: document
   ein beglaubigtes Dokument vorlegen: to produce a certified document
 
+Dollar, der
+
 Dom /'doːm/, der, -(e)s|-e: cathedral
   der Kölner Dom
 
@@ -577,6 +583,9 @@ Dose /ˈdoːzə/, die: canister, can
 Dorf /dɔrf/, das, -(e)s|..er: village
   Er ist auf dem Dorf aufgewachsen.
   He grew up in a village.
+
+Dorn, der, -(e)s|-n: thorn
+  stechende Spitze an manchen Pflanzen
 
 dortige /ˈdɔrtɪɡə/: local
 
@@ -730,6 +739,7 @@ Druck, der: pressure
 drucken /ˈdrʊkən/: to print
 
 drücken /ˈdrʏkən/: to push, to press
+  einen Druck auf etwas ausüben
   (auf) die Austaste drücken: to press the off button
   jdm die Hand drücken: to squeeze sb's hand
   jdn / etw. an sich drücken: to hug sb/sth
@@ -892,6 +902,9 @@ durchstöbern /dʊrçˈʃtøːbɐn/: to rummage through
   → stöbern
   alle Schubladen nach etwas durchstöbern
   to search (od rummage through) all the drawers for sth
+
+durchsuchen
+  gründlich an allen Stellen suchen
 
 durchwaten: to wade
 

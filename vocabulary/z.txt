@@ -106,7 +106,8 @@ Zeichnung, die: drawing, markings
   eine Zeichnung anfertigen
   eine Katze mit schöner Zeichnung
 
-zeigen /ˈʦaiɡən/: to show
+zeigen /ˈʦaiɡən/: to show, to point
+  jdn etw. sehen lassen; jds Aufmerksamkeit optisch in eine Richtung lenken
   Zeigst du mir mal deine neuen Schuhe?
   Would you show me your new shoes?
 
@@ -835,6 +836,8 @@ Zweig /ʦvaik/, der: branch
   Äste und Zweige für ein Feuer sammeln
   to gather twigs and branches for a fire
 
+zweimal
+
 zweisprachig /ˈʦvaiʃpraːxɪç/
 
 zweit /ʦvait/
@@ -852,6 +855,9 @@ Zwiebel /ˈʦviːbəl/, die, ~|-n: onion
 
 zwiebeln: /ˈʦviːbəln/: to give a hard time
   jdn mit unnötigen oder lästigen Aufgaben plagen
+
+Zwilling, der, -s|-e: twin
+  eines von zwei Kindern aus derselben Schwangerschaft
 
 zwingen /ˈʦvɪŋən/: to force, to compel
   Du kannst mich nicht dazu zwingen, dir zu helfen!

@@ -129,7 +129,7 @@ mangels /ˈmaŋəls/: for lack of
   einen Angeklagten mangels Beweisen freisprechen
   to acquit a defendant for lack of evidence
 
-Mann /man/, der, Männer
+Mann /man/, der, -(e)|..er
 
 Mannequin /ˈmanəkɛ̃/, das: model
 
@@ -563,6 +563,7 @@ Mist: balls-up, a mess
 Mist /mɪst/, der, -es|uncountable: droppings, manure
 
 △mit /mɪt/: with (dative)
+  mit mir / dir / ihm / ihr / uns / euch / ihnen / jemandem
 
 Mitarbeiter /ˈmɪt|arbaitɐ/: employee
 
@@ -869,6 +870,10 @@ Muster /ˈmʊstɐ/, das, -s|~: pattern, model, example, marking
   ein Hemd mit Karomuster / Streifenmuster: a shirt with a checked/striped pattern
   Sie ist ein Muster an Tugend.
   She is a model of virtue.
+
+mustergültig /ˈmʊstɐɡʏltɪç/: exemplary, model
+  beispielhaft, vorbildlich
+  ein mustergültiges Benehmen
 
 mustern /ˈmʊstɐn/: to scrutinize, to eye
   jdn skeptisch mustern
