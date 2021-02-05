@@ -86,14 +86,11 @@ Ja, Amerikaner.
 21:28 Ich verstehe nur ein bisschen Deutsch.
 ========================================================
 entschuldigen:
- ich entschuldige, du entschuldigst, er/ihr
-entschuldigt, ich habe entschuldigt
+ ich entschuldige, du entschuldigst, er/ihr entschuldigt, ich habe entschuldigt
 verstehen:
- ich verstehe, du verstehst, er/ihr versteht, ich
-habe verstanden
+ ich verstehe, du verstehst, er/ihr versteht, ich habe verstanden
 sein:
- ich bin, du bist, er ist, wir sind, ihr seid,
-ich bin gewesen
+ ich bin, du bist, er ist, wir sind, ihr seid, ich bin gewesen
 Leider verstehe ich kein Französisch
 /franˈʦøːzɪʃ/.
 I'm afraid I don't understand French.
@@ -148,26 +145,26 @@ küssen: to kiss
 ========================================================
 Body part:
 ========================================================
-Kopf m.: head
-Haar n.: hair
-Auge n.: eye
-Nase f.: nose
-Mund m.: mouth
-Zahn m.: tooth
-Zunge f.: tongue
-Gesicht /ɡəˈzɪçt/ n.: face
-Hals m.: neck
-Schulter /ˈʃʊltɐ/ f.: shoulder
-Körper /ˈkœrpɐ/ m.: body
-Arm m.: arm
-Hand f.: hand
-Finger m.
-Ellbogen m.: elbow
-Brust f.: breast
-Bauch /baux/ m.: belly, stomach
-Rücken m.: back
-Schritt m.: crotch
-Bein n.: leg
-Fuß m.: foot
-Herz /hɛrʦ/ n.: heart
-Lunge f.: lung
+Kopf, der: head
+Haar, das: hair
+Auge, das: eye
+Nase, die: nose
+Mund, der: mouth
+Zahn, der: tooth
+Zunge, die: tongue
+Gesicht /ɡəˈzɪçt/, das: face
+Hals, der: neck
+Schulter /ˈʃʊltɐ/, die: shoulder
+Körper /ˈkœrpɐ/, der: body
+Arm, der: arm
+Hand, die: hand
+Finger, der
+Ellbogen, der: elbow
+Brust, die: breast
+Bauch /baux/, der: belly, stomach
+Rücken, der: back
+Schritt, der: crotch
+Bein, das: leg
+Fuß, der: foot
+Herz /hɛrʦ/, das: heart
+Lunge, die: lung
