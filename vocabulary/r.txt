@@ -548,6 +548,7 @@ reißen /ˈraisən/: to tear, to rip, to pull
   sich um jdn / etw reißen: to fight over sb/sth
 
 reiten: to ride
+  Welches Pferd hat er auf dem Turnier geritten?
 
 Reiter: rider
   Der Reiter zügelte sein Pferd.
@@ -567,6 +568,11 @@ reizen /ˈraiʦən/: to appeal to, to attract, to annoy, to provoke
 
 reizend /ˈraiʦənt/: charming, delightful
 
+Rekord /reˈkɔrt/, der
+  beste Leistung oder höchster / niedrigster Wert
+  Er hat den Rekord gebrochen.
+  Weltrekord
+
 Relation /relaˈʦjoːn/, die, -en: relation
   die Relation zwischen Angebot und Nachfrage
   the relation between supply and demand
@@ -580,7 +586,8 @@ Rendite /rɛnˈdiːtə/, die, -e: yield, return
   eine jährliche Rendite von 6 % abwerfen / erzielen: to bring in an annual return of 6%
 
 rennen /ˈrɛnən/: to run, to race
-  renne, rannte, gerannt
+  renne, bin gerannt
+  rannte, ranntest
   Sie musste um ihr Leben rennen.
   She had to run for her life.
 

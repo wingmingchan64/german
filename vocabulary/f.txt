@@ -390,6 +390,12 @@ Ferkel /ˈfɛrkəl/, das: piglet
 Fernbedienung /ˈfɛrnbədiːnʊŋ/, die, ~|-en: remote control
   Er stritt (sich) mit seiner Schwester um die Fernbedienung.
 
+Ferne, die
+  großer Abstand zu etw
+  Er betrachtete das Gebäude aus der Ferne.
+  In der Ferne sah man schon die Berge.
+  Die Prüfungen liegen noch in weiter Ferne.
+
 ferngesteuert /ˈfɛrnɡəʃtɔyɐt/: remote-controlled
   ein ferngesteuerter Staubsauger-Roboter: a remote-controlled robotic vacuum cleaner
 
@@ -528,6 +534,11 @@ Feuilleton /føjəˈtõ/, das, -s: arts section
 Fibel /ˈfiːbl/, die, Fibeln: primer
 
 Fick /fɪk/, der, -s|-s: fuck
+
+ficken
+  habe gefickt
+  fickte
+  mit jdm ficken
 
 Fieber /ˈfiːbɐ/, das, -: temperature, fever, bug
   krankhafte Erhöhung der Körpertemperatur
@@ -1191,7 +1202,7 @@ funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Das Handy funktioniert nicht mehr richtig.
 
 für: for (accusative)
-  für mich / dich / ihn / sie / uns / euch / sie / jemanden
+  für mich / dich / ihn / sie / uns / euch / sie / jemanden / wen
   Tag für Tag: day after day
 
 furchtbar /ˈfʊrçtbaːɐ/: awful, dreadful, terrible

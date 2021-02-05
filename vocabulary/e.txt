@@ -90,6 +90,7 @@ effektiv /ɛfɛkˈtiːf/: effective
 egal /eˈɡaːl/: whatever, irrelevant
   „Wann soll ich kommen?‟ – „Das ist ganz egal.‟
   "When should I come?" – "Any time."
+  Das ist ihm egal.
 
 egoistisch /eɡoˈ|ɪstɪʃ/
   selbstsüchtig
@@ -166,7 +167,7 @@ Eid /ait/, der: oath
 Eidgenossenschaft, die: confederation
 
 Eifer /ˈaifɐ/, der, -s|uncountable: eagerness, enthusiasm
-  
+  intensives, interessiertes Bemühen
   Voller Eifer machte sich der Junge an die Arbeit.
   Full of enthusiasm, the boy got down to work.
   im Eifer des Gefechts: in the heat of the moment 一時衝動
@@ -175,6 +176,9 @@ Eifer /ˈaifɐ/, der, -s|uncountable: eagerness, enthusiasm
 
 Eifersucht, die: jealousy
   Der Mord geschah aus Eifersucht.
+
+eifersüchtig /ˈaifɐzʏçtɪç/
+  Er war eifersüchtig auf die Kollegen seiner Frau.
 
 Eigelb /ˈaiɡɛlp/, das, -: yolk
   ≈ Dotter
@@ -788,6 +792,7 @@ Eintrag /ˈaintraːk/, der, -(e)s|..e: entry, record
   Who made the latest entries?
 
 eintragen /ˈaintraːɡən/: to sign in/on, to enroll, to register, to earn
+  irgendwo hineinschreiben; einzeichnen; in ein rechtsgültiges Verzeichnis schreiben
   Bitte tragen Sie sich / Ihren Namen in die Liste ein.
   Please sign in/enter your name on the list.
   Diese Straße ist auf der Karte nicht eingetragen.
@@ -1132,6 +1137,8 @@ enthüllen /ɛntˈhʏlən/: to reveal
   Die Fahnder enthüllten Anschlagspläne der terroristischen Vereinigung.
   The investigators revealed plans by the terrorist organization for an attack.
 
+Enthusiasmus /ɛntuˈzjasmʊs/, der
+
 entkommen /ɛntˈkɔmən/: to escape, to get away
   Sie ist ihren Verfolgern entkommen.
   She escaped from her pursuers.
@@ -1146,6 +1153,9 @@ entlanggehen: to walk along
 entlassen /ɛntˈlasən/: to dismiss, to let go
   Die Firma hat mehrere Mitarbeiter entlassen.
   The company had to let several employees go.
+
+entleeren /ɛntˈleːrən/
+  leer machen
 
 entmannen: to castrate
 
@@ -1301,6 +1311,10 @@ erachten /ɛɐˈ|axtən/
 erbarmen
   sich jds erbarmen: Mitleid mit jdm empfinden und ihm helfen
   Sie erbarmte sich des Jungen und gab ihm zu essen.
+
+erbauen
+  bauen
+  Die Kirche wurde im Jahr 1345 erbaut.
 
 Erbe /ˈɛrbə/, das, -s|uncountable: inheritance, heritage
   Er hat sein ganzes Erbe verspielt.
@@ -1746,6 +1760,12 @@ erregen /ɛɐˈreːɡən/: to annoy, to infuriate, to upset, to arouse
   wütend oder nervös machen; stimulieren
   Der Drohbrief hat sie sehr erregt.
   The threatening letter made her very upset.
+  Er war vor Wut ganz erregt.
+  freudig erregt: excited
+  
+Erregung, die
+  Zustand des Erregtseins / der Aufregung
+  freudiger Erregung
 
 erreichbar /ɛɐˈraiçbaːɐ/: available, accessible, reachable
   Ich bin morgen den ganzen Tag nicht erreichbar.

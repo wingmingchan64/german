@@ -563,7 +563,7 @@ Mist: balls-up, a mess
 Mist /mɪst/, der, -es|uncountable: droppings, manure
 
 △mit /mɪt/: with (dative)
-  mit mir / dir / ihm / ihr / uns / euch / ihnen / jemandem
+  mit mir / dir / ihm / ihr / uns / euch / ihnen / jemandem /wem
 
 Mitarbeiter /ˈmɪt|arbaitɐ/: employee
 
@@ -587,6 +587,13 @@ Mitglied /ˈmɪtɡliːt/, das, -er: member
 
 mithalten /ˈmɪthaltən/: to keep up, to join
   Er läuft so schnell, da kann ich nicht mithalten.
+
+Mithilfe, die: help, assistance
+
+mithilfe, prep
+  indem man etw. dazu benutzt, einsetzt
+  ein Problem mithilfe eines Tricks lösen
+  Ihr lernt Deutsch mithilfe eurer Computer.
 
 Mitleid /ˈmɪtlait/, das, -(e)s|uncountable: pity, compassion, sympathy
   Gefühl, jdn trösten oder in Not helfen oder nicht quälen zu wollen

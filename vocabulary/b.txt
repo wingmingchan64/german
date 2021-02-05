@@ -368,6 +368,7 @@ beeindrucken /bəˈ|aindrʊkən/: to impress
 beeindruckend /bəˈ|aindrʊkənt/: impressive
 
 beeinflussen /bəˈ|ainflʊsən/: to influence
+  auf jdn / etw. einen Einfluss ausüben
   Er lässt sich von seinen Freunden negativ beeinflussen.
   He allows himself to be negatively influenced by his friends.
   Die Umweltverschmutzung beeinflusst das Klima.
@@ -494,7 +495,7 @@ begeistert /bəˈɡaistɐt/: enthusiastic, excited, thrilled
   Das Publikum applaudierte (dem Sänger) begeistert.
   The audience applauded (the singer) enthusiastically.
 
-Begeisterung /bəˈɡaistərʊŋ/, die, ~|uncountable: enthusiasm
+Begeisterung /bəˈɡaistərʊŋ/, die, ~|uncountable: enthusiasm, excitement
   sich ohne Begeisterung an die Arbeit machen
   to set to work with no enthusiasm
 
@@ -1301,7 +1302,6 @@ bestehen /bəˈʃteːən/: to be, to exist, to pass
 bestehend: consisting, existing, current
   Geschirr: meist aus Porzellan oder Ton bestehende Gefäße zum Essen und Trinken
 
-
 besteigen /bəˈʃtaiɡən/: to climb
   Sie hat bereits mehrere Achttausender bestiegen.
   She has already climbed several eight-thousanders.
@@ -1315,6 +1315,9 @@ bestellen /bəˈʃtɛlən/: to order
   
 Bestellung /bəˈʃtɛlʊŋ/, die, -en: order
   eine Bestellung aufgeben: to place an order
+
+mein Bestes
+  Ich werde mein Bestes tun.
 
 bestimmen /bəˈʃtɪmən/: to decide, to determine
   eine Entscheidung über etw. treffen; mit wissenschaftlichen Methoden herausfinden, feststellen
@@ -2142,6 +2145,10 @@ Boulevardzeitung /buləˈvaːɐʦaitʊŋ/, die, -en: tabloid
   Der Skandal war auf den Titelseiten sämtlicher Boulevardzeitungen.
   The scandal was on the title page of all the tabloids.
 
+Bowling, das
+
+Box, die
+
 Branche /ˈbrãːʃə/, die: sector, industry, business
   Wir sind in der gleichen Branche tätig.
   We're in the same business.
@@ -2152,6 +2159,9 @@ Brand /brant/, der, -(e)s|..e: fire
   The fire department managed to put out the fire.
 
 Brandfall, der: fire
+
+brandneu /ˈbrantˈnɔy/
+  ganz neu
 
 Brandstiftung /ˈbrantʃtɪftʊŋ/, die, -en: arson
 

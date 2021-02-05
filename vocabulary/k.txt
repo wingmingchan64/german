@@ -27,6 +27,8 @@ kahl /kaːl/: bald, bare, barren
 Kahn /kaːn/, der, ..e: boat, barge
   eine Kahnfahrt machen: to go rowing 
 
+Kajak, der
+
 Kakao /kaˈkau/, der, |uncountable: cocoa
 
 Kaktus /ˈkaktʊs/, der, Kakteen: cactus
@@ -362,6 +364,7 @@ Kieselstein, der: pebblestone
 
 Kind /kɪnt/, das, -(e)s|-er|den -ern: child
   Die Kinder spielen im Hof.
+  Den Kindern geht es gut.
 
 Kinderbett, das: crib
 
@@ -1075,6 +1078,8 @@ kränkeln /ˈkrɛnkəln/: to be not too well, to be sickly
 
 Krankenhaus /ˈkraŋkənhaus/, das, -es|..er: hospital
 
+Krankenversicherung, die
+
 krankgeschrieben: on sick leave
   krankgeschrieben sein
 
@@ -1124,9 +1129,10 @@ kreischen /ˈkraiʃən/: to screech, to squeal
   Er bremste mit kreischenden Reifen.
   He braked, tires screeching.
 
-kreisen /ˈkraizən/: to circle
+kreisen /ˈkraizən/: to circle, to revolve
   Ein Adler kreiste am Himmel.
   An eagle was circling in the sky.
+  Die Erde kreist um die Sonne.
   etw. kreisen lassen: to pass sth around
   Sie ließen eine Flasche kreisen.
   They passed a bottle around.

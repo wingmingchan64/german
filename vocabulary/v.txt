@@ -75,7 +75,7 @@ Veranstaltung /fɛɐˈ|anʃtaltʊŋ/, die, -en: organization, event
   eine öffentliche Veranstaltung besuchen: to go to a public event
   Kulturveranstaltung
 
-verantworten
+verantworten /fɛɐˈ|antvɔrtən/
   die Verantwortung übernehmen
   Wer hat das Unglück zu verantworten?
 
@@ -260,7 +260,7 @@ Vereinigung /fɛɐˈ|ainɪɡuŋ/, die: organization
 
 verengen /fɛɐˈ|ɛŋən/: to contract, to narrow
 
-Verfahren /fɛɐˈfaːrən/, das, -: process, procedure
+Verfahren /fɛɐˈfaːrən/, das, -s|~: process, procedure
   moderne, umweltfreundliche Verfahren anwenden
   to use modern, environmentally-friendly processes
 
@@ -466,6 +466,8 @@ verheimlichen /fɛɐˈhaimlɪçən/: to keep secret, to hide
 verheiraten /fɛɐˈhairatən/: to marry, to get married
 
 verheiratet /fɛɐˈhairatət/: married
+  Er ist mit einem Deutschen verheiratet.
+  Sie ist mit einer Deutschen verheiratet.
 
 verheißen: to promise
   Die ersten Ergebnisse verheißen wenig Gutes.
@@ -1740,6 +1742,7 @@ Vorsprung /ˈfoːɐʃprʊŋ/, der (M): lead, projection
   He won by three points.
 
 vorstellen /ˈfoːɐʃtɛlən/: to imagine, to understand sth by sth, to introduce, to come/go for an interview, to present, to put forward(s)
+  Das kann ich mir vorstellen. (reflexive + dative)
   Unter gutem Unterricht stelle ich mir aber etwas anderes vor!
   That's not what I understand by good teaching, however!
   Darf ich Ihnen meine Tochter Kerstin vorstellen?

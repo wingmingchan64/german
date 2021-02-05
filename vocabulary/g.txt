@@ -388,6 +388,10 @@ Geflüster, das, -s|uncountable: whispering, rustling
 Gefühl /ɡəˈfyːl/, das: feeling
   seine Gefühle zeigen/verbergen: to show/hide your feelings
 
+gefühlsbetont: emotional
+  stark von Gefühlen beeinflusst, sie zeigend
+  Gefühlsbetonte Jungen werden oft als Weichlinge kritisiert.
+
 gefunden → finden
 
 gegangen → gehen
@@ -1374,6 +1378,7 @@ Gläubige /ˈɡlɔybɪɡə/, der-die, -n: believer
 gleich /ɡlaiç/: same, equal, immediately, straightaway
   Die beiden Arbeiten haben die gleiche Zahl von Fehlern.
   The two papers have the same number of mistakes.
+  Du hast genau den gleichen Fehler wieder gemacht.
   ≈ sofort
   gleich nach der Schule: straight after school
   Sie wohnt gleich neben dem Bahnhof.
@@ -1541,10 +1546,13 @@ grau /ɡrau/: grey
 *Graupel /ˈɡraupəl/, die: sleet
 
 greifen /ˈɡraifən/ (nach): to seize, to grab, to reach, to stop
+  etw. mit der Hand nehmen
   Ich griff mir die Schlüssel und verschwand.
   I grabbed the keys and disappeared.
   Sie griff in die Tasche und holte ihren Ausweis heraus.
   She reached into her bag and took out her ID.
+  zu etw. greifen: etw. mit der Hand nehmen; etw. benutzen, anwenden
+  dann greif zum Telefon und ruf an.
 
 grell /ɡrɛl/: dazzling
 
@@ -1713,6 +1721,7 @@ gut /ɡuːt/: good
   Für die Jahreszeit war das Wetter ganz gut.
   For the time of the year the weather was quite good.
   Kannst du gut kochen?
+  Ich werde mein Bestes tun, Ihre Wünsche zu berücksichtigen.
 
 Güter, pl: goods
 

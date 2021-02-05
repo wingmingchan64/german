@@ -23,6 +23,7 @@ Wachs /vaks/, das, -es|uncountable: wax
 
 wachsen /ˈvaksən/: to grow
   als Lebewesen oder Teil eines Lebewesens größer oder länger werden
+  Ich lasse mir die Haare wachsen.
 
 wächst → wachsen 
 
@@ -159,7 +160,9 @@ wandern /ˈvandɐn/: to hike
   They did a lot of hiking on vacation.
 
 Wanderung /ˈvandərʊŋ/, die: hike
-  
+
+Wandschrank, der
+
 wandte → wenden
 
 Wange /ˈvaŋə/, die, ~|-n: cheek
@@ -545,7 +548,8 @@ Werbung /ˈvɛrbʊŋ/, die, -en: advertisement(s), commercial(s)
 werden /ˈveːɐdən/: to become
   werde, wirst, wird, werdet, bin geworden
   Es wird schon hell draußen.
-  It's already getting light outside. 
+  It's already getting light outside.
+  Sein Ziel ist es, Arzt zu werden.
 
 werfen /ˈvɛrfən/: to throw
   werfe, wirfst, wirft, ihr werft, habe geworfen
@@ -908,6 +912,8 @@ Wischer, der: sponge, wiper
 
 wissen /ˈvɪsən/: to know
   weiß, weißt, weiß, ihr wisst, habe gewusst
+  wusste, wusstest
+  wiss, wisset
 
 Wissenschaft /ˈvɪsənʃaft/, die, ~|-en: science, research, academia
   die Erkenntnisse der modernen Wissenschaft: the findings of modern science
@@ -992,6 +998,9 @@ wohlhabend: well-to-do, prosperous
 wohlig /ˈvoːlɪç/: cozy, pleasant
   Wohlige Wärme breitete sich im Zimmer aus.
   A cozy warmth spread through the room.
+
+Wohlwollen, das
+  freundschaftliche Einstellung jdm gegenüber
 
 wohnen /ˈvoːnən/: to live
   Wo wohnst du?

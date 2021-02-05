@@ -3,6 +3,7 @@
 30 https://www.youtube.com/watch?v=NUP9F9_ygoo
 https://www.youtube.com/watch?v=cl42wTJyXVk&t=1057s
 https://www.youtube.com/watch?v=HrSXHs3LMlU
+https://www.youtube.com/watch?v=wk2z125YDeI&t=789s
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
@@ -379,6 +380,9 @@ abschätzig /ˈapʃɛʦɪç/: derogatory
   Das war nicht abschätzig gemeint.
   That wasn't meant to be condescending.
 
+abscheiden
+  von jemandem absondern, abtrennen; ausscheiden; sterben
+
 Abscheu /ˈapʃɔy/, der, -s|uncountable: revulsion
   Abscheu vor Spinnen haben: to hate spiders
 
@@ -738,6 +742,8 @@ Affront /aˈfrõː/, der, -s|-s: affront
   Das Angebot der Arbeitgeber war ein Affront gegen die Gewerkschaften.
   The employers' offer was an insult to the labor unions.
 
+Afrika, das
+
 Agentur /aɡɛnˈtuːɐ/, die: agency
 
 Aggressivität /aɡrɛsiviˈtɛːt/, die, ~|uncountable: aggressiveness
@@ -945,6 +951,7 @@ alt /alt/: old
   Für solchen Blödsinn bist du schon zu alt.
   You're too old for such nonsense.
   Ich bin älter / jünger als du.
+  Er ist zwei Jahre älter als ich.
 
 altbewährt: well-proven
   → bewährt: proven
@@ -1589,6 +1596,10 @@ anspannen: to harness, to tense
 Anspannung, die: tension, strain
   gespannte Konzentration, nervliche Belastung durch Angst, Druck usw.
 
+ansprechen: to speak to
+  sich mit Worten an jdn wenden
+  Er hat mich einfach auf der Straße angesprochen.
+
 anspringen /ˈanʃprɪŋən/: to jump up on, to come running up, to start
   Ich mag es nicht, wenn mich fremde Hunde anspringen.
   I don't like it when dogs I don't know jump up on me.
@@ -1669,6 +1680,9 @@ Anteil /ˈantail/, der, -e: share
   Anteile an einer Firma verkaufen: to buy shares in a company
   Anteil am Schicksal eines Menschen nehmen: to sympathize with sb's fate
   regen Anteil an einer Diskussion nehmen: to actively take part in a discussion
+
+Anteilnahme /ˈantailnaːmə/, die: participation, involvement
+  das Teilnehmen; Interesse, Sympathie
 
 anthropoid /antropoˈiːt/: anthropoid(al)
 
@@ -1935,6 +1949,8 @@ Aschenbecher /ˈaʃənbɛçɐ/, der: ashtray
 
 asiatisch /aˈzjaːtɪʃ/
 
+Asien, das
+
 Aspekt, der
 
 Ast /ast/, der, -(e)s|..e: branch
@@ -2149,6 +2165,7 @@ aufgehen: to rise, to open, to work, sb realizes sth
   He realized that he had made a mistake.
 
 aufgeregt /ˈaufɡəreːkt/: excited, nervous, upset
+  → aufregen
   vor einer Prüfung sehr aufgeregt sein
   to be very nervous before an exam
   Die Kinder erzählten ihr aufgeregt von ihrem Fund.
@@ -2317,6 +2334,10 @@ aufräumen /ˈaufrɔymən/: to tidy (up)
 
 aufregen /ˈaufreːɡən/: to get upset/worried/excited
 
+Aufregung, die: excitement
+  Zustand der Erregung
+  In der Aufregung vergaß sie ihre Handtasche.
+
 aufregend： exciting, thrilling
   Ist das nicht aufregend?
   Isn't it exciting?
@@ -2463,6 +2484,11 @@ aufwachen /ˈaufvaxən/: to wake up
   Sie wachte mitten in der Nacht auf.
   She woke up in the middle of the night.
 
+aufwachsen /ˈaufvaksən/
+  seine Kindheit verbringen, groß werden
+  → wachsen: to grow
+  Ich bin in Washington aufgewachsen.
+
 aufwarten
   mit etw. aufwarten: etw. Besonderes zu bieten haben
   Ich kann leider noch nicht mit Ergebnissen aufwarten.
@@ -2481,7 +2507,7 @@ Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
 Aufzug /ˈaufʦuːk/, der, Aufzüge: elevator, (theatre) act
   Kasten, in dem man in einem Gebäude senkrecht nach oben oder unten fahren kann
 
-Auge /ˈauɡə/, das, -s|-n: eye
+*Auge /ˈauɡə/, das, -s|-n: eye
   blaue/gute Augen haben
   to have blue eyes/good eyesight
   Auge in Auge: face to face
@@ -2883,10 +2909,9 @@ ausschalten /ˈausʃaltən/: to switch off
   Schalte bitte das Licht aus.
   Schaltet jetzt den Fernseher aus!
 
-Ausschreitung /ˈausʃraitʊŋ/, die: riot
-
-ausschmieren: to lubricate, to grease, to seal, to oil
-  eine Tonne mit Teer ausschmieren: to tar a barrel
+ausscheiden: to retire, to be eliminated, to be ruled out, to excrete
+  mit einer Arbeit, Tätigkeit aufhören; nicht mehr an einem Wettbewerb teilnehmen; nicht infrage kommen; von sich geben
+  Er scheidet demnächst aus dem Schuldienst aus.
 
 ausschenken: to sell (alcoholic drinks), to pour out, to serve
 
@@ -2908,6 +2933,9 @@ ausschließen /ˈausʃliːsən/: to exclude, to leave out, to rule out, to lock 
 ausschließlich /ˈausʃliːslɪç/: exclusively
   ein fast ausschließlich türkisches Publikum: an almost exclusively Turkish audience
 
+ausschmieren: to lubricate, to grease, to seal, to oil
+  eine Tonne mit Teer ausschmieren: to tar a barrel
+
 Ausschreibung, die: announcement
 
 Ausschuss /ˈausʃʊs/, der: committee, wastage
@@ -2922,6 +2950,8 @@ ausschütten /ˈausʃʏtən/: to empty, to pour out
   to empty the wastebasket and search through everything
   Er schüttete die Legosteine aus der Kiste auf dem / den Fußboden aus.
   He emptied the Lego bricks from the box onto the floor.
+
+Ausschreitung /ˈausʃraitʊŋ/, die: riot
 
 Aussehen /ˈauszeːən/, das, -s|uncountable: appearance
   Gutes Aussehen ist mir nicht so wichtig.

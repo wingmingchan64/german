@@ -37,6 +37,7 @@ immer /ˈɪmɐ/: always
    immer weniger
 
 immer noch: still
+  Sie sind immer noch verliebt.
 
 immerhin /ˈɪmɐˈhɪn/: at least, after all
   Er gibt sich immerhin Mühe.
@@ -147,6 +148,11 @@ intelligent /ɪntɛliˈɡɛnt/
   My hobbies are: reading, hiking, playing the piano.
   die Interessen der Arbeitnehmer vertreten
   to represent the interests of the workers
+
+interessieren
+  Sie sind nicht daran interessiert, Geld zu sparen.
+  Interessierst du dich für Fußball?
+  Diese Themen interessieren ihn nur wenig.
 
 Internat /ɪntɐˈnaːt/, das, -(e)s|-e: boarding school
   auf / in ein Internat gehen: to go to a boarding school

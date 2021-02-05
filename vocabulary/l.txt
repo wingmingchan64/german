@@ -502,6 +502,9 @@ Leidenschaft /ˈlaidənʃaft/, die, ~|-en: passion
   Sie verteidigte ihn voller Leidenschaft.
   She passionately defended him.
 
+leidenschaftlich
+  sehr emotional, stark gefühlsbetont, nicht vom Verstand gelenkt
+
 leidlich /ˈlaitlɪç/: reasonable
   leidliche Kenntnisse in Anatomie haben: to have a reasonable knowledge of anatomy
 
@@ -692,6 +695,8 @@ liegen /ˈliːɡən/: to lie, to be
   liege, liegst, liegt, habe gelegen
   auf dem Sofa / im Bett liegen: to lie on the sofa/in bed
   Genf liegt im Südwesten der Schweiz.
+  Offensichtlich liegt er falsch.
+  Mathe liegt mir einfach nicht.
 
 ließ → lassen
 

@@ -236,6 +236,8 @@ Daumen /ˈdaumən/, der, -s|~: thumb
 davon /daˈfɔn/: from it
 
 davor /daˈfoːɐ/: before that
+  Er hat Angst davor, krank zu werden, weil er keine Krankenversicherung hat.
+  Angst davor haben, dass etwas passiert
 
 dazu /daˈʦuː/: to it, about it, in addition, furthermore
   Mir gefällt es nicht. Was sagst du dazu?
@@ -361,6 +363,8 @@ Deo /ˈdeːo/, das: deodorant
 deponieren /depoˈniːrən/: to deposit, to place
   Geld bei der Bank deponieren: to deposit money in the bank
 
+der /deːɐ/
+
 derart: to such an extent, in such a way
   Er hat mich derart genervt, dass ich einfach gegangen bin.
 
@@ -431,7 +435,10 @@ Deutsch /dɔytʃ/, das, -(e)s|uncountable
   Deutscher Schäferhund: German shepherd
 
 Deutsche /'dɔyʧə/, -n|-n
-  Sind Sie Deutscher? 
+  Sind Sie Deutscher?
+  Ich bin kein Deutscher.
+  Sind Sie Deutsche?
+  Ich bin keine Deutsche.
   Das Wort kommt aus dem Deutschen.
   The word comes from German.
 

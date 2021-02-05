@@ -150,6 +150,8 @@ Haltestelle /ˈhaltəʃtɛlə/, die, -en: stop
    Wir steigen an der nächsten Haltestelle aus.
 
 Haltung /ˈhaltʊŋ/, die: posture, attitude, composure
+  Art und Weise, wie jd den Körper hält; Meinung, die jd einer Sache gegenüber vertritt
+  ≈ Einstellung
   eine aufrechte / gebückte Haltung einnehmen
   to stand upright/stoop over
   Ich kann seine negative Haltung dazu nicht verstehen.
@@ -711,6 +713,7 @@ herrschen /ˈhɛrʃən/: to prevail, to rule, to dominate
 herstellen /ˈheːɐʃtɛlən/: to produce, to make, to establish
   Diese Firma stellt Elektrogeräte her.
   This company produces electrical appliances.
+  Käse wird aus Milch hergestellt.
 
 Hersteller /ˈheːɐʃtɛlɐ/: manufacturer, maker, producer
 
@@ -1094,6 +1097,9 @@ hochladen
   ↔ herunterladen
 
 höchst /høːçst/: extremely, highly
+
+Hochstimmung, die
+  sehr gute Stimmung
 
 Hochzeit /ˈhɔxʦait/, die: wedding
   die kirchliche/standesamtliche Hochzeit
