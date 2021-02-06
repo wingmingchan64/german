@@ -49,7 +49,59 @@
 416 Ich muss mir frische Sachen anziehen.
 425 Ich muss nach Hause gehen.
 435 Ich will nur eine Kleinigkeit essen.
-
+444 Mir schmeckt das.
+453 Ich denke, dass das sehr gut ist.
+462 Ich dachte, dass die Kleidung billiger wäre.
+472 Ich wollte gerade die Gaststätte verlassen, als meine Freunde kamen.
+486 Ich würde mir gern die Beine vertreten.
+497 Falls du meine Hilfe brauchst, sag Bescheid.
+509 Ich ruf dich an, wenn ich gehe.
+518 Ich komme später wieder her.
+527 Ich zahle.
+535 Ich nehme es.
+543 Ich nehme Sie bis zur Bushaltestelle mit.
+554 Ich bin (ein) Amerikener.
+562 Ich mache mein Zimmer sauber.
+570 Mir ist kalt.
+578 Ich komme vorbei, um dich abzuholen.
+589 Ich werde gehen.
+596 Mir geht es gut, und dir?
+603 Ich bin froh.
+611 Ich habe Hunger.
+619 Ich bin verheiratet.
+627 Ich habe es nicht eilig.
+636 Ich bin nicht verheiratet.
+644 Ich bin noch nicht soweit / so weit.
+653 Ich bin (mir) nicht sicher. (dative)
+662 Es tut mir leid, aber wir sind ausverkauft.
+672 Ich habe Durst.
+682 Ich bin sehr beschäftigt. Ich habe jetzt gerade keine Zeit.
+694 Ist Herr Smith Amerikaner?
+704 Ist das genug?
+712 Es ist länger als 2 Meilen.
+723 Ich war 2 Tage dort.
+733 Ich habe gehört, dass Texas ein schöner Ort ist.
+744 Ich habe das noch nie gesehen.
+752 Nur ein bisschen.
+760 Nur einen Moment.
+768 Lassen Sie mich nachsehen.
+777 Lassen Sie mich darüber nachdenken.
+787 Lass uns nachsehen.
+796 Lassen Sie uns Englisch üben.
+806 Kann ich bitte mit Herrn Smith sprechen?
+815 Mehr als das.
+823 Macht nichts.
+831 Nächtes Mal.
+839 Nein, danke.
+848 Nein.
+856 Quatsch! Unsinn!
+864 Nicht kürzlich.
+874 Noch nicht.
+882 Nichts anderes.
+895 Natürlich.
+903 Okay. OK.
+912 Bitte füllen Sie das Formular aus.
+922 Bitte bringen Sie mich zu dieser Adresse.
 
 https://www.youtube.com/watch?v=tn2RTHzvrU8&t=446s
 

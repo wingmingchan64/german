@@ -1108,7 +1108,8 @@ Bescheid /bəˈʃait/, der: notification
   gegen einen ablehnenden Bescheid Widerspruch einlegen
   to lodge an objection against a negative decision
   Bitte sag mir rechtzeitig Bescheid, ob du kommen kannst.
-  Please let me know in good time whether you can come. 
+  Please let me know in good time whether you can come.
+  Falls du meine Hilfe brauchst, sag Bescheid.
   Bescheid wissen: to know (about sb/sth)
 
 bescheiden: to content yourself, to give, to inform
@@ -1828,6 +1829,8 @@ Birne /ˈbɪrnə/, die: pear
   Von hier bis Wien sind es 350 km.
   It's 350 km from here to Vienna.
   Bis bald!
+
+bis zu: up to
 
 bisher /bɪsˈheːɐ/: up to now, so far
   Alles bleibt wie bisher.
