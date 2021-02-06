@@ -748,6 +748,7 @@ schmecken /ˈʃmɛkən/: to taste, to like
   Lasst es euch schmecken.
   Wie schmeckt dir das Essen?
   Es schmeckt mir sehr gut / nicht.
+  Mir schmeckt das.
 
 schmecken nach + dative: to taste of
   Der Nachtisch schmeckt nach Zimt.
@@ -2906,7 +2907,9 @@ summen /ˈzʊmən/: to hum
 Sünde, die, ~|-n: sin
   Verstoß gegen die Regeln der Religion
 
-Supermarkt, der
+super /ˈzuːpɐ/
+
+Supermarkt /ˈzupɐmarkt/, der
   im Supermarkt an der Kasse anstehen
 
 Suppe /ˈzʊpə/, die, ~|-n: soup

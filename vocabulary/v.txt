@@ -466,8 +466,8 @@ verheimlichen /fɛɐˈhaimlɪçən/: to keep secret, to hide
 verheiraten /fɛɐˈhairatən/: to marry, to get married
 
 verheiratet /fɛɐˈhairatət/: married
-  Er ist mit einem Deutschen verheiratet.
-  Sie ist mit einer Deutschen verheiratet.
+  Er ist mit einem Deutschen / Chinesin verheiratet.
+  Sie ist mit einer Deutschen / Chinesen verheiratet.
 
 verheißen: to promise
   Die ersten Ergebnisse verheißen wenig Gutes.
@@ -1709,6 +1709,8 @@ Vorsicht /ˈfoːɐzɪçt/, die: caution, care
 vorsichtig /ˈfoːɐzɪçtɪç/: careful, cautious
   eine vorsichtige Schätzung
   a cautious estimate
+  Sei vorsichtig!
+  Fahr vorsichtig!
 
 vorsingen /ˈfoːɐzɪŋən/: to sing, to sing first, to audition
   den Kindern ein Lied vorsingen: to sing a song to the children

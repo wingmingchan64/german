@@ -298,6 +298,14 @@ kennen /ˈkɛnən/: to know
   Kennst du seinen Namen?
   Do you know his name?
 
+kennenlernen
+  lerne kennen, habe kennengelernt
+  lernte kennen
+  lern kennen
+  Schön Sie kennenzulernen.
+  Wo habt ihr euch kennengelernt?
+  Kommen Sie und lernen Sie meine Frau kennen.
+
 Kenntnis /ˈkɛntnɪs/, die, ~|-se: knowledge, notice
   seine Sprachkenntnisse vertiefen: to improve your language skills
   Ohne genauere Kenntnis der Sachlage kann ich diese Frage nicht beantworten.
@@ -542,6 +550,7 @@ klein /klain/: small, little, short
 Kleinigkeit /ˈklainɪçkait/, die, ~|-en: little thing
   jdm eine Kleinigkeit zum Geburtstag schenken
   to get sb a little something as a birthday present
+  Ich muss jetzt eine Kleinigkeit essen.
 
 klemmen /ˈklɛmən/: to stick
   Das Gartentor klemmt ein bisschen.

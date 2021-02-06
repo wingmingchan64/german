@@ -1,9 +1,5 @@
 ﻿========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
-30 https://www.youtube.com/watch?v=NUP9F9_ygoo
-https://www.youtube.com/watch?v=cl42wTJyXVk&t=1057s
-https://www.youtube.com/watch?v=HrSXHs3LMlU
-https://www.youtube.com/watch?v=wk2z125YDeI&t=789s
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
@@ -1105,6 +1101,7 @@ andererseits /ˈandərɐzaiʦ/: on the other hand
 
 anders /ˈandɐs/: differently, else
   Wir machen das so und nicht anders.
+  New York ist anders als Dallas.
   That's how we're doing it – and no differently.
   anders werden: to change
   es sich anders überlegen: to change your mind
@@ -1323,6 +1320,7 @@ Angriff /ˈanɡrɪf/, der, -(e)s|-e: attack
 Angst /aŋst/, die, ~|..e: fear, worry
   Angst vor Hunden haben: to be afraid of dogs
   jdm Angst machen: to frighten sb
+  Keine Angst! Don't worry.
 
 angst
   jd hat / bekommt Angst: sb is/gets scared (stiff)
@@ -1505,9 +1503,12 @@ Anrufbeantworter, der, -s|~: answering machine
 
 anrufen /ˈanruːfən/: to call, to phone
   rufe an, rufst an, ruft an, habe angerufen
+  rief an
+  ruf an
   Hat jemand für mich angerufen?
   Did anyone call?
   Ich rufe meine Eltern jede Woche / jeden Tag / jedes Wochenende / nie / selten an.
+  Bitte ruf mich an.
 
 anrühren: to mix, to touch
 
@@ -1767,6 +1768,8 @@ anziehen /ˈanʦiːən/: to attract, to get dressed
   Salz zieht Feuchtigkeit an.
   Salt attracts damp.
   warme Kleidung anziehen: to put on some warm clothes
+  Zieh (dir) ein frisches Hemd an! (dative)
+  Ich muss mir frische Sachen anziehen.
 
 anzogen → anziehen
 
@@ -1837,6 +1840,7 @@ applaudieren /aplauˈdiːrən/: to applaud, to clap
 Arbeit, die, ~|-en
   Tätigkeit mit einem bestimmten Ziel, die man aus Pflicht oder Notwendigkeit tut
   Was findest du positiv und was negativ an deiner Arbeit?
+  Wie geht es auf Arbeit?
 
 Arbeitsamt, das
   staatliche Institution, die Arbeitslose betreut und ihnen bei der Suche nach neuer Arbeit hilft

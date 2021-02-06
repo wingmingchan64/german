@@ -167,6 +167,7 @@ falls: in case, if
 
 falsch /falʃ/: wrong, false, faked
   ↔ richtig
+  Er liegt falsch.
 
 Falschparken, das: illegal parking
 
@@ -421,6 +422,8 @@ Ferse /ˈfɛrzə/, die, ~|-n: heel
 fertig /ˈfɛrtɪç/: ready, finished
   Ich bin fertig, wir können gehen.
   I'm ready – we can go now.
+  Ich bin um 17 Uhr mit der Arbeit fertig.
+  I get off of work at 5 o'clock.
 
 Fest, das, -(e)s|-e: celebration, party
   zum Fest
