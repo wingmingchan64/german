@@ -102,8 +102,155 @@
 903 Okay. OK.
 912 Bitte füllen Sie das Formular aus.
 922 Bitte bringen Sie mich zu dieser Adresse.
+932 Bitte schreiben Sie das auf.
+940 Wirklich?
+948 Genau hier.
+957 Genau dort.
+964 Bis später.
+972 Bis morgen.
+980 Bis heute Abend.
+989 Sie ist schön.
+996 Entschuldigen Sie die Störung.
+1007 Stop! Halt!
+1015 Nehmen Sie die Gelegenheit wahr.
+1023 Nehmen Sie es mit nach draußen.
+1033 Sag' mir,
+1041 Dank, Dame.
+1051 Dank, Herr.
+1059 Vielen Dank.
+1067 Danke.
+1075 Danke für alles.
+1085 Danke für Ihre Hilfe.
+1095 Das sieht großartig aus.
+1106 Das riecht schlecht.
+1114 Das ist in Ordnung.
+1124 Das ist genug.
+1131 Das ist gut.
+1141 Das ist es.
+1149 Das ist nicht in Ordnung.
+1157 Das ist nicht richtig.
+1166 Das ist richtig.
+1174 Das ist nicht schlecht.
+1181 Das sind zu viele.
+1191 Das ist zu viel.
+1201 Das Buch ist unter dem Tisch.
+1211 Ich komme gleich zurück.
+1220 Sie sind dieselben.
+1228 Sie sind sehr beschätigt.
+1238 Das funktioniert nicht.
+1247 Das ist sehr schwierig.
+1256 Das ist sehr wichtig.
+1264 Versuch es.
+1273 Sehr gut, danke.
+1282 Wir mögen es sehr.
+1293 Würden Sie bitte eine Nachricht entgegennehmen?
+1302 Ja, wirklich.
+1310 Deine Sachen sind alle hier.
+1318 Du bist schön.
+1326 Du bist wirklich nett.
+1334 Du bist wirklich klug.
+1351 Nur der Hinflug.
+1359 Hin- und Rückflug
+1367 Ungefähr 300 Kilometer
+1377 Wirst du ihr helfen?
+1388 Um welche Uhrzeit?
+1396 Könnte ich bitte einen Termin für nächten Mittwoch bekommen?
+1408 Können Sie das bitte widerholen?
+1417 Hast du genug Geld?
+1425 Können Sie kochen?
+1434 Weißt du, was das heißt?
+1445 Soll ich dich abholen?
+1454 Führt diese Straße nach New York?
+1464 Folgen Sie mir.
+1472 Von hier nach dort
+1481 Gehen Sie geradeaus.
+1490 Bist du angekommen?
+1498 Waren Sie schon in Boston?
+1508 Wie komme ich dort hin?
+1519 Wie komme ich zur Danielstraße?
+1528 Wie komme ich zur amerikanischen Botschaft?
+1538 Wie lange dauert es mit dem Auto?
+1547 Wie lange dauert es mit dem Auto bis nach Georgia?
+1558 Wie lange dauert der Flug?
+1567 Wie war der Film?
+1576 Ich habe eine Frage an dich.
+1583 Ich wünschte, ich hätte eine.
+1592 Dürfte ich bitte telefonieren?
+1601 Ich würde gern eine Reservierung machen.
+1610 Ich nehme das auch.
+1621 Ich komme gleich.
+1629 In vier Tagen gehe ich nach Hause.
+1639 Ich gehe morgen.
+1646 Ich suche die Post.
+1656 Ist das Ihr Stift?
+1664 Ein Ticket nach New York, bitte.
+1673 Einfach oder Hin- und Rückflug?
+1683 Bitte sprechen Sie langsamer.
+1691 Bitte bringen Sie mich zum Flughafen.
+1699 Hier entlang.
+1707 Der Flug fliegt um 17 Uhr ab.
+1717 Sie sind gestern angekommen.
+1727 Dreh dich um.
+1735 Dreh dich nach links.
+1743 Dreh dich nach rechts.
+1751 Wann gehst du zur Bushaltestelle?
+1761 Wann ist das passiert?
+1770 Wann kommst du in Boston an?
+1780 Wann kommt er an?
+1788 Wann kommt es an?
+1804 Wann kommt er an?
+1811 Wann kommt es an?
+1819 Wann macht die Bank auf?
+1827 Wann fährt der Bus los?
+1837 Wo kann ich das abschicken?
+1847 Woher kommt sie?
+1855 Wo ist das Badezimmer?
+1864 Warum nicht?
+1872 Kannst du mich erinnern?
+1887 Elf Dollar
+1896 52 Eurocent
+1906 Ein paar
+1914 Etwas
+1921 Ruf die Polizei.
+1930 Hat es deiner Frau in Kalifornien gefallen?
+1940 Haben Sie Kaffee?
+1948 Haben Sie noch etwas Billigeres?
+1956 Akzeptieren Sie Kreditkarten?
+1964 Wie wollen Sie bezahlen?
+1972 Wie viele Leute leben in New York?
+1982 Wie viel kosten diese Ohrringe?
+1991 Wie viel schulde ich Ihnen?
+2000 Wie viel kostet es pro Tag?
+2010 Wie viel kostet das?
+2018 Wie viel kostet es bis nach Miami?
+2028 Wie viel Geld verdienst du?
+2037 Ich habe keine Freundin.
+2047 Ich habe kein Geld.
+2054 Ich habe eine Reservation.
+2062 Ich muss mehr Englisch lernen.
+2073 Ich würde gern im Restaurant in der 5. (fünften) Straße essen.
+2084 Ich nehme das gleiche.
+2094 Das Essen geht auf mich.
+2102 Ich bezahle die Tickets.
+2111 Ich bin 26 Jahre alt.
+2121 Ist das in Ordnung?
+2129 Ist Post für mich gekommen?
+2138 Ist es nicht?
+2146 Es ist 11 Uhr 30.
+2156 Es ist Viertel nach neun.
+2165 Bitte kommen Sie herein.
+2174 Tut mir leid, aber wir akzeptieren keine Kreditkarten.
+2185 Tut mir leid, wir akzeptieren nur Bargeld.
+2196 Das Restaurant ist nich teuer.
+2206 Das ist zu teuer.
+2214 Es sind viele Leute hier.
+2224 Sie berechnen 26 Dollar pro Tag.
+2236 Wie ist der Wechselkurs für Dollar?
+2246 Wie ist die Telefonnummer?
+2256 Wo kann ich Tickets kaufen?
 
-https://www.youtube.com/watch?v=tn2RTHzvrU8&t=446s
+
+https://www.youtube.com/watch?v=tn2RTHzvrU8&t=20s
 
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«

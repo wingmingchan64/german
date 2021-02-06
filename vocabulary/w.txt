@@ -123,6 +123,9 @@ Wahrheit /ˈvaːɐhait/, die: truth
   Tell (me) the truth!
   in Wahrheit: in truth/reality
 
+Währung, die
+  das Geld, das in einem Land benutzt wird
+
 wahrscheinlich /vaːɐˈʃainlɪç/: probable, likely
 
 Waise /ˈvaizə/, die: orphan
@@ -265,6 +268,9 @@ wecken: to wake up, to arouse
   She didn't manage to awaken any interest amongst the children.
 
 Wecker /ˈvɛkɐ/, der, -: alarm clock
+
+Wechselkurs, der: exchange rate
+  Preisverhältnis zwischen zwei Währungen
 
 wechseln /ˈvɛksəln/: to change
   Wechsel / Wechsle nicht dauernd das Thema!

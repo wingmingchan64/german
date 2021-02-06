@@ -813,6 +813,8 @@ belegt /bəˈleːkt/: occupied, busy, hoarse, husky
   „Danke!‟, krächzte sie mit belegter Stimme.
   “Thanks”, she croaked hoarsely.
 
+beleidigen: to insult, to offend
+
 beleuchten: to light up
 
 Beleuchtung /bəˈlɔyçtʊŋ/, die, -en: lighting, lights
@@ -1695,6 +1697,8 @@ bezaubern: bewitch, charm, enchant
 
 bezeichnen: to describe, to denote, to mean
   Das Ergebnis kann man nicht als Erfolg / als befriedigend bezeichnen.
+  
+Bezeichnung, die: marking, indication, term, name, expression
 
 beziehen /bəˈʦiːən/: to get, to receive, to move into, to cover
   Beziehen Sie Arbeitslosengeld?

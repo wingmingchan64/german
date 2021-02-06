@@ -388,7 +388,7 @@ abscheulich /apˈʃɔylɪç/: hideous, disgusting
   Sie findet Spinnen abscheulich.
   She finds spiders repulsive.
 
-abschicken: to send
+abschicken: to send, to mail
 
 abschieben /ˈapʃiːbən/: to deport, to shift
   habe abgeschoben
@@ -1496,6 +1496,8 @@ anreden /ˈanreːdən/: to address
 anregen /ˈanreːɡən/: to stimulate, to suggest
   stimulieren, beleben; den Anstoß zu etw. geben
 
+Anregung, die
+
 anrichten
   verursachen
 
@@ -1652,6 +1654,12 @@ anstellen /ˈanʃtɛlən/: to hire, to employ, to engage
 
 anstimmen: to begin singing, to start playing, to strike up
 
+Anstoß /ˈanʃtoːs/, der
+  Anstoß erregen: Kritik hervorrufen, beleidigen
+  Sie wollte damit bei den Zuschauern keinen Anstoß erregen.
+  Anstoß an etw. nehmen (dative): etw. als falsch oder beleidigend empfinden
+  Hoffentlich nimmt niemand an Anstoß an meiner Anwesenheit.
+
 anstoßen: to bump against
   (mit jdm) (auf etw.) anstoße: to clink glasses (with sb)
 
@@ -1747,6 +1755,9 @@ anwesend /ˈanveːzənt/: present
   ↔ abwesend
   Ich war in der Stunde, als das besprochen wurde, nicht anwesend.
   I wasn't at the class in which it was discussed.
+
+Anwesenheit, die: presence
+  Das Gebäude wurde in Anwesenheit der Ministerin eröffnet.
 
 anwurzeln
   wie angewurzelt dastehen / stehen bleiben: to stand rooted to the spot

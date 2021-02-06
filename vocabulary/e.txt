@@ -1123,6 +1123,11 @@ entgegenkommen: to approach, to make concessions, to be favorable (for)
 entgegenkommend: obliging, considerate
   eine entgegenkommende Verkäuferin: an obliging sales assistant
 
+entgegennehmen
+  in Empfang nehmen, sich geben lassen
+  Würden Sie dieses Paket für Ihre Nachbarin entgegennehmen?
+  Anregungen nehme ich jederzeit gern entgegen.
+
 entgegenschlagen: to come swirling, to leap out
 
 entgegenstellen: to set against
@@ -1674,6 +1679,10 @@ erlöschen /ɛɐˈlœʃən/: to go out/off, to become extinct, to expire, to ter
 
 erlösen: to release, to free, to deliver
   von einem unangenehmen Gefühl o. Ä. befreien; nach dem Tod von Sünden befreien
+
+ermahnen /ɛɐˈmaːnən/: to warn, to admonish
+  mit Nachdruck zu einem bestimmten Verhalten auffordern
+  Sie ermahnte die Kinder, nicht zu laut zu sein.
 
 Ermäßigung /ɛɐˈmɛːsɪɡʊŋ/, die: reduction, discount
   Kinder und Rentner erhalten eine Ermäßigung von 20%.
