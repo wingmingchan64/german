@@ -2053,6 +2053,9 @@ Sprache /ˈʃpraːxə/, die, -n: language
   Latein ist eine tote Sprache.
   Latin is a dead language.
 
+-sprachig: -language, -speaking
+  ein englischsprachiger Reiseführer
+
 sprechen /ˈʃprɛçən/: to speak, to talk
   spreche, sprichst, spricht, sprecht, habe gesprochen
   sprach, sprachst, sprach, spracht

@@ -1827,12 +1827,15 @@ Biologe /bioˈloːɡə/: biologist
 
 Birne /ˈbɪrnə/, die: pear
 
-△bis /bɪs/: until
+△bis /bɪs/: until, by, not later than
   Ich bin noch bis übermorgen in der Stadt.
   I'll be in town till the day after tomorrow.
   Von hier bis Wien sind es 350 km.
   It's 350 km from here to Vienna.
   Bis bald!
+  Das muss bis morgen fertig werden!
+  Glaubst du, dass du bis halb zwölf wieder hier bist?
+  
 
 bis zu: up to
 

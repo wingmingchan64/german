@@ -99,7 +99,7 @@
 874 Noch nicht.
 882 Nichts anderes.
 895 Natürlich.
-903 Okay. OK.
+903 Okay. o.k.
 912 Bitte füllen Sie das Formular aus.
 922 Bitte bringen Sie mich zu dieser Adresse.
 932 Bitte schreiben Sie das auf.
@@ -248,6 +248,171 @@
 2236 Wie ist der Wechselkurs für Dollar?
 2246 Wie ist die Telefonnummer?
 2256 Wo kann ich Tickets kaufen?
+2265 Wo wollen wir uns treffen?
+2272 Welches ist besser?
+2286 Gegenüber der Post.
+2295 Um 3 Uhr morgens
+2303 Sei still.
+2311 Können Sie mir ein gutes Restaurant empfehlen?
+2323 Er studiert an der Universität in Boston.
+2334 Hier ist es.
+2342 Hier, bitte.
+2352 Er ist in der Küche.
+2359 Wie weit ist es bis Chicago?
+2371 Wie weit ist es?
+2379 Wie viele Kilometer sind es bis nach Pennsylvania?
+2391 Ich schaue gern fern.
+2402 Ich wollte zur Bibliothek gehen.
+2411 Ich war in der Bibliothek.
+2420 Ich hätte gern ein Einzelzimmer.
+2430 Es ist köstlich.
+2438 Es ist halb zwölf.
+2446 Es kostet weniger als 5 Dollar.
+2457 Es kostet mehr als 5 Dollar.
+2467 Es ist in der Nähe des Supermarkts.
+2478 Es soll heute nicht regnen.
+2488 Es ist in Ordnung. Es ist okay.
+2497 Es ist auf der 7. (siebten) Straße.
+2508 Es ist wirklich heiß.
+2516 Es soll morgen regnen.
+2525 Lass uns gehen.
+2533 Vielleicht.
+2541 Mehr als 200 Meilen.
+2551 Mein Haus ist in der Nähe der Bank.
+2560 In der Nähe der Bank.
+2568 auf der linken Seite
+2576 auf der rechten Seite
+2584 Auf der zweiten Etage.
+2593 Außerhalb des Hotels.
+2602 Hier drüben.
+2610 Da drüben.
+2618 Das Buch ist hinter dem Tisch.
+2627 Das Buch ist vor dem Tisch.
+2638 Das Buch ist in der Nähe des Tisches.
+2648 Das Buch ist neben dem Tisch.
+2657 Das Buch ist oben auf dem Tisch.
+2666 Es sind ein paar Bücher auf dem Tisch.
+2676 Es liegt ein Buch unter dem Tisch.
+2686 Wir kommen aus Kalifornien.
+2695 Wie ist die Adresse?
+2702 Wohin gehst du?
+2710 Wo ist es?
+2718 Wo willst du hingehen?
+2733 Dürfte ich bitten Ihren Reisepass sehen?
+2745 Soll ich etwas ausrichten?
+2753 Darf ich es anprobieren?
+2762 Dürfen wir uns hier hinsetzen?
+2771 Bist du mit deiner Familie hier?
+2780 Glaubst du, dass das geht?
+2789 Hier ist meine Nummer.
+2797 Er ist gerade nicht hier.
+2806 Hallo, ist Frau Schmidt da?
+2817 Ich hätte gern ein Wasser.
+2828 Ich würde gern eine Flasche Wasser kaufen.
+2838 Ich würde gern etwas kaufen.
+2847 Ich würde gern in den Laden gehen.
+2856 Ich würde gern ein Auto mieten.
+2865 Ich würde gern ein Fax senden.
+2873 Ich würde dies gern in die USA schicken.
+2884 Ich hätte gern Herrn Schmidt gesprochen.n und einen Jungen.
+2895 Ich habe drei Kinder: zwei Mädche
+2907 Ich bin gleich wieder da.
+2915 Ich ruf dich später zurück.
+2923 Ich ruf dich am Freitag an.
+2933 Ich zeige es dir.
+2941 Mir geht's gut.
+2949 Ich brauche einige Taschentücher.
+2959 Gibt es einen englischsprachigen Reiseführer?
+2970 Ich möchte dir etwas schenken.
+2979 Männlich oder weiblich?
+2988 Mein Handy hat keinen guten Empfang.
+2998 Mein Handy funktioniert nicht.
+3008 Bitte ziehen Sie Ihre Schuhe aus.
+3018 Entschuldigung, ich glaube, ich habe die falsche Nummer.
+3028 Wie ist die Postleitzahl?
+3038 Wie heißt die Firma?
+3048 Was ist los?
+3055 Wie ist deine Adresse?
+3064 Wo kann ich ein Krankenhaus finden?
+3074 Wo ist das nächste Restaurant?
+3082 Wo ist die Apotheke?
+3091 Wer bist du?
+3100 Wer ist das?
+3107 Mit wem möchten Sie sprechen?
+3116 Kannst du mich nach Hause bringen?
+3125 Möchten Sie Wasser oder Milch?
+3140 Vor elf Tagen
+3148 Zwei Stunden
+3156 Den ganzen Tag
+3165 Vor einer langen Zeit, vor langer Zeit
+3173 Kommen sie heute Abend?
+3181 Hast du es bequem? Ist es dir bequem?
+3189 Hast du deine Kinder dabei?
+3197 So bald wie möglich.
+3206 Um 15 Uhr.
+3215 In der 5. Straße.
+3223 Um 19 Uhr.
+3232 Um 7 Uhr morgens.
+3240 Um welche Uhrzeit ist es passiert?
+3250 Kann ich Ihnen helfen?
+3258 Hast du einen Swimmingpool?
+3267 Haben Sie das in Größe 11?
+3277 Glaubst du, dass du bis halb zwölf wieder hier bist?
+3288 Ich stehe jeden Tag um 6 Uhr auf.
+3298 Jede Woche, jedes Mal, jeden Monat
+3306 das Verfallsdatum
+3314 Warten Sie schon lange?
+3322 Er ist in 20 Minuten wieder hier.
+3331 Seine Familie kommt morgen.
+3341 Wie wäre es mit Samstag?
+3350 Wie lange werden Sie bleiben?
+3359 Wie lange werden Sie in Kalifornien bleiben?
+3369 Wie lange wird es dauern?
+3377 Wie viel insgesamt?
+3385 Wie viel wird es kosten?
+3393 Ich habe nicht genug Geld.
+3402 Ich mache mich fertig zum Ausgehen.
+3411 Ich schaue mich nur um.
+3419 Ich mache mir auch Sorgen.
+3427 Es wird kalt am Abend werden.
+3436 Es hat sehr stark geregnet heute.
+3445 Das kostet 17 Dollar.
+3455 Es ist 6 Uhr früh.
+3464 Es ist 8 Uhr 45.
+3474 Es ist Viertel vor sieben.
+3482 Es wird heute schneien.
+3491 Es ist hier.
+3499 Es ist dort.
+3507 Ich habe es schon gesehen.
+3517 John geht morgen in den Urlaub.
+3527 Mein Geburtstag ist am 27. (siebenundzwanzigsten) August.
+3539 Jetzt oder später?
+3547 Der 22. (zweiundzwanzigste) Oktober
+3555 Sie will wissen, wann wir kommen.
+3564 Manchmal gehe ich um 11 Uhr, machmal um 11 Uhr 30 schlafen.
+3579 Wir haben jede Menge Zeit.
+3587 Der ganze Tag.
+3596 Wir sind zu spät.
+3604 An welchem Tag kommen Sie rüber?
+3615 Welcher Wochentag ist heute?
+3624 Welches Datum haben wir heute?
+3634 In welcher Religion bist du?
+3643 Wann kommen sie an?
+3657 Um wieviel Uhr stehst du auf?
+3667 Um wieviel Uhr gehst du ins Bett?
+3678 Um wieviel Uhr wachst du auf?
+3686 Um wieviel Uhr fäng es an?
+3695 Um wieviel Uhr glaubst du, kommst du an?
+3705 Wieviel Uhr ist das?
+3713 Wann kommen sie?
+3721 Wann kommst du zurück?
+3729 Wann holst du deinen Freund ab?
+3737 Wann fährst du ab?
+3745 Wann ziehst du um?
+3753 Wann fährt der nächte Bus nach Philadelphia?
+3763 Wann ist dein Geburtstag?
+3771 Als ich im Geschäft war, hatten sie keine Äpfel.
+3784 Wann hast du zum letzten Mal mit deiner Mutter gesprochen?
 
 
 https://www.youtube.com/watch?v=tn2RTHzvrU8&t=20s

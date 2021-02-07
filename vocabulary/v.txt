@@ -270,6 +270,10 @@ verfahren: to proceed, to get lost
   Sie haben sich in der Stadt hoffnungslos verfahren.
   They got hopelessly lost in the city.
 
+Verfall, der: decay, dilapidation, decline, expiry
+
+Verfallsdatum, das: expiry date
+  
 verfallen /fɛɐˈfalən/: to fall into disrepair, to deteriorate, to decline, to expire
   Das alte Bauernhaus verfällt zusehends.
   That old farmhouse is becoming visibly dilapidated.
@@ -1814,6 +1818,9 @@ vorverlegen /ˈfoːɐfɛɐleːɡən/: to move/bring forward(s)
   Der Termin für die Verhandlung wurde vorverlegt.
   The date of the trial was brought forwards.
   eine Einfahrt ein Stück vorverlegen: to move an entrance forwards a little way
+
+Vorwahl, die: area code
+  Nummer, die man im Festnetz zusätzlich wählen muss, wenn man von einer anderen Stadt, einem anderen Land anruft
 
 vorwärts: forward(s)
 
