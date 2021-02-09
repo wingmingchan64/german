@@ -1,5 +1,5 @@
 ﻿========================================================
-S /ɛs/ S wie Siegfried
+S /ɛs/ S wie Siegfried, ß /ɛsˈʦɛt/
 ========================================================
 
 Saal /zaːl/, der, -(e)s|Säle /ˈzɛːlə/: room, hall
@@ -384,6 +384,7 @@ scheinbar /ˈʃainbaːɐ/: apparent
   ein scheinbarer Widerspruch: an apparent contradiction
 
 scheinen /ˈʃainən/: to shine, to seem
+  Am Tag scheint die Sonne.
   Das Licht schien mir ins Gesicht.
   The light was shining in my face.
   Das scheint mir keine gute Idee zu sein.
@@ -1583,6 +1584,7 @@ Sichtweite, die: visibility
 Sie: you
 
 sie: she, it, they
+  ihr, ihre
   Sie wollen heiraten. They want to get married.
 
 sieben /ˈziːbən/
@@ -1873,11 +1875,11 @@ Spalte /ˈʃpaltə/, die, -n: fissure, crevice, crack, column
   There were deep fissures in the rock.
   zwei Spalten pro Seite drucken: to print two columns to a page
 
-Spanien /ʃpaːniən/
+Spanien /ʃpaːniən/, das
 
 Spanier, der, Spanierin, Spanier
 
-Spanisch /ˈʃpaːnɪʃ/
+Spanisch /ˈʃpaːnɪʃ/, das
 
 spannen: to tauten, to tighten, to be too tight, to realize
 

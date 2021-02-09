@@ -182,7 +182,8 @@ bauen /ˈbauən/: to build
   The children have built a snowman.
 
 Baum /baum/, der, -(e)s|..e: tree
-   Bäume fällen: to cut down trees 
+   Bäume fällen: to cut down trees
+   Vögel leben auf Bäumen.
 
 baumeln /ˈbauməln/: to dangle, to swing
   auf der Schaukel sitzen und die Beine baumeln lassen
@@ -840,6 +841,7 @@ beliebt /bəˈliːpt/: popular
   eine beliebte Fernsehserie: a popular TV series
 
 bellen /ˈbɛlən/: to bark
+  die lauten, typischen Laute seiner Art von sich geben
   Hunde, die viel /laut bellen, beißen nicht
 
 belohnen: to reward

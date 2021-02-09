@@ -136,6 +136,9 @@ U-Bahnstation, die
   Ich werde mir einen Plan überlegen, wie wir das machen können.
   I'll try and come up with a plan for how we can do it.
 
+Überlegenheit, die: superiority
+  ↔ Unterlegenheit
+
 übermorgen /ˈyːbɐmɔrɡən/: the day after tomorrow
 
 übermüdet /yːbɐˈmyːdət/: overtired
@@ -849,6 +852,8 @@ unterlaufen /ʊntɐˈlaufən/: sth gets past sb
   Leider ist mir bei der Berechnung ein Fehler/Irrtum unterlaufen.
   I'm afraid I made a mistake in the calculation.
 
+Unterlegenheit, die: inferiority
+
 unterliegen: to lose
   gegen jdn verlieren
   In der Stichwahl unterlag er (dem Gegenkandidaten) um fünf Stimmen.
@@ -867,6 +872,9 @@ Unternehmertum, das, -s|uncountable: employers, business community, entrepreneur
   ein riskantes Unternehmen planen: to plan a risky venture
 
 unternommen → unternehmen
+
+unterordnen
+  sich (jdm) unterordnen: die Überlegenheit eines anderen akzeptieren und seine Anweisungen befolgen
 
 Unterricht /ˈʊntɐrɪçt/, der, pl: classes, instruction, teaching
   (jdm) Unterricht geben

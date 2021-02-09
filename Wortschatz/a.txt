@@ -1,5 +1,6 @@
 ﻿========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
+新求精59
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
@@ -959,6 +960,10 @@ Alter /ˈaltɐ/, das, -s|uncountable: age, old age
   im Alter von 50 Jahren: at the age of 50
   im Alter gesund bleiben: to remain healthy in old age
 
+alternativ /altɛrnaˈtiːf/
+  eine andere Möglichkeit bietend
+  Alternativfrage
+
 Alterssicherung, die: retirement provision
 
 Altersvorsorge /ˈaltɐsfoːɐzɔrɡə/, die, ~|-n: pension plan
@@ -975,6 +980,9 @@ altruistisch /altruˈɪstɪʃ/: altruistic
 
 Ameise /ˈaːmaizə/, die, ~|-n: ant
   Ameisenhaufen: anthill
+
+Amerika, das
+  Nordamerika, Südamerika
 
 Amerikaner, Amerikanerin, -s|~, Amerikanerinnen: American
 
@@ -3107,7 +3115,7 @@ austoben /ˈaustoːbən/: to run riot, to let off steam
   Die Jungen sollen sich im Garten mal so richtig austoben.
   The boys can run around to their hearts' content in the garden and tire themselves out.
 
-Australien /ausˈtraːljən/
+Australien /ausˈtraːljən/, das
 
 austreiben /ˈaustraibən/: to exorcise, to cure of
   Sie kam zu Tode, als ihr Vater den Teufel austreiben wollte, von dem sie angeblich besessen war.

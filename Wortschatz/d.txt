@@ -379,9 +379,12 @@ derartig /deːɐˈ|aːɐtɪç/: such
 deren /ˈdeːrən/: her/its/their, whose
   meine Schwester und deren Mann: my sister and her husband
 
-derselbe /deːɐˈzɛlbə/, dieselbe /diːˈzɛlbə/: the same
+derselbe /deːɐˈzɛlbə/, dieselbe /diːˈzɛlbə/, dasselbe, dieselben: the same
   Ich habe dasselbe T-Shirt wie du.
   I have the same T-shirt as you.
+  Sie ist immer noch ganz dieselbe.
+  ein und derselbe Mensch
+  Sie sind dieselben.
 
 derzeit /ˈdeːɐˈʦait/: at the moment
   Das kommt derzeit nicht in Frage.
@@ -448,6 +451,9 @@ Deutsche /'dɔyʧə/, -n|-n
   Ich bin keine Deutsche.
   Das Wort kommt aus dem Deutschen.
   The word comes from German.
+  Der Deutsche heißt Jans.
+
+Deutschland, das
 
 Dezember /deˈʦɛmbɐ/, der, -s|~
 
@@ -456,7 +462,7 @@ d. h., das heißt: i.e.
 Diagnose /diaˈɡnoːzə/, die
   Feststellung des Arztes, welche Krankheit ein Patient hat
 
-Dialog /diaˈloːk/, der, -e: dialog
+Dialog /diaˈloːk/, der, -(e)s|-e: dialog
   die Dialoge in einem Theaterstück: the dialogs in a play
 
 Diamant /diaˈmant/, der, -en: diamond
@@ -519,11 +525,6 @@ Dienstag /'diːnstaːk/, der, -(e)s|-e
 
 Diesel /ˈdiːzəl/, der, -s|~: diesel
   Diesel tanken: to use diesel fuel
-
-derselbe, dieselbe, dasselbe, dieselben: the same
-  Sie ist immer noch ganz dieselbe.
-  ein und derselbe Mensch
-  Sie sind dieselben.
 
 digital /diɡi'taːl/
 

@@ -373,6 +373,7 @@ Kieselstein, der: pebblestone
 Kind /kɪnt/, das, -(e)s|-er|den -ern: child
   Die Kinder spielen im Hof.
   Den Kindern geht es gut.
+  mit meinen Kindern
 
 Kinderbett, das: crib
 
@@ -785,6 +786,8 @@ Komma, das
 
 kommen /ˈkɔmən/: to come
   komme, kommst, kommt, bin gekommen
+  kam, kamst, kamt
+  komm, kommt
   ums Leben kommen: to die
 
 Kommentar /kɔmɛnˈtaːɐ/, der, -s|-e: comment, commentary
@@ -800,7 +803,7 @@ kommentieren /kɔmɛnˈtiːrən/: to comment (on)
   ein politisches Geschehen / Fußballspiel kommentieren
   to comment on a political event/soccer match
 
-Kommilitone /kɔmiliˈtoːnə/: fellow student
+*Kommilitone /kɔmiliˈtoːnə/, -nin: fellow student
 
 Kommission /kɔmɪˈsjoːn/, die, ~|-en: commission
   der Prüfungskommission angehören: to be on the board of examiners
@@ -866,6 +869,8 @@ konfrontieren /kɔnfrɔnˈtiːrən/: to confront
 Kongo /ˈkɔŋɡo/, der
 
 König /‘køːnɪç/
+
+Konjugation /kɔnjuɡaˈʦjoːn/, die
 
 konjugieren /kɔnjuˈɡiːrən/: to conjugate
   Verben konjugieren
@@ -969,11 +974,11 @@ Korn /kɔrn/, das, -(e)s|..er: seed, grain, corn
 Korb /kɔrp/, der, Körbe: basket
   ein Korb (voll) Äpfel: a basket (full) of apples
 
-Korea
+Korea /koˈreːa/, das
 
 Koreaner, der, Koreanerin, Koreaner
 
-Koreanisch
+Koreanisch, korenaisch
 
 Korn /kɔrn/, das, -(e)s|..er: seed, grain, corn
 

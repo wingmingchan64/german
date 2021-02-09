@@ -398,11 +398,11 @@
 3624 Welches Datum haben wir heute?
 3634 In welcher Religion bist du?
 3643 Wann kommen sie an?
-3657 Um wieviel Uhr stehst du auf?
-3667 Um wieviel Uhr gehst du ins Bett?
-3678 Um wieviel Uhr wachst du auf?
-3686 Um wieviel Uhr fäng es an?
-3695 Um wieviel Uhr glaubst du, kommst du an?
+3657 Um wie viel Uhr stehst du auf?
+3667 Um wie viel Uhr gehst du ins Bett?
+3678 Um wie viel Uhr wachst du auf?
+3686 Um wie viel Uhr fäng es an?
+3695 Um wie viel Uhr glaubst du, kommst du an?
 3705 Wieviel Uhr ist das?
 3713 Wann kommen sie?
 3721 Wann kommst du zurück?
@@ -413,9 +413,20 @@
 3763 Wann ist dein Geburtstag?
 3771 Als ich im Geschäft war, hatten sie keine Äpfel.
 3784 Wann hast du zum letzten Mal mit deiner Mutter gesprochen?
+3793 Wann wird er zurück sein?
+3803 Wann wird es fertig sein?
+3812 Wohin gehst du?
+3828 Bist du beschäftigt?
+3837 Können wir bitte noch Brot bekommen?
+3846 Haben Sie Geld?
+3854 Für wie viele Nächte?
+3861 Wie lange werden Sie bleiben?
+3871 Ich hätte gern einen Stadtplan.
+3888 Ich hätte gern ein Zimmer für Nichtraucher.
 
 
-https://www.youtube.com/watch?v=tn2RTHzvrU8&t=20s
+Note: Use the number preceding a sentence in the following URL to access that sentence
+https://www.youtube.com/watch?v=tn2RTHzvrU8&t=[number]s
 
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«

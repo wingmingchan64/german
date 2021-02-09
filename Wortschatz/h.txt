@@ -478,6 +478,8 @@ heiß /hais/: hot
 
 heißen: to be called, named, it says
   heiße, heißt, heißt, habe geheißen
+  hieß, hießest, hieß, hießt
+  heiß, heißt
   In dem Artikel heißt es, …
   It says in the article …
   Ich heiße Nico. Wie heißt du?

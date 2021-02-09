@@ -389,6 +389,7 @@ Einfluss /ˈainflʊs/, der, ..e: influence, authority, clout
   Alkoholeinfluss
 
 einfügen /ˈainfyːɡən/: to insert, to fit in
+  an eine passende Stelle setzen; sich in eine Umgebung einordnen
   ein Puzzleteil einfügen: to put a jigsaw puzzle in its place
   Das neue Gebäude fügt sich harmonisch in das Stadtbild ein.
   The new building fits nicely into the cityscape.
@@ -1465,6 +1466,7 @@ Erfüllung /ɛɐˈfʏlʊŋ/, die, |uncountable: fulfillment
 erfunden: fictitious
 
 ergänzen /ɛɐˈɡɛnʦən/: to add, to complete
+  Fehlendes hinzufügen
   Bitte ergänzen Sie die fehlenden Wörter.
   Please add the missing words.
   
@@ -1852,6 +1854,7 @@ ersparen /ɛɐˈʃpaːrən/: to save
   He saved up for the new computer from his pocket money.
 
 erst /eːɐst/: first, not until, only, not before
+  der erste Mann
   Lass ihn doch erst mal die Jacke ausziehen.
   Let him take off his jacket first.
   Der nächste Bus fährt erst um 10 Uhr/in 20 Minuten.
