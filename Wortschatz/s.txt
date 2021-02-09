@@ -846,6 +846,9 @@ schnappen /ˈʃnapən/: to snap, to grab, to catch
   Die Polizei wird ihn schon schnappen.
   The police will catch him.
 
+Schnaps, der, -es|-e
+  Getränk mit hohem Alkoholgehalt
+
 schnarchen /ˈʃnarçən/: to snore
   Er liegt schnarchend im Bett.
   He is lying in bed snoring.
@@ -1440,7 +1443,8 @@ seither /zaitˈheːɐ/: since (then)
 
 Sekretär /zekreˈtɛːɐ/, Sekretärin: clerk, secretary
 
-Sekt, der: champagne
+Sekt /zɛkt/, der, -(e)s|-e: champagne
+  der Champagner
 
 Sektor /ˈzɛktoːɐ/, der, -s|-en: field, area, sector
   ein ausgewiesener Experte auf dem Sektor der Erbschafts- und Schenkungssteuer
