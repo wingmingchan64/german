@@ -422,11 +422,43 @@
 3854 Für wie viele Nächte?
 3861 Wie lange werden Sie bleiben?
 3871 Ich hätte gern einen Stadtplan.
-3888 Ich hätte gern ein Zimmer für Nichtraucher.
+3878 Ich hätte gern ein Zimmer für Nichtraucher.
+3887 Ich hätte gern ein Zimmer.
+3896 Ich hätte gern ein Zimmer mit zwei Betten.
+3905 Ich brauche einen Arzt.
+3913 Gibt es einen Nachtklub in der Stadt?
+3922 Gibt es ein Restaurant im Hotel?
+3932 Gibt es ein Geschäft in der Nähe?
+3942 Tut mir leid, aber wir haben keine freien Zimmer.
+3953 Bringen Sie mich zum Marriott Hotel.
+3962 Was berechnen Sie pro Nacht?
+3972 Wann ist der Check out?
+3980 Wo ist der Flughafen?
+3989 Wo ist der Briefkasten?
+4006 Bist du hier allein?
+4015 Kann ich meinen Freund mitbringen?
+4024 Könnte ich bitte eine Quittung bekommen?
+4032 Ist es möglich, Rabatt zu bekommen?
+4042 Können wir bitte eine Speisekarte haben?
+4050 Kannst du das für mich halten?
+4058 Haben Sie Kinder?
+4066 Weißt du, wie viel das kostet?
+4075 Haben Sie im Restaurant gegessen?
+4082 Haben Sie schon gegessen?
+4091 Haben Sie schon enmal Kartoffelsuppe gegessen?
+4099 Er trinkt gern Saft, aber nicht gern Milch.
+4109 Hier ist Ihr Salat.
+4117 Hier ist Ihre Bestellung.
+4126 Wie schmeckt das?
+4133 Für wie viele Personnen?
+4142 Ich stimme zu.
+4151 Ich hätte gern einen Tisch am Fenster.
+4158 Ich würde gern in die USA telefonieren.
+4168 Ich war da noch nicht.
 
 
 Note: Use the number preceding a sentence in the following URL to access that sentence
-https://www.youtube.com/watch?v=tn2RTHzvrU8&t=[number]s
+
 
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
