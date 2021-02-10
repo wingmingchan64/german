@@ -455,6 +455,29 @@
 4151 Ich hätte gern einen Tisch am Fenster.
 4158 Ich würde gern in die USA telefonieren.
 4168 Ich war da noch nicht.
+4178 Ich bin noch nicht mit dem Mittagessen fertig.
+4186 Ich mag es.
+4194 Ich ruf dich an.
+4202 Ich hätte gern eine Tasse Tee.
+4211 Ich hätte gern ein Glas Wasser.
+4220 Ich bin aus Amerika.
+4228 Ich gehe schlafen.
+4236 Ich bin geschäftlich hier.
+4244 Es tut mir leid.
+4252 Ich habe nur noch fünf Dollar.
+4263 Ich glaube, dass ich zu einem Arzt gehen sollte.
+4273 Es ist der 25. August.
+4282 Ich verstehe.
+4290 Der dritte Juni.
+4298 Das Essen war köstlich.
+4307 Es sind ein paar Äpfel im Kühlschrank.
+4318 Es gibt ein Restaurant hier in der Nähe.
+4327 Dadrüben ist ein Restaurant, aber ich glaube es ist nicht seht gut.
+4341 Bedienung/Kellner
+4349 Bedienung/Kellnerin
+4357 Wir können italienisches oder chinesisches Essen essen.
+4370 Wir nehmen zwei Gläser Wasser bitte.
+4381 Was wirst du haben?
 
 
 Note: Use the number preceding a sentence in the following URL to access that sentence
