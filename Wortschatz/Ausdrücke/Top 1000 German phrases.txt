@@ -539,12 +539,69 @@
 4907 Ich bin 32.
 4915 Ich bin 1,84m.
 4924 Ich bin gegen Meeresfrüchte/Meeresspeisen allergisch.
-
-
+4933 Ich bin Amerikaner.
+4941 Ich habe Große 8.
+4948 Mir geht es gut, und dir?
+4958 Ich habe keine Angst.
+4966 Ich bin krank.
+4974 Ich erinnere mich
+4982 Ich spreche nur etwas Englisch.
+4990 Ist Ihr Haus wie dieses hier?
+4998 Kommt Ihr Mann auch aus Boston?
+5007 Es ist nicht sehr teuer.
+5016 Ich war dort.
+5024 Lass uns das teilen.
+5032 Meine Tochter ist hier.
+5040 Mein Vater war hier.
+5048 Mein Vater ist Anwalt.
+5056 Meine Großmutter ist letztes Jahr gestorben.
+5067 Mein Name ist John Smith.
+5075 Mein Sohn
+5083 Mein Sohn studiert Informatik (Computer)
+5093 Nein, ich bin Amerikaner.
+5103 Nein, das ist das erste Mal.
+5112 Unsere Kinder sind in Amerika.
+5121 Sie ist eine Expertin.
+5129 Sie ist älter als ich.
+5138 Das Auto ist ähnlich wie mein Auto.
+5147 Das ist Frau Smith.
+5155 Das ist meine Mutter.
+5163 Das ist das erste Mal, dass ich hier bin.
+5172 Wir haben zwei Jungen und ein Mädchen.
+5183 Was machst du heute Abend?
+5191 Was sind deine Hobbies?
+5199 Was studieren Sie?
+5207 Was wollen Sie machen?
+5215 Zu welcher Schule bist du gegangen?
+5225 Was ist dein Lieblingsfilm?
+5233 Wie ist dein Nachname?
+5241 Wie heißt du?
+5248 Wo sind die T-Shirts?
+5257 Wo bist du hingegangen?
+5265 Wo hast du Englisch gelernt?
+5275 Wo hast du vorher gearbeitet?
+5286 Wo wohnst du?
+5294 Wo warst du?
+5302 Wer hat den Brief geschickt?
+5311 Möchten Sie das kaufen?
+5320 Deine Kinder sind wohl erzogen.
+5331 Deine Tochter
+5339 Du bist klüger als er.
+5348 Du spricht wirklich gut Englisch.
+5363 Gibt es irgendwelche Konzerte?
+5372 Möchtest du einen Film sehen?
+5381 Haben Sie diesen Film schon gesehen?
+5390 Er sagte, du würdest gern Filme anschauen.
+5400 Wie groß sind Sie?
+5408 Ist die Bank weit?
+5416 Gibt es ein Kino in der Nähe?
+5425 Was machen die Leute gewöohlich im Sommer in Los Angeles?
+5437 Welche Art von Musik magst du?
+5447 Was ist dein Lieblingsessen?
 
 Note: Use the number preceding a sentence in the following URL to access that sentence
 
-
+https://www.youtube.com/watch?v=tn2RTHzvrU8&t=[number]s
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
 ========================================================

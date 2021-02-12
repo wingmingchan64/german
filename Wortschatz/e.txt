@@ -2039,6 +2039,9 @@ erzieherisch: parenting, disciplinary, educational
 erzielen /ɛɐˈʦiːlən/: to achieve, to attain
   ein befriedigendes Ergebnis erzielen: to achieve a satisfactory result
 
+erzogen
+  ein gut/schlecht erzogenes Kind
+
 erzürnen /ɛɐˈʦʏrnən/: to anger, to incense, to get angry
   Ihre Bemerkung erzürnte den Lehrer.
   Her remark angered the teacher.
