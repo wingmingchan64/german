@@ -14,6 +14,8 @@ Zahl /ʦaːl/, die: number
 zahlen /ˈʦaːlən/: to pay
   in bar / per Überweisung / mit Karte zahlen
   to pay in cash/by bank transfer/by card
+  Ich zahle das Benzin.
+  Wo kann ich zahlen?
 
 zählen /ˈʦɛːlən/: to count, to number
   Unser Sohn kann schon bis zehn zählen.
@@ -30,6 +32,12 @@ zählen /ˈʦɛːlən/: to count, to number
 zahlreich /ˈʦaːlraiç/: numerous
   eine große Zahl
   → viele
+
+Zahlung, die: payment
+
+Zahlungskraft, die: wealth
+
+Zahlungsmittel, das: means of payment
 
 zähmen: to tame
   ein wildes Tier zähmen
@@ -525,6 +533,7 @@ zukunftsweisend: forward-looking
 zulassen /ˈʦuːlasən/
   geschehen lassen; eine offizielle Erlaubnis erteilen
   → erlauben, → ermöglichen
+  Sind Tiere zugelassen?
 
 zuletzt /ʦuˈlɛʦt/: last, in the end
   Die Post erledigt sie immer zuletzt.

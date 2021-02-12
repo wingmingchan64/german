@@ -497,6 +497,11 @@ geheimnisvoll /ɡəˈhaimnisfɔl/: mysterious
 
 Geheimtipp /ɡəˈhaimtɪp/, der: insiders' tip
 
+Geheimnummer, die
+  geheime, nicht im Telefonbuch verzeichnete Telefonnummer; geheim gehaltene Nummer von Bankkonten, Scheckkarten, Schlössern mit Zahlenkombinationen o. Ä.
+
+Geheimzahl, die: PIN
+
 gehemmt: shy
   schüchtern, ängstlich
   
@@ -590,6 +595,10 @@ gekonnt → können
 gekräuselt: curly, curled, frizzy, ripply, frilly
   ihre Haare haben sich im Regen gekräuselt
   her hair turned frizzy in the rain
+
+Gel /ɡeːl/, das
+  eine farblose Masse zur Pflege von Haut oder Haaren
+  Haargel
 
 Gelächter /ɡəˈlɛçtɐ/, das, -s: laughter
   Die Jungen brachen in lautes Gelächter aus.
@@ -1006,6 +1015,10 @@ Geschirr /ɡəˈʃɪr/, das, -e: dishes, crockery
   These dishes are dishwasher safe.
   das Geschirr spülen: to do the dishes
   Ich wasche das Geschirr nicht ab.
+
+Geschirrspüler, der: dishwasher
+
+Geschirrspülmittel, das: dishwashing liquid
 
 Geschlecht, das: sex, gender, race, generation, house, lineage
   Eigenschaft, männlich oder weiblich zu sein; alle männlichen oder weiblichen Lebewesen

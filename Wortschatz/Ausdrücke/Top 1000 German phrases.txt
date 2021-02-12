@@ -478,6 +478,68 @@
 4357 Wir können italienisches oder chinesisches Essen essen.
 4370 Wir nehmen zwei Gläser Wasser bitte.
 4381 Was wirst du haben?
+4390 Was empfehlen Sie?
+4400 Wie ist deine Emailadresse?
+4408 Was möchtest du trinken?
+4418 Was möchtest du essen?
+4426 Wo ist ein Geldautomat?
+4434 Wo finde ich einen Doktor, der Englisch sprict?
+4445 Welches?
+4453 Können Sie ihn fragen, ob er herkommen kann?
+4462 Möchten Sie ein Glas Wasser?
+4472 Möchten Sie Kaffee oder Tee?
+4481 Möchten Sie was trinken?
+4491 Möchten Sie Wasser?
+4499 Möchten Sie Wein?
+4508 Möchtest du spazieren gehen?
+4517 Würdest du gerne Fernsehen?
+4533 Bist du Amerikanerin?
+4541 Kommst du heute Abend?
+4551 Hast du heute Abend Zeit?
+4460 Wirst du fliegen oder mit dem Zug fahren?
+4470 Hast du Hunger?
+4483 Bist du dir sicher?
+4491 Arbeitest du morgen?
+4499 Das Geschäft läuft gut.
+4507 Prost!
+4515 Hat es gestern geschneit?
+4523 Hast du meine Post erhalten?
+4532 Hast du deine Medizin genommen?
+4639 Geht es dir besser?
+4647 Gehst du oft nach Florida?
+4656 Hast du noch eine?
+4664 Wissen Sie, wo es ein Geschäft für Handtücher gibt?
+4675 Gefällt es dir hier?
+4683 Magst du das Buch?
+4691 Brauchst du noch etwas?
+4699 Treibst du irgendwelchen Sport?
+4708 Verkaufen Sie Medizin?
+4717 Lernen Sie Englisch?
+4725 Willst du mitkommon?
+4733 Willst du mit mir gehen?
+4741 Entschuldigung.
+4749 Ruf mich an.
+4756 War dein Bruder schon einmal in Kalifornien?
+4766 Haben sie sie (accusative) schon getroffen?
+4774 Haben Sie das schon einmal gemacht?
+4783 Wie lange bist du dort gewesen?
+4793 Wie lange warst du in Amerika?
+4802 Wie lange hast du dort gelebt?
+4810 Wie viele Kinder haben Sie?
+4818 Wie viele Sprachen sprechen Sie?
+4827 Wie viele Mitglieder hat Ihre Familie?
+4837 Wie viel hätten Sie gern?
+4845 Wie alt sind Sie?
+4853 Ich habe gestern ein T-Shirt gekauft.
+4863 Mir geht es nicht gut.
+4871 Ich habe Schmerzen im Arm.
+4881 Ich muss Wäsche waschen.
+4890 Ich habe zwei Schwestern.
+4899 Ich richte ihm aus, dass Sie angerufen haben.
+4907 Ich bin 32.
+4915 Ich bin 1,84m.
+4924 Ich bin gegen Meeresfrüchte/Meeresspeisen allergisch.
+
 
 
 Note: Use the number preceding a sentence in the following URL to access that sentence

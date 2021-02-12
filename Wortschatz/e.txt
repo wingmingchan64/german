@@ -410,7 +410,7 @@ Einführung, die: introduction
 Eingang /ˈainɡaŋ/, der: entrance, start, receipt, delivery
 
 eingeben: to enter, to key in
-  Bitte geben Sie Ihre PIN ein.
+  Bitte geben Sie Ihre PIN / Geheimzahl ein.
 
 eingehen /ˈainɡeːən/: to take, to enter into, to be received
   Ich gehe jede Wette ein, dass das stimmt.
@@ -911,6 +911,12 @@ eisig /ˈaizɪç/: icy, frigid
 
 Eisen /ˈaizən/, das: iron
    ein Geländer aus Eisen: an iron handrail
+
+Eisenwaren, die, pl
+
+Eisenwarenhändler, der: hardware dealer
+
+Eisenwarenhandlung, die
 
 Eiszapfen /ˈaisʦapfən/, der, -s|~: icicle
   Am Dach hängen große Eiszapfen.
@@ -1703,7 +1709,7 @@ Ermordung /ɛɐˈmɔrdʊŋ/, die, ~|-en: murder, homicide
 
 ermuntern: to encourage
 
-ernähren: to eat
+ernähren: to eat, to feed
   → Nahrung
   sich gesund / vegetarisch ernähren
 

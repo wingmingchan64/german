@@ -420,6 +420,18 @@ Tiefe /ˈtiːfə/, die, ~|-n: depth
   ein Regal von 2 m Breite und 40 cm Tiefe: shelves that are 2 m across and 40 cm deep
   in die Tiefe stürzen: to plunge into the depths
 
+tiefgefrieren: to freeze
+
+tiefgekühlt: frozen
+
+tiefkühlen: tiefgefrieren
+
+Tiefkühler, der: freezer
+
+Tiefkühlkost, die: frozen food
+
+Tiefkühltruhe, die: freezer
+
 Tiefsee, die: deep sea
 
 Tier /tiːɐ/, das, -e: animal
@@ -504,6 +516,11 @@ Todesengel /ˈtoːdəs|ɛŋəl/, der, -s|~: angel of death
 Todesstrafe /ˈtoːdəsʃtraːfə/, die, |uncountable: death penalty
   In Deutschland wurde die Todesstrafe 1949 abgeschafft.
   The death penalty was abolished in Germany in 1949.
+
+Toilette, die, ~|-n
+  Becken, auf das man sich setzt, wenn man Blase oder Darm entleeren muss; Raum mit einer oder mehreren Toiletten; der Vorgang, sich morgens oder vor dem Ausgehen zu waschen, anzuziehen, zurechtzumachen
+
+Toilettenpapier, das, -s|-e
 
 Tokio
 
@@ -596,6 +613,9 @@ tragen /ˈtraːɡən/: to carry, to take, to wear, to hold
   Would you take the suitcases inside?
   Verkaufe kaum getragene Kindersachen. Tel.: …
   Hardly worn children's clothes for sale: Tel.: …
+
+Tragetasche, die
+  große Tasche mit Henkeln für Einkäufe oder Gepäck
 
 Tragfläche /ˈtrakflɛçə/, die, Tragflächen: wing
   Vor dem Start mussten noch die Tragflächen enteist werden.

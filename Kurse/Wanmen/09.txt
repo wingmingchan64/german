@@ -1,0 +1,46 @@
+9.0 Dialog
+
+- Kommen Sie bitte herein. Was möchten Sie?
+- Entschuldigen Sie bitte. Ist das die Wanmen Universität?
+- Ja, hier sind Sie richtig.
+- Ich habe Ihre Stellenanzeige im Internet gelesen und möchte mich bei Ihnen als Teilzeit Lehrer bewerben.
+- Nehmen Sie bitte Platz.
+- Wie ist Ihr Name bitte?
+- Ludwig.
+- Ist das Ihr Vorname?
+- Nein.
+- Und Ihr Vorname?
+- Alex.
+- Wie alt sind Sie, Herr Ludwig?
+- Ich bin 28 Jahre.
+- Und was sind Sie von Beruf?
+- Ich bin Lehrer.
+- Und wie ist Ihr Familienstand?
+- Wie bitte?
+- Sind Sie verheiratet?
+- Ja, ich bin gerade Vater geworden.
+- Warum möchten Sie bei uns arbeiten?
+- Ich finde Ihre Kurse im Internet fantastisch. Auf dieser Weise möchte ich Deutschland und deutsche Kultur vorstellen.
+- Gut, Herr Ludwig. Vielen Dank. Bitte bereiten Sie Sich vor für einen Probe-Unterricht und kommen Sie noch einmal am Montag um 9 Uhr. Vielen Dank. Auf Wiedersehen!
+- Auf Wiedersehen!
+========================================================
+
+Wie ist Ihr Name?
+
+der Vorname, die Vornamen
+der Nachname, die Nachnamen
+der Familienname, die Familiennamen
+
+Namengebung, Namensgebung
+Lieblingsvorname
+Jungenname:
+Elias, Alexander, Leon, Ludwig
+Mädchenname:
+Julia, Emma, Lisa, Anna
+
+
+========================================================
+
+========================================================
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
+========================================================

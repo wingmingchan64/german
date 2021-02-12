@@ -796,7 +796,7 @@ Die Wegbeschreibung
 Warm up
 in der Nähe vom Bahnhof (entlang)
 Nehmen Sie die erste Straße links.
-Wo gehen Sie hin?
+Wo gehen Sie hin? Wohin gehen Sie?
 
 Gehen Sie nach links / rechts
 auf der linken Seite / rechten Seite
@@ -984,7 +984,7 @@ Hat das Zimmer einen Balkon?
 das Frühstücksbüffet
 
 ========================================================
-Im Hotel p.62
+Im Hotel
 ========================================================
 Warm up
 Gibt es…?
@@ -1140,8 +1140,195 @@ Ich nehme keinen Zucker in meinem Kaffee.
 Die Aussicht ist nicht sehr schön.
 
 ========================================================
-Einkaufen p.70
+Week 7
 ========================================================
+Einkaufen
+========================================================
+Warm up
+Wie komme ich zum Bahnhof?
+Gehen Sie an der Ampel nach links, und geradeaus weiter.
+Der Bahnhof liegt gegenüber dem Café.
+
+die Bäckerei
+die Konditorei
+das Zeitungskiosk
+die Fleischerei
+das Feinkostgeschäft
+die Buchhandlung
+das Fischgeschäft
+die Apotheke
+die Bank
+die Drogerie
+Der Blumenladen
+der Antiquitätenladen
+der Friseur
+der Juwelier
+die Post
+das Schuhgeschäft
+das Benzinbad / die Reinigung
+der Eisenwarenhändler / die Eisenwarenhandlung
+
+Wo ist der Friseur?
+Wo kann ich zahlen?
+Danke, ich schaue mich nur um.
+Verkaufen Sie Telefonkarten?
+Ich hätte gern zwei von diesen.
+Gibt es in der Stadt ein Kaufhaus?
+Kann ich bitte bestellen?
+
+Wo ist die Bank?
+Verkaufen Sie Käse?
+
+========================================================
+Auf dem Markt
+========================================================
+Warm up
+vierzig
+sechsundfüngzig
+siebenundsiebzig
+zweiundachtzig
+vierundneunzig
+Ich möchte gern ein großes Zimmer.
+Haben Sie ein kleines Auto?
+
+ein Pfund
+im Stück
+
+der Rhabarber
+die Kartoffel, die Kartoffeln
+das Radieschen, die Radieschen
+der Spinat
+die Möhre, die Möhren, die Karotte, die Karotten
+der Kohl, die Kohle
+der Lauch, die Lauche, der Porree
+der Kohlrabi
+
+Ich hätte gern Tomaten.
+Die großen oder die kleinen?
+Zwei Kilo kleine, bitte.
+Sonst noch etwas?
+Das ist alles, danke. Was kostet das?
+Drei Euro fünfzig.
+
+ein Kilo Kirschen
+
+Diese Würstchen sind zu teuer.
+Was kostet ein Kilo Trauben?
+Das ist alles.
+
+Drei Kilo Kartoffeln, bitte.
+Die Möhren sind zu teuer.
+Wie viel kostet der Kohl?
+
+========================================================
+Im Supermarkt
+========================================================
+das Fleisch
+der Fisch
+der Käse
+der Fruchsaft
+der Wein
+das Wasser
+
+die Haushaltswaren
+das Obst
+die Getränke
+die Fertiggerichte
+die Kosmetika
+die Milchprodukte
+das Gemüse
+die Tiefkühlkost
+
+Ich hätte gern eine Tragetasche.
+Wo ist der Gang mit den Getränken?
+Wo ist die Kasse, bitte?
+Bitte geben Sie Ihre Geheimzahl ein.
+
+das Brot
+die Milch
+die Butter
+der Schinken
+das Salz
+der Pfeffer
+das Waschpulver
+das Toilettenpapier
+das Geschirrspülmittel
+
+Wo ist der Gang mit der Milchprodukte?
+Ich hätte gern Schinken, bitte.
+Wo sind die Toiletten?
+
+========================================================
+Bekleidung und Schuhe
+========================================================
+Warm up
+Ich hätte gern …
+Haben Sie …
+achtunddreißig
+zweiundvierzig
+sechsundvierzig
+groß, klein
+
+Der Rock ist rot.
+Ich nehme das in Rot.
+
+das Hemd
+die Krawatte
+die Jacke
+die Tasche
+der Ärmel
+die Hose
+der Rock
+die Strumpfhose
+die Schuhe
+
+Ich nehme das in Rosa.
+Haben Sie das eine Nummer größer/kleiner?
+Es ist nicht das, was ich suche.
+
+rot
+weiß
+blau
+gelb
+grün
+schwarz
+
+Haben Sie diese Jacke in Schwars?
+Haben Sie das in einer 38er?
+Haben Sie das eine Nummer kleiner?
+
+========================================================
+Wiederholung
+========================================================
+1. Market
+die Kartoffeln
+die Radieschen
+der Spinat
+der Kohl
+der Lauch
+die Möhren
+
+2. Description
+Diese Schuhe sind zu teuer.
+Mein Zimmer is sehr klein.
+Das Bett ist zu hart.
+
+3. Shops
+die Bäckerei
+die Bank
+die Buchhandlung
+das Fischgeschäft
+die Konditorei
+die Fleischerei
+
+4 Supermarket
+die Haushaltswaren
+die Kosmetika
+die Getränke
+die Milchprodukte
+das Gemüse
+
+
 ========================================================
 ä Ä é ö Ö ß ü Ü
 ========================================================

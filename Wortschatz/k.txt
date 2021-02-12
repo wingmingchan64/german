@@ -136,6 +136,9 @@ karg /kark/: meager, sparsely furnished, barren
   Die Mägde hausten in kargen Dachkammern.
   The maids lived in sparsely furnished attic rooms.
 
+Karotte, die, ~|-en
+  Möhre
+
 Karre, die: (wheel)barrow
 
 Karriere /kaˈrjeːrə/, die, ~|-n: career
@@ -159,7 +162,7 @@ Karussell /karuˈsɛl/, das, -s|-s/-e: carousel
   Die Kinder wollten (mit dem) Karussell fahren.
   The kids wanted to ride on the carousel.
 
-Käse /ˈkɛːzə/, der, -s|~: cheese
+*Käse /ˈkɛːzə/, der, -s|~: cheese
   Käsekuchen
 
 Kaserne /kaˈzɛrnə/, die, ~|-n: barracks
@@ -226,6 +229,7 @@ Kauf /kauf/, der, -(e)s|..e: purchase
   If you're promoted you'll have to accept a few hours of overtime.
 
 Kaufhaus, das: department store
+  großes Geschäft, in dem Waren aus vielen unterschiedlichen Bereichen angeboten werden
 
 Kaufmann /ˈkaufman/, Kauffrau: businessman, sales manager, merchant
 
@@ -402,7 +406,9 @@ kippen /ˈkɪpən/: to tip (up), to pour, to tilt, to topple over
 
 Kirche /ˈkɪrçə/, die, ~|-n: church
   Gebäude, in dem Christen Gottesdienst feiern
-  eine gotische / romanische Kirche: a Gothic/Romanesque church 
+  eine gotische / romanische Kirche: a Gothic/Romanesque church
+  
+Kirsche /ˈkɪrʃə/, die, ~|-n: cherry
 
 Kirschsaft, der: cherry juice
 
@@ -750,8 +756,12 @@ Kofferkuli, der: cart
 Kofferraum, der: trunk
   die Einkäufe in den Kofferraum legen
 
-Kohl /koːl/, der, Kohl(e)s: cabbage
+Kohl /koːl/, der, -(e)s|-e: cabbage, nonsense
   Rotkohl: red cabbage
+  ein Kopf Kohl
+  Das ist doch alles Kohl!
+
+Kohlrabi /koːlˈraːbi/, der 
 
 *Kohle /ˈkoːlə/, die: coal
   Kohle abbauen: to mine for coal
@@ -861,6 +871,8 @@ Konditional /kɔndiʦjoˈnaːl/
 
 Konditor /kɔnˈdiːtoːɐ/, -s|-en, -in: pastry chef, confectioner
   Pralinen beim Konditor kaufen: to buy chocolates at the confectionery store
+
+Konditorei, die
 
 Kondom /kɔnˈdoːm/, das, -s|-e: condom
   ein Kondom benutzen: to use a condom
@@ -998,7 +1010,10 @@ Korrekturstift, der, -e: correction pen
 
 korrigieren
 
+Kosmetikum, das, Kosmetika
+
 Kost /kɔst/, die: food
+  das, womit man sich ernährt
 
 Kostbarkeit /ˈkɔstbaːɐkait/, die, -en: precious object
   Kostbarkeiten aus Gold und Edelsteinen

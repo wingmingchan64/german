@@ -357,6 +357,10 @@ Schauspieler, Schauspielerin /ˈʃauʃpiːlɐ/: actor/actress
 
 schauten → schauen
 
+Scheck, der
+  Formular als bargeldloses Zahlungsmittel
+  Scheckbuch
+
 Scheibe /ˈʃaibə/, die, -n: slice, pane, disk
   relativ dünnes abgeschnittenes Stück; dünnes flaches Stück; Gegenstand mit einer flachen, runden Form
   eine Scheibe Brot essen: to eat a slice of bread
@@ -929,6 +933,7 @@ Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
   Er trug den Schlüssel an einer Schnur um den Hals.
   He wore the key on a cord around his neck.
   Zeltschnur: guy rope
+  → verschnüren: to tie up
 
 Schnurrbart /ˈʃnʊrbaːɐt/, der, -(e)|..e: mustache
 
@@ -2782,11 +2787,15 @@ Struktur /ʃtrʊkˈtuːɐ/, die, -en: structure, texture
   die soziale Struktur der Gesellschaft: the social structure of society
   ein Gewebe mit einer rauen Struktur: a fabric with a coarse texture
 
+Strumpfhose /ˈʃtrʊmpfhoːzə/, die: pantyhose
+  eng anliegendes Kleidungsstück (für Frauen oder Kinder), das Füße, Beine und Unterkörper bedeckt
+
 struppig /ˈʃtrʊpɪç/: scruffy, bedraggled
   Ist das Tier krank, dass sein Fell so struppig ist?
   Why is that animal's coat so scruffy? Is it sick?
   halb verhungerte, struppige Straßenköter
   half-starving, scruffy stray dogs
+  eine Strumpfhose unter dem Rock tragen
 
 Stube /ˈʃtuːbə/, die, ~|-n: parlor, living room, barrack room, study, dormitory
   Früher benutzte man oft die gute Stube nur an Sonntagen und hielt sich ansonsten in der Küche auf.

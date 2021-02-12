@@ -67,6 +67,7 @@ Impfung, die: vaccination, inoculation, shot
 inbegriffen /ˈɪnbəɡrɪfən/: included
   in etw. enthalten
   Ist das Frühstück inbegriffen?
+  Ja, das Frühstück ist im Preis inbegriffen.
 
 indem: by, while
   Du kannst mir helfen, indem du den Tisch deckst.
@@ -133,7 +134,7 @@ Insel /ˈɪnzəl/, die, ~|-n: island
   auf einer kleinen Insel Urlaub machen
   to go on vocation to a small island
 
-insgesamt: altogether, in total, all in all, all told, as a whole
+insgesamt /ˈɪnsɡəzamt/: altogether, in total, all in all, all told, as a whole
   Der Gewinn beträgt insgesamt rund zwei Millionen Euro.
   Total profits amounted to some two million euros.
   die insgesamt positive Entwicklung: the positive overall development

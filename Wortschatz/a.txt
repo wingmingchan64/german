@@ -71,7 +71,7 @@ abbeißen /ˈapbaisən/
 abbekommen /ˈapbəkɔmən/: to get, to get hurt
   einen Teil von etw. bekommen; einen Schaden, eine Verletzung bekommen
 
-abbiegen /ˈapbiːɡən/: to turn, to turn off
+abbiegen /ˈapbiːɡən/: (driving) to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
   Biegen Sie bitte bei der nächten Kreuzung nach rechts ab.
 
@@ -1704,6 +1704,9 @@ Anteilnahme /ˈantailnaːmə/, die: participation, involvement
 anthropoid /antropoˈiːt/: anthropoid(al)
 
 Anthropologie /antropoloˈɡiː/
+
+Antiquität, die
+  der Antiquitätenladen
 
 Antonym /antoˈnyːm/, das
 
