@@ -1,0 +1,91 @@
+11 Ich werde es selbst tun.
+23 Ich kann es nicht tun.
+34 Ich bin mir ziemlich sicher.
+46 In Osaka hat es geschneit.
+57 Lass mich mal sehen.
+67 Die Schule ist zwei Kilometer weiter.
+83 Wir hatten in diesem Jahr viel Schnee.
+97 Sie ist dabei zu gehen.
+109 Es wird heute wahrscheinlich regnen.
+121 Jemand spielt Klavier.
+133 Sie können mit dem Bus zum Bahnhof fahren.
+148 Wann wurde es gebaut?
+158 Wo ist das Ende dieser Linie?
+170 Ich will nichts Böses.
+182 Ich habe ihn gerade erst gesehen.
+194 Für welches Unternehmen arbeiten Sie?
+206 Würdest du bitte den Fernseher leiser stellen?
+221 Was wirst du tun?
+231 Er ist immer bei mir.
+243 Hilf mir mal mit dieser Tasche.
+255 Pass gut auf dich auf.
+267 Er ist ein sehr gefährlicher Mann.
+280 Ich mag sie nicht.
+291 Ich nehme zu.
+301 Ich hätte nicht so früh aufstehen sollen.
+314 Ich habe vergessen, den Lagerraum abzuschließen.
+329 Es ist im achten Stock.
+341 Sie ist eine wohlhabende Frau.
+353 Es dauerte fünf Minuten, um zum Bahnhof zu gelangen.
+369 Er kann gut schwimmen.
+379 Ich bin gestern Abend lange wach geblieben.
+392 Ich bin mit dem Zug nach Boston gefahren.
+407 Er begann zu rennen.
+417 Lass die Tasse nicht fallen.
+429 Ich werde dich vermissen.
+438 Ich habe viele Dinge zu erledigen.
+451 Ich habe mir den Ellenbogen verletzt.
+464 Ich fürchte, es wird regnen.
+476 Er hat einen passiven Charakter.
+488 Ich weiß, dass sie schläft.
+500 Ich habe einen Hund.
+510 Warten Sie einen Moment außerhalb des Raumes.
+525 Mein Bruder arbeitet in / bei einer Bank.
+537 Bist du gerade beschätigt?
+548 Möchtest du noch eine Tasse Milch?
+561 Alle Blumen im Garten sind gelb.
+575 Ihm vertrauen seine Eltern.
+587 Sein Englisch ist ziemlich gut.
+601 Ich überredete ihn, daran teilzunehmen.
+616 Dieser Kuchen ist süß.
+628 Was hat er gesagt?
+638 Dieses Buch gehört dir.
+649 Ich muss jetzt gehen.
+661 Er ist noch jung.
+671 Ich habe nicht an dem Gespräch teilgenommen.
+684 Er wacht früh auf.
+695 Ich habe vor, heute Abend zu lernen.
+708 Es ist ungewöhnlich, dass er früh aufsteht.
+723 Sie haben ihre eigenen Probleme.
+735 Dein Hund bellt mich immer an.
+747 Ich kann nicht anders, als zu weinen.
+760 Warum hast du das getan?
+771 Wir setzten uns von Angesicht zu Angesicht hin.
+787 Ich werde dir ihren Mann vorstellen.
+801 Ist es schwer, Englisch zu sprechen?
+814 Kinder sollten draußen spielen.
+826 Du musst dein Ziimmer sauber halten.
+839 Woran sind Sie interessiert?
+852 Ich kann nicht schlafen.
+862 Kannst du Französisch sprechen?
+874 Meine Mutter hat vier Brüder.
+887 Behalte das Geld für mich.
+897 Sie lehnte seinen Vorschlag ab.
+910 Ich bat ihn, sofort anzufangen.
+924 Er ging zuerst in einen Obstladen.
+937 Er hatte doch Recht.
+949 Er macht die Leute oft wütend.
+962 Tom spielt gerne Baseball.
+973 Worin besteht der Unterschied zwischen A und B?
+990 Ich habe keine Lust, heute Abend auswärts zu essen.
+1005 Was wirst du nehmen?
+1016 Die Box ist fast leer.
+1028 Hast du einen?
+1037 Spricht hier jemand Japanisch?
+1052 Ein Truthahn ist etwas größer als ein Huhn.
+
+https://www.youtube.com/watch?v=eqZxBgU-mYY&t=[number]s
+
+========================================================
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
+========================================================
