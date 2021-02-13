@@ -624,6 +624,11 @@ wesentlich /ˈveːzəntlɪç/: fundamental, important, essential, considerably, 
 weshalb: why
   Weshalb hat er das getan?
 
+wessen: whose
+  Wessen Buch ist das?
+  Genitiv von was
+  Sie wusste nicht, wessen man sie beschuldigte.
+
 West /vɛst/, m, ohne Artikel: west
   Wind aus West: west(erly) wind
 

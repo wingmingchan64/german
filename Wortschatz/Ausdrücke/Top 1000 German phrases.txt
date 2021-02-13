@@ -598,6 +598,194 @@
 5425 Was machen die Leute gewöohlich im Sommer in Los Angeles?
 5437 Welche Art von Musik magst du?
 5447 Was ist dein Lieblingsessen?
+5460 Wann fängt der Film an?
+5469 Wer war dein Lehrer?
+5477 Möchtest du mit mir Abendessen gehen?
+5487 Würdest du gerne einen Film ausleihen?
+5502 Könnte ich bitte ein Glas Wassesr haben?
+5512 Dürfte ich Ihr Telefon benutzen?
+5520 Haben Sie noch etwas frei?
+5528 Haben Sie die Nummer eines Taxis.
+5538 Kennst du sie?
+5545 Wissen Sie, wo sie ist?
+5553 Spielst du Basketball?
+5562 Bitte einmal auftanken.
+5573 Er braucht neue Klamotten.
+5580 Wie viel kostet das dort?
+5587 Wie viel kostet das hier?
+5597 Ich glaube dir.
+5605 Ich hätte gern die Nummer des Hilton.
+5615 Ich würde gern eine Telefonkarte kaufen.
+5625 Ich möchte nach Hause gehen.
+5633 Ich würde gern einkaufen gehen.
+5641 Wenn du es magst, kann ich dir gern mehr davon kaufen.
+5651 Ich bin Anfänger.
+5659 Ich bin satt.
+5667 Ich mache nur Spaß.
+5675 Ich bin ledig.
+5683 Ich spreche zwei Sprachen.
+5692 Ich dachte, dass er etwas anderes gesagt hatte.
+5702 Es ist nicht zu weit.
+5710  Normalerweise trinke ich zum Frühstück Kaffee.
+5721 Tut mir leid, wir haben keine.
+5730 Diese Bücher sind teuer.
+5740 Probieren Sie es an.
+5747 Was wollen Sie kaufen?
+5756 Welche Größe?
+5763 Wann öffnet das Geschäft?
+5772 Wann kommt das Flugzeug an?
+5781 Wo bist du?
+5789 Möchten Sie was essen?
+5804 Spreche ich das richtig aus?
+5814 Kannst du mir einen Gafallen tun?
+5822 Kannst du mir helfen?
+5830 Kannst du das bitte noch einmal sagen?
+5838 Kannst du mir das zeigen?
+5846 Kannst du das bitte für mich wegwerfen?
+5855 Spricht hier irgendwer Englisch?
+5863 Tu das nicht.
+5871 Glaubst du das?
+5880 Hast du einen Bleistift?
+5887 Rauchen Sie?
+5895 Sprechen Sie Englisch?
+5903 Entschuldigen Sie. Was haben Sie gesagt?
+5914 Schon gut.
+5922 Wie spricht man das aus?
+5931 Wie sagt man das in Englisch?
+5940 Wie buchstabiert man das?
+5948 Wie buchstabiert man „Seattle‟?
+5956 Ich kann schwimmen.
+5965 Ich kann Sie nicht deutlich hören.
+5973 Das macht mir nichts aus.
+5981 Ich spreche nicht sehr gut Englisch.
+5990 Ich glaube das nicht.
+5998 Ich verstehe nicht, was du sagst.
+6008 Gibt es eine Klimaanlage auf dem Zimmer?
+6017 Ich denke, dass du zu viele Klamotten hast.
+6026 Ich vertraue Ihnen.
+6034 Ich verstehe es nun.
+6042 Lassen Sie uns vor dem Hotel treffen.
+6052 Bitte setzen Sie sich.
+6060 Bitte sprechen Sie Englisch.
+6068 Bitte sprechen Sie etwas langsamer.
+6077 Entschuldigung, aber ich habe das nicht deutlich verstanden.
+6088 Das bedeutet „Freund‟.
+6096 Das ist falsch.
+6104 Versuch es zu sagen.
+6112 Was bedeutet das?
+6120 Was steht hier?
+6128 Was bedeutet das Wort hier?
+6136 Wie ist der Wechselkurs?
+6144 Wessen Buch ist das?
+6153 Warum gehst du nicht?
+6161 Warum lachst du?
+6169 Warum hast du das gemacht?
+6183 Bist du gegen etwas allergisch?
+6191 Bist du soweit?
+6198 Ruf mich an.
+6205 Hast du mir Blumen geschickt?
+6213 Verkaufen Sie Batterien?
+6221 Das ist mir egal.
+6229 Ich gebe auf.
+6236 Ich bin in einen Unfall geraten.
+6245 Ich habe einen Schnupfen.
+6254 Ich habe eine in meinem Auto.
+6262 Ich habe diesen Kuchen gebacken.
+6271 Ich bin Lehrer.
+6278 Ich bin selbständig.
+6286 Ich habe immer noch viel zu tun.
+6294 Ich habe mich immer noch nicht entschieden.
+6303 Es kommt auf das Wetter an.
+6311 Es ist sehr kalt heute.
+6319 Mein Gepäck ist verloren gegangen.
+6334 Mein Magen tut weh.
+6343 Mein Hals ist entzündet.
+6352 Meine Uhr wurde gestohlen.
+6361 Nehmen Sie diese Medizin.
+6369 Der Unfall ist an der Kreuzung passiert.
+6379 Es gab einen Autounfall.
+6389 Wo kann ich Dollar umtauschen?
+6397 Wo arbeitest du?
+6405 Wo ist das nächste Krankenhaus?
+6414 Wo ist die Post?
+6428 Und du?
+6436 Noch etwas?
+6444 Sind sie die gleichen?
+6452 Hast du Angst?
+6460 Wirst du zu ihrer Hochzeit gehen?
+6468 Bist du verheiratet?
+6476 Geht es dir gut?
+6485 Bist du krank?
+6493 Hinter der Bank.
+6501 Kann ich etwas Geld borgen?
+6509 Die Rechnung, bitte.
+6517 Kann ich Sie später zurückrufen?
+6526 Können Sie mich später zurückrufen?
+6534 Kannst du das bitte für mich tragen?
+6542 Kannst du das reparieren?
+6550 Kannst du mir ein Beispiel sagen?
+6558 Können Sie bitte lauter sprechen?
+6566 Kannst du schwimmen?
+6574 Gefällt ihm die Schule?
+6583 Nehmen Sie US-Dollar?
+6592 Hast du eine Freundin?
+6600 Haben Sie einen Termin?
+6608 Hast du ein Problem?
+6616 Hast du das gehört?
+6624 Wissen Sie, wie man zum Marriott Hotel kommt?
+6635 Weißt du, was das bedeutet?
+6644 Wissen Sie, wo ich ein Taxi bekommen kann?
+6652 Weißt du, wo meine Brille ist?
+6661 Magst du deine Kollegen?
+6668 Brauchst du noch etwas anderes?
+6677 Verstehen Sie mich?
+6685 Gib mir den Stift.
+6693 Woher weißt du das?
+6701 Wie geht es ihr?
+6709 Wie lange dauert es?
+6717 Wie viele?
+6725 Wie viel kostet es?
+6733 Ich habe viel zu tun.
+6741 In 30 Minuten.
+6749 Kommt noch jemand mit?
+6757 Ist alles in Ordnung?
+6765 Ist es kalt draußen?
+6773 Ist es weit von hier?
+6781 Ist es warm?
+6789 Regnet es?
+6797 Gibt es etwas Billigeres?
+6806 Is Ihr Sohn hier?
+6814 Soll ich warten?
+6822 Das große oder das kleine?
+6831 Die Autos sind amerikanisch.
+6839 Gab es irgendwelche Probleme?
+6849 Warst du gestern Abend in der Bibliothek?
+6859 Was machst du?
+6867 Woran denkst du?
+6875 Worüber redet ihr beide?
+6884 Was hast du letzte Nacht gemacht?
+6891 Was hast du gestern gemacht?
+6899 Was hast du gedacht?
+6907 Was studieren sie?
+6915 Was haben Sie?
+6923 Was denkst du?
+6931 Was ist passiert?
+6939 Was ist es?
+6947 Was ist das?
+6955 Was soll ich tragen?
+6964 Was ist da drin?
+6972 Wie ist die Temperatur?
+6980 Was ist das?
+6988 Was ist los?
+6996 Woher kommst du?
+7004 Wo kann ich ein Auto mieten?
+7012 Wo ist das passiert?
+7020 Wo hast du es gelernt?
+7028 Wer ist er?
+7036 Woher kommt er?
+7044 Was ist besser? Spagetti oder Hühnersalat?
+
+
 
 Note: Use the number preceding a sentence in the following URL to access that sentence
 

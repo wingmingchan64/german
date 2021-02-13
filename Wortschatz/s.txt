@@ -928,6 +928,9 @@ Schnitt /ʃnɪt/, der: cut, average, cross-section
 schnitzen /ˈʃnɪʦən/: to carve
   eine Flöte aus Holz schnitzen: to carve a flute out of wood
 
+Schnupfen /ˈʃnʊpfən/, der: cold
+  harmlose Erkrankung, bei der sich Schleim in der Nase bildet
+
 Schnur /ʃnuːɐ/, die, Schnüre /ˈʃnyːrə/: string, cord
   stabiler Faden zum Binden usw
   Er trug den Schlüssel an einer Schnur um den Hals.
@@ -2318,6 +2321,9 @@ stehen /ˈʃteːən/: to stand, to be, to have stopped, to depend on
   Das Kleid / Die Frisur steht dir nicht.
   That dress/hairstyle doesn't suit you.
   Das steht dir gut!
+  irgendwo geschrieben, gedruckt sein
+  Was steht darüber in der Zeitung?
+  Das steht nicht zur Debatte!
 
 stehenbleiben, stehen bleiben: to stay, to stop
   Egal, was ich machte, der Esel blieb wie angewurzelt stehen.

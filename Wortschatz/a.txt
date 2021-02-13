@@ -2463,6 +2463,9 @@ aufstellen /ˈaufʃtɛlən/: to put up, to arrange, to draw up, to nominate
   Kids, I want all of you to line up in a row.
   jdn für eine Wahl aufstellen: to nominate sb for an election
 
+auftanken /ˈauftaŋkən/
+  den Tank füllen
+
 auftauchen /ˈauftauxən/: to appear, to surface, to arise, to come up, to show up, to turn up
   Aus dem Nebel tauchten die Umrisse eines Hauses auf.
   The contours of a house materialized out of the fog.
@@ -2822,6 +2825,11 @@ ausmachen /ˈausmaxən/: to switch off, to extinguish, to arrange
   Please put out your cigarette – there's no smoking here.
   Wir hatten doch ausgemacht, dass du das erledigst!
   But we had agreed that you would take care of that!
+  nichts ausmachen: kein Problem darstellen
+  etw. macht jdm nichts / etwas aus: etw. stört jdn nicht / stört ihn
+  Entschuldigung, macht es Ihnen etwas aus, wenn ich das Fenster öffne?
+  Das macht mir doch nichts aus!
+  
 
 Ausmaß /ˈausmaːs/, das, -es|-e: extent
   Umfang einer negativen Sache oder Intensität eines Gefühls
