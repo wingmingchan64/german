@@ -1357,9 +1357,87 @@ Ich bin Buchhalter.
 Arzt/Ärztin
 Zahnarzt/Zahnärztin
 Krankenpfleger/Krankenpflegerin, Krankenschwester
+Lehrer(in)
+Buchhalter(in)
+Rechtsanwalt/Rechtsanwältin
+Grafiker(in)
+Berater(in)
+Sekretär(in)
+Verkäufer(in)
+Elektriker(in)
+Klempner(in)
+selbstständig
+Ich bin Klempner.
+Sie ist Lehrerin.
+
+Was machen Sie beruflich?
+Ich bin Berater.
+Bei welcher Firma arbeiten Sie?
+Ich bin selbstständig.
+Wie interessant!
+Und was machen Sie beruflich?
+Ich bin Zahnarzt.
+Mein Schwester ist auch Zahnärztin.
+
+die Zentrale
+die Zweigstelle
+die Abteilung
+der/die Vorgesetzte
+der Auszubildende
+der Empfang
+Die Zentrale ist in Bremen.
 
 ========================================================
-ä Ä é ö Ö ß ü Ü
+Das Büro
+========================================================
+Warm up
+Ich heiße …
+Mein Name ist …
+Ich komme aus …
+Ich bin …
+Ich bin verheiratet.
+Ich habe zwei Kinder, einen Junge und eine Mädchen.
+
+der Monitor
+der Computer
+die Maus
+die E-Mail
+das Internet
+das Passwort
+die Voice-Mail
+das Fax
+der Fotokopierer
+der Terminkalender
+die Visitenkarte
+die Besprechung
+die Konferenz
+die Tagesordnung
+
+Ich muss etwas fotokopieren.
+Ich möchte einen Termin ausmachen.
+Ich möchte eine E-Mail schicken.
+
+die Lampe
+das Heftgerät
+das Telefon
+der Bildschirm
+die Tastatur
+der Laptop
+der Schreibtisch
+die Uhr
+der Drucker
+der Stift
+der Notizblock
+die Schublade
+der Drehstuhl
+
+
+
+========================================================
+
+
+========================================================
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
 ========================================================
 ========================================================
 

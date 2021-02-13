@@ -280,6 +280,8 @@ recht: right, real
   When his mother told him to be quiet, he screamed all the more.
   ein rechter Feigling sein
 
+Rechtsanwalt, Rechtsanwältin: lawyer
+
 Rechtschreibung, die: spelling
   Regeln dafür, wie Wörter geschrieben werden sollen
 
@@ -1032,7 +1034,11 @@ rutschen /ˈrʊtʃən/: to slip, to skid, to slide
   Rutsch mal, ich möchte auch auf die Bank.
   Move up, would you. I'd like to sit on the bench too.
   das Herz rutschte ihm in die Hose: (one's) heart sinks into (one's) boots
-  
+
+rutschig /ˈrʊtʃɪç/: slippery
+  so glatt, dass man leicht ausrutschen und hinfallen kann
+  Bei Regen ist der Boden sehr rutschig.
+
 rütteln /ˈrʏtəln/:
   jdn / etw. rütteln: to shake sb/sth
   jdn wach rütteln: to shake sb awake

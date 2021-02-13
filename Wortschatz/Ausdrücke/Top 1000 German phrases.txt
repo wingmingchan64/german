@@ -784,12 +784,117 @@
 7028 Wer ist er?
 7036 Woher kommt er?
 7044 Was ist besser? Spagetti oder Hühnersalat?
+7055 Welches willst du?
+7063 Welches ist billiger?
+7071 Welches ist das beste?
+7080 In welche Schule geht er?
+7087 Wo sind sie?
+7095 Nach was suchst du?
+7103 Wer ist da?
+7112 Wer ruft an?
+7120 Wer ist der Mann da drüben?
+7130 Wer hat dir das beigebracht?
+7139 Warum hast du das gesagt?
+7149 Kannst du mir bitte das Salz reichen?
+7159 Kannst du das bitte für mich ins Auto legen?
+7169 Können Sie ihn bitten, mich zurückzurufen?
+7185 Ja.
+7193 Das ist ein nettes Auto.
+7201 Du siehst aus wie meine Schwester.
+7214 Sechs Dollar pro Stunde.
+7222 Wartest du auf jemanden?
+7230 Arbeitest du heute?
+7238 Bring mir bitte mein T-Shirt.
+7247 Schaust du gern fern?
+7256 Magst du deinen Chef?
+7264 Bist du fertig mit Studieren?
+7273 Er ist Ingenieur.
+7281 Er arbeitet sehr viel.
+7289 Er arbeitet für ein Computerunternehmen in New York.
+7300 Wie lange hast du dort gearbeitet?
+7309 Wie viele Stunden pro Woche arbeiten Sie?
+7319 Wie viel Geld hast du?
+7327 Wie ist das Wetter?
+7335 Wie war die Reise?
+7343 Ich habe es vergessen.
+7351 Mir geht es gut.
+7359 Ich bin soweit.
+7367 Ich muss immer noch viel einkaufen.
+7378 Ich habe es gesehen.
+7385 Was arbeitet er?
+7394 Was arbeitet Ihr Vater?
+7403 Was arbeiten Sie?
+7411 Was arbeiten Ihre Eltern?
+7420 Was ist los?
+7428 Um wieviel Uhr gehst du täglich arbeiten?
+7439 Wann kommst du in den USA an?
+7449 Wann bist du mit der Arbeit fertig?
+7459 Wo hast du das hingetan?
+7467 Wo tut es weh?
+7475 Wo willst du hingehen?
+7490 Komm her.
+7498 Schneit es im Winter oft in Massachusetts?
+7509 Glaubst du, dass es heute regnet?
+7519 Glaubst du, dass es auch morgen regnen wird?
+7530 Wie läuft das Geschäft?
+7537 Ist es in der Nähe?
+7547 Ist das möglilch?
+7555 Ist es soweit?
+7563 Es kostet 20 Dollar pro Stunde.
+7574 Es tut hier weh.
+7582 Es ist weit von hier.
+7592 Es wird warm heute.
+7600 Es ist nördlich von hier.
+7608 Es ist dort drüben.
+7616 Es regnet.
+7623 Es ist zu spät.
+7631 Es ist sehr wichtig.
+7639 Es wird bald ankommen.
+7647 Die Straßen sind rutschig.
+7655 Was kostet das Zimmer?
+7663 Wie wird das Wetter morgen?
+7679 lernen
+7687 Lernen die Schüler viel?
+7695 Nein, sie lernen wenig.
+7704 fragen
+7712 Fragen Sie oft den Lehrer?
+7722 Nein, ich frage ihn nicht oft.
+7732 antworten
+7740 Antworten Sie, bitte.
+7748 Ich antworte.
+7757 arbeiten
+7763 Arbeitet er gerade?
+7772 Ja, er arbeitet gerade.
+7780 kommen
+7788 Kommt ihr?
+7796 Ja, wir kommen gleich.
+7804 wohnen
+7812 Wohnen Sie in Berlin?
+7820 Ja, ich wohne in Berlin.
+7829 Ich habe ein Hobby.
+7837 Ich spiele Tennis.
+7846 Wo ist ein Tennisplatz?
+7853 Hast du ein Hobby?
+7861 Ich spiele Fußall.
+7871 Wo ist ein Fußallplatz?
+7881 Mein Arm tut weh.
+7890 Mein Fuß und meine Hand tun auch weh.
+7898 Wo ist ein Doktor?
+7906 Ich habe ein Auto.
+7915 Ich habe auch ein Motorrad.
+7925 Wo ist ein Parkplatz?
+7933 Ich habe einen Pullover.
+7942 Ich habe auch einen Jacke und eine Jeans.
+7953 Wo ist die Waschmaschine?
+7962 Ich habe einen Teller.
+7971 Ich habe ein Messer, einen Gabel und einen Löffel.
+7981 Wo sind Salz un Pfeffer?
 
 
-
-Note: Use the number preceding a sentence in the following URL to access that sentence
-
+Notes:
+1. Use the number preceding a sentence in the following URL to access that sentence
 https://www.youtube.com/watch?v=tn2RTHzvrU8&t=[number]s
+2. The quality of this video is not the best, and there are a lot of errors and too many repetitions (Was ist los? at least three times). Use with care.
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
 ========================================================

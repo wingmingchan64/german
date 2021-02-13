@@ -1018,6 +1018,9 @@ Hintermann /ˈhɪntɐman/, der: person/car behind (you)
   Sie drehte sich zu ihrem Hintermann um.
   She turned round to the person behind her.
 
+hintun: to put
+  Ich weiß nicht, wo ich ihn hintun soll.
+
 hinüber /hɪˈnyːbɐ/: over
   ein Blick hinüber zum Nachbarn: a glance over to your neighbor
   hinüber sein: to be busted/shot/down
@@ -1259,6 +1262,7 @@ Hügel /ˈhyːɡəl/, der, -s|~: hill
 
 Huhn, das, -(e)|..er: chicken
   als Haustier gehaltener Vogel, der Eier legt
+  Hühnersalat
 
 Hülle /ˈhʏlə/, die: cover, case, holder, blanket, sheath, shroud
   Bitte steck die Dokumente wieder in die Hülle zurück.
