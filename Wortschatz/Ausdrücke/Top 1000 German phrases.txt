@@ -889,12 +889,117 @@
 7962 Ich habe einen Teller.
 7971 Ich habe ein Messer, einen Gabel und einen Löffel.
 7981 Wo sind Salz un Pfeffer?
-
+7998 Wie viel haben Sie getrunken?
+8008 Wie viel haben Sie gearbeitet?
+8016 Wie viel haben Sie geschrieben?
+8024 Wie haben Sie geschlafen?
+8033 Wie haben Sie die Prüfung bestanden?
+8043 Wie haben Sie den Weg gefunden?
+8051 Mit wem haben Sie gesprochen?
+8059 Mit wem haben Sie sich verabredet?
+8068 Mit wem haben Sie Geburtstag fefeirt?
+8084 Wo sind Sie gewesen?
+8092 Wo haben Sie gewohnt?
+8102 Wo haben Sie gearbeitet?
+8111 Was haben Sie empfohlen?
+8121 Was haben Sie gegessen?
+8130 Was haben Sie erfahren?
+8139 Wie schnell sind Sie gefahren?
+8148 Wie lange sind Sie geflogen?
+8156 Wie hoch sind Sie gesprungen?
+8164 Welche Krawatte hast du getragen?
+8174 Welches Auto hast du gekauft?
+8185 Welche Zeitung hast du abonniert?
+8194 Wen haben Sie gesehen?
+8203 Wen haben Sie getroffen?
+8212 Wen haben Sie erkannt?
+8221 Wann sind Sie aufgestanden?
+8230 Wann haben Sie begonnen?
+8239 Wann haben Sie aufgehört?
+8248 Warum sind Sie aufgewahcht?
+8258 Warum sind Sie Lehrer geworden?
+8267 Warum haben Sie ein Taxi genommen?
+8277 Woher sind Sind gekommen?
+8287 Wohin sind Sie gegangen?
+8297 Wo sind Sie gewesen?
+8305 Wem hast du geholfen?
+8313 Wem hast du geschrieben?
+8322 Wem hast du geantwortet?
+8337 eine alte Frau
+8345 eine dicke Frau
+8353 eine neugierige Frau
+8363 ein neuer Wagen
+8372 ein schneller Wagen
+8380 ein bequemer Wagen
+8390 ein blaues Kleid
+8398 ein rotes Kleid
+8406 ein grünes Kleid
+8415 eine schwarze Tasche
+8424 eine braune Tasche
+8434 eine weiße Tasche
+8442 nette Leute
+8450 höfliche Leute
+8460 interessante Leute
+8468 liebe Kinder
+8476 freche Kinder
+8482 brave Kinder
+8494 Ich habe ein blaues Kleid an.
+8502 Ich habe ein rotes Kleid an.
+8511 Ich habe ein grünes Kleid an.
+8520 Ich kaufe eine schwarze Tasche.
+8528 Ich kaufe eine braune Tasche.
+8539 Ich kaufe eine weiße Tasche.
+8548 Ich brauche einen neuen Wagen.
+8558 Ich brauche einen schnellen Wagen.
+8568 Ich brauche einen bequemen Wagen.
+8577 Da oben wohnt eine alte Frau.
+8587 Da oben wohnt eine dicke Frau.
+8595 Da unten wohnt eine neugierige Frau.
+8604 Unsere Gäste waren nette Leute.
+8613 Unsere Gäste waren höfliche Leute.
+8624 Unsere Gäste waren interessante Leute.
+8633 Ich habe liebe Kinder.
+8643 Aber die Nachbarn haben freche Kinder.
+8652 Sind Ihre Kinder brav?
+8666 schon einmal - noch nie
+8676 Sind Sie schon einmal in Berlin gewesen?
+8684 Nein, noch nie.
+8692 jemand - niemand
+8701 Kennen Sie hier jemanden?
+8710 Nein, ich kenne hier niemanden.
+8721 noch - nicht mehr
+8731 Bleiben Sie noch lange hier?
+8740 Nein, ich bleibe nicht mehr lange hier.
+8751 noch etwas - nichts mehr
+8761 Möchten Sie noch etwas trinken?
+8771 Nein, ich möchte nichts mehr.
+8781 schon etwas - noch nichts
+8790 Haben Sie schon etwas gegessen?
+8799 Nein, ich habe noch nichts gegessen.
+8810 noch jemand - niemand mehr
+8821 Möchte noch jemand einen Kaffee?
+8830 Nein, niemand mehr.
+8846 Sei doch nicht so faul.
+8855 Schlaf doch nicht so lang.
+8865 Komm doch nicht so spät.
+8874 Lach doch nicht so laut.
+8883 Sprich doch nicht so leise.
+8892 Trink doch nicht so viel.
+8901 Rauch doch nicht so viel.
+8910 Arbeite doch nicht so viel.
+8919 Fahr doch nicht so schnell.
+8929 Stehen Sie auf, Herr Müller.
+8937 Setzen Sie sich, Herr Müller.
+8946 Bleiben Sie sitzen, Herr Müller.
+8955 Haben Sie Geduld.
+8963 Nehmen Sie sich Zeit.
+8971 Warten Sie einen Moment.
+8979 Seien Sie vorsichtig.
+8988 Seien Sie pünktlich.
+8997 Seien Sie nicht dumm.
+9006 Rasier dich.
 
 Notes:
 1. Use the number preceding a sentence in the following URL to access that sentence
 https://www.youtube.com/watch?v=tn2RTHzvrU8&t=[number]s
 2. The quality of this video is not the best, and there are a lot of errors and too many repetitions (Was ist los? at least three times). Use with care.
-========================================================
-ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
-========================================================
