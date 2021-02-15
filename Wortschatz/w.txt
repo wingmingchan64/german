@@ -674,6 +674,8 @@ Widder /ˈvɪdɐ/, der, -: Aries 白羊座
   Sie / Er ist Widder.
   She/He is (an) Aries.
 
+Wider, das
+
 wider /ˈviːdɐ/: against (accusative)
   Das ist wider jede Vernunft!
   Wider Erwarten entschuldigte er sich.
@@ -739,6 +741,7 @@ widerwärtig /ˈviːdɐvɛrtɪç/: disgusting, repugnant
   ≈ widerlich
 
 widmen /ˈvɪtmən/: to dedicate, to devote
+  jdm als Ausdruck der Verbundenheit etw. symbolisch schenken
   Er hat seinen ersten Roman seiner Mutter gewidmet.
   He dedicated his first novel to his mother.
   sein Leben dem Kampf gegen die Armut widmen

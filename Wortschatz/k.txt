@@ -525,6 +525,9 @@ klatschen /ˈklaʧən/: to clap, to slap, to gossip
 
 klauen: to steal
 
+Klausur /klauˈzuːɐ/, die: exam
+  schriftliche Prüfung an einer höheren Schule oder einer Universität
+
 Klebeband /ˈkleːbəbant/, das, -(e)s|..er: adhesive tape
   einen Karton mit Klebeband zukleben: to tape up a box with adhesive tape
 
@@ -1009,6 +1012,8 @@ Körperhaltung, die: posture
 
 korrekt /kɔˈrɛkt/
 
+Korrektur, die: correction
+
 Korrekturstift, der, -e: correction pen
 
 korrigieren
@@ -1102,6 +1107,8 @@ krank /kraŋk/: sick, ill
   Why is he doing that? That's sick!
   krank vor Liebe / Sehnsucht sein
   to be lovesick / sick with longing
+
+Kranke, Kranker
 
 krankärgern /ˈkraŋk|ɛrɡɐn/: to be seething
   Nach der Blamage haben wir uns natürlich krankgeärgert.
@@ -1286,6 +1293,7 @@ Kuh /kuː/, die: cow
 Kühlschrank /ˈkyːlʃraŋk/, der: refrigerator
 
 Küken /ˈkyːkən/, das, -: chick
+  junges Huhn
   eine Osterkarte mit flauschigen Küken
   an Easter card with fluffy chicks on it
   Amselküken: blackbird chick

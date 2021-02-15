@@ -788,6 +788,7 @@ schmerzhaft /ˈʃmɛrʦhaft/: painful
   Bruises are always very painful.
 
 Schmetterling, der: butterfly
+  Insekt mit großen, bunten Flügeln
 
 Schmied /ʃmiːt/: smith
   Hufschmied: blacksmith
@@ -1007,6 +1008,8 @@ Schrei /ʃrai/, der, -(e)s|-e: cry
 schreiben /ˈʃraibən/: to write
   Er schreibt Reportagen /repɔrˈtaːʒən/.
   Wie schreibt man das? Kannst du das bitte buchstabieren?
+
+Schreiberei, die: paperwork
 
 Schreibwaren /ˈʃraipvaːrən/, pl.: stationary
   Schreibwarenladen: stationery store
@@ -1731,6 +1734,7 @@ sofern /zoˈfɛrn/: if
 Software, die
 
 Sog /zoːk/, der, -e: suction, wake, vortex
+  ziehende Kraft im Wasser oder in der Luft
   in den Sog eines sinkenden Schiffs geraten
   to get caught in the wake of a sinking ship
 
@@ -2092,6 +2096,11 @@ Sprechstunde /ˈʃprɛçʃtʊndə/, die, -n: consultation, consultation hours
   zum Deutschlehrer in die Sprechstunde gehen
   to go to see the German teacher outside of class
 
+springen
+  springst, habe / bin gesprungen
+  sprang
+  spring, springt
+
 Sprint, der: sprint
   schneller Lauf über eine kurze Strecke
 
@@ -2106,6 +2115,8 @@ sprudelnd: bubbly, fizzy
 sprühen /ˈʃpryːən/: to spray
   Sie sprühte sich Deo unter die Achseln.
   She sprayed deodorant under her arms.
+
+Sprung, der
 
 Spüle /ˈʃpuːlə/, die, ~|-n: sink unit
   eine Spüle mit zwei Spülbecken und Abtropffläche
@@ -2933,6 +2944,7 @@ Südosten, der
 Südwesten, der: southwest
 
 Suite /ˈsviːtə/, die, -n
+  mehrere durch Türen verbundene luxuriöse Zimmer in einem Hotel; aus mehreren Sätzen (oft Tänzen) bestehendes Musikstück
   eine Luxussuite buchen: to book a luxury suite
   eine Suite für Klavier: a suite for piano
 

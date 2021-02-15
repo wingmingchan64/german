@@ -314,7 +314,7 @@ demnächst /demˈnɛːçst/: soon
   Sie wollen sich demnächst ein neues Auto anschaffen.
   The plan to buy a new car soon.
 
-Demokrat /demoˈkraːt/
+Demokrat /demoˈkraːt/, Demokratin
 
 Demokratie, die
 
@@ -624,12 +624,16 @@ Dotter /ˈdɔtɐ/, der-das, -: yolk
 dösen /ˈdøːzən/: to doze
   im Schatten liegen und dösen: to lie dozing in the shade
 
+Dozent /doˈʦɛnt/, Dozentin: lecturer
+  Lehrer an einer Universität oder Hochschule
+
 *Drache /ˈdraxə/, der, -n: dragon
   ein feuerspeiender Drache: a fire-breathing dragon
 
 Drachen /ˈdraxən/, der: kite, hang-glider
 
 Draht /draːt/, der, ..e: wire
+  Schnur aus Metall für elektrische Leitungen o. Ä
   Kupferdraht: copper wire
 
 Drama /ˈdraːma/, das, -s|Dramen
@@ -735,7 +739,7 @@ Drogenhandel /ˈdroːɡənhandəl/, der: drug dealing/trafficking
 Drogerie, die: drug store
   Geschäft, in dem vor allem Kosmetik- und Hygieneartikel und rezeptfreie Medikamente verkauft werden
 
-Drogist /droˈɡɪst/
+Drogist /droˈɡɪst/, Drogistin
 
 drohen /ˈdroːən/: to threaten, to impend
   drohe, drohst, droht, habe gedroht
@@ -784,6 +788,7 @@ Dschungel /ˈʤʊŋəl/, der, -: jungle, maze
   die Tiere des Dschungels: the animals of the jungle
 
 Duell /duˈɛl/, das, -e: duel
+  Zweikampf mit Waffen, meist um seine Ehre wiederherzustellen
   jdn zum Duell auffordern: to challenge sb to a duel
   Die beiden Läuferinnen lieferten sich ein spannendes Duell.
   The two runners fought out a thrilling battle for first place.
@@ -819,6 +824,8 @@ Dünger /ˈdʏŋɐ/, der, -s|~: fertilizer
 
 dunkel /ˈdʊŋkəl/ dark, deep, vague
   im Dunkeln: in the dark
+
+Dunkelheit, die
 
 dünn /dʏn/: thin
   ↔ dick

@@ -1334,6 +1334,7 @@ Angriff /ˈanɡrɪf/, der, -(e)s|-e: attack
   das Angreifen, Anschlag, 
   einen feindlichen Angriff abwehren/zurückschlagen
   to repel/beat back an enemy attack
+  etw. in Angriff nehmen: bearbeiten
 
 Angst /aŋst/, die, ~|..e: fear, worry
   Angst vor Hunden haben: to be afraid of dogs
@@ -1877,6 +1878,10 @@ Arbeit, die, ~|-en
   Was findest du positiv und was negativ an deiner Arbeit?
   Wie geht es auf Arbeit?
 
+arbeiten /ˈarbaitən/: to work
+  Er arbeitet in / bei einer Bank.
+  Sie arbeitet als Leherein.
+
 arbeitsam
   eifrig und viel arbeitend, fleißig
 
@@ -1885,12 +1890,41 @@ Arbeitsamkeit, die
 Arbeitsamt, das
   staatliche Institution, die Arbeitslose betreut und ihnen bei der Suche nach neuer Arbeit hilft
 
-arbeiten /ˈarbaitən/: to work
-  Er arbeitet in / bei einer Bank.
-  Sie arbeitet als Leherein.
+arbeitsfähig: able to work
 
 Arbeitskraft, die
   Kraft zu geistiger oder körperlicher Arbeit, Leistungskraft
+
+arbeitslos
+
+Arbeitslose, Arbeitsloser
+  die Zahl der Arbeitslosen
+
+Arbeitslosengeld, das
+
+Arbeitslosenheer, das: army of unemployed
+
+Arbeitslosenhilfe, die: unemployment benefit
+
+Arbeitslosenquote, die: rate of unemployment
+
+Arbeitslosenunterstützung, die: unemployment benefit, dole (money)
+
+Arbeitslosenversicherung, die: social insurance
+
+Arbeitslosenzahlen: unemployment figures
+
+Arbeitslosigkeit, die
+
+Arbeitslust, die
+
+Arbeitsmangel, der: lack of work
+
+Arbeitsmarkt, der
+
+arbeitsmäßig: with respect to work, professionally
+
+Arbeitsmensch, der: worker
 
 Architekt /arçiˈtɛkt/, Architektin: architect
 
@@ -3268,6 +3302,9 @@ außerordentlich /ˈausɐ|ˈɔrdəntlɪç/: extraordinary, exceptional, special
 
 Äußerung /ˈɔysərʊŋ/, die, ~|-en: statement
   wegen rassistischer Äußerungen kritisiert werden: to be criticized for racist remarks
+
+auswirken
+  sich irgendwie (auf jdn / etw.) auswirken: bestimmte Wirkungen oder Folgen für jdn / etw. haben
 
 ausziehen: to take off
   Kleidung vom Körper nehmen, ablegen

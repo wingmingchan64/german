@@ -387,6 +387,7 @@ Haustür, die: front door
 Hausverbot, das: ban on entering the house
 
 Haut /haut/, die, ~|..e: skin
+  schützende Schicht, die den Körper von Menschen und Tieren umgibt
   zarte / raue / empfindliche Haut haben
   to have delicate/rough/sensitive skin
 
@@ -835,9 +836,6 @@ heuchlerisch: hypocritical
 heurige /ˈhɔyrɪɡə/: this year's
   Die heurige Ernte war gut.
   This year's harvest was good.
-
-Haut, die, ~|..e: skin
-  schützende Schicht, die den Körper von Menschen und Tieren umgibt
 
 heute /ˈhɔytə/
   von heute auf morgen: overnight

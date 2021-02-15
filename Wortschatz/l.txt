@@ -868,6 +868,7 @@ loyal /loaˈjaːl/
   He has always been loyal to his colleagues.
 
 Lücke /ˈlʏkə/, die: gap, space
+  Stelle zwischen Dingen, an der etw. fehlt
   durch eine Lücke zwischen den Büschen schlüpfen
   to slip through a gap between the bushes
 
@@ -904,7 +905,8 @@ Lust /lʊst/, die, ..e: inclination, desire, pleasure, joy
   I feel like having some chocolate just now.
   die Lust am Lesen: the joy of reading
 
-lustig /ˈlʊstɪç/: funny, keen on
+lustig /ˈlʊstɪç/: funny, fun, keen on
+  so, dass man lachen muss; so, dass man viel Spaß hat; so, dass jd Lust auf oder an etw. hat
   sich über jdn / etw. lustig machen: to make fun of sb/sth
   abenteuerlustig sein: fond of adventure
 

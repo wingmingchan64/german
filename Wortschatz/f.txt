@@ -843,6 +843,7 @@ fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
   At school, the weak students should be encouraged and the strong ones challenged.
 
 fördern /ˈfœrdɐn/: to promote, to support
+  jdn / etw. durch Geld oder andere Hilfe unterstützen; sich positiv auf etw. auswirken
   die Kultur fördern: to promote culture
   schwache Schüler durch zusätzlichen Unterricht fördern
   to support weak students with extra classes
@@ -1047,6 +1048,10 @@ freuen /ˈfrɔyən/, sich: to be happy, to be pleased, to look forward to
 
 Freund /frɔynt/, Freundin, Freunde, Freundinnen: friend
 
+Freundschaft, die
+
+freundschaftlich
+
 Frieden /ˈfriːdən/, der: peace
   ein langer, ungestörter Frieden: a long period of uninterrupted peace
 
@@ -1222,6 +1227,9 @@ funken /ˈfʊnkən/: to radio
 
 funktionieren /fʊŋkʦjoˈniːrən/: to function, to work
   Das Handy funktioniert nicht mehr richtig.
+
+Für, das
+  das Für und Wider: the pros and cons
 
 für: for (accusative)
   für mich / dich / ihn / sie / uns / euch / sie / jemanden / wen

@@ -173,6 +173,8 @@ Verbraucher /fɛɐˈbrauxɐ/, Verbraucherin: consumer
 Verbrechen /fɛɐˈbrɛçən/, das: crime
   ein Verbrechen begehen: to commit a crime
 
+Verbundenheit, die: affinity
+
 Verdacht, der: suspicion
   Vermutung, dass etw. Negatives geschieht oder getan wurde
   auf Verdacht: just in case
@@ -1723,6 +1725,10 @@ vorschreiben /ˈfoːɐʃraibən/: to stipulate, to dictate
   What is the minimum age stipulated for that?
   Ich lasse mir von niemandem vorschreiben, wie ich meine Kinder zu erziehen habe!
   I won't let anyone dictate to me how to bring up my children!
+
+Vorschrift, die: rule, regulation
+  Text, in dem festgelegt ist, was wann wie zu tun ist
+  sich an die Vorschriften halten
 
 Vorsicht /ˈfoːɐzɪçt/, die: caution, care
 
