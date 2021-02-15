@@ -294,6 +294,7 @@ abmachen /ˈapmaxən/: to take off, to agree
   etw. mit sich selbst/unter sich abmachen: to decide sth for yourself/among yourselves
   Das Problem müsst ihr unter euch abmachen, ich habe nichts damit zu tun.
   You'll have to solve the problem among yourselves – it has nothing to do with me.
+  Abgemacht! You're on!
 
 Abmachung /ˈapmaxʊŋ/, die, ~|-en: agreement
   eine Abmachung treffen: to come to an agreement
@@ -712,6 +713,7 @@ achtzig /ˈaxʦɪç/
   ächzen und stöhnen: to moan and groan
 
 Acker /ˈakɐ/, der, -s|..: field
+  Stück Land, auf dem Getreide o. Ä. angebaut wird
 
 adelig: noble
 
@@ -1875,12 +1877,20 @@ Arbeit, die, ~|-en
   Was findest du positiv und was negativ an deiner Arbeit?
   Wie geht es auf Arbeit?
 
+arbeitsam
+  eifrig und viel arbeitend, fleißig
+
+Arbeitsamkeit, die
+
 Arbeitsamt, das
   staatliche Institution, die Arbeitslose betreut und ihnen bei der Suche nach neuer Arbeit hilft
 
 arbeiten /ˈarbaitən/: to work
   Er arbeitet in / bei einer Bank.
   Sie arbeitet als Leherein.
+
+Arbeitskraft, die
+  Kraft zu geistiger oder körperlicher Arbeit, Leistungskraft
 
 Architekt /arçiˈtɛkt/, Architektin: architect
 

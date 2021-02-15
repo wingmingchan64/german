@@ -564,6 +564,9 @@ Leistung /ˈlaistʊŋ/, die: performance, achievement
   Das war aber eine schwache Leistung!
   That really wasn't very good.
 
+Leistungskraft, die: power
+  eine hohe Leistungskraft haben
+
 Leite /ˈlaistə/, die: groin 腹股溝, strip, trim, border
   an der Leiste operiert werden: to have an operation on your groin
   Fußbodenleisten: baseboards
@@ -790,6 +793,7 @@ Lohn /loːn/, der, ..e: wage, reward
   ein Anstieg der Löhne und Gehälter: an increase in wages and salaries
   Das ist der gerechte Lohn für seine Mühen.
   That's just reward for his efforts.
+  Stundenlohn
 
 lohnen /ˈloːnən/: to be worthwhile
   eine lohnende Investition: a worthwhile investment

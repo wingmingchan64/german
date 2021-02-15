@@ -224,7 +224,7 @@ beanspruchen: to claim, to strain
   verlangen, fordern; hohe Anforderungen an jdn stellen
   ein Vorrecht für sich beanspruchen
   Die Arbeit beansprucht ihn sehr.
-  → Anspruch
+  → Anspruch: demand, right
 
 beantragen /bəˈ|antraːɡən/: to apply for
   einen schriftlichen Antrag stellen, um etw. zu bekommen
@@ -236,6 +236,7 @@ beantworten /bəˈ|antvɔrtən/: to answer
   eine Frage richtig beantworten: to answer a question correctly
 
 bearbeiten: to work, to edit, to pester, to process, to deal with
+  in die gewünschte Form, den gewünschten Zustand bringen; nach bestimmten Kriterien verändern; versuchen, jdn von etw. zu überzeugen; für etw. verantwortlich sein, es prüfen und Entscheidungen treffen; etw. behandeln, schriftlich daran arbeiten
 
 beauftragen /bəˈ|auftraːɡən/: to commission, to engage, to hire
   Wen haben Sie mit dem Bau Ihres Hauses beauftragt?
@@ -1814,6 +1815,10 @@ bilden /ˈbɪldən/: to form, to constitute, to educate
   Take each other by the hand and form a circle.
   die Massen / sich politisch bilden
   to educate the masses/educate yourself politically
+
+Bilderbuch, das
+  Buch für Kinder mit vielen Bildern
+  eine Landschaft wie im Bilderbuch
 
 Bildung /ˈbɪldʊŋ/, die: education, forming
   eine gute Bildung erhalten: to receive a good education

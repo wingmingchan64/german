@@ -46,6 +46,8 @@ Tagesablauf, der: daily routine
 
 Tagesdecke, die: bedspread
 
+Tageszeitung, die
+
 täglich /ˈtɛːklɪç/: daily
   jeden Tag stattfindend
 
@@ -388,6 +390,8 @@ Theater /teˈaːtɐ/, das, -s|~: theater
 Thema /ˈteːma/, das, -s|Themen: subject, topic, theme
   Über dieses Thema möchte ich nicht sprechen.
   I don't want to talk about this subject.
+
+Themenbereich, der: topic
 
 Theologe /teoˈloːɡə/, -n|-n: theologian
 

@@ -180,6 +180,9 @@ Eifersucht, die: jealousy
 eifersüchtig /ˈaifɐzʏçtɪç/
   Er war eifersüchtig auf die Kollegen seiner Frau.
 
+eifrig
+  voll Eifer
+
 Eigelb /ˈaiɡɛlp/, das, -: yolk
   ≈ Dotter
   Eigelb und Eiweiß trennen: to separate the yolk from the egg white
@@ -1857,6 +1860,7 @@ erschwinglich: affordable
   so, dass es sich jd ohne Probleme leisten kann
 
 ersetzen /ɛɐˈzɛʦən/: to replace
+  etw. entfernen und dafür etw. Neues, Besseres oder Funktionierendes nehmen
   einen alten Teppich durch einen neuen ersetzen
   to replace the old carpet with a new one
 
@@ -2029,6 +2033,11 @@ erzeugen: to generate, to produce
   produzieren, herstellen
   Die Bauern haben einen Überschuss an Milch erzeugt.
   Gewalt erzeugt wieder Gewalt.
+
+Erzeugnis, das, -ses|-se: product
+  etwas, was erzeugt wird, erzeugt worden ist; Produkt
+  industrielle Erzeugnisse
+  Druck-Erzeugnis
 
 Erzeugung, die: production, generation, creation
   Stromerzeugung
