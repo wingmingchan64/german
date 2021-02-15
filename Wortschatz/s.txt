@@ -63,6 +63,7 @@ sagen: to say
   Worte sprechen
   Ehrlich gesagt: Ich weiß es nicht.
   To be honest, I don't know.
+  Ich sage es Nico.
 
 sah → sehen
   ich sah, du sahst, er sah, wir sahen, ihr saht
@@ -549,6 +550,7 @@ Schlafanzug /ˈʃlaːf|anʦuːk/, der, ..e: pajamas
 Schläfe: temple
 
 schlafen /ˈʃlaːfən/: to sleep
+  schläft /ʃlɛːft/
 
 Schlag /ʃlaːk/, der, -(e)s|..e: bang, beat, clap, crack, flap, hit, knock, percussion, shock, shot, smash, spank, stroke, swat, swing, thump, whack
   jdm einen Schlag in den Bauch versetzen: to punch sb in the stomach
@@ -905,6 +907,8 @@ Schneider /ˈʃnaidɐ/, Schneiderin, -s|~: tailor
   einen Anzug vom Schneider anfertigen lassen: to have a suit tailored
 
 schneien /ˈʃnaiən/: to snow
+  habe geschneit
+  schneite
   Es schneit.
 
 schniefen /ˈʃniːfən/: to sniff
@@ -1389,6 +1393,8 @@ sehnen /ˈzeːnən/, sich: to long for sb/sth
 Sehnsucht /ˈzeːnzʊxt/, die, ..e: longing, yearning
   Sehnsucht nach Liebe haben: to yearn for love
 
+sehnsüchtig /ˈzeːnzyçtɪç/
+
 sehr /zeːɐ/: very
   Ich weiß sehr wohl, dass du mich anlügst!
   I know perfectly well that you're lying to me.
@@ -1547,11 +1553,15 @@ Sessel /ˈzɛsəl/, der, -s|~: armchair
   sich in einen Sessel setzen: to sit down in an armchair
 
 setzen /ˈzɛʦən/: to sit, to set
+  setze, habe gesetzt
+  setzte
+  setz, setzt
   sich: eine sitzende Stellung einnehmen
   sich aufs Pferd setzen: to get into the saddle
   das Kind in den Kinderwagen setzen: to put the child in the stroller
   Frist gesetzt: deadline set
   Setzen Sie sich, bitte.
+  Setzt euch!
 
 sexuell /zɛˈksuɛl/: sexual
 
@@ -1801,6 +1811,7 @@ sonst /zɔnst/: normally, else, otherwise, in other ways
   Setz eine Mütze auf, sonst friert es dich an den Ohren.
   Put a hat on or your ears will get cold.
   Sonst noch etwas?
+  Darf es sonst noch was sein?
   wenn ich Ihnen sonst noch behilflich sein kann
 
 Sorge /ˈzɔrɡə/, die, ~|-n: worry
@@ -2245,6 +2256,7 @@ Status /ˈʃtaːtʊs/, der: status
 
 Stau /ʃtau/, der: traffic jam
   im Stau stehen: to be in a traffic jam
+  Ich war eine halbe Stunde im Stau.
 
 Staub /ʃtaup/, der, -(e)s|uncountable: dust
   Staub wischen: to dust
@@ -2381,6 +2393,7 @@ stellen /ˈʃtɛlən/: to put, to place, to set, to provide
   to go and stand by the window/position yourself on a chair
   Getränke für die Party kalt stellen: to chill some drinks for the party
   das Radio leiser stellen: to turn the radio down
+  Würdest du bitte den Fernseher leiser stellen?
   Stell dir einen Wecker, damit du nicht verschläfst.
   Set an alarm clock so you don't sleep in.
   Die benötigten Materialien werden vom Kursleiter gestellt.

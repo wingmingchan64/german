@@ -1038,6 +1038,9 @@ anbauen /ˈanbauən/: to grow, to build an extension (to)
   In Sri Lanka huge quantities of tea are grown.
   einen Wintergarten (an ein Haus) anbauen: to add a conservatory (to a house)
 
+anbellen: to bark at
+  Dein Hund bellt mich immer an.
+
 anbieten /ˈanbiːtən/: to offer
   bot an, habe angeboten
   Welche Wahlfächer bietet die Schule an?
@@ -1285,6 +1288,7 @@ Angelegenheit: affair, business
 
 angeln /ˈaŋəln/: to fish
   Fische mit der Angel fangen
+  angeln gehen
 
 angemessen /ˈanɡəmɛsən/: suitable, appropriate
   In diesem Fall fände ich es angemessener zu schweigen.
@@ -1304,6 +1308,10 @@ Abgeordnete /ˈapɡə|ɔrdnətə/, der-die, -n: representative
   a Member of the German Federal Parliament
 
 angeregt: animated, lively
+
+Angesicht, das: face
+  jdm von Angesicht zu Angesicht gegenüberstehen
+  Wir setzten uns von Angesicht zu Angesicht hin.
 
 angespannt /ˈanɡəʃpant/: strained, tense, fraught
   Unsere finanziellen Verhältnisse sind gerade etwas angespannt.
@@ -1534,6 +1542,9 @@ anschaffen /ˈanʃafən/:
   Are you going to buy the book?
   Mach doch erst deine Ausbildung fertig, bevor du dir Kinder anschaffst.
   You really ought to finish your apprenticeship before you have children.
+
+Anschaffung, die: purchase
+  Kauf o. Ä
 
 anschalten: to switch on
   mithilfe eines Schalters o. Ä. in Gang setzen
@@ -1868,8 +1879,8 @@ Arbeitsamt, das
   staatliche Institution, die Arbeitslose betreut und ihnen bei der Suche nach neuer Arbeit hilft
 
 arbeiten /ˈarbaitən/: to work
-  Er arbeitet in einer Bank.
-  He works at a bank. 
+  Er arbeitet in / bei einer Bank.
+  Sie arbeitet als Leherein.
 
 Architekt /arçiˈtɛkt/, Architektin: architect
 
@@ -2348,6 +2359,7 @@ aufnehmen /ˈaufneːmən/: to take up, to take in, to admit, to record
 aufpassen /ˈaufpasən/: to be careful, to pay attention
   Pass auf, dass du nicht hinfällst!
   Watch out that you don't fall!
+  Pass gut auf dich auf.
   Du musst im Unterricht besser aufpassen.
   You have to pay more attention in classes.
   auf jdn / etw. aufpassen: jdn / etw. beaufsichtigen
@@ -3013,7 +3025,7 @@ außerdem: besides
 außergewöhnlich /ˈausɐɡəˈvøːnlɪç/: exceptional
   nicht normal
 
-außerhalb: outside
+außerhalb /ˈausɐhalp/: outside (genitive)
   nicht in einem Bereich, Gebiet; nicht während eines Zeitraums
   außerhalb des Dorfes wohnen
   außerhalb der Öffnungszeiten
@@ -3246,6 +3258,9 @@ außerordentlich /ˈausɐ|ˈɔrdəntlɪç/: extraordinary, exceptional, special
 
 Äußerung /ˈɔysərʊŋ/, die, ~|-en: statement
   wegen rassistischer Äußerungen kritisiert werden: to be criticized for racist remarks
+
+ausziehen: to take off
+  Kleidung vom Körper nehmen, ablegen
 
 Auto /ˈauto/, das, -s|-s: car
   mit dem Auto fahren

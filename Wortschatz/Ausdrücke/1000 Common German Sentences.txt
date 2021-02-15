@@ -83,6 +83,47 @@
 1028 Hast du einen?
 1037 Spricht hier jemand Japanisch?
 1052 Ein Truthahn ist etwas größer als ein Huhn.
+1067 Deine Träume sind wahr geworden.
+1080 Diese Art von Kleid ist jetzt in Mode.
+1094 Ich würde gerne Suchi essen.
+1106 Je früher, desto besser.
+1118 Ich kann einen Apfel schälen.
+1130 Magst du schwarze Katzen?
+1140 Es ist heute sehr heiß.
+1153 Ich sah ihn springen.
+1164 Dieser Hut gehört mir.
+1175 Brot wird aus Weizen hergestellt.
+1187 Meine Familie geht jedes Jahr nach Italien.
+1202 Bitte machen Sie das Bett.
+1213 Käse wird aus Milch hergestellt.
+1226 Mein Onkel gab mir eine Kamera.
+1238 Ich verrate dir ein Geheimnis.
+1250 Hattest du gestern eine gute Zeit?
+1263 Ich erwachte aus einem Traum.
+1276 Wie viele Bücher hast du?
+1288 Zieh bitte deine Socken aus.
+1300 Ich glaube schon.
+1310 Er ist zwei Jahre älter als Mary.
+1323 Möchtest du noch einen Apfel?
+1334 Lasst mich in Ruhe, bitte.
+1346 Bitte beantworten Sie das Telefon.
+1359 Der Supermarkt öffnet um zehn Uhr.
+1374 Er spricht Französisch.
+1384 Meine Mutter hat den Kuchen geschnitten.
+1397 Ich kann den Lärm nicht ertragen.
+1410 Er rannte in den Raum.
+1421 Du solltest besser nicht gehen.
+1433 Du bist nicht jünger als ich.
+1446 Hast du jemanden an der Tür klingeln hören?
+1461 Ich fühlte mich sehr glücklich.
+1472 Wir sahen Wolken über dem Berg.
+1484 Warum sagst du das?
+1495 Meine Mutter ist zwei Jahre jünger als mein Vater.
+1511 Er ist immer noch hier.
+1521 Wessen Freund ist das?
+1532 Wo warst du diese Woche?
+1543 Wir hatten es eilig.
+
 
 https://www.youtube.com/watch?v=eqZxBgU-mYY&t=[number]s
 

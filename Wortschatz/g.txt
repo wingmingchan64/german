@@ -613,6 +613,7 @@ Geländewagen, der: cross-country or general-purpose vehicle
 gelang → gelingen
 
 gelangen /ɡəˈlaŋən/: to get, to find your way to, to come to, to reach
+  Es dauerte fünf Minuten, um zum Bahnhof zu gelangen.
   zu einem bestimmten Ziel kommen; in einen bestimmten Zustand kommen
   Wie ist dieses Schreiben in deine Hände gelangt?
   How did that letter find its way into your hands?
@@ -1405,6 +1406,7 @@ gleich /ɡlaiç/: same, equal, immediately, straightaway
   Wenn wir nicht bald anfangen, können wir es gleich lassen!
   If we don't get started soon, we might as well just forget it.
   gleich weiter: right away
+  Bis gleich!
 
 gleichaltrig /ˈɡlaiç|altrɪç/: of the same age
 

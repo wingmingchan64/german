@@ -377,6 +377,9 @@ kieselig: pebbly
 
 Kieselstein, der: pebblestone
 
+Kilo, Kilogramm, das
+  ein halbes Kilo Tomaten
+
 Kind /kɪnt/, das, -(e)s|-er|den -ern: child
   Die Kinder spielen im Hof.
   Den Kindern geht es gut.

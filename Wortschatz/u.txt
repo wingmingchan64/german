@@ -190,6 +190,11 @@ U-Bahnstation, die
   Sie hatte Mühe, ihre Überraschung zu verbergen.
   She struggled to hide her surprise.
 
+überreden: to persuade
+  so lange mit jdm sprechen, bis er nachgibt und etw. tut
+  Er ließ sich zum Kauf des Autos überreden.
+  Ich überredete ihn, daran teilzunehmen.
+
 überregional /ˈyːbɐreɡionaːl/: national, nationwide
   eine überregionale Zeitung: a national newspaper
 
@@ -626,6 +631,9 @@ undeutlich /ˈʊndɔytlɪç/: unclear, indistinct, vague,
 
 unehrlich /ˈʊn|eːɐlɪç/: dishonest
 
+uneingeschränkt /ˈʊn|ainɡəʃrɛŋkt/
+  ohne Einschränkung oder Vorbehalt
+
 unendlich /ʊnˈ|ɛntlɪç/: infinite, never-ending
 
 unerhört /ˈʊn|ɛɐˈhøːɐt/: outrageous
@@ -888,6 +896,7 @@ untersagen: to forbid, to prohibit
 unterscheiden: to distinguish, to differ
 
 Unterschied /ˈʊntɐʃiːt/, der: difference
+  Worin besteht der Unterschied zwischen A und B?
   Besteht denn ein Unterschied zu den anderen?
   Is it any different to the others?
   Ob so oder so, das macht keinen Unterschied für mich.

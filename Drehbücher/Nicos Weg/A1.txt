@@ -830,12 +830,12 @@
 - Max?
 - Ja?
 - Kannst du morgen vielleicht etwas früher kommen?
-  Morgen ist doch der Zweiundzwanzigste
+  Morgen ist doch der zweiundzwanzigste
   und ich hab um halb eins einen Termin.
 - Ja, kein Problem. Übermorgen auch?
-- Übermorgen? Äh, also am Dreiundzwanzigsten?
-- Kleiner Tipp: Morgen ist der Zweiundzwanzigste,
-  dann ist übermorgen der … Dreiundzwanzigste.
+- Übermorgen? Äh, also am dreiundzwanzigsten?
+- Kleiner Tipp: Morgen ist der zweiundzwanzigste,
+  dann ist übermorgen der … dreiundzwanzigste.
 - Sehr witzig … 
   Äh, nein, übermorgen habe ich mittags keine Termine.
   Nur morgen.
@@ -1032,7 +1032,8 @@
   Die Tasche und die Jacke brauche ich unbedingt zurück.
 - Auf jeden Fall. Danke!
 - Ja!
-- Oh, schon 10 Uhr. Ich muss unbedingt noch etwas für unseren Urlaub einkaufen. Lisa, was brauchen wir? Sonnencreme, Saft …
+- Oh, schon 10 Uhr. Ich muss unbedingt noch etwas für unseren Urlaub einkaufen. 
+  Lisa, was brauchen wir? Sonnencreme, Saft …
 - Wo kaufst du ein?
 - Ähm … Ich kaufe im Supermarkt um die Ecke ein.
 - Ja, dann bring doch bitte noch Wasser mit.

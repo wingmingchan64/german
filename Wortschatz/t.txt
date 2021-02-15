@@ -670,6 +670,12 @@ trauen /ˈtrauən/: to trust, to marry; sich: to dare
   Which priest do you want to be married by?
   sich (accusative or (rare) dative) trauen, etw zu tun: to dare (to) do sth
 
+Traum, der
+  Bilder, die man im Schlaf sieht; starker, sehnsüchtiger Wunsch
+  Das Kind hat einen schlechten Traum gehabt.
+  Alle ihre Träume schienen in Erfüllung zu gehen.
+  Deine Träume sind wahr geworden.
+
 traurig /ˈtraurɪç/: sad, unhappy
   ↔ freudig
   Warum bist du heute so traurig?
@@ -874,6 +880,9 @@ Trümmer /ˈtrʏmɐ/, pl. rubble, ruins, wreckage
 
 Truppeneinheit, die: unit
 
+Truthahn, der: turkey
+  Truthahnbraten
+
 tschüs, tschüss /tʃyːs/
 
 ▲Tuch /tuːx/, das, Tücher: cloth
@@ -910,7 +919,16 @@ tupfen /ˈtʊpfən/: to dab
 Tür /tyːɐ/, Türen, die: door
   Haustür: front door
 
+Türke, der: Turkish man/boy
+
 Türkei /tʏrˈkai/, die, ~|uncountable
+
+Türkette, die: (door) chain
+
+Türkin, die: Turkish woman/girl
+
+türkisch /ˈtʏrkɪʃ/
+  türkischer Honig: nougat
 
 Turnhalle, die: gym
 

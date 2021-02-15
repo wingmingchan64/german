@@ -12,12 +12,15 @@ da: there, that one, then
   Ich bin gleich wieder da! I'll be back in a moment.
   Können Sie mir sagen, wann wir da sind?
 
-da: as, since
+da: as, since, there
   Da ich dich nicht erreicht habe, bin ich ohne dich gefahren.
   As I didn't get hold of you I went without you.
   Da lang! That way!
+  Da ist keine Tasche.
 
 dabei /daˈbai/: there, at the same time, in the process
+  Sie ist dabei zu gehen.
+  She is about to leave.
   Warst du dabei, als das passiert ist?
   Were you there when it happened?
   Sie sieht fern und bügelt dabei.

@@ -342,6 +342,10 @@ Bedienung /bəˈdiːnʊŋ/, die: waiter, waitress, service, operation
   Die Bedienung ist ganz einfach.
   It's really easy to operate.
 
+bedingt: conditional
+  nur mit Einschränkungen
+  Hierfür können wir nur eine bedingte Kaufempfehlung geben.
+
 Bedingung, die: condition
   etw., wovon man seine Zustimmung o. Ä. abhängig macht
   Die Genehmigung ist an bestimmte Bedingungen geknüpft.
@@ -1034,6 +1038,7 @@ berücksichtigen /bəˈrʏkzɪçtɪɡən/: to take into account/consideration, t
 Beruf /bəˈruːf/, der, -e: occupation
   Was ist dein Beruf?
   Was bist du von Beruf?
+  Tarek ist eigentlich Elektriker von Beruf.
   Was ist schwierig am Beruf Informatiker?
   einen Beruf erlernen, ausüben: to train for / do a job
 

@@ -81,6 +81,7 @@ Lager, das, Lager /ˈlaːɡɐ/: camp, store, depot
   to fetch some boxes from the storeroom
   Diese Ware haben wir nicht mehr auf Lager.
   We don't have this product in stock any longer.
+  Lagerraum
 
 Lagerfeuer, das: camp fire
 
@@ -735,7 +736,9 @@ linkisch: awkward, clumsy
 links /lɪŋks/: left
    links des Rheins: to the left-hand side of the Rhine 
 
-Linsensuppe, die: lentil soup
+Linse, die: lentil 小扁豆
+
+Linsensuppe, die: lentil soup 扁豆湯
 
 Lippe /ˈlɪpə/, die, -n: lip
   jdn auf die Lippen küssen: to kiss sb on the lips

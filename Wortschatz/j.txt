@@ -98,6 +98,7 @@ je: per
 je + … desto / umso + Komparativ: the + COMPARATIVE, the + COMPARATIVE
   Je älter er wird, umso anspruchsvoller wird er auch.
   The older he gets, the more demanding he becomes, too.
+  Je früher, desto besser.
 
 je nach etw.: depending on
   je nach Geschmack Zucker hinzufügen

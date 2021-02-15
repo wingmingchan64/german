@@ -707,7 +707,7 @@ einschlug → einschlagen
 einschränken: to reduce, to cut down on, to limit, to curtail, to economize, to cut down on your spending
 
 Einschränkung, die: restriction, qualification, reservation
-  Das stellt eine Einschränkung meiner persönlichen Freiheit dar.
+  Das stellt eine Einschränkung meiner persönlichen Freiheit dar. (darstellen)
   → Schranke: barrier, limit
 
 einsehen /ˈainzeːən/: to realize, to accept, to look at/through, to inspect, to see
@@ -1749,6 +1749,7 @@ ernsthaft /ˈɛrnsthaft/: serious, genuine, grave
   That's not a serious obstacle for me.
   Ist es etwas Ernsthaftes?
   Is it something serious?
+  Es ist nichts Ernsthaftes.
 
 Ernte /ˈɛrntə/, die, -n: harvest
   bei der Ernte helfen: to help bring in the harvest
@@ -1942,6 +1943,7 @@ erträglich /ɛɐˈtrɛːklɪç/: bearable
   His grades are quite tolerable.
 
 erwachen /ɛɐˈvaxən/: to wake
+  wach werden
   Sie ist aus dem Schlaf / der Narkose / dem Koma erwacht.
   She has wakened from her sleep/from anesthesia/from her coma.
 
@@ -2107,6 +2109,10 @@ etwa /ˈɛtva/: used to express surprise, by any chance
   You didn't forget to buy a ticket, did you?
 
 etwas /ˈɛtvas/: something, a little, somewhat
+
+euch
+  Wer hat euch das erzählt?
+  Lasst es euch schmecken.
 
 Eule /ˈɔylə/, die, ~|-n: owl
   der Schrei einer Eule: the hoot of an owl

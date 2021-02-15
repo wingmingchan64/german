@@ -45,6 +45,8 @@ verabscheuen /fɛɐˈ|apʃɔyən/: detest
   Gewalt verabscheuen: to detest violence
 
 verabschieden /fɛɐˈ|apʃiːdən/: to say goodbye, to see off, to pass, to adopt
+  Meine Freunde kamen zum Flughafen, um mich zu verabschieden.
+  Sie verabschiedete ihre Gäste und ging wieder an die Arbeit.
   Der Haushalt wurde gestern vom Parlament verabschiedet.
   The budget was adopted by parliament yesterday.
 
@@ -624,6 +626,7 @@ Verleihung /fɛɐˈlaiʊŋ/, die, ~|-en: award(ing)
 verletzen /fɛɐˈlɛʦən/: to injure
 
 verletzt: injured
+  Ich habe mir den Ellenbogen verletzt.
 
 Verletzte /fɛɐˈlɛʦtə/: casualty, injured/wounded person
   Die Verletzten wurden sofort ins Krankenhaus gebracht.
@@ -1381,7 +1384,9 @@ Vielzahl /ˈfiːlʦaːl/, die, ~|uncountable: large number, multitude
 vier /fiːɐ/
 
 vierte /ˈfiːɐtə/: fourth
-  am Vierten
+  am vierten
+  Der vierte Juli
+  in der vierten Etage / im vierten Stock
 
 △Viertel /ˈfirtəl/, das, -: quarter
   Viertel nach eins
@@ -1509,6 +1514,10 @@ voraussichtlich /foˈrauszɪçtlɪç/: expected, probably
   The expected due date is May 16th.
 
 Vorausverfügung: advance directive, living will, advance disposal
+
+Vorbehalt, der: reservation
+  Bedenken, die man gegenüber jdm / einer Sache hat
+  Er hat große Vorbehalte gegen die Anschaffung eines Hundes.
 
 vorbei /foːɐˈbai/: past, by
   Wenn der Traktor vorbei ist, gehen wir über die Straße.
@@ -1755,8 +1764,8 @@ vorstellen /ˈfoːɐʃtɛlən/: to imagine, to understand sth by sth, to introdu
   Das kann ich mir vorstellen. (reflexive + dative)
   Unter gutem Unterricht stelle ich mir aber etwas anderes vor!
   That's not what I understand by good teaching, however!
-  Darf ich Ihnen meine Tochter Kerstin vorstellen?
-  May I introduce my daughter Kerstin to you?
+  Darf ich Ihnen meine Tochter Kerstin / meinen Sohn vorstellen?
+  May I introduce my daughter Kerstin / my son to you?
   Morgen stelle ich mich bei der Bank vor.
   I'm going for an interview at the bank tomorrow.
   sein neues Programm vorstellen: to present your new program
