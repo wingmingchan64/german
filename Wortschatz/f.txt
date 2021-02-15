@@ -187,6 +187,10 @@ Familienmitglied, das: family member
 Familienname /faˈmiːljənnaːmə/, der: family name
   → Nachname
 
+Familienstand, der
+  rechtlicher Status einer Person in Bezug darauf, ob sie ledig, verheiratet, verwitwet oder geschieden ist
+  Angaben zum Familienstand machen
+
 fand → finden
 
 fände → finden

@@ -265,7 +265,7 @@ Maximum /ˈmaksimʊm/, das, -s|Maxima: maximum
 
 Mäzen /mɛˈʦeːn/, -s|-e, -in: patron
 
-Mechaniker /meˈçaːnikɐ/: mechanic
+Mechaniker /meˈçaːnikɐ/, der, -s|~, -in: mechanic
   jd, der Maschinen und technische Anlagen zusammenbaut oder repariert
 
 Mechatroniker: mechatronics engineer
@@ -292,8 +292,6 @@ Meer /meːɐ/, das, Meere: sea
 Meerenge, die: strait, narrow
 
 Meeresfrüchte /ˈmeːrəsfrʏçtə/, pl: seafood
-
-
 
 Meeresspiegel /ˈmeːrəsʃpiːɡəl/, der: sea level
 

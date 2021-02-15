@@ -38,8 +38,57 @@ Elias, Alexander, Leon, Ludwig
 Mädchenname:
 Julia, Emma, Lisa, Anna
 
+Nachnamen
+Meister, Schumann, Schmieden
 
-========================================================
+Wie heißen Sie?
+Wie ist Ihr Name?
+Wie ist Ihr Vorname?
+Wie ist Ihr Nachname / Familienname?
+Herr + Nachname
+Frau + Nachname
+
+Was sind Sie von Beruf?
+
+der Arzt / die Ärztin / die Ärzte / die Ärztinnen
+die Krankenschwester / die Krankenschwestern
+der Ingenieur / die Ingenieurin / die Ingenieure / die Ingenieurinnen
+der Mechaniker
+der Tierpfleger
+der Lehrer / die Lehrerin / die Lehrer / die Lehrerinnen
+die Hausfrau / die Hausfrauen
+
+Was sind Sie von Beruf?
+Was machen Sie beruflich?
+Ich bin Lehrerin.
+Im Moment bin ich Lehrerin.
+
+Wie alt ist die Kirche?
+Wie alt sind Sie?
+Wie alt bist du?
+Ich bin 23 Jahre alt.
+Wie alt ist der Deutsche?
+Er ist 35 Jahre alt.
+
+Wie ist Ihr Familienstand?
+Ich bin verheiratet / ledig / nicht verheiratet / verwitwet 
+
+Ist hier das Büro?
+
+Verzeihung!
+Verzeihen Sie, bitte.
+Entschuldigung, wo ist der Bahnhof?
+Entschuldigen Sie bitte. Könnten Sie mir helfen?
+Entschuldigung! Ich komme zu spät.
+Entschuldigen Sie bitte für meine Verspätung.
+Entschuldigung! Ich bin verspätet.
+
+Ist hier das Büro?
+Entschuldigung! Ist hier das Büro von …
+Ja, hier sind Sie richtig.
+Nein, das Büro ist nicht hier.
+Wie bitte?
+Bitte?
 
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
