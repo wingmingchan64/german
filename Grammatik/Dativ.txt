@@ -27,6 +27,12 @@ Der Hut steht dir nicht.
 Seine Haltung war mir unbegreiflich.
 Sie war ihrem Sohn eine gute Mutter.
 
+M:
+dem Sohn	den Söhnen
+N:
+dem Buch	den Büchern
+F:
+der Tür		den Türen
 
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«

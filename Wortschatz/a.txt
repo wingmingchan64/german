@@ -17,7 +17,7 @@ A /aː/, das
   der Umlaut des ,a‛
   Das Wort ,Ärmel‛ schreibt man mit Ä.
 
-Aal /aːl/, der, -(e)s|-e: eel
+Aal /aːl/, der, -(e)s|-e/~|Aalen: eel
   schlangenähnlicher Speisefisch, der in Flüssen und im Meer lebt
   Räucheraal: smoked eel
   winden wie ein Aal versuchen: einer schwierigen Situation auszuweichen
@@ -32,7 +32,7 @@ aalen /ˈaːlən/: to laze, to bask
   Wir haben uns stundenlang in der Sonne geaalt.
   We basked in the sun for hours.
 
-Aas /aːs/, das, -es|uncountable: carrion, jackass
+Aas /aːs/, das, -es|Äser/~|Aasen oder Äsern|: carrion, jackass
   Fleisch von verwesenden toten Tieren; Schimpfwort für einen gemeinen, hinterhältigen Menschen
   Geier ernähren sich von Aas.
   Vultures live on carrion.
@@ -60,7 +60,7 @@ Aas /aːs/, das, -es|uncountable: carrion, jackass
 ab-: from, away
   beschreibt eine Bewegung von einem Ort weg
 
-Abbau /ˈapbau/, der
+Abbau /ˈapbau/, der, -(e)s|uncountable/~
   Verringerung, Reduzierung; Gewinnung von Bodenschätzen
 
 abbauen /ˈapbauən/: to reduce, to cut, to mine, to deteriorate
@@ -75,9 +75,9 @@ abbiegen /ˈapbiːɡən/: (driving) to turn, to turn off
   nach links/rechts abbiegen: to turn left/right
   Biegen Sie bitte bei der nächten Kreuzung nach rechts ab.
 
-Abbild, das: image
+Abbild, das, -(e)s|-er/~|-ern: image
 
-Abbildung /ˈapbɪldʊŋ/, die: image, drawing, figure, representation, illustration
+Abbildung /ˈapbɪldʊŋ/, die, ~|-en: image, drawing, figure, representation, illustration
               Singluar       Plural
   Nonimative  die Abbildung  die Abbildungen
   Accusative  die Abbildung  die Abbildungen
@@ -91,11 +91,16 @@ abdrucken /ˈapdrʊkən/: to print
   Ihr Leserbrief wurde in der Zeitung abgedruckt.
   Her letter to the editor was printed in the newspaper.
 
-Abend /ˈaːbənt/, der, -s|-e: evening
+Abend /ˈaːbənt/, der, -s|-e/~|-en: evening
   am Abend
   zu Abend essen
+              Singluar        Plural
+  Nonimative  der Abend       die Abende
+  Accusative  den Abend       die Abende
+  Genitive    des Abends      der Abende
+  Dative      dem Abend       den Abenden
 
-Abendbrot /ˈaːbəntbroːt/, das: supper, light evening meal
+Abendbrot /ˈaːbəntbroːt/, das, -(e)s|-e/~|-en: supper, light evening meal
 
 Abendessen /ˈaːbənt|ɛsən/, das, -s|~: supper
 
@@ -2777,6 +2782,9 @@ ausgehen /ˈausɡeːən/: to go out, to finish, to run out, to go off
   Ich gehe davon aus, dass ihr alle hungrig seid.
   I take it you're all hungry.
   welche Gefahr von Adolf Hitler ausgeht
+
+ausgeprägt /ˈausɡəprɛːkt/: pronounced
+  gut wahrnehmbar, eindeutig vorhanden
 
 ausgerechnet /ˈausɡərɛçnət/ oder /ausɡəˈrɛçnət/: of all things 偏偏
   Ausgerechnet heute musst du zu spät kommen!

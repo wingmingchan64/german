@@ -18,6 +18,12 @@ schweren Herzens
 gemessenen Schrittes
 erster/zweiter Klasse
 
+M:
+des Sohns/Sohnes	der Söhne
+N:
+des Buchs/Buches	der Bücher
+F:
+der Tür				der Türen
 
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
