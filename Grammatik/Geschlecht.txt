@@ -1,0 +1,75 @@
+-ade (pl. -n)
+die Brgade, die Limonade, die Olympiade
+
+-age (pl. -n)
+die Sabotage, die Persiflage, die Etage
+
+-ant (weak)
+der Demonstrant, der Elefant, der Konsonant, der Diamant
+
+-anz (pl. -en)
+die Arroganz, die Discrepanz, die Resonanz
+
+-ar (= person) (pl. -e)
+der Bibliothekar, der Missionar, der Kommentar
+der Jaguar, der Januar
+das Iinventar, das Mobiliar, das Glossar, das Formular
+
+-är (= person) (pl. -e)
+der Legionär, der Millionär
+das Millitär
+
+-at (= person) (weak)
+der Demokrat, der Kandidat, der Soldat, der Adressat
+der Automat, 
+not weak
+der Apparat, der Salat, der Spinat, der Muskat, der Passat, der Senat
+das Internat, das Konsulat, das Transplanat, das Telefonat, das Quadrat, das Resultat, das Format, das Attentat
+
+-chen (pl. same)
+das Kaninchen, das Kätzchen
+
+-ei (-elei, -erei) (pl. -en)
+die Kartei, die Nörgelei, die Kellerei, dei Meuterei
+
+-ent (weak)
+der Student, der Dirigent
+not weak
+der Akzent, der Orient
+das Transparent, das Kontingent, das Äquivalent
+
+-enz (pl. -en)
+die Tendenz, die Frequenz
+
+-er (from verb) (pl. same)
+der Schneider, der Angeber, der Rechner
+
+-heit (pl. -en)
+die Schönheit, die Menschheit
+
+-ie (pl. -n)
+die Chemie, die Phobie
+
+-ik (pl. -en)
+die Informatik, die Technick, die Romanik
+exceptions:
+der Atlantik, der Pazifik, der Katholik
+
+-in (pl. -nen)
+die Journalistin, dien Füchsin
+
+-ion (pl. -en)
+die Nation, die Kommission
+
+-ismus (pl. -ismen)
+der Sozialismus, der Sadismus
+
+-ist (weak)
+
+
+
+========================================================
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
+========================================================
+
+Weak nouns, also called masculine n-nouns, are a group of masculine nouns in German that have a special declension. In addition to inflecting their article, these nouns themselves add an -en or -n ending (-n if the noun already ends in -e) in every case and number except the nominative singular.

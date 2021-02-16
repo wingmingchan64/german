@@ -181,6 +181,9 @@ Säule /ˈzɔylə/, die, -n: pillar, column
 Sauna /ˈzauna/, die, ~|-s/Saunen
   in die Sauna gehen: to go to the sauna
 
+Saurier /ˈzaurjɐ/, der, -s|~: dinosaur
+  Die Saurier starben vor rund 60 Millionen Jahren aus.
+
 sausen /ˈzauzən/: to rush, to zoom, to roar, to whistle
   Sie ist noch mal schnell zum Bäcker gesaust.
   She rushed off to the bakery again quickly.
@@ -486,6 +489,7 @@ Schiedsrichter: referee, umpire
 
 schief /ʃiːf/: awry, crooked
   Der Baum ist schief gewachsen.
+  Er hat einen schiefen Rücken.
 
 schiefgegangen: awry
 
@@ -1186,9 +1190,11 @@ schützen /ˈʃʏʦən/: to protect
   to wear a hat and gloves to keep the cold out
 
 schwach /ʃvax/: weak, poor
+  schwächer, am schwächsten
   nicht fähig, schwere Lasten zu heben usw
   Dafür sind seine Muskeln zu schwach.
   My muscles are too weak for that.
+  Nach der Krankheit fühlte sie sich noch lange schwach.
   Der Kaffee ist viel zu schwach.
   
 Schwachheit, die: weakness, frailty
@@ -1687,6 +1693,10 @@ Sitzung /ˈzɪʦʊŋ/, die, -en: meeting, session
 
 Skandal /skanˈdaːl/, der: scandal
   einen Skandal vermeiden/vertuschen: to avoid/hush up a scandal
+
+Skelett /skeˈlɛt/, das, -(e)s|-e
+  die Knochen eines toten Menschen, Tiers
+  das vollständig erhaltene Skelett eines Sauriers
 
 Ski /ʃiː/, der, -er: ski
   Ski fahren / laufen: to ski/go skiing
@@ -2207,7 +2217,7 @@ ständig /ˈʃtɛndɪç/: permanent, constantly
 Stange /ˈʃtaŋə/, die: pole, bar, stick
   langer, dünner Gegenstand aus Holz, Metall
 
-stark /ʃtark/, stärker: strong
+stark /ʃtark/, stärker, am stärksten: strong
 
 Stärke /ˈʃtɛrkə/, die: strength, power, intensity, strong point
 

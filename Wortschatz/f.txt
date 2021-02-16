@@ -281,7 +281,7 @@ Faulheit /ˈfaulhait/, die, |uncountable: laziness, idleness, sloth
   Der Grund für seine schlechten Noten ist einfach nur Faulheit.
   The reason for his bad grades is quite simply laziness.
 
-Faust /faust/, die, ..e: fist
+Faust /faust/, die, ~|..e: fist
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
 
 Fazit /ˈfaːʦɪt/, das, -e: conclusion
@@ -587,6 +587,7 @@ finden /ˈfɪndən/: to find
 fingen → fangen
 
 Finger /ˈfɪŋɐ/, der, -s|~: finger
+  Sie tragt an jedem Finger einen Ring.
 
 Finnland /ˈfɪnlant/, das, -s
 
@@ -1258,6 +1259,8 @@ Fußboden /ˈfuːsboːdən/, der, -s|..: floor
 
 Fußgängerzone /ˈfuːsɡɛŋɐʦoːnə/, die: 
   Bereichin der Innenstadt, in dem keine Fahrzeuge fahren dürfen
+
+Fußgelenk, das, -(e)s|-e
 
 Futter, das, -s|~: food
   dem Hund sein Futter geben: to give the dog his food 

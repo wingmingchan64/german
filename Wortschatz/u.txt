@@ -716,6 +716,9 @@ ungültig: invalid
 
 ungünstig: unfavorable
 
+Unheil, das, -s|uncountable: disaster
+  Ereignis, das großen Schaden anrichtet
+
 unheilvoll /ˈʊnhailfɔl/: fateful, ominous
   Es herrschte unheilvolles Schweigen.
   There was an ominous silence.

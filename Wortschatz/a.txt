@@ -1518,7 +1518,9 @@ anregen /ˈanreːɡən/: to stimulate, to suggest
 Anregung, die
 
 anrichten
-  verursachen
+  verursachen; zum Essen hinstellen
+  Der Sturm richtete Schäden in Millionenhöhe an.
+  Das Essen / Es ist angerichtet!
 
 Anrufbeantworter, der, -s|~: answering machine
 
@@ -2055,6 +2057,10 @@ Atem /ˈaːtəm/, der, -s|uncountable: breath
   außer Atem sein: to be out of breath
 
 atmen /ˈaːtmən/: to breathe
+  atmest, habe geatmet
+  atmete
+  atme
+  atmet
   Vor Anstrengung atmete er schwer.
   He was breathing heavily from the exertion.
 
@@ -3125,6 +3131,9 @@ aussteigen /ˈausʃtaiɡən/: to get out, disembark, to drop out
 
 Ausstellung /ˈausʃtɛlʊŋ/, die: exhibition
   eine Ausstellung eröffnen: to open an exhibition
+
+aussterben /ˈausʃtɛrbən/
+  als Art nicht mehr existieren
 
 Ausstieg /ˈausʃtiːk/, der: pullout, withdrawal, exit
   den Ausstieg aus der Atomkraft fordern: to demand a pullout from nuclear energy

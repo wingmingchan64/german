@@ -29,6 +29,10 @@ Radieschen, das: radish
 
 raffiniert /rafiˈniːɐt/: cunning, ingenious, clever, sophisticated, refined, stylish
 
+ragen /ˈraːɡən/: to tower, to rise, to project, to protrude
+  länger oder höher sein als die Umgebung
+  Felsen ragten in den Himmel / aus dem Wasser.
+
 Rahmen /ˈraːmən/, Rahmen: frame, framework, context
   im Türrahmen stehen bleiben: to stay standing in the doorway
   eine Veranstaltung in festlichem Rahmen: a celebratory event 
@@ -738,7 +742,7 @@ riesig /ˈriːzɪç/: huge, gigantic
 Rind /rɪnt/, das: bovine
   Rindfleisch
 
-Ring /rɪŋ/, der, Ringe: ring
+Ring /rɪŋ/, der, -(e)s|-e: ring
   jdm/sich einen Ring an den Finger stecken
   to put a ring on sb's/your finger 
 
@@ -874,6 +878,7 @@ Rücken /ˈrʏkən/, der, -s|~: back
   etw. hinter jds Rücken tun: to do sth behind sb's back
   mit dem Rücken an der / zur Wand stehen: to have your back to the wall
   jdm läuft es eiskalt über den Rücken / den Rücken hinunter: a shiver runs down sb's spine
+  Er hat einen schiefen Rücken.
 
 rücken /ˈrʏkən/
   irgendwohin rücken: to move somewhere

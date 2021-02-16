@@ -684,7 +684,7 @@ knicken /ˈknɪkən/: to fold
 Knicks /knɪks/, der, -es|-e: curtsy
   ein Hofknicks vor der Königin: a curtsy to the queen
 
-Knie /kniː/, das, Knie: knee
+Knie /kniː/, das, -s|~: knee
   Er fiel vor dem König auf die Knie und bettelte um Gnade.
   He fell to his knees before the king and begged for mercy. 
 
@@ -708,6 +708,7 @@ Knöchel /ˈknœçəl/, der, -s|~: ankle, knuckle
   wunde Fingerknöchel haben: to have raw knuckles
 
 Knochen /ˈknɔxən/, der, -s|~: bone
+  Teil des Skeletts
   dem Hund einen Knochen geben: to give the dog a bone
   sich bis auf die Knochen blamieren: to make a total fool of yourself
   Irans Reaktion auf den Vertragsbruch der USA blamiert Trump bis auf die Knochen
@@ -965,7 +966,7 @@ Konzern /kɔnˈtsɛrn/, der: group of companies
 
 koordinieren /ko|ɔrdiˈniːrən/: to coordinate
 
-Kopf /kɔpf/, der, Köpfe /ˈkœpfə/: head
+Kopf /kɔpf/, der, -es|..e /ˈkœpfə/: head
   Er ist einen Kopf größer als ich.
   He's a head taller than me.
 
@@ -1126,6 +1127,8 @@ Krankenversicherung, die
 
 krankgeschrieben: on sick leave
   krankgeschrieben sein
+
+Krankheit, die, ~|-en
 
 Kranz, der: wreath
 

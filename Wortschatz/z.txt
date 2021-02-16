@@ -42,7 +42,7 @@ Zahlungsmittel, das: means of payment
 zähmen: to tame
   ein wildes Tier zähmen
 
-Zahn /ʦaːn/, Zähne /ˈʦɛːnə/, der: tooth
+Zahn /ʦaːn/, -es|..e /ˈʦɛːnə/, der: tooth
 
 Zahnbürste, die: toothbrush
   kleine Bürste zur Zahnreinigung
@@ -584,7 +584,8 @@ zunehmen /ˈʦuːneːmən/: to put on weight, to increase
 
 zunehmend /ˈʦuːneːmənt/: increasingly
 
-Zunge /ˈʦʊŋə/, die, -e: tongue
+Zunge /ˈʦʊŋə/, die, ~|-n: tongue
+  Organ im Mund, das man zum Schmecken und Sprechen braucht
   jdm die Zunge herausstrecken: to stick your tongue out at sb
 
 zunicken /ˈʦuːnɪkən/
