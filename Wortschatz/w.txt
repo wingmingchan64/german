@@ -133,6 +133,9 @@ Währung, die
 
 wahrscheinlich /vaːɐˈʃainlɪç/: probable, likely
 
+Wahrzeichen /ˈvaːɐʦaiçən/, das, -s|~/~|~
+  Bauwerk, Symbol usw., das typisch für eine Stadt, ein Land usw. ist
+
 Waise /ˈvaizə/, die: orphan
 
 Wald /valt/, der, -(e)s|..er: wood(s), forest
@@ -633,6 +636,8 @@ wessen /ˈvɛsən/: whose
   Wessen Buch ist das?
   Genitiv von was
   Sie wusste nicht, wessen man sie beschuldigte.
+
+Wessi, der, -s|-s: West German
 
 West /vɛst/, m, ohne Artikel: west
   Wind aus West: west(erly) wind

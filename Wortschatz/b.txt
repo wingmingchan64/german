@@ -833,6 +833,8 @@ Beleuchtung /bəˈlɔyçtʊŋ/, die, -en: lighting, lights
   die Weihnachtsbeleuchtung anbringen / abnehmen
   to put up/take down the Christmas lights
 
+Belgien /ˈbɛlɡiən/, das
+
 belieben /bəˈliːbən/: to please, to like
   Kommen Sie wieder, wann es Ihnen beliebt.
   Come back again whenever you please.
@@ -1020,6 +1022,7 @@ Bericht /bəˈrɪçt/, der, -(e)s|-e: report, account
   to watch a TV report about the earthquake
 
 berichten /bəˈrɪçtən/: to report
+  jemandem einen Sachverhalt, ein Geschehen sachlich und nüchtern darstellen, mitteilen
   Die Zeitungen berichteten ausführlich über das Unglück.
   The newspapers had detailed reports of the accident.
 
@@ -1044,6 +1047,9 @@ Beruf /bəˈruːf/, der, -e: occupation
   Tarek ist eigentlich Elektriker von Beruf.
   Was ist schwierig am Beruf Informatiker?
   einen Beruf erlernen, ausüben: to train for / do a job
+
+berufen: to appoint
+  jdm ein hohes Amt geben
 
 Berufserfahrung /bəˈruːfs|ɛɐfaːrʊŋ/, die: work experience, professional experience
 
@@ -1726,6 +1732,7 @@ beziehen /bəˈʦiːən/: to get, to receive, to move into, to cover
   to put fresh covers on the beds
   sich: to cloud over, to darken, to refer to
   Diese Bemerkung bezog sich nicht auf dich.
+  er bezog die Universität
 
 beziehend: related, relating
 
@@ -1751,6 +1758,8 @@ beziehungsweise (bzw.) /bəˈʦiːʊŋsvaizə/: respectively, or, or to be more 
   I'll probably be finished with it tomorrow or the day after tomorrow at the latest.
   Ich habe vier Wochen bzw. 30 Tage Urlaub im Jahr.
   I have four weeks' or rather 30 days' vacation a year.
+
+bezogen → beziehen
 
 Bezug, der: reference, cover, income, receipt
   in Bezug auf: regarding
@@ -2205,6 +2214,8 @@ Brandstiftung /ˈbrantʃtɪftʊŋ/, die, -en: arson
 
 Brandung, die: surge, surf
 
+Brasilien /braˈziːliən/, das
+
 braten: to fry, to roast
   Ich brat mir jetzt ein Steak.
   Now I'm going to fry myself a steak.
@@ -2360,6 +2371,8 @@ Brunnen /ˈbrʊnən/, der, -s|~: well, fountain
 
 brünstig: in heat, fervent
 
+Brüssel /ˈbrʏsl/, das
+
 Brust /brʊst/, die, ~|..e: chest, breast
   der Teil des Oberkörpers mit den Rippen; die zwei runden Organe, die bei der Geburt eines Kindes Milch geben
   Er hat eine sehr behaarte Brust.
@@ -2427,6 +2440,8 @@ Bückling /'bʏklɪŋ/, der, -s|-e: smoked herring, kipper, bow
   Bücklingsfilets: smoked herring filets
   einen Bückling machen: to make a (deep) bow
 
+Budapest /ˈbuːdapɛst/, das
+
 buddeln /ˈbʊdəln/: to dig
   Die Kinder buddeln im Sand.
   The kids are digging holes in the sand.
@@ -2440,6 +2455,8 @@ bügeln /ˈbyːɡəln/: to iron
 Bühne /ˈbyːnə/, die: stage
   erhöhte Spielfläche in einem Theater
   Der Schauspieler betritt die Bühne.
+
+Bukarest /ˈbuːkarɛst/, das
 
 Bulle /ˈbʊlə/, der: bull, cop
 

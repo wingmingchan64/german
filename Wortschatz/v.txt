@@ -29,6 +29,8 @@ Velo, das: Fahrrad
   Fährst du gern Velo?
   Nein. Ich fahre nicht gern Velo.
 
+Venedig /veˈneːdɪç/, das
+
 ver-: off, end of a state
 
 verabreden /fɛɐˈ|apreːdən/: to arrange to meet, to agree
@@ -1843,7 +1845,7 @@ vorverlegen /ˈfoːɐfɛɐleːɡən/: to move/bring forward(s)
   The date of the trial was brought forwards.
   eine Einfahrt ein Stück vorverlegen: to move an entrance forwards a little way
 
-Vorwahl, die: area code
+Vorwahl, die, ~|-en: area code
   Nummer, die man im Festnetz zusätzlich wählen muss, wenn man von einer anderen Stadt, einem anderen Land anruft
 
 vorwärts: forward(s)

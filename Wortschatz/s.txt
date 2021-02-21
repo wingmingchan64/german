@@ -23,6 +23,7 @@ Sachlage, die
   ≈ Sachverhalt
 
 sachlich /ˈzaxlɪç/: objective, matter-of-fact, factual, objectively
+  auf die Sache bezogen, nicht von Gefühlen bestimmt
   Bitte bleiben Sie doch sachlich!
   Please keep to the point!
 
@@ -734,7 +735,7 @@ Schluss /ʃlʊs/, der: end, conclusion
   zu dem Schluss kommen, dass …: to come to the conclusion that …
   Schluss machen: to stop
 
-Schlüssel /ˈʃlʏsəl/, der: key
+Schlüssel /ˈʃlʏsəl/, der, -s|~/~|-n: key
 
 schmähen /ˈʃmɛːən/: to revile
   Sie schmähten ihn als Feigling.
@@ -1713,6 +1714,8 @@ skurril /skuˈriːl/: absurd
   Ich finde die Idee schon ein wenig skurril.
   I think the idea's pretty absurd.
 
+Slowenien /sloˈveːniən/, das
+
 Smaragd /smaˈrakt/, der, -(e)s|-e: emerald
 
 smaragdgrün: emerald (green)
@@ -2590,6 +2593,8 @@ stocken /ˈʃtɔkən/: to falter, to come to a halt, to be interrupted
   Er stockte kurz, als er sie sah.
   He faltered for a moment when he saw her.
 
+Stockholm /ˈʃtɔkhɔlm/, das
+
 Stockwerk, das: floor, story
   ein Gebäude mit drei Stockwerken
 
@@ -2793,9 +2798,14 @@ Streitkräfte /ˈʃtraitkrɛftə/ (pl): armed forces
 
 streng /ʃtrɛŋ/: strict, harsh, severe
   Sei doch nicht so streng zu den Kindern!
-  Quit being so strict with the kids!
+  Quit being |so strict with the kids!
   Wir erwarten strengste Einhaltung der Vorschriften!
   We expect the regulations to be strictly adhered to.
+
+Stress, der, -es|-e/~|-en
+
+stressig
+  eine stressige Arbeit
 
 streuen /ˈʃtrɔyən/: to scatter, to spread
 

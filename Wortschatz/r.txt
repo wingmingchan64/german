@@ -27,6 +27,8 @@ Radiergummi, der, -s: rubber, eraser
 
 Radieschen, das: radish
 
+Radio, das, -s|-s
+
 raffiniert /rafiˈniːɐt/: cunning, ingenious, clever, sophisticated, refined, stylish
 
 ragen /ˈraːɡən/: to tower, to rise, to project, to protrude
@@ -124,6 +126,7 @@ Rate /ˈraːtə/, die, Raten: installment, rate
   The rate of new infections is falling again.
 
 raten /ˈraːtən/: to guess, to advise
+  mit Glück herausfinden, lösen; empfehlen, vorschlagen
   Er hat die richtige Antwort / richtig geraten.
   He guessed the correct answer/correctly.
   Das Gesundheitsministerium rät zur Vorsicht.
@@ -994,6 +997,8 @@ rührselig /ˈryːɐzeːlɪç/: emotional
 
 rum-: around
   laufen viele Menschen in Tracht rum: many people walk around in traditional clothes
+
+Rumänien /ruˈmɛːniən/, das
 
 Rummelplatz, der: amusement park, fairground
 

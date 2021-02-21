@@ -252,6 +252,7 @@ Gebrüll /ɡəˈbrʏl/, das, -(e)s: roaring, screaming
   There was furious yelling coming from the kids' playroom.
 
 Gebühr /ɡəˈbyːɐ/, die, ~|-en: fee
+  Geldbetrag, den man für eine Dienstleistung o. Ä. bezahlen muss
   In Frankreich werden für die Benutzung von Autobahnen Gebühren erhoben.
   In France there are tolls for the use of the freeways.
 
@@ -1593,6 +1594,8 @@ Grenze /ˈɡrɛnʦə/, die, ~|-n: border, frontier, mark, threshold, limit
 
 grenzenlos: unlimited, limitless, infinite
   ohne Ende, Einschränkung; sehr intensiv; 
+
+Griechenland /ˈɡriːçnlant/, das
 
 griechisch: greek
 

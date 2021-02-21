@@ -427,6 +427,9 @@ Leere /ˈleːrə/, die, |uncountable: emptiness
   eine große innere Leere verspüren: to feel a great inner emptiness
 
 legen
+  lege, legst, legt, habe gelegt
+  legte
+  leg, legt
   Ich lege mich ins Bett.
 
 leeren /ˈleːrən/: to empty
@@ -613,7 +616,7 @@ lernen
 Lernidee, die: learning idea
 
 lesen /ˈleːzən/
-  lese, liest, lest, habe gelesen
+  lese, liest, liest, lest, habe gelesen
   las, lasest, las, last, lasen
 
 letzte /ˈlɛʦtə/: last, final
@@ -804,6 +807,8 @@ Lokal /loˈkaːl/, das: bar, restaurant
 
 lokal: local
   Lokalredaktion: local news section
+
+London /ˈlɔndɔn/, das
 
 △Lorbeer /ˈlɔrbeːɐ/, der, -en: laurel
 

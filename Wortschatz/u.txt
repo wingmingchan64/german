@@ -321,6 +321,8 @@ Uhrzeit /ˈuːɐʦait/, die, ~|-en: time
   Um welche Uhrzeit soll ich dich abholen?
   What time should I pick you up?
 
+Ukraine /ukraˈiːnə, uˈkrainə/, die
+
 △um /ʊm/: around at (accusative)
   um die Ecke, um den Hals
   um … zu: in order to
@@ -577,6 +579,9 @@ Umzug /ˈʊmʦuːk/, der, ..e: move, procession
   Rosenmontagsumzug: carnival procession
   Trachtenumzug: costume parade
 
+unabhängig /ˈʊn|aphɛŋɪç/
+  nicht an jdn / etw. gebunden, von etw. beeinflusst
+
 Unabhängigkeit /ˈʊn|aphɛŋɪçkait/, die: independence
 
 unablässig /ʊn|apˈlɛsɪç/: incessant, unremitting
@@ -669,7 +674,7 @@ unfähig /ˈʊnfɛːɪç/: to be incapable of sth, incompetent
 
 ungarisch /ˈʊŋɡarɪʃ/: Hungarian
 
-Ungarn /ˈʊŋɡarn/: Hungary
+Ungarn /ˈʊŋɡarn/, das: Hungary
 
 ungeduldig /ˈʊnɡədʊldɪç/: impatient
   Kommst du? Ich werde langsam ungeduldig!
@@ -1039,5 +1044,7 @@ ursprünglich /ˈuːɐʃprʏŋlɪç/: original, initial
   To judge by her expression she's had some good news.
 
 urzeitlich: primitive
+
+USA, die, pl
 
 usw. und so weiter: etc.

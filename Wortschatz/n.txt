@@ -250,7 +250,7 @@ Nase /ˈnaːzə/, die, ~|-n: nose
 nass /nas/: wet
   jdn nass spritzen: to spray sb with water
 
-Nation /naˈʦjoːn/, die, ~|-en: nation
+Nation /naˈʦjoːn/, die, ~|-en/~|-en: nation
   die deutsche Nation: the German nation
   die Vereinten Nationen: the United Nations
 
@@ -439,6 +439,8 @@ niedergeschlagen: depressed, downcast, dejected 垂頭喪氣的
   Warum machst du so ein niedergeschlagenes Gesicht?
   Why are you looking so dejected?
 
+Niederlande, pl
+
 niederlassen /ˈniːdɐlasən/: to settle, to set up a business/practice, to sit/lay down
   Im achten Jahrhundert ließen sich hier Mönche nieder und gründeten ein Kloster.
   Monks settled here in the eighth century and founded a monastery.
@@ -590,6 +592,7 @@ Nuance /ˈnya͂ːsə/, die, -n: shade, touch, nuance
   sprachliche / stilistische Nuancen: linguistic/stylistic nuances
 
 nüchtern /ˈnʏçtɐn/: sober
+  nicht unter Alkoholeinfluss
   nicht mehr ganz nüchtern sein: to be a little bit tipsy
   auf nüchternen Magen: on an empty stomach
 

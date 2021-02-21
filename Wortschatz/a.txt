@@ -1229,7 +1229,7 @@ Anführer /ˈanfyːrɐ/, der, -s|~: leader
 Angabe /ˈanɡaːbə/, die, ~|-n: information, statement
   Informationen, die man jdm gibt
   Er hat der Polizei gegenüber falsche Angaben gemacht.
-  He made false statements to the police.
+  Angaben zur Person
 
 angeben: to state, to give, to indicate, to brag
   nennen; anzeigen; übertrieben stolz über etw. sprechen, um bewundert zu werden
@@ -1375,6 +1375,8 @@ anhalten /ˈanhaltən/: to stop, to continue, to last
   The good weather went on for weeks.
 
 Anhalter, Anhalterin: hitch-hiker
+
+Anhang, der, -(e)s|..e/~: appendix, attachment, family
 
 Anhänger /ˈanhɛŋɐ/, der: trailer, pendant, follower
   ↔ Gegner
@@ -2041,6 +2043,8 @@ Asien, das
 
 Aspekt, der
 
+Assistent, Assistentin
+
 Ast /ast/, der, -(e)s|..e: branch
   Die Affen schwingen sich von Ast zu Ast.
   The monkeys swing from tree to tree.
@@ -2060,6 +2064,8 @@ Atlas /ˈatlas/, der, Atlanten /atˈlantən/: atlas
 Atem /ˈaːtəm/, der, -s|uncountable: breath
   tief Atem holen: to take a deep breath
   außer Atem sein: to be out of breath
+
+Athen /aˈteːn/, das
 
 atmen /ˈaːtmən/: to breathe
   atmest, habe geatmet
@@ -2095,10 +2101,13 @@ auf /auf/: on, onto, at, to (accussative/dative)
   Auf dem Land ist die Luft besser.
   Er warf einen Blick auf das Buch.
   auf dem Sofa sitzen: to sit on the sofa
+  sich aufs Bett legen
   auf Englisch: in English
   Auf Wiedersehen!
+  Tom ist auf seinem Zimmer.
   Ist der Supermarkt noch auf?
   Is the supermarket still open?
+  in der Nacht von Samstag auf Sonntag
 
 auf-: upward, opened, getting bigger
 

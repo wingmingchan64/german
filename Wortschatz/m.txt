@@ -102,6 +102,8 @@ Maler /ˈmaːlɐ/, Malerin, Maler, Malerinnen: painter
   Wir haben gerade die Maler im Haus.
   We've got the painters in the house at the moment.
 
+Malerei /maləˈrai/, die
+
 malmen: to crush
 
 △man /man/: somebody, someone
@@ -109,6 +111,8 @@ malmen: to crush
   wie sagt man dieses Wort auf Deutsch?
   Man hat mir gesagt, dass du krank bist.
   Somebody told me you were ill.
+
+Manager /ˈmɛnɛdʒɐ/, Managerin
 
 manch /manç/: some, many (a)
   Ich habe noch manch anderes zu tun.
@@ -222,6 +226,8 @@ Mast /mast/, der, Maste: mast, pole
 Mathe, die
 
 Mathematik /matemaˈtiːk/, die: mathematics
+
+Mathematiker /mateˈmaːtikɐ/, Mathematikerin
 
 Matratze /maˈtraʦə/, die: mattress
   Luftmatratze
@@ -778,7 +784,7 @@ moralisch /moˈraːlɪʃ/: moral, ethical, virtuous
   to look for/get moral support from sb
 
 Morgen /ˈmɔrɡən/, der, -: morning
-  am Morgen: in the morning
+  am Morgen
 
 morgen /ˈmɔrɡən/: tomorrow
   Bis morgen.
@@ -881,7 +887,7 @@ Muschel, die,~|-n: mussel, shell
 Museum /muˈzeːʊm/, das, -s|Museen /muˈzeːən/
   ins Museum gehen
 
-Musik /muˈziːk/, die, -en: music
+Musik /muˈziːk/, die, ~|-en/~|-en
   gemeinsam Musik machen: to make music together
 
 Muskat /mʊsˈkaːt, ˈmʊskat/, der, -(e)s|-e: nutmeg 肉豆蔻
