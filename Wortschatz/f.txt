@@ -127,6 +127,9 @@ Faktor /ˈfaktoːɐ/, der: factor
 Fakultät /fakʊlˈtɛːt/, die, -en: faculty
   die Juristische / Philosophische Fakultät: the Faculty of Law/Arts
 
+fakultativ /fakʊltaˈtiːf/: optional, voluntary
+  als Möglichkeit bestehend
+
 Fall /fal/, der, Fälle /ˈfɛlə/: case
   Was macht man in so einem Fall?
   What do you do in a case like that?
@@ -283,6 +286,11 @@ Faulheit /ˈfaulhait/, die, |uncountable: laziness, idleness, sloth
 
 Faust /faust/, die, ~|..e: fist
   mit der Faust auf den Tisch hauen: to bang your fist on the table 
+
+Fax, das
+  Gerät, das über die Telefonleitung verschickte Dokumente beim Empfänger ausdruckt
+
+Faxgerät, das
 
 Fazit /ˈfaːʦɪt/, das, -e: conclusion
   Er zog ein positives Fazit der Veranstaltung.

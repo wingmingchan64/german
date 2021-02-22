@@ -175,6 +175,7 @@ tätig /ˈtɛːtɪç/: active, employed, practical
 tätigen /ˈtɛːtɪɡən/: to carry out, to effect
 
 Tätigkeit /ˈtɛːtɪçkait/, die, -en: job, occupation, activity
+  Arbeit
   Wir bieten Ihnen eine interessante, gut bezahlte Tätigkeit.
   We can offer you an interesting and well-paid job.
   Er hält Lesen für eine langweilige Tätigkeit.
@@ -350,6 +351,8 @@ termingerecht /tɛrˈmiːnɡərɛçt/: punctual, on time, (according) to schedul
   eine termingerechte Abgabe: a punctual submission
   Die Ware wurde nicht termingerecht geliefert.
   The article was not delivered on time.
+
+Terminkalender /tɛrˈmiːnkalɛndɐ/, der
 
 Terrain /tɛˈrɛ̃ː/, das, -s
 

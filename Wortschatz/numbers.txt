@@ -1,0 +1,57 @@
+null
+eins
+zwei
+drei
+vier
+fünf
+sechs
+sieben
+acht
+neun
+zehn
+elf
+zwölf
+dreizehn
+vierzehn
+fünfzehn
+sechzehn
+siebzehn
+achtzehn
+neunzehn
+zwanzig
+einundzwanzig
+zweiundzwanzig
+dreiundzwanzig
+vierundzwanzig
+fünfundzwanzig
+sechsundzwanzig
+siebenundzwanzig
+achtundzwanzig
+neunundzwanzig
+dreißig
+vierzig
+fünfzig
+sechzig
+siebzig
+achtzig
+neunzig
+100 (ein)hundert
+101 einhundert(und)eins
+121 einhunderteinundzwanzig
+200 zweiundert
+201 zweihundert(und)eins
+304 dreihundertvier
+1000 eintausend
+1001 eintausendeins
+10000 zehntausend
+10001 zehntausend(und)eins
+100000 (ein)hunderttausend
+1000000 eine Million
+10000000 zehn Millionen
+100000000 (ein)hundert Millionen
+1000000000 eine Milliarde
+
+2050 zweitausendfünfzig
+========================================================
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
+========================================================

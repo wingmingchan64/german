@@ -932,6 +932,9 @@ wirtschaftlich /ˈvɪrtʃaftlɪç/: economic
 
 Wirtschaftsteil, der: business section
 
+Wirtschaftswissenschaft, die
+  Wissenschaft, die sich mit der wirtschaftlichen Prozessen beschäftigt
+
 wischen /ˈvɪʃən/: to wipe
   Er wischte sich mit dem Ärmel über die Stirn.
   He wiped his sleeve across his forehead.
@@ -954,6 +957,9 @@ Wissenschaftler /ˈvɪsənʃaftlɐ/: scientist
 
 wissenschaftlich /ˈvɪsənʃaftlɪç/: scientific, scientifically
   wissenschaftlich arbeiten: to work scientifically
+
+wissenswert /ˈvɪsənsveːɐt/: worth knowing, interesting
+  wert, es zu wissen, zu kennen
 
 wittern /ˈvɪtɐn/: to scent
   Das Reh witterte die Hunde und floh.

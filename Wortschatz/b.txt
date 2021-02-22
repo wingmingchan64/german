@@ -92,6 +92,8 @@ band → binden
 
 Bande /ˈbandə/, die: gang
 
+Bangladesch /baŋɡlaˈdɛʃ/
+
 Bank, die, ~|-en: bank
   bei der Bank ein Konto eröffnen: to open an account at a bank
 
@@ -1495,6 +1497,9 @@ Betrieb /bəˈtriːp/, der, -e: operation, company, business
   ein privater Betrieb mit 50 Angestellten: a private company with 50 employees
   Meisterbetrieb: master workshop
 
+Betriebswirtschaft /bə’triːpsvɪrtʃaft/, die
+  Bereich der Wirtschaftswissenschaft, der sich mit der Struktur und Führung von Unternehmen befasst
+
 betrinken: to get drunk
 
 betroffen: affected
@@ -1562,6 +1567,8 @@ Beutel /ˈbɔytəl/, der, -s|~: bag
 
 Bevölkerung /bəˈfœlkərʊŋ/, die, ~|-en: population, people
   15% der Bevölkerung Kölns: 15% of the population of Cologne
+
+bevölkerungsreich: populous
 
 bevor /bəˈfoːɐ/: before
 
