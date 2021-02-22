@@ -119,6 +119,11 @@ danebengehen: to miss (the target), to be wide of the target
   Both shots were wide of the target.
 
 Dänemark /ˈdɛːnəˌmark/, das, -s
+              Singluar        Plural
+  Nonimative  das Dänemark    -
+  Accusative  das Dänemark    -
+  Genitive    des Dänemarks   -
+  Dative      dem Dänemark    -
 
 Dank /daŋk/, das, Dank(e)s: thanks
 
@@ -557,6 +562,9 @@ Diskothek /dɪsko'teːk/, die, ~|-en
 Diskrepanz /dɪskreˈpants/, die, -en: discrepancy
   die Diskrepanz zwischen offiziellen Empfehlungen und Impfraten
   the discrepancy between official recommendations and the immunization rates
+  
+dividieren
+  ↔ multiplizieren, malnehmen
 
 Dogge /ˈdɔɡə/, die, -n: mastiff, Great Dane
   eine Deutsche / Dänische Dogge: a Great Dane

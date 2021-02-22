@@ -720,6 +720,9 @@ achtzig /ˈaxʦɪç/
 Acker /ˈakɐ/, der, -s|..: field
   Stück Land, auf dem Getreide o. Ä. angebaut wird
 
+addieren
+  ↔ subtrahieren
+
 adelig: noble
 
 Adjektiv /ˈatjɛktiːf/, das, -s|-e
@@ -1005,6 +1008,8 @@ Ampel /ˈampəl/, die, ~|-n: traffic light
   an der Ampel warten müssen: to have to wait at the traffic light
  
 Ampere /amˈpɛːr/, das, (-s)|~: ampère
+
+Amsterdam /amstɐˈdam, ˈamstɐdam/
 
 Amt /amt/, das, -(e)s|..er: office, position
   im Gesundheitsamt/Jugendamt/Sozialamt arbeiten
@@ -1881,6 +1886,8 @@ applaudieren /aplauˈdiːrən/: to applaud, to clap
 
 Ära /ˈɛːra/, die, ~|Ären: era
   die Ära Adenauer: the Adenauer era
+
+arabisch /aˈraːbɪʃ/
 
 Arbeit, die, ~|-en
   Tätigkeit mit einem bestimmten Ziel, die man aus Pflicht oder Notwendigkeit tut
@@ -2858,6 +2865,7 @@ auskommen /ˈauskɔmən/: to get by, to get along with
 auskühlen: to cool
 
 Auskunft /ˈauskʊnft/, die, ..e: information
+  Information als Antwort auf eine Frage; Stelle, bei der man Informationen bekommen kann
   nach Auskunft der Polizei: according to police sources
   die Auskunft anrufen: to call information
 

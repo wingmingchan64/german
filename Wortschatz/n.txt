@@ -13,6 +13,17 @@ na: well, so
   Ihrem Dialekt nach ist sie Süddeutsche.
 
 Nachbar /ˈnaxbaːɐ/: neighbor
+              Singluar               Plural
+  Nonimative  der Nachbar            die Nachbarn
+  Accusative  den Nachbar(n)         die Nachbarn
+  Genitive    des Nachbarn/Nachbars  der Nachbarn
+  Dative      dem Nachbar(n)         den Nachbarn
+
+              Singluar               Plural
+  Nonimative  die Nachbarin          die Nachbarinnen
+  Accusative  die Nachbarin          die Nachbarinnen
+  Genitive    der Nachbarin          der Nachbarinnen
+  Dative      der Nachbarin          den Nachbarinnen
 
 Nachbarschaft /ˈnaxbaːɐʃaft/: neighborhood
   in der Nachbarschaft wohnen: to live in the neighborhood
@@ -384,6 +395,8 @@ nett /nɛt/: nice, kind
 netto: net
   Ich verdiene netto £ 1500 or £ 1500 netto im Monat.
 
+Neu-Delhi /nɔyˈdeːli/
+
 neugierig /ˈnɔyɡiːrɪç/: curious, inquisitive
   Ich bin neugierig.
   jdm neugierige Blicke zuwerfen: to look at sb inquisitively
@@ -537,6 +550,8 @@ Not /noːt/, die, ..e: need, poverty, difficulty, necessity, distress
   Rettung aus höchster Not: rescue from an extremely perilous situation
   Der Kindergarten wurde ohne Not geschlossen.
   The kindergarten was closed unnecessarily.
+
+Notarzt, Notärztin
 
 Note /ˈnoːtə/, die, -en: grade, score, note
   Sie hat in Deutsch / auf den Aufsatz die Note „Eins‟ oder „sehr gut‟ bekommen.
