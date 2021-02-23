@@ -626,6 +626,10 @@ unbescholten /ˈʊnbəʃɔltən/: respectable 清白的
   noch nie in den Verdacht gekommen, Gesetze zu brechen
   unbescholtene Menschen willkürlich vor Gericht zerren
 
+unbestimmt
+
+unbestimmter Artikel
+
 undeutlich /ˈʊndɔytlɪç/: unclear, indistinct, vague, 
   Im Nebel waren nur undeutliche Umrisse zu erkennen.
   Only vague outlines could be seen in the fog.
@@ -916,6 +920,9 @@ unterschiedlich /ˈʊntɐʃiːtlɪç/: different
 unterschreiben: to sign
   Der Brief war nicht unterschrieben.
   The letter was unsigned.
+
+unterstreichen
+  einen Strich unter etw. ziehen
 
 unterstützen /ʊntɐˈʃtʏʦən/: to support, to promote, to boost
   Meine Kinder unterstützen mich tatkräftig im Haushalt.

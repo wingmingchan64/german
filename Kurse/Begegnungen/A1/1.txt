@@ -70,3 +70,186 @@ Ich heiße Franziska Binder.↘ Und Sie?↗ Wie heißen Sie?↗
 Mein Name ist Peter Heinemann.↘ Wo wohnen Sie?↗
 Ich wohne in Marburg.↘
 
+A9
+0. Müller
+1. Waltel
+2. König
+3. Merkel
+4. Kohl
+5. Jung
+6. Einstein
+7. Mozart
+
+A12
+Ich bin Kellner, Kellnerin
+Ich bin Lehrer, Lehrerin
+Ich bin Ingenieur, Ingenieurin
+Ich bin Mathematiker, Mathematikerin
+Ich bin Manager, Managerin
+Ich bin Architekt, Architektin
+Ich bin Arzt, Ärztin
+Ich bin Student, Studentin
+Ich bin Taxifahrer, Taxifahrerin
+Ich bin Assistent, Assistentin
+
+A18
+Schweden – die Schweiz
+Russisch – Englisch – Arabisch – Rumänisch
+Türkisch – Polnisch – Französisch – Ungarisch
+sprechen – Spanisch – Sprache – Spanien
+Was ist Ihre Muttersprache? Welche Sprachen sprechen Sie? 
+Sprechen Sie Spanisch? Sprichst du Polnisch?
+
+A21
+ein – heißen – mein – dein – Heinemann – Heimatstadt – Schweiz - Malerei - Türkei
+Wie heißen Sie? Ich heiße Peter Heinemann.
+Was ist deine Muttersprache? Meine Muttersprache ist Deutsch.
+Meine Heimatstadt ist Bern. Ich komme aus der Schweiz.
+Mein Nachbar heißt Pedro. Er studiert Malerei.
+Ich komme aus der Türkei. Meine Muttersprache ist Türkisch.
+
+A23
+null
+eins
+zwei
+drei
+vier
+fünf
+sechs
+sieben
+acht
+neun
+zehn
+elf
+zwölf
+dreizehn
+vierzehn
+fünfzehn
+sechzehn
+siebzehn
+achtzehn
+neunzehn
+zwanzig
+einundzwanzig
+zweiundzwanzig
+dreiundzwanzig
+vierundzwanzig
+fünfundzwanzig
+sechsundzwanzig
+siebenundzwanzig
+achtundzwanzig
+neunundzwanzig
+dreißig
+vierzig
+fünfzig
+sechzig
+siebzig
+achtzig
+neunzig
+(ein)hundert
+einhundert(und)eins
+einhunderteinundzwanzig
+eintausend
+zehntausend
+
+A24
+Flug 4077 aus Florenz landet in 10 Minuten.
+Flug 4383 aus Toulouse landet in 15 Minuten.
+Flug 663 aus Moskau landet in 20 Minuten.
+Flug 1108 aus Zürich landet in 30 Minuten.
+Flug 2583 aus Warschau landet in 45 Minuten.
+Flug 2442 aus Porto landet in 50 Minuten.
+
+A27
+1. 75
+2. 865
+3. 1453
+4. 23
+5. 2837
+6. 6945
+7. 767
+8. 10765
+9. 30986
+
+A30
+Sind Sie Herr Meier?
+Nein. Mein Name ist Conrad Müller.
+Woher kommen Sie?
+Ich komme aus Berlin.
+Studieren Sie in Berlin?
+Ja. Ich studiere in Berlin Medizin.
+Wie alt sind Sie?
+Ich bin 25 Jahre alt.
+Sprechen Sie Englisch?
+Ja. Ich spreche ein bisschen Englisch.
+
+A34
+Das ist Hans Behrens. Er arbeitet als Chemiker bei BASF in Ludwigshafen. Er ist verheiratet mit Susanne und hat zwei Kinder. Seine Hobbys sind Tennis spielen und Briefmarken sammeln.
+
+Das ist der Bruder von Hans. Er heißt Martin. Er studiert Informatik in Bremen. Er spricht sehr gut Englisch und schreibt gern Computerprogramme. Martin ist ledig.
+
+Das ist Marta, die Schwester von Hans. Sie ist geschieden. Sie arbeitet als Mathematiklehrerin. Sie spielt sehr gut Gitarre und hört gern Popmusik.
+
+Das ist Susanne. Sie ist die Frau von Hans und die Mutter von Maximilian und Marie. Sie arbeitet als Managerin bei BASF. Sie liest gern Kriminalromane.
+
+Das ist Maximilian, der Sohn von Hans und Susanne, der Bruder von Marie. Er ist vier Jahre alt und spielt gern Fußball.
+
+Das ist Marie, die Tochter von Hans und Susanne, die Schwester von Maximilian. Sie ist acht Jahre alt und singt im Chor.
+
+B3
+Deutschland hat 82,4 Millionen Einwohner und 16 Bundesländer. Die Hauptstadt ist Berlin. In Deutschland gibt es nur eine Amtssprache: Deutsch. Die drei größten Städte sind Berlin, Hamburg und München. Seit 1871 ist Deutschland ein Nationalstaat. Sehr wichtig für Deutschland ist die deutsche Wiedervereinigung 1990.
+
+Österreich hat 8,2 Millionen Einwohner und neun Bundesländer. Die Hauptstadt ist Wien. In Wien wohnen 1,5 Millionen Menschen. Österreich hat eine Amtssprache: Deutsch und drei Regionalsprachen: Kroatisch, Slowenisch und Ungarisch. Seit 1918 ist Österreich eine Republik.
+
+Die Schweiz ist über 800 Jahre alt. Sie hat 26 kleine Kantone (= Bundesländer) und 7,5 Millionen Einwohner. Die Hauptstadt ist Bern. Die Schweiz hat vier Amtssprachen: etwa 70 Prozent der Einwohner sprechen Deutsch, etwa 20 % Französisch, etwa 10 % Italienisch und 1 % spricht Rätoromanisch.
+
+C6
+
+1. Sandra kommt aus Schweden. Sie wohnt jetzt in Hamburg und studiert dort Medizin. Sie ist ledig. Sie spielt gern Volleyball, liest gern Kriminalromane.
+2. Paolo kommt aus Spanien. Er wohnt jetzt in München. Dort arbeitet er als Ingenieur bei Siemens. Paolo spielt gern Fußball.
+3. Klaus wohnt in Berlin. Er ist Journalist. Klaus ist verheiratet und hat drei Kinder. Er schreibt Gedichte.
+4. Franziska wohnt in Wien. Sie ist Lehrerin. Sie ist geschieden. Sie hört gern Musick und singt im Chor.
+
+D1
+Fragen und Antworten zur Person
+Guten Morgen!
+Guten Tag!
+Guten Abend!
+Hallo!
+Wie heißen Sie?
+Ich heiße (Max Müller).
+Mein Name ist (Max Müller).
+Wie ist Ihr Vorname/Familienname?
+Mein Vorname ist (Max).
+Mein Familienname ist (Müller).
+Wie alt sind Sie?
+Ich bin (30) Jahre alt.
+Woher kommen Sie?
+Ich komme aus (Spanien).
+Wo wohnen Sie?
+Ich wohne in (Madrid).
+Was sind Sie von Beruf?
+Ich bin (Lehrer).
+Ich arbeite als (Managerin) bei (Siemens).
+Was/Wo studieren Sie?
+Ich studiere (Medizin/in Berlin).
+Welche Sprachen sprechen Sie?
+Meine Muttersprache ist (Italienisch).
+Ich spreche sehr gut/gut/ein bisschen (Englisch).
+Ich lerne jetzt (Deutsch).
+
+Familienstand
+Ich bin ledig/verheiratet/geschieden.
+Ich habe (zwei/keine) Kinder.
+
+Hobbys
+Was sind deine/Ihre Hobbys?
+Ich spiele gern (Fußball).
+Ich sammle (Briefmarken).
+Ich lese gern (Romane).
+Ich höre gern (Jazz-Musik).
+Ich schreibe gern (Gedichte).
+
+========================================================
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
+========================================================

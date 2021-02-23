@@ -2074,6 +2074,9 @@ erzürnt → erzürnen
   Look at how nicely the child is playing.
   Es regnet.
   It's raining.
+  Es ist ein teurer Stuhl.
+  Es ist ein dunkles Büro.
+  Es ist eine neue Kaffeemachine.
 
 Esel /ˈeːzəl/, der, Esel: donkey
 

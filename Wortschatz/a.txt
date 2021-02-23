@@ -1,5 +1,5 @@
 ﻿========================================================
-ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
 新求精59
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
@@ -1041,6 +1041,8 @@ amüsiert
   Die Lehrerin schrieb das Wort an die Tafel.
   Das Wort stand an der Tafel.
   Ich habe einen Brief an meine Mutter geschrieben.
+
+analysieren
 
 Ananas /ˈananas/, die, ~|(-se): pineapple
   Ananassaft: pineapple juice
