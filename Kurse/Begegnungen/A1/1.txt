@@ -1,0 +1,72 @@
+﻿Kapitel 1
+
+A1
+Guten Morgen. Ich heiße Franziska Binder. Ich bin 37 Jahre alt. Ich wohne in Wien. Ich bin Lehrerin. Meine Muttersprache ist Deutsch. Ich spreche auch Spanisch und Englisch.
+
+Guten Tag. Mein Name ist Peter Heinemann. Ich bin 35 Jahre alt. Ich komme aus Marburg. Ich bin Informatiker. Meine Muttersprache ist Deutsch. Ich lerne jetzt Japanisch.
+
+Hallo. Mein Vorname ist Sarah. Mein Familienname ist Mounier. Ich bin 22 Jahre alt. Ich komme aus Frankreich. Ich bin Studentin. Ich studiere in Paris Medizin. Meine Muttersprache ist Französisch. Ich spreche sehr gut Englisch und ein bisschen Spanisch.
+
+A2
+Wie heißen Sie?
+Ich heiße Franziska Binder.
+Mein Name ist Peter Heinemann.
+
+Wie ist Ihr Vorname?
+Mein Vorname ist Franziska.
+Mein Vorname ist Peter.
+
+Wie ist Ihr Familienname?
+Mein Familienname ist Binder.
+Mein Familienname ist Heinemann.
+
+Wie alt sind Sie?
+Ich bin 37 Jahre alt.
+Ich bin 35 Jahre alt.
+
+Woher kommen Sie?
+Ich komme aus Österreich.
+Ich komme aus Deutschland.
+
+Wo wohnen Sie?
+Ich wohne in Wien.
+Ich wohne in Marburg.
+
+Was sind Sie von Beruf?
+Ich bin Lehrerin.
+Ich bin Informatiker.
+
+Welche Sprachen sprechen Sie?
+Meine Muttersprache ich Deutsch. Ich spreche auch Spanisch und Englisch.
+Meine Muttersprache ist Deutsch. Ich lerne jetzt Japanisch.
+
+A3
+Ich komme aus: Italien, Frankreich, Schweden, Dänemark, Großbritannien, Polen, Russland, Spanien, Portugal, Brasilien, China, Japan, Belgien, Rumänien, Slowenien, Indien, Ungarn, Irland, Griechenland.
+
+Ich komme aus der Türkei.
+Ich komme aus der Ukraine.
+Ich komme aus der Schweiz.
+Ich komme aus den USA.
+Ich komme aus den Niederlanden.
+
+A4 Woher kommen die Personen?
+Sigmund Freud kommt aus Österreich.
+Albert Einstein kommt aus Deutschland.
+Leonardo da Vinci kommt aus Italien.
+William Shakespeare kommt aus England.
+Pablo Picasso kommt aus Spanien.
+Leo Tolstoi kommt aus Russland.
+Alfred Nobel kommt aus Schweden.
+Frederic Chopin kommt aus Polen.
+Isabel Allende kommt aus Chile.
+Jean-Paul Sartre kommt aus Frankreich.
+Konfuzius kommt aus China.
+Nelson Mandela kommt aus Südafrika.
+Mahatma Gandhi kommt aus Indien.
+George Washington kommt aus den USA.
+
+A6
+Ich heiße Franziska Binder.↘ Und Sie?↗ Wie heißen Sie?↗
+Mein Name ist Peter Heinemann.↘ Wo wohnen Sie?↗
+Ich wohne in Marburg.↘
+
