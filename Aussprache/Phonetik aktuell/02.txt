@@ -137,7 +137,3 @@ Emil und Helena lesen Hegel im Nebel.
 - Ja, sehr.
 - Sie sprechen schon gut Deutsch.
 - Na ja, es geht.
-
-========================================================
-ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
-========================================================

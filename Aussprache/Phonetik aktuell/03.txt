@@ -1,0 +1,198 @@
+﻿1
+1. Platte Fischplatte
+2. Regal Küchenregal
+3. Suppe Zwiebelsuppe
+4. Teller Käseteller
+5. Brot Schwarzbrot 
+6. Wein Weißwein
+7. Saft Apfelsaft
+8. Dose Steckdose
+
+2
+1. ·acht·undneunzig
+2. ·sechs·unddreißig
+3. ·drei·undzwanzig
+4. einhundert·neun·undvierzig
+5. siebenhundert·sieben·undsiebzig
+6. neunhundert·ein·undfünfzig
+7. fünfhundert·fünf·undsechzig
+8. zweihundert·fünf·zig
+
+Bei zusammengesetzten Zahlen betont man die kleinste vorhandene Zahlenstelle.
+
+3
+1. Reis
+2. sauer
+3. Butter
+4. Brot
+5. groß
+6. Bier
+7. trinken
+8. wir
+
+4 das gerollte „r‟
+1. Reis
+2. grün
+3. trinken
+4. Brötchen
+5. Orangensaft
+6. rot
+
+5
+1. Vier Bier, bitte!
+2. Ich möchte den Schweinebraten mit Bratkartoffeln und Rotkohl.
+3. Oder möchten Sie Schwarzbrot mit Butter?
+4. Dreimal Bratwurst mit Pommes Frites /pɔmˈfrɪt/.
+5. Ich nehme Orangensaft und ein Mineralwasser.
+6. Ich trinke gern starken Kaffee.
+7. Den Rotwein und drei Gläser, bitte.
+8. Morgens bitte keine Wurst! 
+
+6
+1. Reise - Radio - Regal - Reis - richtig - Rind
+2. Straße - sprechen
+3. trinken - trocken
+4. praktisch - Preis - Problem
+5. Butter - Wurst
+6. Messer - Teller
+
+7
+1. Herr - hell
+2. groß - klein
+3. gerne - Geld
+4. richtig - leicht
+5. Reise - Limo
+6. lesen - Regal
+
+8 Das lange „o‟
+1. Dose
+2. Rotwein
+3. rot
+4. oben
+5. Wohnung
+6. Brot
+7. Soße
+8. groß
+
+9 Das lange „u‟
+1. Stuhl
+2. Uhr
+3. Kuchen
+4. Schuh
+5. gut
+6. nur
+7. Gruß
+8. Schublade (long or short)
+
+10
+1. Wir möchten gern bestellen.
+2. Herr Ober, wir möchten bestellen!
+3. Ein Glas Weißwein, bitte.
+4. Ein Rindersteak, bitte.
+5. Bitte einen Apfelsaft.
+6. Für mich bitte auch.
+7. Ja, einen großen.
+8. Ich möchte bitte bezahlen.
+
+11
+1. Da ist kein Kühlschrank.↘
+2. Brauchen wir eine Waschmaschine?↗
+3. Funktioniert der Elektroherd?↗
+4. Ich trinke nur Mineralwasser.↘
+5. Ich möchte bitte eine Gemüsesuppe.↘
+6. Haben Sie Schokoladentorte?↗
+7. Möchten Sie einen Apfelsaft oder lieber ein Glas Rotwein?↘↗ (falling because of oder)
+8. Ich nehme den Schweinebraten und den Weißwein.↘
+
+12
+1. Dieser Roman interessiert mich.
+2. Wir hören gerne Radio.
+3. Ich freue mich auf die Ferien.
+4. Drei mal drei ist neun.
+5. Maria probiert drei Kleider an.
+6. Die Straße war rutschig.
+
+13
+1. die Tür - die Türen
+2. das Tor - die Tore
+3. sparen - sparsam
+4. er hört - hören
+5. gern - gerne
+
+14
+Zu einem guten Essen hole ich gerne eine Flasche trockenen Rotwein aus dem Keller. Vor allem zum
+Braten oder zu Kotelett passt ein Glas Roter. Zur Brotzeit bevorzuge ich oft Vollkornbrot und Käse aus Holland. Dazu genieße ich Bier aus dem Krug. Als Autofahrer trinke ich keinen Alkohol. Cola oder Wasser sind dann besser. Mögen Sie Kuhmilch oder Buttermilch? Probieren lohnt.
+
+15
+Ottos Sohn soll oft Vollkornbrot holen.
+/ˈɔtos zoːn zɔl ɔft ˈfɔlkɔrnbroːt hoːlən/
+
+Ludwig und Ute wollen Urlaub in Usedom buchen.
+/ˈluːdvɪç ʊnt ˈuːtə ˈvɔlən ˈuːɐlaup ɪn ˈuːzədom ˈbuːxən/
+
+16
+1. Was kostet das Buch?
+2. Eine große Dose Cola, bitte.
+3. Hier, eine rote Rose für Sie.
+4. Alles ging noch einmal gut.
+5. Buchstabieren Sie bitte „Kuchen‟.
+6. Suppe reimt sich auf Puppe.
+
+17
+1. Robert /ˈroːbɛrt/
+2. Gerhard /ˈgɛrhart/
+3. Maria /maˈriːɐ/
+4. Marianne /maˈri̯anə/
+5. Franz /franʦ/
+6. Peter /ˈpeːtɐ/
+7. Katharina /kɐtɐˈriːnɐ/
+8. Helga /ˈhɛlgɐ/
+9. Fabian /ˈfaːbi̯ən/
+
+18 „Landgasthaus‟
+- Guten Tag. Sie möchten einen Tisch für eine Person?
+- Ja, bitte.
+- Raucher oder Nichtraucher?
+- Nichtraucher, bitte.
+- Setzen Sie sich an diesen Tisch, bitte. Hier ist die Speisekarte.
+- Vielen Dank. Haben Sie Suppe?
+- Ja, natürlich. Gemüsesuppe, Rindfleischsuppe und Zwiebelsuppe.
+- Eine Gemüsesuppe, bitte.
+- Schmeckt Ihnen die Suppe nicht?
+- Nein. Ich wollte kein Fleisch dazu.
+- Fleisch?
+- Ich bin nämlich Vegetarierin. Könnten Sie … ?
+- Sie meinen die kleine Fliege da? Oh, das gehört dazu. Sie sind in einem „Landgasthaus‟.
+
+20
+1. Mein Freund wollte sich gar nicht hinsetzen. Er wischte erst die Bank ab. So etepetete ist er.
+2. Gestern fand ich eine große Spinne im Keller. Igitigitt, das wäre mein sicherer Tod gewesen.
+3. Papperlapapp, so einen Unsinn will ich nicht mehr hören.
+4. Das ist doch alles Wischiwaschi. Ich möchte Argumente hören.
+5. Können Sie zaubern? Abrakadabra - Simsalabim - Hokuspokus Fidibus, dreimal schwarzer Kater.
+
+22
+Roller, Roller ra - ta - tatt,
+wenn Rainer einen Roller hat,
+dann rollt er durch die ganze Stadt,
+Roller, Roller ra - ta - tatt.
+
+Bierbrauer Breuer braut braunes Bier.
+
+23
+ottos mops trotzt
+otto: fort mops fort
+ottos mops hopst fort
+otto: soso
+
+otto holt koks
+otto holt obst
+otto horcht
+otto: mops mops
+otto hofft 
+
+ottos mops klopft
+otto: komm mops komm
+ottos mops kommt
+ottos mops kotzt
+otto: ogottogott
