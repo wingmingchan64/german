@@ -457,6 +457,8 @@ Lehm /leːm/, der, -(e)s|-e: clay
   Ziegelsteine werden aus Lehm gebrannt.
   Bricks are fired out of clay.
 
+Lehne, die: arm(rest), back(rest), slope
+
 lehnen /ˈleːnən/: to lean sth somewhere
   den Kopf an jds Schulter lehnen: to lean your head on sb's shoulder
   Er lehnte mit dem Rücken an der Wand.
@@ -716,10 +718,13 @@ Lift, der
 Liguster /liˈgʊstər/, der: common privet
 
 Limo /ˈlɪmo/, die: soda, lemonade, limo
+  Kurzwort für Limonade; Kurzwort für Limousine
 
 Limonade /limoˈnaːdə/, die, -n: soda
   Zitronenlimonade: lemonade
   Orangenlimonade
+
+Limousine /limuˈziːnə/, die
 
 Linguist /lɪŋˈɡuɪst/, Linguistin
 
@@ -799,6 +804,8 @@ Lohn /loːn/, der, ..e: wage, reward
   Das ist der gerechte Lohn für seine Mühen.
   That's just reward for his efforts.
   Stundenlohn
+
+Löhne, pl: payroll
 
 lohnen /ˈloːnən/: to be worthwhile
   eine lohnende Investition: a worthwhile investment

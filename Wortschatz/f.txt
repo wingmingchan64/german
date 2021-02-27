@@ -20,6 +20,9 @@ Fach /fax/, -(e)s|..er /ˈfɛçɐ/: compartment, field, subject
 
 Facharbeit, die: skilled work, paper
 
+Fachbegriff, der
+  Ausdruck, der nur in einem bestimmten Wissensgebiet verwendet wird
+
 Fächer /ˈfɛçɐ/, der, -: fan
   ein japanischer Fächer: a Japanese fan
 
@@ -149,6 +152,7 @@ Falle /ˈfalə/, die, Fallen: trap
 fallen /ˈfalən/: to fall, to be
   falle, fällst, fällt, ihr fallt, bin gefallen
   fiel, fielst, fiel, fielen, ihr fielt
+  fall, fallt
   Das Glas ist vom Tablett gefallen.
   The glass fell off the tray. 
 
@@ -424,6 +428,8 @@ fernhalten /ˈfɛrnhaltən/: to keep away
   ein Spray, das die Mücken fernhält
   a spray that keeps mosquitoes away
 
+Fernsehapparat, der
+
 Fernsteuerung /ˈfɛrnʃtɔyərʊŋ/, die, ~|-en: remote control
   ein Modellflugzeug mit Fernsteuerung: a remote-controlled model airplane
 
@@ -505,6 +511,9 @@ Festung /ˈfɛstʊŋ/, die, ~|-en: fortress, stronghold
 
 Fett /fɛt/, das, -e: fat, grease
   das Fett von der Suppe abschöpfen: to skim the fat off the soup
+
+fett: fetty, bold
+  mit viel Fett; mit mehr Farbe breiter und größer gedruckt
 
 Fetzen /ˈfɛʦən/, der, -s|~: scrap, shred
   Er riss ihren Brief in kleine Fetzen.
@@ -640,6 +649,9 @@ flammend /ˈflamənt/: impassioned, blazing
 
 Flanke /ˈflaŋkə/, die: flank
 
+Flaum, der
+  feine, zarte Haare oder Federn
+
 flauschig /ˈflauʃɪç/: fluffy, soft
 
 Fleck /flɛk/, der: stain, mark, spot, marking, place
@@ -705,6 +717,9 @@ Flitterwochen /ˈflɪtɐvɔxən/, pl: honeymoon
   Zeit unmittelbar nach der Heirat, die oft zu einer Reise genutzt wird
   die Flitterwochen am Gardasee verbringen
   to spend your honeymoon at Lake Garda
+
+flitzen
+  sich schnell irgendwohin bewegen
 
 Flocke /ˈflɔkə/, die, -e|-en: flake
   Dicke Flocken schwebten langsam zur Erde.
@@ -905,7 +920,7 @@ Forschung /ˈfɔrʃʊŋ/, die, ~|-en: research
 Forschungsergebnis, das: result of the research, result finding
 
 fort /fɔrt/: away, gone
-  → weg
+  ≈ weg
   Mein Buch ist fort!
   My book's gone!
 
@@ -1086,6 +1101,9 @@ Frischkäse /ˈfrɪʃkɛzə/, der: cream cheese
 
 Friseur /friːˈzøːɐ/, der, Friseurin
 
+frisieren
+  die Haare mit Kamm oder Bürste ordnen
+
 Frist /frɪst/, die: period (of time), grace period, deadline
   Ich gebe Ihnen noch zwei Wochen Frist.
   I'll give you another two weeks.
@@ -1130,7 +1148,7 @@ frühstücken /ˈfryːʃtʏkən/: to have breakfast
 
 Fuchs /fʊks/, der, -es|..e, Füchsin: fox
 
-fügen
+fügen: to put, to place
   etw. an / in etw. fügen: etw. an die passende Stelle setzen
   sich (jdm / etw.) fügen: sich unterordnen
 

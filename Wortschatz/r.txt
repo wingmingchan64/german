@@ -207,6 +207,9 @@ Raumschiff /ˈraumʃɪf/, das: spaceship
 
 raunzen: (S Germany) to moan, to grouse
 
+Raupe, die: caterpillar
+  Larve eines Schmetterlings
+
 raus: (get) out!
 
 Rausch /rauʃ/, der: intoxication
@@ -431,6 +434,8 @@ Reha /ˈreːha/, die: rehab
 
 Rehbraten, der: roast venison
 
+Reibe, die: grater
+
 reiben /ˈraibən/: to rub, to grate
   das Fenster / sich trocken reiben: to rub the window/yourself dry
   Parmesan über die Spaghetti reiben: to grate some Parmesan over the spaghetti
@@ -512,6 +517,9 @@ Reim /raim/, der, -(e)s|-e: rhyme
   to be able to make sense of sth
   Ich kann mir auf ihr Verhalten einfach keinen Reim machen.
   I just can't make sense of her behavior.
+
+reimen
+  einen Reim bilden
 
 rein /rain/: pure
   ein reines Weiß: a pure white
@@ -724,6 +732,9 @@ Richtung /ˈrɪçtʊŋ/, die: direction
   The wind was blowing in a westerly direction/coming from an easterly direction. 
 
 riechen /ˈriːçən/: to smell
+  habe gerochen
+  roch, rochst
+  riech, riecht
   einen Geruch wahrnehmen
   Riechst du das, hier brennts doch irgendwo!
   Can you smell that? There's something burning somewhere!
@@ -815,6 +826,8 @@ rollen /ˈrɔlən/: to roll
 
 Rollschrank, der
 
+Roller, der: scooter
+
 Rollstuhl /ˈrɔlʃtuːl/, der, -(e)s|..e: wheelchair
   fahrbarer Stuhl für jdn, der nicht laufen kann
 
@@ -865,6 +878,9 @@ Roulette /ruˈlɛt/, die, Roulettes
 
 Rowdy: hooligan, bully
 
+Rübe, die: turnip
+  Rüben anbauen
+
 Rubrik, die: column, section
 
 Ruck /rʊk/, der: jerk, jolt, tug
@@ -895,6 +911,9 @@ Rückfahrt, die: return journey
   Wie teuer ist die Hin- und Rückfahrt?
 
 Rückflug, der
+
+Rückfrage, die
+  zusätzliche Frage zu einer bereits besprochenen Sache
 
 Rückgabe, die: return
   das Zurückgeben

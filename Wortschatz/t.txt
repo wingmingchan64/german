@@ -388,6 +388,11 @@ Taxistand, der
 Teigwaren, pl: pasta
   zusammenfassende Bezeichnung des Handels für alle Arten von Nudeln
 
+teilnehmen
+  dabei sein, sich an etw. beteiligen
+
+Teilnehmer, Teilnehmerin
+
 Teppich /ˈtɛpɪç/, der, -s|-e: carpet
 
 Textilien, die

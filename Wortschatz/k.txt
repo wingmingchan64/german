@@ -7,6 +7,8 @@ Kabel /ˈkaːbəl/, das, -s|~: cable
   die Kabel einer Seilbahn: the cables of a cable car
   Netzkabel: power cord
 
+Kacke, die: crap, shit
+
 Käfer /ˈkɛːfɐ/, der, -: beetle, bug
 
 Kaffee /ˈkafe/ oder /kaˈfeː/, der, -s|-s
@@ -518,6 +520,7 @@ Klassik /ˈklasɪk/, die, ~|uncountable
   She likes listening to classical music.
 
 klatschen /ˈklaʧən/: to clap, to slap, to gossip
+  die Handflächen wiederholt gegeneinander schlagen
   im Rhythmus der Musik klatschen: to clap in time to the music
   in die Hände klatschen: to clap your hands
   Die Zuschauer klatschten begeistert / klatschten der Mannschaft Beifall.
@@ -637,6 +640,7 @@ Klo /kloː/, das, -s|-s: toilet
   aufs Klo gehen / müssen: to go/have to go to the john
 
 klopfen /ˈklɔpfən/: to knock, to pat, to tap, to pound, to tenderize, to hammer
+  mehrmals leicht gegen etw. schlagen, um jdn auf sich aufmerksam zu machen; leicht irgendwohin schlagen
   an die / der Tür klopfen: to knock on/at the door
   Es hat geklopft, machst du bitte auf?
   There was a knock at the door. Could you go and answer it, please?
@@ -953,6 +957,8 @@ Konto /ˈkɔnto/, das, -s|Konten: account
   Die Niederlage geht allein auf sein Konto.
   The defeat is entirely his fault.
 
+Kontrabass, der: double bass
+
 Kontrolle /kɔnˈtrɔlə/, die
   das (regelmäßige) Prüfen, ob alles in Ordnung ist; der Zustand, wenn das geschieht, was man will
 
@@ -992,6 +998,8 @@ kopfstehen: to be in turmoil, to go wild (with excitement)
   in großer Aufregung, Unordnung sein
 
 Kopie /koˈpiː/, die: copy
+
+kopieren /koˈpiːrən/
 
 Korb /kɔrp/, der, ..e: basket
   ein Korb (voll) Äpfel: a basket (full) of apples
@@ -1059,9 +1067,15 @@ Kot /koːt/, der: excrement
   Produkt der Verdauung
   Der Boden im Stall war mit Kot bedeckt.
 
+Kotelett /kɔtˈlɛt, ˈkɔtlɛt/, das: chop
+  Fleischstück mit einem Rippenknochen, bes. vom Schwein oder Schaf
+
 Köter /ˈkøːtɐ/, der, -s|~: mutt (dog)
   Nimm endlich deinen dämlichen Köter an die Leine!
   Put your damn mutt on a leash, for crying out loud!
+
+kotzen: to puke
+  sich übergeben, erbrechen
 
 krabbeln /ˈkrabəln/: to crawl
   Ameisen krabbelten über die Terrasse.
@@ -1348,6 +1362,7 @@ kündigen /ˈkʏndɪɡən/: to cancel, to terminate, to give notice, to quit
   We were given notice to quit because the landlord needed the apartment for his own use.
   Wegen der schlechten Auftragslage musste er mehreren Mitarbeitern kündigen.
   He had to dismiss several employees because of the lack of orders.
+  Ich kündige meinen Job.
 
 kundgeben, kundmachen: to make known, to announce, to express
   ich gebe kund, habe kundgegeben
@@ -1417,6 +1432,7 @@ kuscheln /ˈkʊʃəln/:
   sich an jdn / etw., in etw. kuscheln: to snuggle up to sb/sth, in sth
   Das Kind kuschelt sich in eine Decke / an seinen Teddybär.
   The child snuggles up in a blanket/to its teddy bear.
+  (mit jdm) kuscheln: mit jdm engen Körperkontakt halten und Zärtlichkeiten austauschen
 
 Kuss /kʊs/, der, Küsse /ˈkʏsə/: kiss
   jdm einen Kuss auf die Wange geben: to kiss sb on the cheek

@@ -84,7 +84,7 @@ U-Bahnstation, die
 
 übergeben /yːbɐˈɡeːbən/: to hand over, to entrust, to (officially) open, to surrender, to throw up
 
-übergehen /ˈyːbɐɡeːən/: to pass, to go over, to move on, to change, to ignore, to pass over
+übergehen /ˈyːbɐɡeːən/: to pass, to go over, to move on, to change
   Das Haus ging von der Mutter auf die Tochter über.
   The house passed from the mother to her daughter.
   Die Post ist dazu übergegangen, nur noch einmal am Tag Pakete auszutragen.
@@ -93,6 +93,8 @@ U-Bahnstation, die
   That's enough about that. Let's move on to the next subject.
   Der Schnee ging langsam in Regen über.
   The snow gradually turned into rain.
+
+übergehen: to ignore
   Er hat meine Einwände einfach übergangen.
   He simply ignored my objections.
   in jds Testament übergangen werden: to be passed over in sb's will
@@ -227,6 +229,10 @@ U-Bahnstation, die
   einen Text aus dem Englischen ins Französische übersetzen
   to translate a text from English into French
 
+übersetzen: to cross (over), to ferry over
+  Wir setzten mit der Fähre auf die Insel über.
+  Der Fährmann setzte uns über.
+
 Übersetzung /yːbɐˈzɛʦʊŋ/, die: translation
 
 Übersicht /ˈyːbɐzɪçt/, die, -en: overview
@@ -354,16 +360,15 @@ umdrehen /ˈʊmdreːən/: to turn over/(inside) out/upside-down/around
   Dreh bitte um, ich hab was zu Hause vergessen.
   Please could you turn around. I've left something at home.
 
+umfahren: to knock down/over
+  Der Wagen hat den Pfosten umgefahren.
+
+umfahren: to go around
+  Wir sollten die Stadt umfahren, das geht schneller.
+
 umfallen /ˈʊmfalən/: to fall over
   Das Glas ist umgefallen.
   The glass fell over.
-
-umdrehen /ˈʊmdreːən/: to turn over, to turn (inside) out, to turn around
-  Sie drehte das Blatt um und schrieb auf der Rückseite weiter.
-  She turned the sheet over and continued writing on the back.
-
-umfallen: to fall over
-  Das Glas ist umgefallen.
 
 Umfang /ˈʊmfaŋ/, der, -(e)s|..e: circumference, size, extent, scope
   Länge einer zum Ausgangspunkt zurückkehrenden Linie;
@@ -374,6 +379,12 @@ umfänglich /ˈʊmfɛŋlɪç/, umfangreich: extensive
   mit großem Umfang
   die umfängliche Berichterstattung zu diesem Thema sichten
   to look through the extensive reporting on this subject
+
+umfassen: to contain
+  aus etw. bestehen
+
+umfassend
+  sehr vieles beinhaltend, erfassend
 
 Umfrage /ˈʊmfraːɡə/, die: survey, poll
   eine Umfrage durchführen: to conduct a survey
@@ -629,6 +640,10 @@ unbescholten /ˈʊnbəʃɔltən/: respectable 清白的
 unbestimmt
 
 unbestimmter Artikel
+
+unbetont: unstressed
+
+und /ʊnt/
 
 undeutlich /ˈʊndɔytlɪç/: unclear, indistinct, vague, 
   Im Nebel waren nur undeutliche Umrisse zu erkennen.
@@ -920,6 +935,14 @@ unterschiedlich /ˈʊntɐʃiːtlɪç/: different
 unterschreiben: to sign
   Der Brief war nicht unterschrieben.
   The letter was unsigned.
+
+unterstellen: to put, to keep
+  Kann ich mein Mofa in der Garage unterstellen?
+  Meine Möbel stelle ich bei einem Freund unter.
+
+unterstellen: to accuse
+  davon ausgehen, dass etw. der Fall ist
+  jdm böse Absichten unterstellen
 
 unterstreichen
   einen Strich unter etw. ziehen

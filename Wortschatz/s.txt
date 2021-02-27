@@ -72,6 +72,7 @@ sah → sehen
 Sahne /ˈzaːnə/, die, ~|uncountable: cream
   Sahne für den Kuchen steif schlagen: to whip some cream for the cake 
   saure Sahne: sour cream
+  ein Eis mit Sahne
 
 Saite, die: string
   Draht oder Faden an Musikinstrumenten, der die Töne erzeugt
@@ -186,6 +187,7 @@ Saurier /ˈzaurjɐ/, der, -s|~: dinosaur
   Die Saurier starben vor rund 60 Millionen Jahren aus.
 
 sausen /ˈzauzən/: to rush, to zoom, to roar, to whistle
+  schnell irgendwohin laufen, fahren, fliegen
   Sie ist noch mal schnell zum Bäcker gesaust.
   She rushed off to the bakery again quickly.
   etw. sausen lassen: to let sth go
@@ -204,6 +206,7 @@ schäbig /ˈʃɛːbɪç/: shabby
   sich schäbig benehmen: to behave meanly
 
 Schach /ʃax/, das: chess
+  Spiel mit schwarzen und weißen Figuren auf einem Brett
   Schach spielen: to play chess
   
 Schachspiel: chess
@@ -349,7 +352,9 @@ schaufeln /ˈʃaufəln/: to shovel
   Mit dieser Aktion schaufelt sich die Partei ihr eigenes Grab.
   The party are digging their own grave by doing this.
 
-schaum /ʃaum/, der, ..e: foam, lather, froth
+Schaum /ʃaum/, der, -(e)s|..e: foam, lather, froth
+  Gemisch aus Luft und Flüssigkeit
+  Schaumbad
   Schaum vor dem Mund haben: to be foaming at the mouth
   Schaum schlagen: to show off
 
@@ -1023,6 +1028,8 @@ Schreibtisch, der
 Schreibwaren /ˈʃraipvaːrən/, pl.: stationary
   Schreibwarenladen: stationery store
 
+Schreibweise, die: notation, spelling
+
 schreien /ˈʃraiən/: to scream, to shout
   Sie schrie vor Schmerzen.
   She screamed with pain.
@@ -1422,6 +1429,9 @@ seicht: shallow
   The river is shallow enough to wade through.
 
 seien → sein
+
+Seide, die: silk
+  feiner, glänzender Stoff aus den Fäden einer Schmetterlingsraupe
 
 Seife /ˈzaifə/, die, -n: soap
   Substanz zum Waschen der Hände und des Körpers, meist als festes Stück
@@ -1946,6 +1956,9 @@ Spargel /ˈʃparɡəl/, der, -: asparagus
 
 Sparkasse /ˈʃpaːɐkasə/, die, -n: savings bank
 
+sparsam /ˈʃpaːɐzaːm/
+  darum bemüht, wenig Geld auszugeben
+
 Spaß, der: joke, fun
 
 spät /ʃpɛːt/: late
@@ -2348,6 +2361,9 @@ stecken /ˈʃtɛkən/: to be, to put
   to put a lot of work/money/… into sth
   jdm / sich einen Ring an den Finger stecken
   to put a ring on sb's/your finger
+
+Stecker, der
+  Gegenstand, mit dem man ein elektrisches Gerät an einer Steckdose anschließt
 
 Stecknadel /ˈʃtɛknaːdəl/, die, ~|-n: pin
   einen Rocksaum mit Stecknadeln abstecken: to pin up the hem of a skirt

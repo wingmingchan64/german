@@ -4,6 +4,8 @@ Z /ʦɛt/ Z wie Zeppelin /ˈʦɛpəliːn/
 
 zack: whoosh
 
+Zacke, die: point, prong, tooth, jagged peak
+
 zäh /ʦɛː/: tough
   Keine Angst, er ist ein zäher Bursche und hält das aus.
   Don't worry. He's a tough guy and will handle it.
@@ -53,6 +55,8 @@ Zahnseide, die: floss
   dünner Faden zur Reinigung der Zahnzwischenräume
   täglich nach dem Zähneputzen Zahnseide benutzen
 
+Zäpfchen, das: uvula
+
 Zapfen, der: cone
   Gebilde aus harten Schuppen, das die Samen von Nadelbäumen umgibt
   Das Eichhörnchen knabberte an einem Tannenzapfen.
@@ -75,6 +79,7 @@ zart /ʦaːɐt/: delicate, tender, gentle
   The walls were painted a delicate green.
 
 zärtlich /ˈʦɛːɐtlɪç/: tender, loving
+  Liebe zum Ausdruck bringend
   jdm zärtliche Blicke zuwerfen: to send sb loving glances
   jdn zärtlich küssen / streicheln: to kiss/caress sb tenderly
 
@@ -108,6 +113,8 @@ Zeichen, das, -s|~: sign, signal, symbol
 
 zeichnen /ˈʦaiçnən/: to draw
   mit Bleistift eine Skizze zeichnen: to make a sketch in pencil
+
+Zeichensetzung, die: punctuation
 
 Zeichnung, die: drawing, markings
   gezeichnetes Bild; Muster des Fells, der Federn oder der Haut eines Tiers
@@ -287,6 +294,8 @@ Zeugnis /ˈʦɔyknɪs/, das, -se: report, reference, certificate, evidence, test
   Diese Fundstücke sind Zeugnisse einer hoch entwickelten Kultur.
   These finds are evidence of a highly developed culture.
 
+Zicke, die: nanny goat, silly cow
+
 Ziegel /ˈʦiːɡəl/, der, -s|~: brick, tile
   Das Haus wurde aus Ziegeln gebaut.
   The house was built with bricks.
@@ -323,6 +332,9 @@ Zimmer n. /ˈʦɪmɐ/: room
   ein Doppelzimmer / Einzelzimmer
 
 Zimmerservice, der
+
+zimperlich: squeamish
+  sehr empfindlich
 
 Zimt, der
   cinnamon
@@ -587,6 +599,7 @@ zunehmend /ˈʦuːneːmənt/: increasingly
 Zunge /ˈʦʊŋə/, die, ~|-n: tongue
   Organ im Mund, das man zum Schmecken und Sprechen braucht
   jdm die Zunge herausstrecken: to stick your tongue out at sb
+   Zungenspitze
 
 zunicken /ˈʦuːnɪkən/
   jdm zunicken: to nod to/at sb
@@ -707,6 +720,7 @@ zusammensacken: to slump, to fall in a heap, to collapse, to drop
 Zusammenschluss, der: joining together, merger
 
 Zusammensetzung /ʦuˈzamənzɛʦʊŋ/, die, -en: composition, compound
+  die Elemente, aus denen etw. besteht; Wort, das aus mehreren Wörtern zusammengesetzt ist
   Einfluss auf die Zusammensetzung eines Gremiums nehmen
   to influence a committee's composition
   Mehrteilige Zusammensetzungen kann man zur besseren Lesbarkeit mit Bindestrichen schreiben.
@@ -872,6 +886,8 @@ zweit /ʦvait/
 zweite /ˈʦvaitə/: second
   am Zweiten
   der zweite Mann
+
+Zwerg, der, -(e)s|-e: dwarf
 
 Zwetschge /ˈʦvɛtʃɡə/, die: plum
 

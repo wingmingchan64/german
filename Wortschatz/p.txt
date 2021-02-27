@@ -184,6 +184,9 @@ Pendler /ˈpɛndlɐ/: commuter
   Um diese Zeit ist der Zug immer voller Pendler.
   At this time the train is always full of commuters.
 
+pennen
+  schlafen
+
 Penner
   Person, die aus Armut keine Wohnung hat
 
@@ -467,7 +470,7 @@ Polizist /poliˈʦɪst/, Polizistin: policeman/-woman, police officer
 polnisch /ˈpɔlnɪʃ/
 
 Pommes, pl
-  Pommes frites
+  Pommes frites /pɔmˈfrɪt/
   ein Schnitzel mit Pommes
 
 Portier /pɔrˈtjeː/, der: doorman

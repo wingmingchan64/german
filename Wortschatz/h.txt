@@ -368,6 +368,7 @@ Häuschen /ˈhɔysçən/, das: house, building
   Hühnerhäuschen
 
 hausen /ˈhauzən/: pejorative: to live
+  in schlechten Verhältnissen leben
   Die Familie hauste in einer verrosteten Blechhütte.
   The family lived in a rusty tin shack.
 
@@ -718,6 +719,7 @@ Herr /hɛr/, der, -n|-en: gentleman, Mr.
 herrje /hɛrˈjeː/: oh, dear
 
 herrlich: superb, marvelous, gorgeous
+  äußerst schön, angenehm, gut
 
 Herrlichkeit, die: glory, splendor, magnificence
 
@@ -1109,6 +1111,8 @@ hochfahren: to go up, to boot up, to start
 Hochgenuss, der
   besonders großer Genuss
 
+hochgeistig: highly intellectual
+
 hochkommen /ˈhoːxkɔmən/: to come up
   Sie kam die Treppe / den Berg hoch.
   She came up the stairs/mountain.
@@ -1249,6 +1253,13 @@ Hostel, das
 
 Hotel /hoˈtɛl/, das, -s|-s/~|-s
   zum Hotel Königshof
+
+hüben
+  auf dieser Seite
+  ↔ drüben
+  hüben und / wie drüben: on both sides
+  Im Grenzgebiet ist hüben wie drüben nicht viel los.
+  There’s not much doing on either side of the border area.
 
 Hubraum /ˈhuːpraum/, der, ..e: cubic/engine capacity
   Das neue Modell hat zwei Liter Hubraum.

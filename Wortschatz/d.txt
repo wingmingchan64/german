@@ -26,7 +26,7 @@ dabei /daˈbai/: there, at the same time, in the process
   Sie sieht fern und bügelt dabei.
   She watches TV and irons at the same time.
 
-Dach, das, -(e)s|..er /ˈdɛçɐ/: roof
+Dach, das, -(e)s|..er /ˈdɛçɐ/ /~|..ern: roof
   Dachfenster: dormer
   unter einem Dach
 
@@ -55,6 +55,7 @@ dagegen /ˈdaːɡeːɡən/: against it, in comparison
   He went to the door and leaned against it.
 
 daheim /daˈhaim/: (at) home
+  zu Hause
   Ist jemand daheim?
   Is anyone home?
 
@@ -293,6 +294,7 @@ definieren
   die Bedeutung mit Worten genau bestimmen
 
 dehnen /ˈdeːnən/: to stretch
+  strecken
   Sie gähnte und dehnte sich ausgiebig.
   She had a good yawn and stretch.
   Die Jeans dehnt sich mit der Zeit.
@@ -774,6 +776,9 @@ drollig: cute, funny
 
 Drossel /ˈdrɔsəl/, die: thrush 画眉
 
+drüben
+  auf der anderen Seite von etw
+
 Druck, der: pressure
 
 drucken /ˈdrʊkən/: to print
@@ -974,7 +979,8 @@ Durst /dʊrst/, der
 Dusche /ˈduːʃə/ /ˈdʊʃə/, die: shower
   Vorrichtung, die Wasser zum Waschen fein verteilt
 
-duschen
+duschen: to shower
+  unter einer Dusche den ganzen Körper einer Berieselung mit kaltem oder heißem Wasser aussetzen; ein Duschbad nehmen
 
 Durst /dʊrst/, der, -(e)s: thirst
 

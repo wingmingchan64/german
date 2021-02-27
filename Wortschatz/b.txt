@@ -5,7 +5,7 @@ B /beː/ B wie Berta
 Baby /ˈbeːbi/, das
    eine Mutter, die ihr Baby stillt: a mother breastfeeding her baby 
 
-Bach /bax/, der: stream, brook
+Bach /bax/, der, -(e)s|..e/~|..en: stream, brook
   Gebirgsbach: mountain stream
 
 Backe /ˈbakə/, die, ~|-n: cheek
@@ -1438,6 +1438,8 @@ Beton /beˈtɔŋ/, der, -s|uncountable: concrete
 betonen /bəˈtoːnən/
   beim Sprechen hervorheben
 
+betont: stressed
+
 Betonung /bəˈtoːnʊŋ/, die: stress
   ≈ Akzent
   Die Betonung liegt auf der ersten Silbe.
@@ -1580,6 +1582,7 @@ bevorstehen /bəˈfoːɐʃteːən/: to be imminent, to be coming up, to be in th
   Well, I didn't know what I had in store for me.
 
 bevorzugen /bəˈfoːɐʦuːɡən/: to favor, to give preference to, to prefer
+  jdn besser behandeln als andere; lieber haben als andere(s) oder lieber tun als anderes
   Privatpatienten werden in den Arztpraxen bevorzugt behandelt.
   Privately insured patients are given preferential treatment at doctor's offices.
   Ich bevorzuge es, nicht zu spät ins Bett zu gehen.
@@ -1644,6 +1647,9 @@ Bewegung /bəˈveːɡʊŋ/, die, ~|-en: movement, exercise, emotion, movement
   Der Angeklagte zeigte bei der Urteilsverkündung keinerlei Bewegung.
   The accused showed no emotion when the verdict was being read.
   Arbeiterbewegung: labor movement
+
+Bewegungsapparat, der
+  alle Körperteile, die der Ausführung von Bewegungen dienen
 
 Beweis /bəˈvais/, der, -es|-e: proof, evidence
   einen Beweis für etw. erbringen: to produce proof of sth
@@ -2531,6 +2537,9 @@ Bürokratie /byrokraˈtiː/, die, -n: bureaucracy, red tape
 
 Bursche /ˈbʊrʃə/, der, -n: guy
   ein hübscher / netter Bursche: a good-looking/nice guy
+
+Bürste /ˈbʏrstə/, die: brush
+  Gegenstand mit Borsten, der zum Kämmen oder Reinigen dient
 
 Bus /bʊs/, der, -ses|-se: bus
   Linienbus: public-transit bus

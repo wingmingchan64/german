@@ -342,6 +342,9 @@ abregen: to cool off, to calm down
 Abreise /ˈapraizə/, die, ~|-n: departure
   ihre Abreise nach London: her departure to London
 
+abreisen
+  im Rahmen einer Reise einen Ort verlassen
+
 abreißen /ˈapraisən/: to tear off, to tear down, to rip off, to come to a stop
   das alte Kalenderblatt abreißen: to tear off the old page on the calendar
   Der Turm war baufällig und musste abgerissen werden.
@@ -662,6 +665,8 @@ abwischen /ˈapvɪʃən/: to wipe off
 abwürgen /ˈapvʏrɡən/: to stifle
   Meine Versuche, mich am Gespräch zu beteiligen, wurden sofort abgewürgt.
   My attempts to join in the conversation were stifled straight away.
+
+Abzählreim, der: counting-out rhyme
 
 abziehen /ˈapʦiːən/: to subtract, to deduct, to strip off, to withdraw, to move out
   vom Preis drei Prozent Rabatt abziehen
@@ -1048,6 +1053,7 @@ Ananas /ˈananas/, die, ~|(-se): pineapple
   Ananassaft: pineapple juice
 
 anbauen /ˈanbauən/: to grow, to build an extension (to)
+  in größerer Zahl, auf Feldern usw., anpflanzen
   In Sri Lanka wird sehr viel Tee angebaut.
   In Sri Lanka huge quantities of tea are grown.
   einen Wintergarten (an ein Haus) anbauen: to add a conservatory (to a house)
@@ -1152,11 +1158,14 @@ andeuten /ˈandɔytən/: to hint at, to sketch out
 
 Andeutung: insinuation, hint
 
+andienen
+  (jdm) sich / etw. (als etw.) andienen: jdm sich / etw. (oft: hartnäckig oder aufdringlich) anbieten
+
 anerkennen /ˈan|ɛɐkɛnən/: to recognize
 
 anfachen: to fan, to kindle, to fuel
 
-ahfahren /ˈanfaːrən/: to hit, to snap at 厲聲說, to stop at, to start up
+anfahren /ˈanfaːrən/: to hit, to snap at 厲聲說, to stop at, to start up
   mit einem Fahrzeug streifen; mit scharfen Worten seinen Ärger deutlich zeigen
   Sie wurde von einem Auto angefahren.
   She was hit by a car.
@@ -1512,6 +1521,7 @@ anpacken: to take hold of, to tackle, to treat
   mit anpacken: helfen
 
 anpflanzen /ˈanpflanʦən/: to plant
+  irgendwo in die Erde setzen, damit sie dort wachsen
   im Garten Erdbeeren/einen Baum anpflanzen: to plant strawberries/a tree in the yard
 
 anrauschen: to come rushing, to come hurrying along
@@ -1530,6 +1540,10 @@ anregen /ˈanreːɡən/: to stimulate, to suggest
   stimulieren, beleben; den Anstoß zu etw. geben
 
 Anregung, die
+
+anreisen
+  zum Ziel der Reise kommen
+  mit dem eigenen Wagen anreisen
 
 anrichten
   verursachen; zum Essen hinstellen
@@ -1592,8 +1606,13 @@ anschließend /ˈanʃliːsənt/: subsequent, following
 Anschluss, der, -es|-e: connection, line, contact
   Verbindung zu einem Netz / System; Telefon mit einer bestimmten Nummer
   einen Anschluss legen: to lay a connection
+  Anschlussmöglichkeit, die
 
 anschnauzen: to yell at
+
+anschneiden
+  das erste Stück abschneiden
+  Das Paar schnitt gemeinsam die Hochzeitstorte an.
 
 anschreiben /ˈanʃraibən/: to write down, to write to, to put on your tab
   Der Lehrer schrieb eine Aufgabe an.
@@ -1625,6 +1644,11 @@ ansetzen /ˈanzɛʦən/: to schedule, to estimate, to develop, to place
   to estimate too low costs for a project
   Weißt du, wo du den Hebel ansetzen musst?
   Do you know where you need to focus on?
+
+Ansicht /ˈanzɪçt/, die: opinion
+  jds Einstellung zu einer Sache / Person
+
+Ansichtskarte, die: picture postcard
 
 ansonsten /anˈzɔnstən/: otherwise, apart from that
   Ich bin ein wenig erkältet, aber ansonsten geht es mir gut.
@@ -2128,8 +2152,10 @@ Aufeinanderfolge, die: sequence; succession
 aufeinanderfolgend: consecutive
 
 Aufbau, der: construction, structure
+  das Aufbauen; Art, wie etw. gegliedert ist
 
 aufbauen /ˈaufbauən/: to build, to assemble, to set up, to build up
+  zusammenfügen, aufstellen
   Die Zelte waren schnell aufgebaut.
   The tents were built up quickly.
 
@@ -2756,7 +2782,8 @@ ausfallen /ˈausfalən/: to be cancelled, to fail, to malfunction, to fall out
   Dem Vogel fallen die Federn aus.
   The bird is losing its feathers.
 
-Ausflug /ˈausfluːk/, der: trip, excursion
+Ausflug /ˈausfluːk/, der, -(e)s|..e/~|..en: trip, excursion
+  Wanderung oder Fahrt zum Vergnügen
 
 ausführen /ˈausfyːrən/: to carry out, to perform, to execute, to export, to take out, to take (a dog) for a walk
   tun, was jd von einem will oder was nötig ist;

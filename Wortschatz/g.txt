@@ -143,6 +143,10 @@ Gatt, das: stern, hole
 
 Gatte/Gattin: spouse
 
+Gaul, der: nag, horse
+
+Gaumen, der: palate
+
 geartet: of a nature
   von der genannten Art
   Das Problem ist so geartet, dass es unlösbar scheint.
@@ -417,6 +421,7 @@ Gegensatz /ˈɡeːɡənzaʦ/, der, -es|-e: difference, opposite, contradiction
 Gegenschlag /ˈɡeːɡənʃlaːk/, der: counter-strike
 
 gegenseitig /ˈɡeːɡənzaitɪç/: mutual
+  des einen für den anderen und umgekehrt
   Wir sind auf die gegenseitige Unterstützung angewiesen.
   We are dependent on mutual aid.
   sich im gegenseitigen Einvernehmen trennen: to separate by mutual consent
@@ -554,6 +559,7 @@ gehorsam: obedient
   ↔ ungezogen
 
 Geige, die: violin
+  kleines Saiteninstrument, das mit einem Bogen gespielt wird
 
 geil /ɡail/: awesome, obsessed, horny, hot
   Er fährt einen geilen Wagen.
@@ -912,6 +918,7 @@ geraten /ɡəˈraːtən/: to come/get/run into , to hit, to get
   außer sich geraten (vor etw dative): to be beside oneself (with sth)
 
 Geräusch /ɡəˈrɔyʃ/, das, -(e)s|-e: noise
+  etw., das durch eine Bewegung entsteht und das man hören kann
   Was ist das für ein seltsames Geräusch?
   What's that strange noise?
 
@@ -1485,7 +1492,11 @@ gönnen
   Du musst dir mal wieder eine Pause gönnen!
   You need to give yourself a break for a change.
 
+Gotik /ˈɡoːtɪk/, die
+  Bau- und Kunststil des 12. – 14. Jahrhunderts
+
 gotisch /ˈɡoːtɪʃ/: Gothic
+  zur Gotik gehörend
 
 Gott /ɡɔt/, der, -es|..er: God
   an Gott glauben: to believe in God
@@ -1701,6 +1712,8 @@ Grundsatz /ˈɡrʊntzaʦ/, der, -es|..e: principle
 
 Grundschule: elementary/grade school
 
+Grundstufe, die: first stage, junior or grade school
+
 grunzen: to grunt
 
 Gruß /ɡruːs/, der, -es|..e: greeting, regards, wishes
@@ -1741,6 +1754,8 @@ günstig /ˈgʏnstɪç/: favorable, convenient, reasonable
   ein Haus in günstiger Lage: a conveniently located house
   eine Veränderung, die sich günstig auswirkt: a change with favorable consequences
   günstig einkaufen: to buy things at attractive prices
+
+gurgeln /ˈɡʊrɡəln/: to gargle
 
 Gurke /ˈɡʊrkə/, die, ~|-n: cucumber
   Gurken anbauen: to grow cucumbers

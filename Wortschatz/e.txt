@@ -825,6 +825,8 @@ Eintritt /ˈaintrɪt/, der: admission, entrance, entry
   Admission to the exhibition is free.
   Eintritt verboten!
 
+Einübung, die: practice; rehearsal
+
 einverstanden, adj: 
   (mit etw.) einverstanden sein: to agree
 
@@ -946,6 +948,8 @@ Elektriker, Elektrikerin: electrician
 
 Elektrogerät, das: electrical appliance
 
+Elektroherd, der: electric cooker
+
 elend /ˈeːlɛnt/: miserable, wretched, horrible, terrible
   in einer elenden Hütte wohnen: to live in a wretched shack
   Ist das ein elender Stress!
@@ -1018,6 +1022,10 @@ empfinden /ɛmˈpfɪndən/: to feel
   empfind, empfindet
   Können Insekten Schmerz empfinden?
   Can insects feel pain?
+
+empfindlich: sensitive
+  schnell auf Einflüsse reagierend
+  Der empfindliche Sensor registriert minimale Erschütterungen.
 
 empor- /ɛmˈpoːɐ/: upwards, aloft
 
@@ -1107,6 +1115,7 @@ entdecken /ɛntˈdɛkən/: to discover
 Entdecker: explorer
 
 Ente /ˈɛntə/, die, -n: duck
+  Vogel mit breitem Schnabel, der gut schwimmen kann
 
 entfalten /ɛntˈfaltən/: to unfold
   Er setzte sich und entfaltete seine Zeitung.
@@ -1213,6 +1222,9 @@ entschlossen: determined, resolute
   Er ist fest entschlossen, seinen Traum zu verwirklichen.
   He's determined to realize his dream.
 
+entschlüsseln: to decipher, to decrypt
+  die darin verborgenen Informationen herausfinden
+
 entschuldigen /ɛntˈʃʊldɪɡən/: to excuse, to pardon
   entschuldige, entschuldigst, entschuldigt, habe entschuldigt
   sich (bei jdm) (für etw.) entschuldigen: to apologize (to sb) (for sth)
@@ -1272,6 +1284,7 @@ entspringen /ɛntˈʃprɪnən/: to rise, to arise, to stem from, to escape (from
   irgendwo anfangen, seine Quelle haben; durch etw. entstehen; aus dem Gefängnis, einer Anstalt fliehen
 
 entstehen /ɛntˈʃteːən/: to originate, to arise, to come into being, to be created, to develop
+  zu existieren anfangen, geschaffen werden; gebaut, geschrieben, hergestellt werden
   Wie entstehen Blitz und Donner?
   How does thunder and lightning form?
   Welche Kosten entstehen uns dadurch?
@@ -1781,6 +1794,9 @@ eröffnen /ɛɐˈ|œfnən/: to open, to disclose, to open up
 Eröffnung /ɛɐˈ|œfnʊŋ/, die: opening
   die Eröffnung des neuen Sportzentrums: the opening of a new sports center
 
+erraten /ɛɐˈraːtən/
+  etw. Unbekanntes durch Zufall herausfinden
+
 errechnen /ɛɐˈrɛçnən/: to calculate
   Die errechneten Werte/Entfernungen stimmen mit meiner Schätzung überein.
   The values/distances that have been calculated tally with my estimate.
@@ -1855,6 +1871,13 @@ erschöpft /ɛɐˈʃœpft/: exhausted, depleted, used up
 erschrak → erschrecken
 
 erschrecken /ɛɐˈʃrɛkən/: to get a fright, to be startled, to frighten
+
+erschüttern
+  innerlich tief bewegen; zum Schwanken bringen
+  Die Nachricht von seinem Tod hat mich tief erschüttert.
+  Ein Erdbeben der Stärke 6 hat gestern Abend Japan erschüttert.
+
+Erschütterung, die: shock, agitation, concussion, shaking, vibration
 
 erschweren /ɛɐˈʃveːrən/: to make more difficult, to aggravate, to impede
 
@@ -2097,6 +2120,8 @@ Etappe /eˈtapə/, die: stage, leg
 
 Etat /eˈtaː/, der, -s: budget
   den Etat beraten / beschließen: to discuss/ set the budget
+
+etepetete /eːtəpeˈteːtə/: fussy, finicky
 
 Ethikunterricht, der: ethics
 

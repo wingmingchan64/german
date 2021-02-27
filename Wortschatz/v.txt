@@ -106,7 +106,7 @@ verärgert /fɛɐˈ|ɛrɡɐt/: annoyed
 Verb /vɛrp/, das, -s|-en: verb
   regelmäßige / unregelmäßige Verben: regular/irregular verbs
 
-Verband /fɛɐˈbant/, der, -(e)s|..e: bandage, dressing
+Verband /fɛɐˈbant/, der, -(e)s|..e /fɛɐˈbɛndə/: bandage, dressing
   Binde zum Schutz einer Wunde
 
 verbergen /fɛɐˈbɛrɡən/: to hide
@@ -137,9 +137,12 @@ Verbindung /fɛɐˈbɪndʊŋ/, die, ~|-en: connection, link
 
 verblenden: to blind
 
+verborgen: to lend out
+
 verborgen: hidden, secret, latent
   nicht für jeden erkennbar
   im Verborgenen: furtive
+  → verbergen
 
 Verborgenheit, die: seclusion
 
@@ -351,6 +354,7 @@ vergangen /fɛɐˈɡaŋən/: past, previous, last
   → vergehen
   In den vergangenen Jahren waren die Umsätze höher.
   Turnover was higher in previous years.
+  vergangene Nacht
 
 Vergangenheit /fɛɐˈɡaŋənhait/, die: past
   vergangene Zeit
@@ -536,6 +540,8 @@ Verkleidung /fɛɐˈklaidʊŋ/, die, ~|-en: disguise, fancy dress
   In dieser Verkleidung wird dich niemand erkennen.
   No-one will recognize you in this disguise.
 
+Verkleinerung, die: reduction
+
 verknallen: to fall head over heels in love
 
 verkochen: to overcook
@@ -551,6 +557,7 @@ verkürzen: to shorten
 verladen: to load
 
 Verlag /fɛɐˈlaːk/, der, -es|-e: publishing company
+  Firma, die Bücher oder Zeitungen herausgibt und herstellt
   In welchem Verlag ist der Roman erschienen?
   Who was the novel published by?
 
@@ -1118,6 +1125,8 @@ vertiefen /fɛɐˈtiːfən/: to strengthen, to extend, to deepen
   Sie war so in ihre Arbeit vertieft, dass sie ihn nicht kommen hörte.
   She was so absorbed in her work that she didn't hear him coming.
 
+Vertiefung, die: deepening, depression, hollow
+
 vertikal /vɛrtiˈkaːl/
 
 Vertrag /fɛɐˈtraːk/, der, -(e)s|..e: contract, treaty
@@ -1292,7 +1301,6 @@ verwirren /fɛɐˈvɪrən/: to confuse, to bewilder, to ruffle, to get tangled u
   I was completely bewildered by his night-time phone call.
 
 verwirrt /fɛɐˈvɪrt/: confused, bewildered
-  
   ein verwirrtes Gesicht machen: to look confused
 
 Verwirrung /fɛɐˈvɪrʊŋ/, die: confusion
@@ -1338,6 +1346,7 @@ Verzeihung /fɛɐˈʦaiʊŋ/, die, ~|uncountable: forgiveness
   Verzeihung? Pardon me?
 
 verzichten /fɛɐˈʦɪçtən/: to do without, to refrain from, to renounce
+  etw. freiwillig nicht tun / benutzen / in Anspruch nehmen, obwohl man den Wunsch oder das Recht dazu hat
   Wenn das so ist, dann verzichte ich lieber.
   If that's the case, I'd rather not.
   Kannst du heute mal auf meine Hilfe/mich verzichten?
@@ -1670,6 +1679,10 @@ vorkommen /ˈfoːɐkɔmən/: to happen, to occur, to be found, to seem, to come 
   That seems strange to me.
 
 Vorlage, die: presentation, production, pattern, template
+  das Vorlegen, Vorweisen eines Dokuments
+
+vorläufig /ˈfoːɐlɔyfɪç/: temporary, provisional
+  nur kurze Zeit gültig oder vorhanden
 
 vorlegen /ˈfoːɐleːɡən/: to present, to produce, to show
   der Behörde eine Bescheinigung vorlegen: to produce a certificate for the authority
@@ -1873,6 +1886,9 @@ vorwegnehmen /foːɐˈvɛkneːmən/: to anticipate
   etw. tun oder sagen, was eigentlich erst später kommen sollte
   den Schluss einer Geschichte vorwegnehmen
 
+vorweisen
+  jdm etw. zeigen; vorzeigen
+
 Vorwurf /ˈfoːɐvʊrf/, der, -(e)s|..e: reproach, accusation
   Äußerung, mit der man jdn kritisiert
   jdm bittere Vorwürfe machen: to reproach sb bitterly
@@ -1887,6 +1903,9 @@ Vorzeichen /ˈfoːɐʦaiçən/, das, Vorzeichen: omen, sign, sharp/flat sign
   Vorzeichen nach dem Notenschlüssel gelten für das ganze Stück oder bis sie durch andere Vorzeichen aufgelöst werden.
   Sharp or flat signs after the clef apply to the whole piece or until they are canceled out by other sharp or flat signs.
   ohne Vorzeichen: natural,	not sharp or flat
+
+vorzeigen
+  jdm etw. zeigen, damit er es prüfen, beurteilen o. Ä. kann
 
 vorzeitig /ˈfoːɐʦaitɪç/: early, premature
   seine vorzeitige Entlassung aus der Haft: his early release from prison
