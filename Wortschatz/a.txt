@@ -224,6 +224,7 @@ abhauen /ˈaphauən/: to cut off, to split, to vamoose
   Er ist von zu Hause abgehauen.
   He ran away from home.
   Hau ab! Get lost!
+  Hau bloß ab!
 
 abheben /ˈapheːbən/: to answer, to cut, to withdraw, to take off
   einen Anruf annehmen; einen Teil des verdeckten Stapels wegnehmen; vom Konto holen
@@ -1241,6 +1242,8 @@ anführen /ˈanfyːrən/: to lead, to state, to cite, to fool
 
 Anführer /ˈanfyːrɐ/, der, -s|~: leader
   der Anführer der Bande: the leader of the gang
+
+anfügen: to append
 
 Angabe /ˈanɡaːbə/, die, ~|-n: information, statement
   Informationen, die man jdm gibt
@@ -2511,6 +2514,9 @@ aufrufen /ˈaufruːfən/: to call
   Alle sind aufgerufen mitzumachen.
   Everyone is expected to join in.
 
+aufsagen: to recite
+  auswendig vortragen
+
 Aufsatz /ˈaufzaʦ/, der, ..e: essay, paper
   Wir müssen einen Aufsatz über unser schönstes Ferienerlebnis schreiben.
   We have to write an essay about the nicest thing that happened to us on vacation.
@@ -3272,6 +3278,10 @@ Auswahl /ˈausvaːl/, die: -en: selection
 auswählen /ˈausvɛːlən/: to choose
   Er wurde für den Wettbewerb ausgewählt.
   He was selected for the competition.
+
+auswendig: by heart
+  aus dem Gedächtnis, ohne nachzuschauen
+  ein Gedicht auswendig vortragen
 
 ausüben /ˈaus|yːbən/: to carry out, to exercise, to have
   Er hat Beruf zwar erlernt, aber nie ausgeübt.

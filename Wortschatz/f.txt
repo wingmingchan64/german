@@ -1095,6 +1095,8 @@ frieren /ˈfriːrən/: to be/feel cold, to freeze
   The ground was frozen solid.
   durchfrieren: to freeze through
 
+Frikativ, der
+
 frisch: fresh
 
 Frischkäse /ˈfrɪʃkɛzə/, der: cream cheese
@@ -1151,6 +1153,7 @@ Fuchs /fʊks/, der, -es|..e, Füchsin: fox
 fügen: to put, to place
   etw. an / in etw. fügen: etw. an die passende Stelle setzen
   sich (jdm / etw.) fügen: sich unterordnen
+  → einfügen, anfügen, hinzufügen
 
 fuhr → fahren
   ich fuhr, du fuhrst, er fuhr, wir fuhren, ihr fuhrt

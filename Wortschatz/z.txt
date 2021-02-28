@@ -296,6 +296,8 @@ Zeugnis /ˈʦɔyknɪs/, das, -se: report, reference, certificate, evidence, test
 
 Zicke, die: nanny goat, silly cow
 
+Ziege, die: goat
+
 Ziegel /ˈʦiːɡəl/, der, -s|~: brick, tile
   Das Haus wurde aus Ziegeln gebaut.
   The house was built with bricks.
@@ -493,7 +495,8 @@ zufällig /ˈʦuːfɛlɪç/: by chance
 
 zufolge /ʦuˈfɔlɡə/: according to
 
-zufrieden /ʦuˈfriːdən/: satisfied, happy, pleased
+zufrieden /ʦuˈfriːdən/: satisfied, happy, pleased 滿意
+  ohne Wunsch nach Veränderung
   zufriedene Kunden: happy customers
   Er lächelte zufrieden.
   He smiled happily.
@@ -867,7 +870,7 @@ Zweifelsfall /ˈʦvaifəlsfal/, der, ..e: doubtful case
   Im Zweifelsfall fragen Sie bitte einen Fachmann um Rat.
   In case of doubt, please seek expert advice.
 
-Zweig /ʦvaik/, der: branch
+Zweig /ʦvaik/, der, -(e)s|-e: branch
   Äste und Zweige für ein Feuer sammeln
   to gather twigs and branches for a fire
 

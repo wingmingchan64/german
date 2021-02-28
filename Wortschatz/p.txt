@@ -420,7 +420,8 @@ Plattform, die
 
 Platz /plaʦ/, der: room, space, place, seat, position, square, court, niche, site
 
-Plätzchen, das: cookie
+Plätzchen, das: spot, cookie
+  kleiner Platz; süßes kleines Gebäck
 
 platzen: to burst
 
@@ -573,6 +574,8 @@ preisgeben /ˈpraisɡeːbən/: to betray, to give away, to abandon, to expose
   ein Geheimnis preisgeben: to give away a secret
   seine Ideale preisgeben: to abandon your ideals
   jdn der Lächerlichkeit preisgeben: to expose sb to ridicule
+
+Preisnachlass, der: discount, price reduction
 
 preiswert: inexpensive
 

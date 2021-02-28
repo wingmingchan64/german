@@ -695,6 +695,8 @@ Schlitz /ʃlɪʦ/, der, -es|-e: slit, slot, fly
   Mach deinen Hosenschlitz zu!
   Do up your fly!
 
+Schlosser: locksmith
+
 Schlucht, die: gorge, ravine
 
 schluchzen /ˈʃlʊxʦən/: to sob
@@ -1969,7 +1971,7 @@ spätestens /ˈʃpɛːtəstəns/: at the latest
   Ich muss spätestens um Mitternacht zu Hause sein.
   I have to be home no later than midnight.
 
-Spatz /ʃpaʦ/, der, -en|-en: sparrow
+Spatz /ʃpaʦ/, der, -en|-es oder -en: sparrow
   die Spatzen füttern: to feed the sparrows
   Was ist denn los, mein kleiner Spatz?
   What's the matter, sweetie?
@@ -2574,7 +2576,11 @@ stimmen /ˈʃtɪmən/:
   so einstellen, dass alle Töne die richtige Höhe haben
   eine Gitarre stimmen: to tune a guitar
   jdn froh/traurig / … stimmen: to make sb feel happy/sad/…
-  
+
+stimmhaft: voiced
+
+stimmlos: voiceless
+
 Stimmung /ˈʃtɪmʊŋ/, die: mood, atmosphere, good mood
   Er ist heute in schlechter Stimmung.
   He's in a bad mood today.
