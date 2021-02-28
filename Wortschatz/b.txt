@@ -360,6 +360,8 @@ Bedingung, die: condition
 bedrohen /bəˈdroːən/: to threaten
   sich von jdm bedroht fühlen: to feel threatened by sb
 
+bedrückt: miserable; in low spirits
+
 Bedürfnis /bəˈdʏrfnɪs/, das: need, requirement
   das Gefühl, jdn / etw. zu brauchen, dringend haben oder tun zu wollen
 
@@ -612,6 +614,10 @@ Behandlung, die: treatment
   die grausame Behandlung von Gefangenen
   the cruel treatment of prisoners
   sich in ärztliche Behandlung begeben
+
+behauchen: to breathe on; (Ling) to aspirate
+
+Behauchung, die: aspiration
 
 behaupten /bəˈhauptən/: to claim, to contend, to maintain
   Sie behauptet, krank gewesen zu sein, aber ich halte das für eine Ausrede.

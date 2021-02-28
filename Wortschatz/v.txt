@@ -109,6 +109,8 @@ Verb /vɛrp/, das, -s|-en: verb
 Verband /fɛɐˈbant/, der, -(e)s|..e /fɛɐˈbɛndə/: bandage, dressing
   Binde zum Schutz einer Wunde
 
+Verbandzeug, das: dressing material
+
 verbergen /fɛɐˈbɛrɡən/: to hide
   nicht sehen oder erkennen lassen; andere nicht wissen lassen
   Ein großer Hut verbarg sein Gesicht.
@@ -1243,6 +1245,8 @@ Verwaltung /fɛɐˈvaltʊŋ/, die: administration, management
   das Verwalten oder Verwaltetwerden; verwaltende Behörde oder Abteilung; Räume, in denen Angestellte arbeiten, die etw. verwalten
   Das Gebäude steht seit Kurzem unter staatlicher Verwaltung.
 
+Verwandlung, die: conversion, transformation
+
 verwandt: related
   Die beiden sind weitläufig miteinander verwandt.
   The two of them are distantly related.
@@ -1438,6 +1442,8 @@ Vogelkäfig, der: birdcage
 Vogelkundler(in): ornithologist
 
 Vogelperspektive /ˈfoːɡəlpɛrspɛktiːvə/, die: bird's-eye view
+
+Vokal /voˈkaːl/, der: vowel
 
 Vokabel /voˈkaːbəl/, die, Vokabeln: item of vocabulary
   Sie fragt ihren Sohn die Vokabeln ab.

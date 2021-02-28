@@ -630,6 +630,10 @@ abwaschen /ˈapvaʃən/: to wash up
 Abwasser /ˈapvasɐ/, das, -s|..: waste water
   Abwasserkanal: gully
 
+abwechselnd /ˈapvɛksəlnt/: alternate, taking turns
+  Er biss abwechselnd vom Brot und von der Wurst ab.
+  Wir haben abwechselnd Klavier gespielt.
+
 Abwechslung /ˈapvɛkslʊŋ/, die: diversion
   eine willkommene Abwechslung: a welcome change
 
@@ -2857,6 +2861,12 @@ ausgiebig /ˈausɡiːbɪç/: copious, extensive
   einen ausgiebigen Mittagssschlaf machen: to have a long nap at lunchtime
   Sie gähnte und dehnte sich ausgiebig.
   She had a good yawn and stretch.
+
+auslauten: to end
+  auslautender Konsonant: final consonant
+
+Auslautverhärtung, die
+  Verwandlung eines stimmhaften auslautenden Konsonanten in einen stimmlosen
 
 Ausgleich, der: balance, equalizer
 

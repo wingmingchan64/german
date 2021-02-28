@@ -518,6 +518,10 @@ Einkaufsliste: shopping list
 
 Einkaufszentrum, das
 
+einkehren: to stop off
+  auf einem Ausflug auch in ein Lokal gehen
+  Wir sind in einer netten kleinen Gaststätte eingekehrt.
+
 Einklang, der: harmony, accord
   angenehme Harmonie
 

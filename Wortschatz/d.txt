@@ -748,7 +748,7 @@ Droge /ˈdroːɡə/, die: drug
 
 Drogenhandel /ˈdroːɡənhandəl/, der: drug dealing/trafficking
 
-Drogerie, die: drug store
+Drogerie /droɡəˈriː/, die: drug store
   Geschäft, in dem vor allem Kosmetik- und Hygieneartikel und rezeptfreie Medikamente verkauft werden
 
 Drogist /droˈɡɪst/, Drogistin
@@ -892,6 +892,8 @@ durcheinander /dʊrç|aiˈnandɐ/: mixed up, messy, confused, befuddled, all ove
 durcheinandergeraten: to get mixed up, to get confused
   in Unordnung kommen; Dinge verwechseln, Fehler machen
   ≈ verwechseln
+
+Durchfall, der: diarrhea
 
 durchfrieren: to freeze through
 
