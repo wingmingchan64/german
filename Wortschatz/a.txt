@@ -3278,6 +3278,8 @@ Austreibung, die, ~|uncountable: exorcism, expulsion
 austreten: to leave
   seine Mitgliedschaft in einer Gemeinschaft kündigen
 
+ausströmen: to discharge, to emanate, to escape
+
 ausüben
   regelmäßig tun; anwenden; auf jdn wirken lassen
 
