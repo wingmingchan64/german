@@ -1,0 +1,130 @@
+1
+1. schauen schön
+2. schlafen schneiden
+3. Schlösser Schild
+4. duschen waschen
+5. Mensch Maschine
+6. fantastisch frisch
+7. kornisch Entschuldigung
+8. schrecklich Schnupfen
+
+2
+1. Spiegel Spiel
+2. spülen spielen
+3. Strand Straße
+4. Stunde Stuhl
+5. stellen stimmen
+6. Speise Spaziergang
+7. stark still
+8. Streit Stress
+
+3
+1. Spiegel
+2. Speise
+3. stehen
+4. ständig
+5. Stuhl
+6. stark
+7. Stadt
+8. Sport
+
+4
+1. Dusche
+2. husten
+3. Stunde
+4. Postleitzahl
+5. Speise
+6. Stecker
+7. Stuhl
+8. Spiegel
+9. Fenster
+10. Hut
+11. See
+12. Tee
+13. Menschen
+14. Streit
+15. Kiste
+16. sei
+
+5 Was hat Frau Winter heute gemacht?
+1. Frau Winter hat die Kinder ins Bett gebracht.
+2. Sie ist in den Supermarkt gegangen.
+3. Sie hat Karl ins Büro gefahren.
+4. Sie hat Briefe beantwortet und telefoniert.
+5. Sie hat das Zimmer von Anna aufgeräumt.
+6. Sie hat Anna von der Schule abgeholt.
+
+6
+1. Die Sache mit Frau Soltau ist ja schrecklich.
+2. Gestern hat die Sekretärin vom Chef einen Unfall gehabt.
+3. Sie muss zwei Wochen im Bett bleiben.
+4. Du kannst sie im Krankenhaus an der Isar besuchen.
+5. Frau Kuhn hat 100.000 Euro im Lotto gewonnen.
+6. Frau Tönjes hat einen neuen Freund.
+
+7
+1. Anna geht ins Bett.
+2. Anna geht schon ins Bett.
+3. Anna geht schon allein ins Bett.
+4. Anna geht schon seit zwei Wochen allein ins Bett.
+5. Anna ist dreizehn Jahre alt und geht schon seit zwei Wochen allein ins Bett.
+
+8 Stress bei Winters
+1. Wann hast du das Mittagessen gekocht?
+2. Wohin hast du die Freundin von Anna gebracht?
+3. Wen muss ich um 7 Uhr wecken?
+4. Hast du die Hände gewaschen?
+5. Wann soll ich die Kinder ins Bett bringen?
+6. Was ist mit den Hausaufgaben?
+7. Warum kann sich Anna nicht allein anziehen?
+8. Hast du die Lehrerin angerufen?
+
+10
+1. Muss man Jens und Anna anziehen?
+2. Kann Anna sich nicht alleine anziehen?
+3. Muss Herr Winter Anna in die Schule bringen?
+4. Hat Anna ihre Hausaufgaben schon gemacht?
+5. Ist sie in die Musikschule gegangen?
+6. Bringt Herr Winter die Kinder abends ins Bett?
+7. Hat Herr Winter an alles gedacht?
+8. Kann Frau Winter im Krankenhaus beruhigt schlafen?
+
+12
+1. liest
+2. kommst
+3. selbst
+4. musst
+5. Gast
+6. Spritze /ˈʃprɪʦə/ [?]
+7. spitz /ʃpɪʦ/ [?]
+8. Rastplatz
+
+14
+1. Sie liegt im Krankenhaus.
+2. Nein, das gibt es doch nicht!
+3. Hat man sie operiert?
+4. Ja, gestern, es geht ihr schon etwas besser. 
+5. Würdest du ihr bitte gute Besserung wünschen?
+6. Natürlich!
+7. Der Chef, Herr Soltau und ich besuchen sie jetzt gleich.
+8. Na , da wird sie sich aber freuen.
+
+15
+- Würden Sie mir netterweise fürs Wochenende Ihre tolle Stereoanlage leihen? 
+- Geben Sie eine Party?
+- Nein, ich möchte nur mal richtig ausschlafen.
+- Ach so.
+
+18 Ein Verhör
+- Wann haben Sie ihre Frau zum letzten Mal gesehen?
+- Beim Frühstück. Wir haben noch miteinander gesprochen.
+- Was haben Sie dann gemacht?
+- Ich bin ins Büro gefahren.
+- Haben Sie dafür einen Zeugen?
+- Nein. Ich war alleine im Auto.
+- Hatten Sie Streit, bevor Sie aus dem Haus gingen?
+- Ja schon, aber wir haben uns oft gestritten.
+- Wann haben Sie von dem Unfall ihrer Frau gehört?
+- Erst als der Anruf vom Krankenhaus kam.
+- Wussten Sie, dass die Bremskabel durchgeschnitten waren?
+- Nein, natürlich nicht.
