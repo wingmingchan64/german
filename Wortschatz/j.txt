@@ -43,6 +43,8 @@ jähren /ˈjɛːrən/: to be the + CARDINAL NUMBER anniversary of
   Am 13. März jährt sich ihr Todestag zum fünften Mal.
   On March 13th it's the fifth anniversary of her death.
 
+Jahreszahl, die: date, year
+
 Jahrgang, der: age-group
 
 Jahrhundert /jaːɐˈhʊndɐt/, das, -e: century
@@ -54,13 +56,21 @@ jährig /ˈjɛːrɪç/: lasting a year, one-year
   my eight-year-old son
 
 jährlich /ˈjɛːɐlɪç/
+  in jedem Jahr
 
 Jahrzehnt, das
   zehn Jahre als Zeitraum oder Abschnitt der Zeitrechnung
 
 jammen: to jam
 
+Jammer, der
+  großer Kummer
+
+jämmerlich
+  bedauernswert
+
 jammern /ˈjamɐn/: to moan, to whine
+  seinen Kummer oder seine Schmerzen ausgiebig äußern
   Hör auf zu jammern und komm endlich!
   Stop whining and come on, would you?
 
@@ -82,7 +92,14 @@ jäten /ˈjɛːtən/: to weed
   We really need to do some weeding.
   ein frisch gejätetes Beet: a freshly weeded bed
 
+jauchzen
+  laut jubeln
+
 jawohl /jaˈvoːl/: yes
+
+Jazz /dʒɛs/, der
+
+Jazzmusik, die
 
 je /jeː/: ever, each
   Es ist ungewiss, ob er je wieder gesund wird.
@@ -175,8 +192,10 @@ jeweils /ˈjeːvails/: at a time, in each case, always
 
 Job, der
 
-Joghurt /ˈjoːɡʊrt/, der: yogurt
+Joghurt /ˈjoːɡʊrt/, der, -s|-s: yogurt
   Joghurt in das Müsli rühren: to mix yogurt into your muesli
+
+Jongleur /ʒõˈɡløːɐ/, Jongleurin 
 
 Journal /ʒurˈnaːl/, das, -e: magazine
   ein Journal, das Verbraucher informiert: a consumer magazine
@@ -198,6 +217,9 @@ Jubel /ˈjuːbl/, der: jubilation, cheer, rejoicing
   Die Fans brachen in Jubel aus.
   The fans went wild with joy.
 
+jubeln
+  seine Freude laut zeigen
+
 Jubiläum /jubiˈlɛːʊm/, das: anniversary
 
 jüdisch /ˈjyːdɪʃ/: Jewish
@@ -208,6 +230,8 @@ Jugend /ˈjuːɡənt/, die, ~|uncountable: youth, young people
 
 Jugendherberge /ˈjuːɡənthɛrbɛrɡə/, die: youth hostel
   billige Unterkunft bes. für Jugendliche, wo man nur übernachten darf, wenn man Mitglied im entsprechenden Verein ist
+
+jugendlich: youthful
 
 Juli /ˈjuːli/, der, -s|-s
 
@@ -229,6 +253,12 @@ Junge, der, -n|Jungs/Jungen: boy, young man
 Juni /ˈjuːni/, der, -s|-s
 
 Jura /ˈjuːra/, der: law
+
+Jurist /juˈrɪst/, Juristin
+
+Juristerei /jurɪstəˈrai/, die: law
+
+juristisch
 
 just /jʊst/: exactly, just
 

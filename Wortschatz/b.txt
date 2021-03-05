@@ -263,7 +263,7 @@ Becher /ˈbɛçɐ/, der: cup, carton, pot
   He drank his coffee from a plastic cup.
   einen Becher Joghurt / Sahne / Pudding kaufen: to buy a pot of yoghurt/cream/pudding
 
-Becken, das: basin, sink, pool
+Becken /ˈbɛkən/, das: basin, sink, pool
   eine Art große Schüssel mit Wasserhahn und Abfluss als fester Teil der Einrichtung
 
 Bedacht /bəˈdaxt/, der, -s|uncountable
@@ -292,6 +292,7 @@ Bedarfsfall, der: need
   im Bedarfsfall: if necessary
 
 bedauerlich /bəˈdauɐlɪç/: regrettable, unfortunate
+  zu bedauern, mitleiderregend; jämmerlich
 
 Bedauern /bəˈdauɐn/, das, -s|uncountable: regret
   Zu meinem allergrößten Bedauern muss ich Ihnen mitteilen, dass …
@@ -1048,6 +1049,10 @@ berichtigen /bəˈrɪçtɪɡən/: to correct, to rectify
 berichten /bəˈrɪçtən/: to report
   Die Zeitungen berichteten ausführlich über das Unglück.
   The newspapers had detailed reports of the accident.
+
+Berlin /bɛrˈliːn/, das
+
+berlinerisch /bɛrˈliːnərɪʃ/
 
 berücksichtigen /bəˈrʏkzɪçtɪɡən/: to take into account/consideration, to consider
   beachten, mit einberechnen
@@ -2242,6 +2247,8 @@ Brandung, die: surge, surf
 
 Brasilien /braˈziːliən/, das
 
+Bratapfel, der: baked apple
+
 braten: to fry, to roast
   Ich brat mir jetzt ein Steak.
   Now I'm going to fry myself a steak.
@@ -2282,6 +2289,8 @@ Brautstrauß, der: bridal bouquet
 brav /braːf/: good, well-behaved, honest, upright, brave
   Sei schön brav bei Oma!
   Now be good for grandma, will you?
+
+BRD, die: Bundesrepublik Deutschland
 
 brechen /ˈbrɛçən/: to break
   etw. bricht: sth breaks
@@ -2526,6 +2535,9 @@ bunt /bʊnt/: colorful, colored
   ≈ farbig
   bunte Bilder: colorful pictures
   ein bunter Abend mit Musik und Sketchen: an evening of variety with music and sketches
+
+Bub /buːp/, der: boy
+  männliches Kind, Sohn
 
 Burg /bʊrk/, die, -en: castle
   Ritterburg: knight's castle

@@ -50,6 +50,8 @@ mager /ˈmaːɡɐ/: thin, skinny, poor
 
 Magnet /maˈɡneːt/, der
 
+Magier /ˈmaːɡiɐ/, Magierin
+
 mähen /ˈmɛːən/: to mow, to harvest
   den Rasen mähen: to mow the lawn
 
@@ -626,6 +628,9 @@ Mitleid /ˈmɪtlait/, das, -(e)s|uncountable: pity, compassion, sympathy
   Sein Schicksal erregte viel Mitleid.
   His fate aroused a lot of sympathy.
 
+mitleiderregend: pitiful
+  bedauerlich
+
 mitmachen /ˈmɪtmaxən/: to take part (in), to join in, to go through, to hold out, to cooperate
   bei einem Experiment / Wettkampf mitmachen
   to take part in an experiment/a contest
@@ -788,7 +793,10 @@ Monopol /monoˈpoːl/, das, -e: monopoly
 Montag /ˈmoːntaːk/, der, -(e)s|-e
   am Montag
 
-montieren: to install, to erect
+Montage /mɔnˈtaːʒə/, die
+  das Montieren
+
+montieren: to install, to erect, to assemble
 
 Moos /moːs/, das: moss
   einfache, kleine Pflanze, die bes. im Wald den Boden bedeckt
@@ -817,7 +825,7 @@ Moschee /mɔˈʃeː/, die: mosque
 
 Most /mɔst/, der: cider
 
-Motor /ˈmoːtoːɐ/ /moˈtoːɐ/, der, -s|-en
+Motor /moˈtoːɐ/, der, -s|-en
   den Motor anlassen
   Der Motor wollte nicht anspringen.
 
@@ -911,6 +919,10 @@ Museum /muˈzeːʊm/, das, -s|Museen /muˈzeːən/
 
 Musik /muˈziːk/, die, ~|-en/~|-en
   gemeinsam Musik machen: to make music together
+
+Musiker /ˈmuːzikɐ/, Musikerin /ˈmuːzikərɪn/
+
+Musikinstrument /muˈziːkʔɪnstrumɛnt/, das
 
 Muskat /mʊsˈkaːt, ˈmʊskat/, der, -(e)s|-e: nutmeg 肉豆蔻
 

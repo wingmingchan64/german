@@ -730,6 +730,8 @@ achtzig /ˈaxʦɪç/
 Acker /ˈakɐ/, der, -s|..: field
   Stück Land, auf dem Getreide o. Ä. angebaut wird
 
+ADAC: Allgemeiner Deutscher Automobil-Club
+
 addieren
   ↔ subtrahieren
 
@@ -828,6 +830,8 @@ Aktie /ˈakʦjə/, die, ~|-n: share, stock
 Aktien → Aktie
 
 Aktion /akˈʦjoːn/, die, ~|-en: action, operation
+
+aktiv /akˈtiːf/
 
 aktivieren /aktiˈviːrən/: to activate
   dazu bringen etw. zu tun
@@ -1977,6 +1981,8 @@ Arbeitsmensch, der: worker
 
 Architekt /arçiˈtɛkt/, Architektin: architect
 
+Archiv /arˈçiːf/, das, -s|-e/~|-en
+
 archivieren /arçiˈviːrən/: to archive
   Dokumente/Berichte archivieren: to archive documents/reports
 
@@ -2135,6 +2141,8 @@ attributiv /atribuˈtiːf/: attributive
 
 ätzend /ˈɛʦənt/: corrosive, lousy, god-awful
   so sauer oder basisch, dass die Haut bei Berührung damit verletzt wird; drückt ein starkes negatives Urteil aus
+
+Audienz /auˈdjɛnʦ/, die
 
 auf /auf/: on, onto, at, to (accussative/dative)
   Stell die Suppe bitte auf den Tisch.
@@ -2684,6 +2692,8 @@ augenblicklich /ˈauɡənblɪklɪç/: current, immediately
   blauäugig
 
 August /auˈɡʊst/, der, -(e)s|e
+
+Aula, die: auditorium
 
 aus: out, out of, from (dative)
   Er trinkt aus der Flasche.
@@ -3396,8 +3406,12 @@ auswirken
 ausziehen: to take off
   Kleidung vom Körper nehmen, ablegen
 
+authentisch /auˈtɛntɪʃ/
+
 Auto /ˈauto/, das, -s|-s: car
   mit dem Auto fahren
+
+Autodidakt /autodiˈdakt/, der
 
 Automat /autoˈmaːt/, der, -en|-en: machine, ATM, slot machine, robot
   sich eine Fahrkarte am Automat holen: to get a ticket at the machine
@@ -3405,6 +3419,8 @@ Automat /autoˈmaːt/, der, -en|-en: machine, ATM, slot machine, robot
   Spielautomat: slot machine
   Bei der Herstellung kommen Automaten zum Einsatz.
   Robots are used in the production process.
+
+Autonomie /autonoˈmiː/, die
 
 Autoscooter, Autoskooter, der: bumper car
 

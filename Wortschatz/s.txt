@@ -58,6 +58,10 @@ saftig /ˈzaftɪç/: juicy, lush, steep, hefty
 Sage, die: legend
   Der Sage nach treffen sich in der Walpurgisnacht Hexen auf dem Blocksberg.
 
+Säge, die: saw
+
+Sägeblatt, das: saw blade
+
 sagen: to say
   sage, sagst, sagt, habe gesagt
   sagte, sagtest, sagte, sagten, sagtet
@@ -197,6 +201,8 @@ sausen /ˈzauzən/: to rush, to zoom, to roar, to whistle
   You should drop that two-timer!
   Mir sauste das Blut in den Ohren.
   The blood was pounding in my ears.
+
+SB-Laden, der: Selbstbedienungsladen
 
 schäbig /ˈʃɛːbɪç/: shabby
   Die Möbel waren alt und schäbig.
@@ -909,6 +915,8 @@ Schneeball /ˈʃneːbal/, der: snowball
 Schneefeld, das: snow field
 
 Schneeschipper: snow shoveler
+
+Schneide, die: cutting edge
 
 schneiden /ˈʃnaidən/: to cut, to chop, to slice
   schneide, schnitt, geschnitten
@@ -1817,6 +1825,8 @@ sonderbar /ˈzɔndɐbaːɐ/: strange
 
 sonderlich: especially
 
+Sonderangebot, das: special offer
+
 sondern /ˈzɔndɐn/
   Nicht Roland, sondern Christine gewann den ersten Preis.
 
@@ -1987,6 +1997,8 @@ spazieren /ʃpaˈʦiːrən/: to stroll, to walk
 Spaziergang /ʃpaˈʦiːɐɡaŋ/, der, ..e: walk, stroll
   Wir haben nach dem Essen einen langen Spaziergang gemacht.
   We went for a long walk after dinner.
+
+SPD, die: Sozialdemokratische Partei Deutschlands
 
 Speck /ʃpɛk/, der, -(e)s|uncountable: bacon
   Bohnen mit Speck: beans with bacon
