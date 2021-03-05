@@ -3,7 +3,7 @@
 A1
 Guten Morgen. Ich heiße Franziska Binder. Ich bin 37 Jahre alt. Ich wohne in Wien. Ich bin Lehrerin. Meine Muttersprache ist Deutsch. Ich spreche auch Spanisch und Englisch.
 
-Guten Tag. Mein Name ist Peter Heinemann. Ich bin 35 Jahre alt. Ich komme aus Marburg. Ich bin Informatiker. Meine Muttersprache ist Deutsch. Ich lerne jetzt Japanisch.
+Guten Tag. Mein Name ist Peter Heinemann. Ich bin 35 Jahre alt. Ich komme aus Marburg. Ich bin Inforˈmatiker. Meine Muttersprache ist Deutsch. Ich lerne jetzt Jaˈpanisch.
 
 Hallo. Mein Vorname ist Sarah. Mein Familienname ist Mounier. Ich bin 22 Jahre alt. Ich komme aus Frankreich. Ich bin Studentin. Ich studiere in Paris Medizin. Meine Muttersprache ist Französisch. Ich spreche sehr gut Englisch und ein bisschen Spanisch.
 
@@ -91,6 +91,18 @@ Ich bin Arzt, Ärztin
 Ich bin Student, Studentin
 Ich bin Taxifahrer, Taxifahrerin
 Ich bin Assistent, Assistentin
+
+A13
+Ich studiere Medizin. Später bin ich Arzt/Ärztin.
+Johann studiert Chemie. Später ist er Chemiker.
+Marie studiert Jura. Später ist sie Anwältin.
+Andreas studiert Informatik. Später ist er Informatiker.
+Ich studiere Ingenieurwesen. Später bin ich Ingenieur/Ingenieurin.
+Michael studiert Physik. Später ist er Physiker.
+Ich studiere Philosophie. Später bin ich Philosoph/Philosophin.
+Franziska studiert Malerei. Später ist sie Malerin.
+Anika studiert Musik. Später ist sie Musikerin.
+Otto studiert Journalistik. Später ist er Journalist.
 
 A18
 Schweden – die Schweiz
@@ -196,6 +208,9 @@ Das ist Maximilian, der Sohn von Hans und Susanne, der Bruder von Marie. Er ist 
 
 Das ist Marie, die Tochter von Hans und Susanne, die Schwester von Maximilian. Sie ist acht Jahre alt und singt im Chor.
 
+B1
+Eine Milliarde zweihunderteinundachtzig Millionen
+
 B3
 Deutschland hat 82,4 Millionen Einwohner und 16 Bundesländer. Die Hauptstadt ist Berlin. In Deutschland gibt es nur eine Amtssprache: Deutsch. Die drei größten Städte sind Berlin, Hamburg und München. Seit 1871 ist Deutschland ein Nationalstaat. Sehr wichtig für Deutschland ist die deutsche Wiedervereinigung 1990.
 
@@ -232,7 +247,7 @@ Was sind Sie von Beruf?
 Ich bin (Lehrer).
 Ich arbeite als (Managerin) bei (Siemens).
 Was/Wo studieren Sie?
-Ich studiere (Medizin/in Berlin).
+Ich studiere (in Berlin/Medizin).
 Welche Sprachen sprechen Sie?
 Meine Muttersprache ist (Italienisch).
 Ich spreche sehr gut/gut/ein bisschen (Englisch).
@@ -245,11 +260,7 @@ Ich habe (zwei/keine) Kinder.
 Hobbys
 Was sind deine/Ihre Hobbys?
 Ich spiele gern (Fußball).
-Ich sammle (Briefmarken).
+Ich sammle/sammele (Briefmarken).
 Ich lese gern (Romane).
 Ich höre gern (Jazz-Musik).
 Ich schreibe gern (Gedichte).
-
-========================================================
-ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
-========================================================
