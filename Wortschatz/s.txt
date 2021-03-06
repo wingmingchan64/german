@@ -1494,6 +1494,9 @@ seither /zaitˈheːɐ/: since (then)
 
 Sekretär /zekreˈtɛːɐ/, Sekretärin: clerk, secretary
 
+Sekretariat, das
+  Abteilung für Verwaltung und organisatorische Aufgaben
+
 Sekt /zɛkt/, der, -(e)s|-e: champagne
   der Champagner
 
@@ -2130,6 +2133,8 @@ Spott /ʃpɔt/, der, -(e)s: mockery
 Sprache /ˈʃpraːxə/, die, -n: language
   Latein ist eine tote Sprache.
   Latin is a dead language.
+
+Sprachkurs, der
 
 -sprachig: -language, -speaking
   ein englischsprachiger Reiseführer

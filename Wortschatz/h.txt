@@ -1232,6 +1232,11 @@ Hörbuch /ˈhøːɐbuːx/, das: audio book
   Er hört beim Autofahren gern Hörbücher.
   He likes to listen to audio books when driving.
 
+hören
+  höre, hörst, hört, hört, habe gehört
+  hörte, hörtest, hörte, hörtet
+  hör, hört
+
 hören, sich: to keep in touch
   Ich lasse von mir hören.
   Wir hören uns.

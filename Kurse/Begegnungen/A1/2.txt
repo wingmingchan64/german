@@ -1,6 +1,6 @@
 Kapitel 2: Erste Kontakte
 
-A1
+A1 Rund um die Arbeit: Im Büro
 Frau Herzberg: Guten Tag. Suchen Sie etwas?
 Herr Heinemann: Ja, mein Büro. Ich bin neu hier.
 Frau Herzberg: Sind Sie Herr Heinemann?
@@ -16,7 +16,50 @@ Herr Heinemann: Danke. Bis später.
 Frau Herzberg: Bis später.
 
 A3
-Das ist mein Büro. Tja, und Kaotas Büro. Hier sind mein Kugelschreiber und mein Bleistift. Dort stehen mein Computer und mein Drucker. Im Regal sind meine Fotos und Dokumente. Eine Lampe habe ich auch, aber die ist kaputt, und eine Kaffeemaschine, die funktioniert sehr gut. Ich trinke sehr viel Kaffee. Ein Telefon und ein Faxgerät habe ich natürlich auch. Das Telefon ist sehr wichtig
+Das ist mein Büro. Tja, ein chaotisches Büro. Hier sind mein Kugelschreiber und mein Bleistift. Dort stehen mein Computer und mein Drucker. Im Regal sind meine Fotos und Dokumente. Eine Lampe habe ich auch, aber die ist kaputt, und eine Kaffeemaschine, die funktioniert sehr gut. Ich trinke sehr viel Kaffee. Ein Telefon und ein Faxgerät habe ich natürlich auch. Das Telefon ist sehr wichtig. Ich mache Reportagen und schreibe Artikel für Zeitungen.
+
+Also, das ist mein Büro hier. Moment, wo ist meine Brille? Ah hier. Ich habe circa zweihundertfünfzig Bücher im Regal und ein russisch-deutsches Wörterbuch, es ist meine kleine Bibliothek. Ich lese gern russische Autoren. Hier sind mein Computer, mein Drucker und meine Lampe. Ein Telefon habe ich auch. Ich telefoniere sehr viel. Sehr wichtig ist mein Terminkalender. Ich arbeite an der Universität und habe viele Studenten.
+
+A8 Probleme im Büro
+Frau Herzberg: Na, Herr Heinemann, wie geht es?
+Herr Heinemann: Danke, gut. Ich habe ein kleines Problem, Frau Herzberg. Mein Drucker funktioniert nicht. Ich kann nicht drucken.
+Frau Herzberg: Was? Das ist ein neuer Drucker! Ist der Computer auch kaputt?
+Herr Heinemann: Nein, der Computer funktioniert. Das Telefon auch.
+Frau Herzberg: Und die Lampe geht auch? Es ist eine alte Lampe.
+Herr Heinemann: Die Lampe funktioniert gut.
+Frau Herzberg: Also nur der Drucker …
+Herr Heinemann: Ja.
+Frau Herzberg: Ich komme gleich wieder. Ich frage mal Paul …
+
+A12
+neu, neuer, neue, neues, neuen
+schön, schöner, schöne, schönes, schönen
+modern, moderner, moderne, modernes, modernen
+bequem, bequemer, bequeme, bequemes, bequemen
+klein, kleiner, kleine, kleines, kleinen
+teuer, teurer, teure, teures, teuren
+praktisch, praktischer, praktische, praktisches, praktischen
+hell, heller, helle, helles, hellen
+alt, alter, alte, altes, alten
+dunkel, dunkler, dunkle, dunkles, dunklen
+billig, billiger, billige, billiges, billigen
+hässlich, hässlicher, hässliche, hässliches, hässlich
+
+A14
+(1) das Sekretariat: Informationen bekommen
+(2) die Verwaltung: Rechnungen bezahlen
+(3) die Bibliothek: Zeitungen und Bücher lesen
+(4) das Sprachenzentrum: Sprachen lernen, Sprachkurse besuchen
+(5) die Kantine: etwas essen (Mitarbeiter)
+(6) die Mensa: etwas essen (Studenten)
+(7) die Sporthalle: Volleyball oder Fußball spielen
+(8) die Cafeteria: Kaff ee trinken
+
+A17
+Sprachkurse besuchen
+
+A22 p.45
+
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
 ========================================================
