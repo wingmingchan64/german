@@ -155,6 +155,9 @@ wälzen /ˈvɛlʦən/: to roll
   etw. Schweres mit Mühe irgendwohin rollen; sich: sich im Liegen hin- und herbewegen
   einen Verletzten auf den Rücken wälzen: to roll a casualty onto his back
 
+Walzer /ˈvalʦɐ/, der
+  Musikstück / Tanz im Dreivierteltakt
+
 Wand /vant/, Wände /ˈvɛndə/, die: wall
   ein Bild an die Wand hängen
   to hang a picture on the wall
@@ -166,6 +169,10 @@ Wände → Wand
 wandeln: to change, to stroll
 
 wandern /ˈvandɐn/: to hike
+  eine längere Wegstrecke zu Fuß laufen
+  wandere, wanderst, wandert, bin gewandert
+  wanderte, wandertest, wandertet
+  wandre, wandert
   wandern gehen: to go hiking
   Im Urlaub wanderten sie viel.
   They did a lot of hiking on vacation.
@@ -175,6 +182,8 @@ Wanderung /ˈvandərʊŋ/, die: hike
 Wandschrank, der
 
 wandte → wenden
+
+Wandteller, der
 
 Wange /ˈvaŋə/, die, ~|-n: cheek
   ≈ Backe
@@ -962,6 +971,7 @@ wissenschaftlich /ˈvɪsənʃaftlɪç/: scientific, scientifically
 
 wissenswert /ˈvɪsənsveːɐt/: worth knowing, interesting
   wert, es zu wissen, zu kennen
+  Wissenswertes
 
 wittern /ˈvɪtɐn/: to scent
   Das Reh witterte die Hunde und floh.
@@ -991,11 +1001,9 @@ Wochenende /ˈvɔxən|ɛndə/, das: weekend
   Was machst du am Wochenende?
   What are you doing at the weekend?
 
-Wochentag /ˈvɔxəntaːk/, der, -e: day of the week, weekday
+Wochentag /ˈvɔxəntaːk/, der, -(e)s|-e: day of the week, weekday
   Welcher Wochentag ist heute?
-  What day is it today?
   Nur an Wochentagen geöffnet!
-  Only open from Monday through Friday.
 
 wöchentlich /ˈvœçəntlɪç/: weekly
 

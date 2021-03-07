@@ -346,6 +346,8 @@ Zimt, der
 
 Zinn, das: tin
 
+Zinnsoldat, der
+
 Zinne, die: merlon, pinnacle
   Drei Zinnen: Tre Cime di Lavaredo
 
@@ -899,7 +901,8 @@ zweite /ˈʦvaitə/: second
   am Zweiten
   der zweite Mann
 
-Zwerg, der, -(e)s|-e: dwarf
+Zwerg /ʦvɛrk/, der, -(e)s|-e: dwarf
+  Gartenzwerge
 
 Zwetschge /ˈʦvɛtʃɡə/, die: plum
 

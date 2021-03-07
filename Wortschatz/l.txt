@@ -194,8 +194,8 @@ langweilen /ˈlaŋvailən/: to be bored, to bore
   He bores everyone with his stories.
 
 langweilig /ˈlaŋvailɪç/: boring
+  Langeweile verursachend
   Der Film war so langweilig, dass ich eingeschlafen bin.
-  The movie was so boring that I fell asleep.
 
 Lappen /ˈlapən/, der, -s|~: cloth
   den Tisch mit einem feuchten Lappen abwischen
@@ -255,6 +255,9 @@ lästig /ˈlɛstɪç/: annoying, tiresome
 Lastwagen /ˈlastvaːɡən/, der, -: truck
   Lastwagen dürfen hier nicht überholen.
   No overtaking for trucks.
+
+Latein /laˈtain/, das
+  Sprache der alten Römer
 
 Lauch, der: leek
   Porree

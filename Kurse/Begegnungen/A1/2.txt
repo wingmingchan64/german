@@ -58,8 +58,33 @@ A14
 A17
 Sprachkurse besuchen
 
-A22 p.45
+A22 In der Cafeteria
+Frau Herzberg: Was trinken Sie, Herr Heinemann?
+Herr Heinemann: Kaffee bitte. 
+Frau Herzberg: Bitte sehr.
+Herr Heinemann: Danke.
+Frau Herzberg: Geht Ihr Drucker jetzt?
+Herr Heinemann: Ja, er funktioniert, ich kann drucken.
+Frau Herzberg: Wie finden Sie Marburg, Herr Heinemann? 
+Herr Heinemann: Marburg ist eine schöne Stadt. 
+Frau Herzberg: Das finde ich auch. Was machen Sie am Wochenende?
+Herr Heinemann: Am Wochenende fahre ich nach München. Ich spiele dort im Universitätsorchester.
+Frau Herzberg: Wir haben auch ein Universitätsorchester hier. Welches Instrument spielen Sie?
+Herr Heinemann: Klavier. Und Sie, Frau Herzberg? Spielen Sie ein Instrument?
+Frau Herzberg: Ich spiele ein bisschen Gitarre. 
+Herr Heinemann: Können Sie gut singen? Wir suchen noch eine Sängerin für unser Orchester.
+Frau Herzberg: Nein, ich kann nicht singen. Ich spiele gern Volleyball oder Fußball.
+Herr Heinemann: Ich bin ein sehr schlechter Fußballspieler. Spielt Ihr Mann auch Fußball?
+Frau Herzberg: Natürlich. Mein Mann kommt aus England.
+Herr Heinemann: Ach so. Und welche Sprache sprechen Sie zu Hause?
+Frau Herzberg: Englisch und Deutsch. 
+Herr Heinemann: Frau Herzberg, Sie spielen Fußball und Sie rauchen?
+Frau Herzberg: Ja. Aber nur 5 bis 6 Zigaretten pro Tag. Und Sie? Rauchen Sie?
+Herr Heinemann: Nein, ich bin Nichtraucher.
 
-========================================================
-ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
-========================================================
+A24
+1. findest du
+2. fahrt ihr
+3. kannst du
+4. sprecht ihr
+5. lernt ihr

@@ -1,0 +1,23 @@
+Weak Declension
+The endings used after the definite articles der, die and das and other words declined like them are shown below.
+Case		Masculine Singular	Feminine Singular	Neuter Singular	All Genders Plural
+Nominative	wissenswerte		wissenswerte		wissenswerte	wissenswerten
+Accusative	wissenswerten		wissenswerte		wissenswerte	wissenswerten
+Genitive	wissenswerten		wissenswerten		wissenswerten	wissenswerten
+Dative		wissenswerten		wissenswerten		wissenswerten	wissenswerten
+
+Mixed Declension
+The endings used after ein, kein, irgendein and the possessive adjectives are shown below.
+Case		Masculine Singular	Feminine Singular	Neuter Singular	All Genders Plural
+Nominative	wissenswerter		wissenswerte		wissenswertes	wissenswerten
+Accusative	wissenswerten		wissenswerte		wissenswertes	wissenswerten
+Genitive	wissenswerten		wissenswerten		wissenswerten	wissenswerten
+Dative		wissenswerten		wissenswerten		wissenswerten	wissenswerten
+
+Strong Declension
+The endings used when there is no article before the noun are shown below.
+Case		Masculine Singular	Feminine Singular	Neuter Singular	All Genders Plural
+Nominative	wissenswerter		wissenswerte		wissenswertes	wissenswerte
+Accusative	wissenswerten		wissenswerte		wissenswertes	wissenswerte
+Genitive	wissenswerten		wissenswerter		wissenswerten	wissenswerter
+Dative		wissenswertem		wissenswerter		wissenswertem	wissenswerten

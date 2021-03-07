@@ -96,16 +96,19 @@ Tasche /ˈtaʃə/, die, ~|-en: pocket
   Sie hatte ihre Hände tief in den Taschen vergraben.
   She had her hands buried deeply in her pockets.
 
-Tanz /tanʦ/, der, Tänze /ˈtɛnʦə/: dance, ball
-  Er bat sie um den nächsten Tanz.
-  He asked her for the next dance.
-
 Tante /ˈtantə/, die, ~|-n: aunt
   Schwester (oder Frau des Bruders) des Vaters oder der Mutter
   Tante Johanna und Onkel Bernd kommen morgen zu Besuch.
   Aunt Johanna and Uncle Bernd are coming to visit tomorrow. 
 
+Tanz /tanʦ/, der, Tänze /ˈtɛnʦə/: dance, ball
+  Er bat sie um den nächsten Tanz.
+  He asked her for the next dance.
+
 tanzen /ˈtanʦən/: to dance
+  tanze, tanzt, tanzt, habe/bin getanzt
+  tanzte, tanztest
+  tanz, tanzt
 
 Tapete /taˈpeːtə/, die, ~|-n: wallpaper
   eine Tapete mit Blumenmuster: wallpaper with a flowery pattern
@@ -836,6 +839,8 @@ trocknen /ˈtrɔknən/: to dry
   She let her hair dry by itself.
 
 trommeln /ˈtrɔməln/: to drum, to play the drum
+
+Trompete /trɔmˈpeːtə/, die
 
 Tropf /trɔpf/, der: drip
   Man hat ihn an den Tropf gehängt.

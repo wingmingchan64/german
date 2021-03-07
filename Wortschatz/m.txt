@@ -192,6 +192,8 @@ Maske /ˈmaskə/, die: mask
   etw., womit man sein Gesicht bedeckt, um sich zu verkleiden
   eine Monstermaske für den Karneval
 
+maskulin /maskuˈliːn/
+
 Maskulinum /ˈmaskuliːnʊm/, das, -s|Maskulina: masculine noun
 
 Masochismus /mazɔˈxɪsmʊs/, der, ~|uncountable: masochism
@@ -224,6 +226,8 @@ Maßstab, der: standard, scale
 Mast /mast/, der, Maste: mast, pole
   Er stand im Mastkorb und hielt Ausschau.
   He stood in the crow's nest and kept a lookout.
+
+Matchboxauto, das
 
 Mathe, die
 
@@ -906,13 +910,16 @@ munter /ˈmʊntɐ/: awake, lively, cheerful, jolly
   Sie plauderten munter miteinander.
   They chatted away merrily to one another.
 
+Münze, die
+
 murmeln /ˈmʊrməln/: to murmur
   Er murmelte etwas Unverständliches vor sich hin.
   He murmured something incomprehensible to himself.
 
 Murmeltier /ˈmʊrməltiːɐ/, das: marmot
 
-Muschel, die,~|-n: mussel, shell
+Muschel /ˈmʊʃl/, die,~|-n: mussel, shell
+  Muscheln sammeln
 
 Museum /muˈzeːʊm/, das, -s|Museen /muˈzeːən/
   ins Museum gehen
