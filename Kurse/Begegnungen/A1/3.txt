@@ -24,7 +24,16 @@ Herr Wegner: Ich zahle lieber mit Kreditkarte.
 Rezeptionistin: Hier sind Ihre Zimmerschlüssel. Ihre Zimmernummer ist die 405 und Ihre Zimmernummer ist die 407. Schönen Aufenthalt!
 Herr Heinemann: Danke schön.
 Herr Wegner: Danke.
- 
+
+A12 Im Hotelzimmer
+Herr Heinemann: Ist dort die Rezeption?
+Rezeptionistin: Ja. Sie wünschen?
+Herr Heinemann: Hier ist Peter Heinemann, Zimmer 405. Ich habe ein Problem, nein – ich habe mehrere Probleme. Die Dusche ist kaputt, es gibt keine Handtücher und kein Toilettenpapier und der Fernseher geht auch nicht.
+Rezeptionistin: Das kann doch nicht sein!
+Herr Heinemann: Bitte kommen Sie doch und sehen Sie selbst.
+Rezeptionistin: Einen Moment bitte, ich komme. Wir bringen das sofort in Ordnung.
+
+65,6
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
 ========================================================

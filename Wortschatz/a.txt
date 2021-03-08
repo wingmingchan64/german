@@ -340,8 +340,9 @@ abregen: to cool off, to calm down
   sich beruhigen
   Jetzt reg dich mal wieder ab, so schlimm ist das doch nicht!
 
-Abreise /ˈapraizə/, die, ~|-n: departure
+Abreise /ˈapraizə/, die, ~|-n: departure (check-out)
   ihre Abreise nach London: her departure to London
+  Abreisetag
 
 abreisen
   im Rahmen einer Reise einen Ort verlassen
@@ -1551,6 +1552,9 @@ anregen /ˈanreːɡən/: to stimulate, to suggest
   stimulieren, beleben; den Anstoß zu etw. geben
 
 Anregung, die
+
+Anreise, die: journey, arrival (check-in)
+  Anreisetag
 
 anreisen
   zum Ziel der Reise kommen
@@ -3196,6 +3200,9 @@ aussprechen /ˈausʃprɛçən/: to pronounce, to express
   ≈ äußern
   Sie sprach ihre Bedenken nicht aus.
   She didn't put her misgivings into words.
+
+Ausstattung, die: equipment
+  Zimmerausstattung
 
 ausstehen /ˈausʃteːən/: to loathe sb/sth, to suffer, to be outstanding
   Er kann es nicht ausstehen, wenn geraucht wird.

@@ -44,6 +44,9 @@ Sackgasse /ˈzakɡasə/, die, -n: dead end, cul-de-sac
 Sadismus /zaˈdɪsmʊs/, der, ~|uncountable: sadism
   einen Hang zum Sadismus haben: to have a tendency towards sadism
 
+Safe, der/das
+  Zimmersafe
+
 Saft /zaft/, der, Säfte: juice
   Apfelsaft, Orangensaft
 
@@ -2205,6 +2208,10 @@ spürbar /ˈʃpyːɐbaːɐ/: noticeable , perceptible
 
 Staat /ʃtaːt/, der, -(e)s|-en: state, country
   ein demokratischer Staat: a democratic state
+
+Staatsangehörigkeit, die: nationality
+
+Staatsangehörigkeitsnachweis, der: proof of nationality
 
 Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
 

@@ -18,6 +18,13 @@ Er ist mit dem Auto Berg hinuntergefahren.
 Er sucht seinen Schlüssel.
 Sie sucht ihren Schlüssel.
 
+
+								Singular							Plural
+			  maskulin 			feminin 		neutrum
+Nominativ 	der Fernseher 		die Lampe 		das Bad 			die Zimmer
+			den Fernseher 		die Lampe 		das Bad 			die Zimmer
+Akkusativ 	einen Fernseher 	eine Lampe 		ein Bad 
+			keinen Fernseher 	keine Lampe 	kein Bad 			keine Zimmer
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
 ========================================================
