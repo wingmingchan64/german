@@ -1,6 +1,5 @@
 ﻿========================================================
-ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
-新求精59
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »« ↘↗
 ========================================================
 A /aː/ A wie Anton, Ä wie Ärger
 ========================================================
@@ -239,6 +238,7 @@ abholen: to pick up
   Wann holst du mich ab?
 
 Abitur /abiˈtuːɐ/, das, -s|-e: high school graduation (exam)
+  Abschluss an einem Gymnasium; Abschlussprüfung an einem Gymnasium
   Hast du Abitur?
   Did you graduate from high school?
 
@@ -1355,6 +1355,7 @@ angespannt /ˈanɡəʃpant/: strained, tense, fraught
   Before the exam he was nervous and tense.
 
 Angestellte /ˈanɡəʃtɛltə/: employee, white-collar worker
+  ein Angehöriger eines Betriebs
 
 angewurzelt /anɡəˈvʊrʦɛlt/: rooted to the spot
 

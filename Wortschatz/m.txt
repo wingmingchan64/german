@@ -275,6 +275,7 @@ Maut, die: toll
   auf der Autobahn Maut bezahlen müssen
 
 Maximum /ˈmaksimʊm/, das, -s|Maxima: maximum
+  das, was maximal erreichbar ist
   Das Auto bietet ein Maximum an Sicherheit.
   The car offers maximum safety.
 
@@ -469,6 +470,8 @@ Messerstecherei /mɛsɐʃtɛçəˈrai/, die: knife fight, stabbing
 Messing /ˈmɛsɪŋ/, das, -s|uncountable: brass
 
 Messtechnik, die: measurement technology, metrology
+
+Messung, die: measurement
 
 Metall /meˈtal/, das, -e: metal
   Leichtmetall: light metal
@@ -775,6 +778,7 @@ Moment /moˈmɛnt/, der, -(e)s|-e: moment
   Hang on! Now I remember!
 
 Moment /moˈmɛnt/, das, -(e)s|-e: factor
+  Umstand, der einen entscheidenden Einfluss hat
   Seiner Aktion fehlte das Überraschungsmoment.
   His campaign lacked an element of surprise.
 

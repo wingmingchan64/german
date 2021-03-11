@@ -6,6 +6,7 @@ laben: to feast, to treat
   etw. (bes. Speisen oder Getränke) genießen
 
 Labor /laˈboːɐ/, das, -s|-s/-e: lab(oratory)
+  Raum, in dem technische oder medizinische Versuche, Tests o. Ä. stattfinden
   Die Proben werden im Labor untersucht.
   The samples are being tested in the lab.
 
@@ -512,6 +513,7 @@ leiden /ˈlaidən/: to suffer
 leidend: ailing, long-suffering
 
 Leidenschaft /ˈlaidənʃaft/, die, ~|-en: passion
+  heftiges Gefühl, das von der Vernunft nur schwer zu steuern ist
   Sie verteidigte ihn voller Leidenschaft.
   She passionately defended him.
 

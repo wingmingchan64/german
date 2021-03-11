@@ -339,7 +339,7 @@ verfügbar /fɛɐˈfyːkbaːɐ/: available
   Der Artikel ist zurzeit nicht verfügbar.
   The article is not available at the moment.
 
-verfügen /fɛɐˈfyːɡən/: to have (at your disposal), to be in charge, to order, to decree
+verfügen /fɛɐˈfyːɡən/: to have (at your disposal), to be available, to be in charge, to order, to decree
   Das Hotel verfügt über vierzig Doppelzimmer.
   über sein Geld frei verfügen können
   Der Richter verfügte eine sofortige Sperrung der Webseite.
@@ -756,6 +756,9 @@ verneinen /fɛɐˈnainən/: to say no to, to answer in the negative, to reject
 Verneinung /fɛɐˈnainʊŋ/, die: negative answer, rejection
 
 vernetzen /fɛɐˈnɛʦən/: to network
+
+Vernunft, die: reason
+  die Fähigkeit, sich nach dem zu richten, was man mit dem Verstand erkannt hat
 
 vernünftig /fɛɐˈnʏnftɪç/: sensible
   Jetzt sei doch mal vernünftig!
@@ -1187,6 +1190,7 @@ Vertreibung /fɛɐˈtraibʊŋ/, die, ~|-en: expulsion
   ≈ Austreibung
 
 vertreten /fɛɐˈtreːtən/: to stand in/deputize for, to represent, to support
+  jds Aufgaben für eine bestimmte Zeit übernehmen; sich um die Wahrung der Interessen und Rechte einer Person kümmern
   Er hat sich auf der Sitzung von seiner Assistentin vertreten lassen.
   He had his assistant stand in for him at the meeting.
   Durch wen wird sie anwaltlich vertreten?
@@ -1630,7 +1634,7 @@ vorführen: to present, to perform
   to present the new collection at a fashion show
 
 Vorgang /ˈfoːɐɡaŋ/, der, -(e)s|..e: occurrence, event, process, file
-  das, was geschieht; 
+  das, was geschieht; zeitlicher Ablauf, Entwicklung
 
 vorgeben /ˈfoːɐɡeːbən/: to fix in advance, to pretend
   Die Bearbeitungszeit ist vorgegeben.

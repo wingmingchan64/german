@@ -209,6 +209,9 @@ räumlich /ˈrɔymlɪç/: spatial, physical
 Raumschiff /ˈraumʃɪf/, das: spaceship
   ein ultramodernes Raumschiff
 
+Raumsonde, die: space probe
+  unbemannter Flugkörper für wissenschaftliche Messungen im Weltraum
+
 raunzen: (S Germany) to moan, to grouse
 
 Raupe, die: caterpillar
@@ -481,6 +484,7 @@ Reichstag /ˈraiçstaːk/, der: parliament
 reicht → reichen
 
 Reichtum /ˈraiçtuːm/, der, -(e)s|..er: wealth
+  große Menge an Geld und Besitz
   zu Reichtum kommen: to become wealthy
   immenser Reichtum an Bodenschätzen: huge abundance of mineral resources
 

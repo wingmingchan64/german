@@ -25,6 +25,36 @@ Rezeptionistin: Hier sind Ihre Zimmerschlüssel. Ihre Zimmernummer ist die 405 u
 Herr Heinemann: Danke schön.
 Herr Wegner: Danke.
 
+A6
+Wie viel kostet ein Doppelzimmer im Hotel Bristol?
+Es kostet zwischen 69 und 89 Euro.
+1. Ist der Preis mit oder ohne Frühstück?
+   Der Preis ist mit Frühstück.
+2. Wie viele Sterne hat das Hotel Monaco?
+   Das Hotel Monaco hat zwei Sterne.
+3. Welche Besonderheit hat das Hotel Bristol?
+   Das Hotel Bristol hat eine Tiefgarage.
+4. Wie ist die Zimmerausstattung im Hotel Monaco?
+   Die Zimmer im Hotel Monaco haben eine Dusche, einen Haartrockner, einen Fernseher, ein Radio, einen Wecker und einen Schreibtisch.
+5. Was ist die Adresse vom Hotel Monaco?
+   Die Adresse vom Hotel Monaco ist: Schillerstraße 9, München.
+6. Wie viele Zimmer hat das Hotel Bristol?
+   Das Hotel Bristol hat 56 Zimmer.
+7. Gibt es ein Fitnesscenter im Hotel Arabella?
+   Ja, im Hotel Arabella gibt es ein Fitnesscenter.
+8. Wie viel kostet ein Dreibettzimmer im Hotel Monaco?
+   Ein Dreibettzimmer in Hotel Monaco kostet zwischen 86 und 220 Euro.
+9. Liegt das Hotel Monaco im Zentrum von München?
+   Ja, das Hotel Monaco liegt im Zentrum von München.
+10. Wie viel kostet ein Einzelzimmer im Hotel Arabella?
+    Ein Einzelzimmer im Hotel Arabella kostet zwischen 255 und 325 Euro.
+11. Gibt es im Hotel Monaco eine Tiefgarage?
+    Nein, im Hotel Monaco gibt es keine Tiefgarage.
+12. Wie viele Sterne hat das Hotel Arabella?
+    Das Hotel Arabella hat vier Sterne.
+13. Kann man im Hotel Arabella etwas essen?
+    Ja, man kann im Hotel Arabella etwas essen. Das Hotel hat ein Restaurant. 
+
 A12 Im Hotelzimmer
 Herr Heinemann: Ist dort die Rezeption?
 Rezeptionistin: Ja. Sie wünschen?
@@ -33,7 +63,48 @@ Rezeptionistin: Das kann doch nicht sein!
 Herr Heinemann: Bitte kommen Sie doch und sehen Sie selbst.
 Rezeptionistin: Einen Moment bitte, ich komme. Wir bringen das sofort in Ordnung.
 
-65,6
+A16 Nominativ: -e
+der neue Fernseher
+die schöne Uhr
+das alte Auto
+die teure Kaffeemachine
+das neue Faxgerät
+die moderne Lampe
+der neue Computer
+der bequeme Stuhl
+
+A17 Akkusativ: -en, -es, -e
+einen neuen Fernseher
+einen großen Schreibtisch
+ein altes Auto
+eine teure Uhr
+einen bequemen Sessel
+ein kaltes Bier
+ein großes Doppelzimmer
+ein weiches Bett
+einen guten Drucker
+ein französisches Spezialitätenrestaurant
+ein interessantes Buch
+
+A18 Der Stadtplan
+die Touristeninformation
+das Museum
+das Theater
+die Oper
+das Kino
+der Bahnhof
+das Hotel
+das Rathaus
+das Restaurant
+der Parkplatz
+die Bank
+die Post
+die Universität
+die Apotheke
+das Café
+der Supermarkt
+
+
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
 ========================================================

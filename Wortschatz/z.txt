@@ -173,6 +173,7 @@ Zelt /ʦɛlt/, das: tent
   ein Zelt aufstellen/abbrechen: to put up/take down a tent
 
 Zement /ʦeˈmɛnt/, der, -(e)s|uncountable: cement
+  Baustoff, aus dem Mörtel und Beton hergestellt werden
   Zement mischen: to mix cement
 
 Zentner /ˈʦɛntnɐ/, der
@@ -362,6 +363,7 @@ Zinshahn: cock given as rent
 zirka /ˈʦɪrka/ → circa
 
 Zirkus /ˈʦɪrkʊs/, der, ~|-se: circus, fuss
+  Gruppe von Artisten, die meist in einem Zelt Akrobatik und Tierdressuren zeigen
   Ein Zirkus gastiert in der Stadt.
   A circus is in town.
   Mach doch nicht so einen Zirkus wegen dieser Kleinigkeit!
@@ -513,6 +515,10 @@ Zug /ʦuːk/, der, -(e)s|..e: train, feature, characteristic, trait
 
 Zugang /ˈʦuːɡaŋ/, der, -(e)s|..e: entrance
   Stelle, an der man in ein Gelände, ein Gebäude oder in einen Raum gelangt
+
+zugänglich /ˈʦuːɡɛŋlɪç/: accessible
+  erreichbar / betretbar; nutzbar
+  Das Gelände ist schwer zugänglich.
 
 zugeben /ˈʦuːɡeːbən/: to admit
   einen Fehler / Irrtum zugeben: to admit a mistake

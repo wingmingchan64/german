@@ -765,6 +765,8 @@ unklar /ˈʊnklaːɐ/: unclear
 Unkraut /ˈʊnkraut/, das, -(e)s, Arten: Unkräuter: weeds
   Unkraut jäten: to do some weeding
 
+unbemannt: unmanned
+
 unmittelbar /ˈʊnmɪtəlbaːɐ/: immediate, direct, immediately, directly
   in der unmittelbaren Zukunft: in the immediate future
   die unmittelbaren Auswirkungen: the direct consequences
@@ -900,6 +902,9 @@ Unternehmen /ʊntɐˈneːmən/, das: company, firm, business, venture, operation
 unternehmen /ʊntɐˈneːmən/: to do, to go on, to (under)take, to make
   Wollen wir morgen etwas gemeinsam unternehmen?
   Shall we do something together tomorrow?
+
+Unternehmertum, das
+  management, employers
 
 Unternehmung, die: undertaking
   ≈ Transaktion

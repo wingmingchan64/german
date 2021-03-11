@@ -223,6 +223,7 @@ irren: to be mistaken, to err
 irritieren
 
 Irrtum /ˈɪrtuːm/, der, -s|..er: mistake
+  Fehler beim Beurteilen
   Es wäre ein Irrtum zu glauben, dass …
   It would be a mistake to believe that …
   im Irrtum sein / sich im Irrtum befinden

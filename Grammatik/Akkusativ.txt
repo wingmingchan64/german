@@ -19,12 +19,17 @@ Er sucht seinen Schlüssel.
 Sie sucht ihren Schlüssel.
 
 
-								Singular							Plural
+								Singular						Plural
 			  maskulin 			feminin 		neutrum
-Nominativ 	der Fernseher 		die Lampe 		das Bad 			die Zimmer
-			den Fernseher 		die Lampe 		das Bad 			die Zimmer
-Akkusativ 	einen Fernseher 	eine Lampe 		ein Bad 
-			keinen Fernseher 	keine Lampe 	kein Bad 			keine Zimmer
+Nominativ 	der Fernseher 		die Lampe 		das Bad 		die Zimmer
+			der alte Fernseher	die alte Lampe	das alte Bad	die alten Zimmer
+			ein alter Fernseher	eine alte Lampe	ein altes Bad
+Akkusativ 	den Fernseher 		die Lampe 		das Bad 		die Zimmer
+			den alten Fernseher	die alte Lampe	das alte Bad	die alten Zimmer
+			einen Fernseher 	eine Lampe 		ein Bad
+			einen alten Fernseher
+			keinen Fernseher 	keine Lampe 	kein Bad 		keine Zimmer
+			
 ========================================================
 ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«
 ========================================================

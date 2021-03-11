@@ -1405,6 +1405,7 @@ Seetang, der: seaweed, kelb
 
 Segel /ˈzeːɡəl/, das, -s|~: sail
   die Segel setzen: to set the sails
+  Segelschiffe
 
 segeln /ˈzeːɡəln/: to sail
 
@@ -1838,6 +1839,8 @@ sonderbar /ˈzɔndɐbaːɐ/: strange
   Ich finde es sonderbar, dass er noch nicht hier ist.
   I think it's strange that he isn't here yet.
 
+Sonde, die: probe, tube
+
 sonderlich: especially
 
 Sonderangebot, das: special offer
@@ -2225,6 +2228,7 @@ stabil /ʃtaˈbiːl/: stable, sturdy
   nicht in Gefahr, sich stark zu ändern; nicht leicht zu beschädigen, zerstören
 
 Stadion /ˈʃtaːdjɔn/, das, -s|Stadien: stadium
+  ovales Feld mit erhöhten Zuschauerbänken für Sportveranstaltungen
 
 Stadt /ʃtat/, die, ~|..e: town, city
 
@@ -2528,6 +2532,7 @@ Steuer /ˈʃtɔyɐ/, die, -n: tax
   to pay/avoid paying tax
 
 steuern /ˈʃtɔyɐn/: to steer, to drive, to pilot, to head, to control
+  am Steuer eines Fahrzeugs sitzen / stehen; regulieren, wie eine technische Anlage funktioniert, ein Vorgang abläuft
   am Steuer eines Fahrzeugs sitzen / stehen
   Wer hat den Wagen gesteuert?
   Who was driving the car?
@@ -3088,6 +3093,7 @@ sympathisch /zʏmˈpaːtɪʃ/: likable, nice
 Symphonie /zʏmfoˈniː/, die
 
 Symposion /zʏmˈpoːzjɔn/, das, -s|Symposien: symposium
+  Tagung von Experten zu einem bestimmten Thema
   an einem Symposion zum Thema Kindesmissbrauch teilnehmen
   to attend a symposium on child abuse
 
