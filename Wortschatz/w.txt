@@ -952,6 +952,9 @@ Wirtschaftsteil, der: business section
 Wirtschaftswissenschaft, die
   Wissenschaft, die sich mit der wirtschaftlichen Prozessen beschäftigt
 
+Wirtshaus, das
+  einfache Gaststätte ohne Übernachtungsmöglichkeit
+
 wischen /ˈvɪʃən/: to wipe
   Er wischte sich mit dem Ärmel über die Stirn.
   He wiped his sleeve across his forehead.

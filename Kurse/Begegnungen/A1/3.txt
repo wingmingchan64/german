@@ -104,7 +104,155 @@ die Apotheke
 das Café
 der Supermarkt
 
+A23 Geben Sie die Informationen wieder.
+Wann hat das Museum geöff net?
+Das Deutsche Museum hat täglich von 9.00 bis 17.00 Uhr geöffnet.
+Die Pinakothek der Moderne hat von Dienstag bis Sonntag 10.00 bis 17.00 Uhr und donnerstags und freitags von 10.00 bis 20.00 Uhr geöff net.
+Das Kartoff elmuseum hat am Freitag von 09.00 bis 18.00 Uhr und am Samstag von 11.00 bis 17.00 Uhr geöffnet.
+Der Englische Garten hat immer geöffnet.
 
-========================================================
-ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »«↘↗
-========================================================
+Wann öffnet und schließt das Museum?
+Das Deutsche Museum öffnet um 9.00 und schließt um 17.00 Uhr.
+Die Pinakothek der Moderne öffnet von Dienstag bis Sonntag um 10.00 Uhr. Sie schließt am Dienstag, Mittwoch, Samstag und Sonntag um 17.00 Uhr und donnerstags und freitags um 20.00 Uhr.
+Das Kartoff elmuseum öffnet am Freitag um 09.00 Uhr und schließt um 18.00 Uhr. Am Samstag öffnet das Museum um 11.00 und schließt um 17.00 Uhr.
+
+Wie viel kostet eine Eintrittskarte?
+Das Kartoffelmuseum: Die Eintrittskarte kostet nichts. Der Eintritt ist frei.
+Das Deutsche Museum: Eine Tageskarte für das Deutsche Museum kostet 7,50 Euro. Eine Studentenkarte kostet drei Euro und eine Familienkarte kostet 15,00 Euro. 
+Die Pinakothek der Moderne: Eine Tageskarte für die Pinakothek der Moderne kostet neun Euro und eine Studentenkarte kostet fünf Euro.
+Der Englische Garten: Die Eintrittskarte kostet nichts. Der Eintritt ist frei.
+
+A26
+- Ja, guten Tag. Ich habe eine Frage. Wann hat das Stadtmuseum geöffnet?
+- Das Stadtmuseum hat 10.00 bis 18.00 Uhr geöffnet.
+- Haben Sie immer geöff net, von Montag bis Sonntag?
+- Wir haben von Dienstag bis Sonntag geöffnet. Aber am Montag ist das Museum geschlossen.
+- Und wie viel kostet eine Eintrittskarte?
+- Eine Eintrittskarte kostet 2,50 Euro.
+
+- Guten Tag. Zwei Tageskarten bitte.
+- Das kostet 5 Euro.
+- Kann ich mit Kreditkarte bezahlen?
+- Nein, wir nehmen nur Bargeld.
+- Gibt es ein Restaurant im Museum?
+- Ja.
+- Danke für die Auskunft.
+
+A27 Lesen Sie die E-Mail von Peter an Klara.
+Liebe Klara,
+viele Grüße aus München. Mein Hotel liegt im Zentrum. Das Hotelzimmer ist sehr groß. Es hat einen Fernseher und zum Glück einen Internetanschluss. Heute Abend um 20.00 Uhr gibt das Universitätsorchester ein Konzert und ich spiele, wie immer, Klavier. Aber bis 20.00 Uhr habe ich noch etwas Zeit. Ich möchte gerne das Deutsche Museum besuchen und die vielen interessanten Erfindungen bewundern. Vielleicht mache ich auch noch einen Spaziergang und trinke ein Bier. Aber nur ein Bier, ich möchte heute Abend natürlich gut spielen.
+Liebe Grüße,
+Dein Peter
+
+A28
+Liebe Peter,
+viele Grüße aus München. Mein Hotel liegt sehr günstig. Es ist ein preiswertes Hotel. Aber das Hotelzimmer ist klein, der Fernseher ist kaputt und die Minibar ist leer. Glücklicherweise gibt es einen Internetanschluss. Morgen möchte ich das Kartoffelmuseum besuchen. Heute um 19.00 Uhr spiele ich Fußball und ich habe noch etwas Zeit. Ich möchte Tee trinken und etwas essen.
+Liebe Grüße
+Dein Klara
+
+B3 Wo liegt …?
+Berlin liegt im Osten von Deutschland.
+Hamburg liegt im Norden von Deutschland.
+München liegt im Süden von Deutschland.
+Köln liegt im Westen von Deutschland.
+Dresden liegt im Osten von Deutschland.
+Hannover liegt im Nordosten von Deutschland.
+Leipzig liegt im Osten von Deutschland.
+Düsseldorf liegt im Westen von Deutschland.
+Frankfurt am Main liegt im Westen von Deutschland.
+Frankfurt an der Oder liegt im Osten von Deutschland.
+Eisenach liegt in der Mitte von Deutschland.
+
+der Norden
+der Nordosten
+der Osten
+der Südosten
+der Süden
+der Südwesten
+der Westen
+der Nordwesten
+die Mitte
+
+B4 München – die Landeshauptstadt Bayerns
+In München wohnen ca. 1,26 Millionen Menschen. München liegt im Süden von Deutschland und ist die Landeshauptstadt von Bayern.
+
+München hat zwei Universitäten: die Ludwig-Maximilians-Universität und die Technische Universität. An der LMU (Ludwig-Maximilians-Universität) studieren 47 000 Studenten.
+
+München hat 71 Theater, drei große Orchester und 50 Museen und Sammlungen.
+
+Die Sammlung der Alten Pinakothek umfasst 9000 Bilder großer europäischer Maler aus dem 15. bis 18. Jahrhundert. Die bekanntesten Bilder sind von den Malern Albrecht Dürer und Peter Paul Rubens. Die Pinakothek der Moderne zeigt moderne Kunst und Architektur. Sie ist ein international bedeutendes Museum für Kunst aus dem 20. Jahrhundert.
+
+Aber München bietet noch viel mehr, zum Beispiel das berühmteste Wirtshaus der Welt, das Hofbräuhaus. Es ist 400 Jahre alt. Insgesamt trinken die Gäste im Hofbräuhaus täglich 1000 Liter Bier.
+
+In München findet man auch viele große Firmen wie Siemens (Hersteller von Elektrogeräten, Telefonen und Computern), BMW (Hersteller von Autos), MAN (Hersteller von Lastkraftwagen) oder Rodenstock (Hersteller von Brillen).
+
+C1 Wer ist das? Was ist das?
+Kyoto ist eine japanische Stadt.
+Niels Bohr ist ein dänischer Physiker.
+IBM ist eine amerikanische Computerfirma.
+Peugeot ist ein französisches Auto.
+Plato ist ein griechischer Philosoph.
+Die Davidstatue von Michelangelo ist ein italienisches Kunstwerk.
+Die Ermitage ist ein russisches Museum.
+
+C2
+Brauchst du eine Eintrittskarte? Nein danke, ich brauche keine Eintrittskarte.
+Braucht ihr einen Wecker? Nein, wir brauchen keinen Wecker.
+Brauchen Sie ein Radio?
+Brauchst du eine Lampe?
+Braucht sie einen Kugelschreiber?
+Braucht er eine Brille?
+Brauchst du einen Drucker?
+Braucht man eine Zeitung?
+Braucht er einen Schlüssel?
+Braucht ihr ein Regal?
+Brauchen Sie ein Faxgerät?
+Brauchst du eine Kaffeemaschine?
+Brauchen wir ein Wörterbuch?
+Braucht er einen Terminkalender?
+
+C3
+Möchtest du ein neues Wörterbuch?
+Möchtest du einen kleinen Wecker?
+Möchtest du einen modernen Computer?
+Möchtest du eine alte Zeitung?
+Möchtest du ein großes Büro?
+Möchtest du einen praktischen Computertisch?
+Möchtest du einen preiswerten Labtop?
+Möchtest du einen neuen Bleistift?
+Möchtest du ein leeres Bücherregal?
+
+C4
+Hast du einen neuen Fernseher?
+Nein, ich habe keinen neuen Fernseher. Ich habe einen alten.
+Hast du ein weiches Bett?
+Nein, ich habe kein weiches Bett. Ich habe ein hartes.
+Hast du eine volle Minibar?
+Nein, ich habe keine volle Minibar. Ich habe eine leere.
+Hast du ein großes Bad?
+Nein, ich habe kein großes Bad. Ich habe ein kleines.
+Hast du ein interessantes Buch?
+Nein, ich habe kein interessantes Buch. Ich habe ein langweiliges.
+Hast du einen bequemen Stuhl?
+Nein, ich habe keinen bequemen Stuhl. Ich habe einen unbequemen.
+Hast du ein schnelles Auto?
+Nein, ich habe kein schnelles Auto. Ich habe ein langsames.
+Hast du eine moderne Lampe?
+Nein, ich habe keine moderne Lampe. Ich habe eine unmoderne.
+Hast du ein schönes Zimmer?
+Nein, ich habe kein schönes Zimmer. Ich habe ein hässliches.
+
+C6
+1. Kennt ihr der neuen Roman von Patrick Süskind?
+2. Trinken Sie auch einen Kaffee?
+3. Gibt es hier einen bequemen Stuhl?
+4. Dagmar möchte schon wieder ein neues Telefon.
+5. Liest du auch die Süddeutsche Zeitung?
+6. Das ist ein uninteressantes Buch. Ich lese es nicht.
+7. Habt ihr auch einen modernen Fernseher?
+8. Ich schreibe eine sehr wichtige E-Mail.
+9. Mein Sohn möchte das Deutsche Museum besuchen. Es ist ein interessantes Museum.
+10. Die neue Dusche ist schon kaputt!
+11. Die Bibliothek braucht neuen Bücher.
+12. Mein Freundin sammelt keine Münzen.
+
