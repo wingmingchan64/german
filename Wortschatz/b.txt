@@ -25,6 +25,8 @@ Bäckerei /bɛkəˈrai/, die, ~|-en: bakery
 Backstein /ˈbakʃtain/, der, -(e)s|-e: brick
   ein alter Backsteinbau: an old red-brick building
 
+Backwaren, pl
+
 Bad /baːt/, das: bath, bathroom
 
 Badeanzug, der: swimsuit
@@ -1333,6 +1335,9 @@ bestaunen /bəˈʃtaunən/: to gaze in admiration at, to marvel at
   das Werk eines Künstlers bestaunen
   to gaze in admiration at the work of an artist
 
+Besteck, der: silverware
+  die Geräte, mit denen man isst: Messer, Gabel, Löffel
+
 bestehen /bəˈʃteːən/: to be, to exist, to pass
   bestehe, bestehst, besteht, habe bestanden
   existieren, vorhanden sein
@@ -2372,7 +2377,7 @@ Broschüre /brɔˈʃyːrə/, die: brochure, pamphlet, leaflet
 Brot /broːt/, das, -(e)s|-e/~|-en: bread
   ein Laib Brot: a loaf of bread
 
-Brötchen /ˈbrøːtçən/, das: bread, dinner roll
+Brötchen /ˈbrøːtçən/, das, -s|~: bread, dinner roll
 
 Brotzeit /ˈbroːtʦait/, die, -: snack
   Brotzeit machen: to have a break for a snack

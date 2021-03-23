@@ -412,6 +412,9 @@ Meldung /ˈmɛldʊŋ/, die, ~|-en: report, piece of news
   seine Meldung zu einem Wettkampf zurückziehen: to withdraw from a competition
   Wettermeldungen
 
+Melone, die
+  große, runde Frucht
+
 Memoiren /memoˈaːrən/, pl: memoirs
   schriftliche Erinnerungen an das eigene Leben
   seine Memoiren schreiben: to write your memoirs
@@ -512,6 +515,8 @@ Mietvertrag, der: lease
 
 Milch /mɪlç/, die, ~|uncountable: milk
   zum Frühstück Milch trinken
+
+Milchprodukt, das, -es|-e
 
 Milchreis, der: rice pudding
 
@@ -738,6 +743,7 @@ Modus /ˈmoːdʊs/, der, ~|Modi /moːdi/: method, way, mood
 
 mögen /ˈmøːɡən/: to want, to like
   mag, magst, mag, ihr mögt, ich habe gemocht
+  mochte
   Preterite: mochte, mochtest
   Imperfect Subjunctive: möchte, möchtest
 

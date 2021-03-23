@@ -479,6 +479,9 @@ reichen /ˈraiçən/: to be enough, to reach, to pass, to serve
   A light white wine was served with the entrée.
   mir reichts: I've had enough
 
+reichhaltig /ˈraiçhaltɪç/: extensive, rich
+  viele Dinge enthaltend
+
 Reichstag /ˈraiçstaːk/, der: parliament
 
 reicht → reichen
@@ -823,6 +826,7 @@ Roggen /ˈrɔɡən/, der: rye
 roh /roː/: raw
   Bohnen sind roh giftig.
   Raw beans are poisonous.
+  roher (Nominativ) / rohen (Akkusativ) Schinken
 
 Rohr /roːɐ/, das, -(e)s|-e: pipe
   Rohre verlegen
@@ -1012,6 +1016,8 @@ Ruhm /ruːm/, der, -(e)s|uncountable: fame
 rühmen: to praise, glorify
   gute Eigenschaften oder Leistungen betonen
 
+Rührei /ˈryːɐ|ai/, das, -er: scrambled egg(s)
+
 rühren /ˈryːrən/: to stir, to beat, to move
   einen Löffel o. Ä. in etw. im Kreis bewegen, bes. um es zu mischen
   Eier und Zucker schaumig rühren: to beat eggs and sugar until fluffy
@@ -1028,7 +1034,7 @@ rühren /ˈryːrən/: to stir, to beat, to move
   etw. rührt von etw. / daher, dass …: sth stems from sth / the fact that …
   Die Probleme rühren daher, dass dies nicht rechtzeitig erkannt wurde.
   The problems stem from the fact that this wasn't recognized in time.
-  
+
 rührselig /ˈryːɐzeːlɪç/: emotional
   dazu neigend, sich leicht zu Tränen rühren zu lassen
 

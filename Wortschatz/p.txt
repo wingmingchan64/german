@@ -145,7 +145,8 @@ passen /ˈpasən/: to fit
 passend /ˈpasənt/: suitable, fitting, matching
   Das ist nun wirklich nicht die passende Kleidung für einen festlichen Anlass.
   Those clothes really aren't suitable for a formal occasion.
-  Er trägt eine passende Krawatte. (Sie passt zum Hemd.) 
+  Er trägt eine passende Krawatte. (Sie passt zum Hemd.)
+  Geld: exact
 
 passieren /paˈsiːrən/: to occur, to happen
   Wie ist das passiert?
@@ -258,6 +259,7 @@ Pfand, das: security, pledge, deposit
 Pfandflasche, die: returnable bottle
 
 Pfanne /ˈpfanə/, die, ~|-n: pan, skillet
+  flaches Gefäß aus Metall zum Braten
   das Fleisch in der Pfanne anbraten: to brown the meat in the frying pan
   jdn in die Pfanne hauen: to do the dirty on sb
   In dem Zeitungsartikel wurde der Minister ordentlich in die Pfanne gehauen.
@@ -291,6 +293,8 @@ Pferd /pfeːɐt/, das, -(e)s|-e: horse
 Pflegeheim, das: nursing home
 
 Pflaster /ˈpflastɐ/, das, -s|~: adhesive bandage, Band-Aid
+
+Pflaume, die: plum
 
 Pflege /ˈpfleːɡə/, die: care
   das Pflegen
@@ -565,6 +569,7 @@ praktisch /ˈpraktɪʃ/: practical
   This jacket is practical because it's also waterproof.
 
 Praline /praˈliːnə/, die, ~|-n: chocolate
+  gefülltes Stück Schokolade
   eine Schachtel Pralinen: a box of chocolates
 
 Präokkupation, die: Vorwegnahme; Voreingenommenheit, Vorurteil, Befangenheit
@@ -601,7 +606,12 @@ Prellung /ˈprɛlʊŋ/, die, ~|-en: bruise
 
 Presse /ˈprɛsə/, die: press
 
+Pressemitteilung, die: press release
+
 pressen /ˈprɛsən/: to press, to push
+  habe gepresst
+  presste
+  press, presst
   Sie presste ein Taschentuch auf die Wunde.
   She pressed a handkerchief to the wound.
   „Und jetzt pressen!‟, rief die Hebamme.
@@ -610,8 +620,6 @@ pressen /ˈprɛsən/: to press, to push
   frisch gepresster Orangensaft: freshly squeezed orange juice
 ​ gepresste Blumen in ein Buch kleben
   to stick pressed flowers in a book
-
-Pressemitteilung, die: press release
 
 Preußen, das: Prussia
 

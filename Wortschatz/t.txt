@@ -398,6 +398,9 @@ teilnehmen
 
 Teilnehmer, Teilnehmerin
 
+Teller, der, -s|~
+  runde Platte (bes. aus Porzellan), von der gegessen wird
+
 Teppich /ˈtɛpɪç/, der, -s|-e: carpet
 
 Textilien, die
@@ -593,6 +596,7 @@ Tonne /ˈtɔnə/, die, -n: barrel, drum, trash can, ton
 Tonno: tuna
 
 Topf /tɔpf/, der, Töpfe: pot, (sauce)pan
+  Gefäß mit Deckel zum Kochen von Speisen
   die Nudeln aus dem Topf schütten
   to pour the noodles out of the pan
 
