@@ -70,7 +70,44 @@ Ich heiße Franziska Binder.↘ Und Sie?↗ Wie heißen Sie?↗
 Mein Name ist Peter Heinemann.↘ Wo wohnen Sie?↗
 Ich wohne in Marburg.↘
 
-A9
+A7 Fragen Sie Ihre Nachbarin/Ihren Nachbarn.
+Wie heißen Sie? Wie heißt du?
+Woher kommen Sie? Woher kommst du?
+Wo wohnen Sie? Wo wohnst du?
+
+A8 Das Alphabet
+A /a:/
+B /be:/
+C /ʦe:/
+D /de:/
+E /e:/
+F /ɛf/
+G /ge:/
+H /ha:/
+I /i:/
+J /jɔt/
+K /ka:/
+L /ɛl/
+M /ɛm/
+N /ɛn/
+O /o:/
+P /pe:/
+Q /ku:/
+R /ɛr/
+s /ɛs/
+T /te:/
+U /u:/
+V /fau/
+W /veː/
+X /ɪks/
+Y /ˈʏpsilɔn/
+Z /ʦɛt/
+Ä /ɛː/
+Ö /øː/
+Ü /yː/
+ß /ɛsˈʦɛt/
+
+A9 Wie heißen die Leute?
 0. Müller
 1. Waltel
 2. König
@@ -79,6 +116,24 @@ A9
 5. Jung
 6. Einstein
 7. Mozart
+
+A10 In welchem Land ist die Stadt?
+Woher kommen Sie? Ich komme aus Düsseldorf. Ich buchstabiere: D-ü-s-s-e-l-d-o-r-f 
+Wo ist Düsseldorf? Düsseldorf ist in Deutschland.
+München: Deutschland
+Paris: Frankreich
+Athen: Griechenland
+Bukarest: Rumänien
+Budapest: Ungarn
+Venedig: Italien
+Peking: China
+Wien: Österreich
+Porto: Portugal
+Stockholm: Schweden
+London: Großbritannien
+Brüssel: Belgien
+Kopenhagen: Dänemark
+Köln: Deutschland
 
 A12
 Ich bin Kellner, Kellnerin

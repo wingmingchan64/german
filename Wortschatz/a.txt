@@ -949,6 +949,9 @@ Almosen /ˈalmoːzən/, das, -s|~: alms
 
 Almrausch, der, -es|~: alpine rose, rhododendron, mountain rose
 
+Alphabet /alfaˈbeːt/, das
+  feste Reihenfolge von Buchstaben
+
 als /als/: when, than, only, as if, as
   Als ich noch in Berlin wohnte, ging ich oft ins Kino.
   When I lived in Berlin I often went to the movies.
@@ -3437,6 +3440,9 @@ Automat /autoˈmaːt/, der, -en|-en: machine, ATM, slot machine, robot
   Robots are used in the production process.
 
 Autonomie /autonoˈmiː/, die
+
+Autor, Autorin, Autoren
+  jd, der einen Text geschrieben hat
 
 Autoscooter, Autoskooter, der: bumper car
 
