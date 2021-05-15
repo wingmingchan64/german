@@ -147,7 +147,7 @@ Ich bin Student, Studentin
 Ich bin Taxifahrer, Taxifahrerin
 Ich bin Assistent, Assistentin
 
-A13
+A13 Wie heißen die Berufe?
 Ich studiere Medizin. Später bin ich Arzt/Ärztin.
 Johann studiert Chemie. Später ist er Chemiker.
 Marie studiert Jura. Später ist sie Anwältin.
@@ -158,6 +158,12 @@ Ich studiere Philosophie. Später bin ich Philosoph/Philosophin.
 Franziska studiert Malerei. Später ist sie Malerin.
 Anika studiert Musik. Später ist sie Musikerin.
 Otto studiert Journalistik. Später ist er Journalist.
+
+A15 Finden Sie die Endungen.
+ich komme/wohne/heiße/bin
+du kommst/wohnst, heißt/bist
+er kommt/wohnt/heißt/ist
+sie kommen/wohnen/heißen/sind
 
 A18
 Schweden – die Schweiz
