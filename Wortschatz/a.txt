@@ -1226,6 +1226,7 @@ anfauchen: (cat) to spit at, to snap at
 aufbewahren: to keep
 
 anfertigen /ˈanfɛrtɪɡən/: to make, to manufacture
+  als Ergebnis einer Arbeit in sach-, kunstgerechter, oft bestimmten Plänen entsprechender Weise entstehen lassen, hervorbringen; herstellen, produzieren, fabrizieren, machen
   habe angefertigt
   eine Skizze von einem Gebäude anfertigen: to make a sketch of a building
   sich (dative) einen Anzug etc anfertigen lassen
