@@ -43,7 +43,7 @@ Meine Muttersprache ist Deutsch. Ich lerne jetzt Japanisch.
 A3
 Ich komme aus: Italien, Frankreich, Schweden, Dänemark, Großbritannien, Polen, Russland, Spanien, Portugal, Brasilien, China, Japan, Belgien, Rumänien, Slowenien, Indien, Ungarn, Irland, Griechenland.
 
-Ich komme aus der Türkei.
+Ich komme aus der Türˈkei.
 Ich komme aus der Ukraine.
 Ich komme aus der Schweiz.
 Ich komme aus den USA.
@@ -156,8 +156,8 @@ Ich studiere Ingenieurwesen. Später bin ich Ingenieur/Ingenieurin.
 Michael studiert Physik. Später ist er Physiker.
 Ich studiere Philosophie. Später bin ich Philosoph/Philosophin.
 Franziska studiert Malerei. Später ist sie Malerin.
-Anika studiert Musik. Später ist sie Musikerin.
-Otto studiert Journalistik. Später ist er Journalist.
+Anika studiert Musik. Später ist sie ˈMusikerin.
+Otto studiert Journaˈlistik. Später ist er Journaˈlist.
 
 A15 Finden Sie die Endungen.
 ich komme/wohne/heiße/bin
@@ -180,6 +180,24 @@ Was ist deine Muttersprache? Meine Muttersprache ist Deutsch.
 Meine Heimatstadt ist Bern. Ich komme aus der Schweiz.
 Mein Nachbar heißt Pedro. Er studiert Malerei.
 Ich komme aus der Türkei. Meine Muttersprache ist Türkisch.
+
+A22 Aus welchen Ländern kommen diese Flugzeuge?
+Barcelona: Spanien
+Kopenhagen: Dänemark
+Tokio: Japan
+Hamburg: Deutschland
+Oslo: ˈNorwegen
+Budapest: Ungarn
+London/Heathrow: England
+Thessaloniki: Griechenland
+Istanbul: Türkei
+Peking: China
+Lissabon: Portugal
+Athen: Griechenland
+Neu-Delhi: Indien
+Stockholm: Schweden
+Amsterdam: Niederlanden
+Warschau: Polen
 
 A23
 null
@@ -256,7 +274,7 @@ Ich bin 25 Jahre alt.
 Sprechen Sie Englisch?
 Ja. Ich spreche ein bisschen Englisch.
 
-A34
+A34 Personen und Hobbys
 Das ist Hans Behrens. Er arbeitet als Chemiker bei BASF in Ludwigshafen. Er ist verheiratet mit Susanne und hat zwei Kinder. Seine Hobbys sind Tennis spielen und Briefmarken sammeln.
 
 Das ist der Bruder von Hans. Er heißt Martin. Er studiert Informatik in Bremen. Er spricht sehr gut Englisch und schreibt gern Computerprogramme. Martin ist ledig.
@@ -280,7 +298,6 @@ Deutschland hat 82,4 Millionen Einwohner und 16 Bundesländer. Die Hauptstadt is
 Die Schweiz ist über 800 Jahre alt. Sie hat 26 kleine Kantone (= Bundesländer) und 7,5 Millionen Einwohner. Die Hauptstadt ist Bern. Die Schweiz hat vier Amtssprachen: etwa 70 Prozent der Einwohner sprechen Deutsch, etwa 20 % Französisch, etwa 10 % Italienisch und 1 % spricht Rätoromanisch.
 
 C6
-
 1. Sandra kommt aus Schweden. Sie wohnt jetzt in Hamburg und studiert dort Medizin. Sie ist ledig. Sie spielt gern Volleyball, liest gern Kriminalromane.
 2. Paolo kommt aus Spanien. Er wohnt jetzt in München. Dort arbeitet er als Ingenieur bei Siemens. Paolo spielt gern Fußball.
 3. Klaus wohnt in Berlin. Er ist Journalist. Klaus ist verheiratet und hat drei Kinder. Er schreibt Gedichte.
