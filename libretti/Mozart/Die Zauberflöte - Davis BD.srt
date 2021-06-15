@@ -1,0 +1,553 @@
+﻿00:00:00,000  --> 00:00:20,000
+Mozart:  Die Zauberflöte
+Conducted by Sir Colin Davis
+
+00:00:21,000 --> 00:00:31,000
+Ouvertüre
+
+00:07:57,000 --> 00:08:07,000
+Zu Hilfe! Zu Hilfe! Sonst bin ich verloren,
+Help! Help me, or I am lost,
+
+00:08:07,000 --> 00:08:14,000
+Der listigen [cunning] Schlange zum Opfer erkoren [predestined]!
+Barmherzige Götter!
+doomed to fall prey to the cunning serpent!
+Merciful gods!
+
+00:08:15,000 --> 00:08:21,500
+Schon nahet sie sich!
+Now it’s coming nearer!
+
+00:08:22,000 --> 00:08:32,000
+Ach rettet mich! Ach schützet mich!
+Ah, save me! Ah, defend me!
+
+00:08:33,000 --> 00:08:40,000
+Stirb, Ungeheuer, durch uns’re Macht!
+Die, monster, by our power!
+
+00:08:43,000 --> 00:08:46,800
+Triumph! Triumph!
+Victory! Victory! 
+
+00:08:47,000 --> 00:08:53,000
+Sie ist vollbracht, die Heldentat!
+It is accomplished, the heroic deed!
+
+00:08:54,500 --> 00:08:59,500
+Er ist befreit
+He is free,
+
+00:09:00,500 --> 00:09:13,000
+durch uns’res Armes Tapferkeit!
+by the bravery of our arms!
+
+00:09:23,000 --> 00:09:28,000
+Ein holder Jüngling, sanft und schön!
+A charming young man, gentle and beautiful!
+
+00:09:30,000 --> 00:09:34,000
+So schön, als ich noch nie geseh’n.
+So beautiful, I have never seen before.
+
+00:09:36,000 --> 00:09:41,000
+Ja, ja! Gewiß, zum Malen schön!
+Yes, that’s true, as pretty as a picture.
+
+00:09:41,000 --> 00:09:46,000
+Würd’ ich mein Herz der Liebe weih’n [dedicate],
+If I were to dedicate my heart to love,
+
+00:09:46,000 --> 00:09:56,000
+So müßt’ es dieser Jüngling sein.
+it would have to be this young man.
+
+00:09:58,500 --> 00:10:02,500
+Laßt uns zu uns’rer Fürstin [princess] eilen,
+Let us hasten to our sovereign,
+
+00:10:02,500 --> 00:10:06,500
+ihr diese Nachricht zu erteilen:
+and give her these tidings:
+
+00:10:07,000 --> 00:10:11,000 
+Vielleicht daß dieser schöne Mann,
+it may be this fair man
+
+00:10:11,500 --> 00:10:26,000
+die vor’ge [vorige: previous] Ruh’ ihr geben kann.
+can restore her lost repose.
+
+00:10:28,000 --> 00:10:31,500
+So geht und sagt es ihr, ich bleib' indessen hier.
+Go then and tell her, I'll stay here meanwhile.
+
+00:10:32,000 --> 00:10:35,000
+Nein, nein! Geht ihr nur hin, ich wache hier für ihn!
+No, no, you two go. I'll watch over him here.
+
+00:10:35,000 --> 00:10:38,000
+Nein, nein, das kann nicht sein, ich schütze ihn allein!
+No, no! That cannot be. I will guard him alone.
+
+00:10:38,000 --> 00:10:42,500
+-Ich bleib’ indessen hier
+-Ich wache hier für ihn
+-Ich schütze ihn allein
+-I'll stay here meanwhile
+-I'll watch over him here
+-I will guard him alone
+
+00:10:43,000 --> 00:10:47,500
+-ich bleibe
+-ich wache  
+-ich schütze
+-I'll stay
+-I'll watch over
+-I'll guard
+
+00:10:48,000 --> 00:10:50,000
+-ich!
+-ich!
+-ich!
+-I! 
+-I!
+-I!
+
+00:10:54,500 --> 00:11:05,000
+Ich sollte fort!
+I must go!
+
+00:11:05,000 --> 00:11:15,000
+Ei, ei! wie fein!
+Aha, very nice!
+
+00:11:15,500 --> 00:11:20,900
+Sie wären gern bei ihm allein.
+They want to be alone with him.
+
+00:11:21,000 --> 00:11:27,500
+Nein, nein, das kann nicht sein!
+No, no, that’s out of the question!
+
+00:11:28,000 --> 00:11:35,000
+Sie wären gern bei ihm allein.
+They want to be alone with him.
+
+00:11:35,500 --> 00:11:49,000
+Nein, nein, das kann nicht sein!
+No, no, that’s out of the question!
+
+00:11:51,500 --> 00:12:24,000
+Was sollte ich darum nicht geben, könnt’ ich mit diesem Jüngling leben! Hätt’ ich ihn doch so ganz allein! Doch keine geht, es kann nicht sein. Am besten ist es nun, ich geh’.
+What would I not give to live with this youth! If only I had him to myself! Still no one goes; it is not to be. I had better go.
+
+00:12:25,000 --> 00:12:28,500
+Du Jüngling schön und liebevoll,
+O youth so fair and loveable,
+
+00:12:29,000 --> 00:12:32,300
+du trauter Jüngling, lebe wohl,
+O faithful youth, farewell
+
+00:12:32,600 --> 00:12:53,000
+bis ich dich wiederseh’.
+until I see thee again.
+
+00:12:53,200 --> 00:12:57,500
+Du Jüngling schön und liebevoll,
+O youth so fair and loveable,
+
+00:12:58,000 --> 00:13:01,000
+du trauter Jüngling, lebe wohl,
+O faithful youth, farewell
+
+00:13:01,500 --> 00:13:38,000
+bis ich dich wiederseh’.
+until I see thee again.
+
+00:13:57,500 --> 00:14:08,000
+Wo bin ich? Ist's Phantasie, dass ich noch lebe? oder hat eine höhere Macht mich gerettet? Was hör' ich?
+Where am I? Is it fantasy that I am still alive? Or has a higher power rescued me? What do I hear?
+
+00:14:49,000 --> 00:14:52,400 #p.34
+Der Vogelfänger bin ich ja –
+
+00:14:52,500 --> 00:14:55,500
+stets lustig heißa hopsasa!
+
+00:14:55,600 --> 00:14:59,000
+Ich Vogelfänger bin bekannt
+
+00:14:59,100 --> 00:15:02,500
+bei Alt und Jung im ganzen Land.
+
+00:15:05,000 --> 00:15:08,500
+Weiß mit dem Locken umzugehn
+
+00:15:09,000 --> 00:15:13,500
+und mich aufs Pfeifen zu verstehn!
+
+00:15:17,000 --> 00:15:20,500
+Drum kann ich froh und lustig sein,
+
+00:15:20,600 --> 00:15:24,500
+denn alle Vögel sind ja mein.
+
+00:15:30,000 --> 00:15:34,200
+Der Vogelfänger bin ich ja –
+
+00:15:34,300 --> 00:15:37,000
+stets lustig, heißa hopsasa!
+
+00:15:37,100 --> 00:15:40,500
+Ich Vogelfänger bin bekannt
+
+00:15:40,800 --> 00:15:44,000
+bei Alt und Jung im ganzen Land.
+
+00:15:46,500 --> 00:15:50,000
+Ein Netz für Mädchen möchte ich,
+
+00:15:50,100 --> 00:15:55,500
+ich fing’ sie dutzendweis’ für mich.
+
+00:15:58,800 --> 00:16:02,500
+Dann sperrte ich sie bei mir ein,
+
+00:16:02,600 --> 00:16:06,000
+und alle Mädchen wären mein.
+
+00:16:11,600 --> 00:16:15,500
+Wenn alle Mädchen wären mein,
+
+00:16:15,600 --> 00:16:18,900
+so tauschte ich brav Zucker ein:
+
+00:16:19,000 --> 00:16:22,100
+die, welche mir am liebsten wär’,
+
+00:16:22,200 --> 00:16:26,000
+der gäb’ ich gleich den Zucker her.
+
+00:16:28,200 --> 00:16:32,000
+Und küßte sie mich zärtlich dann,
+
+00:16:32,100 --> 00:16:38,500
+wär' sie mein Weib und ich ihr Mann.
+
+00:16:42,100 --> 00:16:45,500
+Sie schlief' an meiner Seite ein,
+
+00:16:46,000 --> 00:16:50,000
+ich wiegte wie ein Kind sie ein.
+
+00:17:06,000 --> 00:17:07,000
+He da!
+
+00:17:07,200 --> 00:17:08,100
+Was da?
+
+00:17:08,300 --> 00:17:10,000
+Sag' mir, wer du bist?
+
+Wer ich bin? Dumme Frage! Ein Mensch, wie du. Wenn ich dich nun fragte, wer du bist?
+
+Ich würde dire antworten, dass ich aus fürstlichem Geblüte bin.
+
+Das ist mir zu hoch.
+
+Mein Vater ist Fürst, der über viele Länder und Menschen herrscht; darum nennt man mich Prinz.
+
+Länder? ... Menschen? ... Prinz? ... Sag mal, 
+gibt es diesen Bergen auch noch Länder und Menschen?
+
+Viele Tausende!
+
+Da ließ' sich eine Speculation mit meinen Vögeln machen. Ich, ich fange für die sternflammende Königin und ihre Jungfrauen verschiedenen Vögel; dafür erhalt' ich täglich Speis' und Trank von ihr.
+
+Sternflammende Königin! Wenn es gar die Königin der Nacht wäre!
+
+Sag mir, guter Freund, warst du schon so glücklich, sie zu sehen?
+
+Sehen? Die sternflammende Königin sehen? Wenn du noch mit einer solchen albernen Frage an mich kommst, so sperr ich dich, so wahr ich Papageno heiße, wie einen Gimpel in mein Vogelhaus, verhandle dich dann mit meinen übrigen Vögeln an die nächtliche Königin und ihre Damen, und dann mögen sie dich meinetwegen sieden oder braten. Welcher Sterbliche kann sich rühmen, sie je gesehen zu haben? Wie er mich so starr anblickt! Warum siehst du so verdächtig nach mir?
+
+Weil ich zweifle, ob du ein Mensch bist. Nach deinen Federn, die dich bedecken, halt ich dich für einen...
+
+Doch für keinen Vogel? - Bleib zurück, sag ich, denn ich habe Riesenkraft!
+
+Riesenkraft? Dann warst du wohl gar mein Erretter, der die böse Schlange getötet hat?
+
+Schlange?
+
+Aber wie hast du dieses Ungeheuer bekämpft? Du bist ohne Waffen!
+
+Brauch keiner! Bie mir ist ein starker Druck mit der Hand mehr als Waffen.
+
+Du hast sie erdrosselt?
+
+Erdrosselt!
+
+Papageno!
+
+Aha, das geht mich an!
+
+Wie sind diese Damen?
+
+Wer sie eigenlich sind, weiß ich selbst nicht. Ich weiß nur so viel, dass sie mir täglich meine Vögel abnehmen und mir dafür Wein, Zuckerbrot und süße Feigen bringen.
+
+Sie sind vermutlich sehr schön?
+
+Ich denke nicht! Denn wenn sie schön wären, würden sie ihre Gesichter nicht bedecken.
+
+Papageno!
+
+Sei still! Sie drohen mir schon.
+
+Papageno!
+
+
+Was muß ich denn heute verbrochen haben, dass sie so aufgebracht wider mich sind? Hier, meine Schönen, übergeb ich meine Vögel.
+
+Dafür schickt die unsere Fürstin heute statt Wein reines, helles Wasser.
+
+Und statt Zuckerbrot diesen Stein.
+
+Was? Steine soll ich fressen?
+
+Und statt der süßen Feigen schlage ich dir dies goldene Schloß vor den Mund.
+
+Hm!
+
+Du willst vermutlich wissen, warum die Fürstin dich heute so wunderbar bestraft?
+
+Hm!
+
+Damit du künftig nie mehr Fremde belügst!
+
+Und dich nie mehr der Heldentaten rühmest, die andere vollzogen haben.
+
+Sag! Hast du diese Schlange bekämpft?
+
+Hm!
+
+Wer denn also?
+
+Wir waren's, Jüngling, die dich befreiten.
+
+Zittre nicht; dich erwartet Freunde und Entzücken.
+
+Hier, dies schickt dir die große Fürstin; es ist das Bildnis ihrer Tochter. Findest du, dass diese Züge dir nicht gleichgültig sind...
+
+...dann ist Glück, Ehr und Rühm dein Los.
+
+Auf Wiedersehen.
+
+Adieu, Monsieur Papageno!
+
+Nicht zu bastig getrunken!
+
+Dies Bildnis ist bezaubernd schön,
+Wie noch kein Auge je geseh'n!
+Ich fühl' es, wie dies Götterbild
+Mein Herz mit neuer Regung füllt.
+Dies Etwas kann ich zwar nicht nennen,
+Doch fühl' ich's hier wie Feuer brennen.
+Soll die Empfindung Liebe sein?
+Ja, ja! Die Liebe ist's allein.
+
+O wenn ich sie nur finden könnte!
+O wenn sie doch schon vor mir stände!
+Ich würde – würde – warm und rein –
+Was würde ich? -
+Ich würde sie voll Entzücken
+An diesen heißen Busen drücken,
+Und ewig wäre sie dann mein.
+
+Rüste dich mit Mut und Standhaftigkeit, schöner Jüngling! Die Fürstin...
+
+...hat mir aufgetragen, dir zu sagen...
+
+...dass der Weg zu deinem künftigen Glück nunmehr gebahnt sei.
+
+Sie hat jedes deiner Worte gehört. Sie hat...
+
+Hat dieser Jüngling, sprach sie, auch so viel Mut und Tapferkeit, als er zärtlich ist, so ist meine Tochter Pamina gerettet.
+
+Gerettet? Pamina?
+
+Der Name der Tochter der Königin der Nacht.
+
+Ein mächtiger, böser Dämon hat sie ihr entrissen.
+
+Entrissen? Wie ist sein Name?
+
+Sarastro!
+
+Wo ist sein Aufenthalt?
+
+Sehr nahe  an unseren Bergen lebt er. Seine Burg ist prachtvoll und sorgsam bewacht.
+
+Kommt, Mädchen, führt mich! Pamina sei gerettet!
+
+Ihr Götter, was ist das?
+
+Die Königin!
+Sie kommt! - Sie kommt! - Sie kommt!
+
+O zitt’re nicht, mein lieber Sohn!
+Du bist unschuldig, weise, fromm.
+Ein Jüngling so wie du, vermag am besten
+Dies tiefbetrübte Mutterherz zu trösten.
+Zum Leiden bin ich auserkoren,
+Denn meine Tochter fehlet mir;
+Durch sie ging all mein Glück verloren,
+ein Bösewicht entfloh mit ihr.
+Noch seh’ ich ihr Zittern,
+Mit bangem Erschüttern
+Ihr ängstliches Beben,
+Ihr schüchternes Streben.
+Ich mußte sie mir rauben sehen:
+»Ach helft!« war alles, was sie sprach;
+Allein, vergebens war ihr Flehen,
+Denn meine Hilfe war zu schwach.
+Du wirst sie zu befreien gehen,
+Du wirst der Tochter Retter sein.
+Und werd' ich dich als Sieger sehen,
+So sei sie dann auf ewig dein.
+
+Ist es denn Wirklichkeit, was ich sah?
+
+Hm, hm, hm, hm, hm, hm, hm, hm!
+
+Der Arme kann von Strafe sagen,
+Denn seine Sprache ist dahin!
+
+Hm, hm, hm, hm, hm, hm, hm, hm!
+
+Ich kann nichts tun, als dich beklagen,
+Weil ich zu schwach zu helfen bin!
+
+Hm, hm, hm, hm, hm, hm, hm, hm!
+
+Die Königin begnadigt dich,
+entläßt die Strafe dir durch mich.
+
+Nun plaudert Papageno wieder!
+
+Ja, plaud’re! Lüge nur nicht wieder!
+
+Ich lüge nimmermehr. Nein! Nein!
+
+Dies Schloß soll deine Warnung sein!
+
+Bekämen doch die Lügner alle
+Ein solches Schloß vor ihren Mund:
+Statt Haß, Verleumdung, schwarzer Galle,
+bestünde Lieb’ und Bruderbund.
+
+O Prinz, nimm dies Geschenk von mir!
+Dies sendet uns’re Fürstin dir.
+Die Zauberflöte wird dich schützen,
+im größten Unglück unterstützen.
+
+Hiermit kannst du allmächtig handeln,
+Der Menschen Leidenschaft verwandeln:
+Der Traurige wird freudig sein,
+Den Hagestolz nimmt Liebe ein.
+
+Oh, so eine Flöte ist mehr als Gold und Kronen wert,
+Denn durch sie wird Menschenglück und Zufriedenheit vermehrt.
+
+Nun, ihr schönen Frauenzimmer,
+darf ich - so empfehl’ ich mich.
+
+Dich empfehlen kannst du immer,
+Doch bestimmt die Fürstin dich,
+Mit dem Prinzen ohn’ Verweilen
+Nach Sarastros Burg zu eilen.
+
+Nein dafür bedank’ ich mich!
+Von euch selbster hörte ich,
+Dass er wie ein Tigertier.
+Sicher ließ’ ohn’ alle Gnaden
+Mich Sarastro rupfen, braten,
+Setzte mich den Hunden für.
+
+Dich schützt der Prinz, trau ihm allein!
+Dafür sollst du sein Diener sein.
+
+Dass doch der Prinz beim Teufel wäre!
+Mein Leben ist mir lieb;
+Am Ende schleicht, bei meiner Ehre,
+Er von mir wie ein Dieb.
+
+Hier, nimm dies Kleinod, es ist dein.
+
+Ei! ei! was mag darinnen sein?
+
+Darinnen hörst du Glöckchen tönen.
+
+Werd’ ich sie auch wohl spielen können?
+
+O ganz gewiß! ja ja gewiß!
+
+Silberglöckchen, Zauberflöten
+sind zu eurem/unserm Schutz vonnöten!
+Lebet wohl, wir wollen geh'n!
+Lebet wohl, auf Wiederseh'n!
+
+Doch schöne Damen saget an:
+
+Wie man die Burg wohl finden kann?
+
+Drei Knäbchen, jung, schön, hold und weise
+umschweben euch auf eurer Reise.
+Sie werden eure Führer sein,
+folgt ihrem Rate ganz allein.
+
+Drei Knäbchen, jung, schön, hold und weise
+umschweben uns auf uns’rer Reise?
+
+Sie werden eure Führer sein,
+folgt ihrem Rate ganz allein.
+
+So lebet wohl! wir wollen gehn;
+lebt wohl, lebt wohl, auf Wiederseh'n!
+
+So lebet wohl! wir wollen gehn!
+lebt wohl, lebt wohl, auf Wiederseh'n!
+
+
+Du feines Täubchen, nur herein.
+
+O welche Marter, welche Pein!
+
+Verloren ist dein Leben.
+
+Der Tod macht mich nicht beben;
+nur meine Mutter dauert mich,
+sie stirbt vor Gram ganz sicherlich.
+
+He, Sklaven, legt ihr Fesseln an;
+mein Haß soll dich verderben!
+
+O laß mich lieber sterben,
+weil nichts, Barbar! dich rühren kann.
+
+Nun fort! Nun fort!
+Laßt mich bei ihr allein.
+
+Wo bin ich woh?! wo mag ich sein?
+Aha, da find’ ich Leute, gewagt; ich geh’ hinein.
+Schön Mädchen jung und rein,
+Viel weißer noch als Kreide!
+
+
+
+http://www.murashev.com/opera/Die_Zauberfl%C3%B6te_libretto_German_English
+
+﻿========================================================
+ä Ä é ö Ö ß ü Ü … „‟ ,‛ á à → ↔ ≈ »« ↘↗
+========================================================
