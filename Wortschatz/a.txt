@@ -439,10 +439,11 @@ abschneiden /ˈapʃnaidən/: to cut off
   to cut yourself a slice of bread
   → schneiden: to cut
 
-Abschnitt /ˈapʃnɪt/, der, -(e)s|-e: section, paragraph
+Abschnitt /ˈapʃnɪt/, der, -(e)s|-e: section, paragraph, phase
   Teil eines Textes
   ≈ Passage
   einen Abschnitt lesen: to read a section
+  ein wichtiger Abschnitt der europäischen Geschichte
 
 abschöpfen /ˈapʃɶpfən/: to skim off, to make
   das Fett von der Hühnerbrühe abschöpfen: to skim the fat off the chicken broth
@@ -1261,7 +1262,7 @@ anfügen: to append
 Angabe /ˈanɡaːbə/, die, ~|-n: information, statement
   Informationen, die man jdm gibt
   Er hat der Polizei gegenüber falsche Angaben gemacht.
-  Angaben zur Person
+  Angaben zur Person: personal data
 
 angeben: to state, to give, to indicate, to brag
   nennen; anzeigen; übertrieben stolz über etw. sprechen, um bewundert zu werden
@@ -1794,6 +1795,10 @@ Antrag /ˈantraːk/, der, ..e: application, motion, proposal
 Antragsteller /ˈantraːkʃtɛlɐ/, Antragstellerin: applicant, claimant, petitioner
   Unterschrift des Antragstellers: …
   Signature of applicant: …
+
+antreffen
+  an einem Ort finden
+  jdn zu Hause antreffen
 
 antreiben: to drive
   in Bewegung setzen
