@@ -1290,6 +1290,7 @@ Besonderheit, die: peculiarity, idiosyncrasy, specialty
   to take regional peculiarities into account
 
 besonders /bəˈzɔndɐs/: particularly, especially
+  besser, mehr, intensiver als normal; hebt einen Teil der Aussage hervor
   ein besonders erfolgreiches Jahr: a particularly successful year
   Sie ist nicht besonders hübsch.
   She's not particularly pretty.
@@ -2466,10 +2467,10 @@ Büchse /ˈbʏksə/, die, Büchsen: can
   eine Büchse Erbsen: a can of peas
 
 *Buchstabe /ˈbuːxʃtaːbə/, der, -n(s)|-n: character, letter 字母
+  eines der Schriftzeichen des Alphabets
   kleiner Buchstabe
-  kleiner Buchstabe
-  kleiner Buchstabe: a character in bold
-  in fetten Buchstaben
+  in großen Buchstaben
+  in fetten Buchstaben: a character in bold
 
 buchstabieren /buːxʃtaˈbiːrən/: to spell
   Mein Name ist Mayr – ich buchstabiere: Martha, Anton, Ypsilon, Richard.

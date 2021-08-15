@@ -2292,6 +2292,7 @@ auffrischen /ˈauffrɪʃən/: to refresh, to touch up, to boost
   Auffrischimpfung: booster vaccination
 
 aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
+  ≈ auflisten
   Unsere Klasse will ein Musical aufführen.
   Our class plans to put on a musical.
   im Stichwortverzeichnis aufgeführt sein: to be listed in the index
@@ -2324,6 +2325,9 @@ aufgeben /ˈaufɡeːbən/: to give up, to stop, to give, to leave, to mail
 aufgebracht /ˈaufɡəbraxt/: angry 惱怒的
   Vor dem Sekretariat warteten aufgebrachte Eltern.
   Angered parents were waiting outside the secretary's office.
+
+aufgeführt: listed
+  → aufführen
 
 aufgehen: to rise, to open, to work, sb realizes sth
   ↔ untergehen
@@ -2420,6 +2424,9 @@ auflegen /ˈaufleːɡən/: to hang up, to lay, to put on, to publish
   ein zusätzliches Gedeck für einen Gast auflegen
   to lay a place for another guest
   eine frische Tischdecke auflegen: to change the tablecloth
+
+auflisten
+  eine Liste erstellen, in einer Liste nennen
 
 Auflistung, die: listing
 

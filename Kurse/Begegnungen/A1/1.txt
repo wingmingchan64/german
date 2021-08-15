@@ -63,11 +63,11 @@ Frederic Chopin kommt aus Polen.
 Isabel Allende kommt aus Chile.
 Jean-Paul Sartre kommt aus Frankreich.
 Konfuzius kommt aus China.
-Nelson Mandela kommt aus Südafrika.
+Nelson Mandela kommt aus Südˈafrika.
 Mahatma Gandhi kommt aus Indien.
 George Washington kommt aus den USA.
 
-A6
+A6 Phonetik: Satzmelodie
 Ich heiße Franziska Binder.↘ Und Sie?↗ Wie heißen Sie?↗
 Mein Name ist Peter Heinemann.↘ Wo wohnen Sie?↗
 Ich wohne in Marburg.↘
@@ -124,10 +124,10 @@ Woher kommen Sie? Ich komme aus Düsseldorf. Ich buchstabiere: D-ü-s-s-e-l-d-o-
 Wo ist Düsseldorf? Düsseldorf ist in Deutschland.
 München: Deutschland
 Paris: Frankreich
-Athen: Griechenland
-Bukarest: Rumänien
+Athen /aˈteːn/: Griechenland
+ˈBukarest: Rumänien
 Budapest: Ungarn
-Venedig: Italien
+Venedig /veˈneːdɪç/: Italien
 Peking: China
 Wien: Österreich
 Porto: Portugal
@@ -142,7 +142,7 @@ Ich bin Kellner, Kellnerin
 Ich bin Lehrer, Lehrerin
 Ich bin Ingenieur, Ingenieurin
 Ich bin Mathematiker, Mathematikerin
-Ich bin Manager, Managerin
+Ich bin Manager /ˈmɛnɛdʒɐ/, Managerin
 Ich bin Architekt, Architektin
 Ich bin Arzt, Ärztin
 Ich bin Student, Studentin
@@ -151,21 +151,45 @@ Ich bin Assistent, Assistentin
 
 A13 Wie heißen die Berufe?
 Ich studiere Medizin. Später bin ich Arzt/Ärztin.
-Johann studiert Chemie. Später ist er Chemiker.
+Johann studiert Cheˈmie. Später ist er ˈChemiker.
 Marie studiert Jura. Später ist sie Anwältin.
-Andreas studiert Informatik. Später ist er Informatiker.
+Andreas studiert Inforˈmatik. Später ist er Informatiker.
 Ich studiere Ingenieurwesen. Später bin ich Ingenieur/Ingenieurin.
-Michael studiert Physik. Später ist er Physiker.
-Ich studiere Philosophie. Später bin ich Philosoph/Philosophin.
+Michael studiert Physik /fyˈziːk/. Später ist er ˈPhysiker.
+Ich studiere Philosoˈphie. Später bin ich Philoˈsoph/Philosophin.
 Franziska studiert Malerei. Später ist sie Malerin.
 Anika studiert Musik. Später ist sie ˈMusikerin.
 Otto studiert Journaˈlistik. Später ist er Journaˈlist.
+
+A14
+Architekt
+Maler
+Koch
+Arzt
+Ingenieur
+Kommissar
+Mechaniker /meˈçaːnikɐ/
+Kellner
 
 A15 Finden Sie die Endungen.
 ich komme/wohne/heiße/bin
 du kommst/wohnst, heißt/bist
 er kommt/wohnt/heißt/ist
 sie kommen/wohnen/heißen/sind
+
+A16
+1. Sarah kommt aus Frankreich.
+2. Ich heiße Rudi Zöllner.
+3. Wie heißt du?
+4. Herr Heinemann ist Informatiker.
+5. Sarah und Gilles wohnen in Paris.
+6. Woher kommen Sie?
+7. Was sind Sie von Beruf?
+8. Ich bin Lehrerin.
+9. Wo wohnst du?
+10. Ich studiere Medizin.
+11. Wie heißen Sie?
+12. Woher kommst du?
 
 A18
 Schweden – die Schweiz

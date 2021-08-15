@@ -1137,6 +1137,9 @@ Gesöff /ɡəˈzœf/, das, -e: brew
   Was ist das denn für ein saures Gesöff?
   What kind of sour brew is that?
 
+gesondert: seperate
+  getrennt von allen anderen Dingen
+
 gesperrt: blocked, closed
 
 Gespräch /ɡəˈʃprɛːç/, das, -e: conversation
@@ -1211,6 +1214,7 @@ Getränk /ɡəˈtrɛŋk/, das, -e: beverage, drink
 getrennt: separated, apart
   Sie führten getrennte Kasse.
   They each paid for themselves.
+  (von jdm) getrennt leben: nicht mehr als Paar zusammenleben
 
 getreu: true, faithful, exact, loyal
 
