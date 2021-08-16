@@ -191,6 +191,26 @@ A16
 11. Wie heißen Sie?
 12. Woher kommst du?
 
+Sprachen und Länder
+A17
+In Spanien spricht man Spanisch.
+Griechenland: Griechisch /ˈɡriːçɪʃ/
+Russland: Russisch
+ˈJapan: Japanisch
+Tschechien /ˈtʃɛçiən/: Tschechisch
+Ungarn: ˈUngarisch
+China: Chinesisch
+Großbritannien: Englisch
+Polen: Polnisch
+Mexiko: Spanisch
+Portugal: Portugiesisch
+USA: Englisch
+Rumänien: Rumänisch
+Türˈkei: Türkisch
+Tunesien: Arabisch
+Kanada: Englisch
+Algerien: Arabisch
+
 A18
 Schweden – die Schweiz
 Russisch – Englisch – Arabisch – Rumänisch
@@ -198,6 +218,40 @@ Türkisch – Polnisch – Französisch – Ungarisch
 sprechen – Spanisch – Sprache – Spanien
 Was ist Ihre Muttersprache? Welche Sprachen sprechen Sie? 
 Sprechen Sie Spanisch? Sprichst du Polnisch?
+
+A19
+Sprechen Sie Spanisch?
+Nein, leider nicht. Ich spreche nur Deutsch und Englisch.
+Ja, ich spreche gut (ein bisschen) Spanisch.
+Sprichst du Türkisch?
+Nein, leider nicht. Ich spreche nur Englisch.
+Spricht Maria Schwedisch?
+Ja, sie spricht sehr gut Schwedisch.
+Spricht Paul Japanisch?
+Ja, er spricht ein bissen Japanisch.
+Sprichst du Französisch?
+Nein, leider nicht. Ich spreche kein Französisch.
+Spricht Frau Müller Polnisch?
+Nein, sie spricht kein Polnisch.
+Sprichst du Russisch?
+Ja,ich spreche gut Russisch.
+Sprechen Sie Griechisch?
+Ja, ich spreche sehr gut Griechisch.
+Sprichst du Deutsch?
+Ja, ich spreche ein bissen Deutsch.
+Sprechen Klaus und Marie Arabisch?
+Nein, leider nicht. Sie sprechen kein Arabisch.
+
+A20
+Ich komme aus Russland.
+Meine Muttersprache ist Russisch.
+Ich spreche auch Englisch und Französisch.
+Mein Nachbar kommt aus Japan.
+Seine Muttersprache ist Japanisch.
+Er spricht auch Chinesisch und Koreˈanisch.
+Meine Nachbarin kommt aus Seria.
+Ihre Muttersprache ist Syrisch.
+Sie spricht auch Arabisch und Englisch.
 
 A21
 ein – heißen – mein – dein – Heinemann – Heimatstadt – Schweiz - Malerei - Türkei
@@ -216,13 +270,13 @@ Oslo: ˈNorwegen
 Budapest: Ungarn
 London/Heathrow: England
 Thessaloniki: Griechenland
-Istanbul: Türkei
+Istanbul: aus der Türkei
 Peking: China
 Lissabon: Portugal
 Athen: Griechenland
 Neu-Delhi: Indien
 Stockholm: Schweden
-Amsterdam: Niederlanden
+Amsterdam: aus den Niederlanden
 Warschau: Polen
 
 A23
@@ -269,7 +323,7 @@ einhunderteinundzwanzig
 eintausend
 zehntausend
 
-A24
+A24 p.16
 Flug 4077 aus Florenz landet in 10 Minuten.
 Flug 4383 aus Toulouse landet in 15 Minuten.
 Flug 663 aus Moskau landet in 20 Minuten.
