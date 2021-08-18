@@ -323,7 +323,7 @@ einhunderteinundzwanzig
 eintausend
 zehntausend
 
-A24 p.16
+A24
 Flug 4077 aus Florenz landet in 10 Minuten.
 Flug 4383 aus Toulouse landet in 15 Minuten.
 Flug 663 aus Moskau landet in 20 Minuten.
@@ -342,6 +342,34 @@ A27
 8. 10765
 9. 30986
 
+A28
+1. sieben plus drei ist zehn
+2. neun minus fünf ist vier
+3. fünfzehn minus acht ist sieben
+4. vierundzwanzig plus siebzehn ist einundvierzig
+5. zwölf plus zwölf ist vierundzwanzig
+6. sieben plus vierzehn ist einundzwanzig
+7. sechs plus fünfzehn ist einundzwanzig
+8. dreiundvierzig minus dreizehn ist dreißig
+9. dreißig minus achtzehn ist zwölf
+10. siebenundsiebzig minus dreiundfünfzig ist vierundzwanzig
+11. dreiundneunzig minus vierzig ist dreiundfünfzig
+
+A29 Woher kommt das Auto?
+1. Das Auto hat das Kennzeichen L – DB 9999.
+   Es kommt aus Leizig.
+2. B – CP 2231: Berlin
+3. S – AA 4113: Stuttgart
+4. M – HK 3850: München
+5. H – MM 7683: Hannover
+6. EF – KJ 581: Erfurt
+7. BN – BL 393: Bonn
+8. F – TE 2544: Frankfurt
+9. HH – CL 6622: Hamburg
+10. DD – BH 1313: Dresden
+11. N – MA 770: Nürnberg
+12. D – GL 5454: Düsseldorf
+
 A30
 Sind Sie Herr Meier?
 Nein. Mein Name ist Conrad Müller.
@@ -354,10 +382,39 @@ Ich bin 25 Jahre alt.
 Sprechen Sie Englisch?
 Ja. Ich spreche ein bisschen Englisch.
 
+A31 Ergänzen Sie die Verben
+Aussagesätze: Das Verb steht auf Position 2
+Mein Name ist Conrad Müller.
+Ich komme aus Berlin.
+In Frankreich spricht man Französisch.
+Fragesätze: W-Frage: Das Verb steht auf Position 2
+Woher kommen Sie?
+Wie alt sind Sie?
+Wie heißen Sie?
+Ja-Nein-Frage: Das Verb steht auf Position 1
+Sprechen Sie Englisch?
+Wohnst du in Berlin?
+Studiert er Medizin?
+
+A32
+1. Er wohnt in Madrid.
+2. Bist du verheiratet?
+3. Ich spreche Spanisch.
+4. Wo wohnst du?
+5. Was sind Sie von Beruf?
+6. Jean studiert in London Informatik.
+
+A33
+1. Wie alt sind Sie/bist du?
+2. Woher kommen Sie/kommst du?
+3. Wo wohnen Sie/wohnst du?
+4. Was sind Sie/bist du von Beruf?
+5. Sprechen Sie/Spricht du Spanisch?
+
 A34 Personen und Hobbys
 Das ist Hans Behrens. Er arbeitet als Chemiker bei BASF in Ludwigshafen. Er ist verheiratet mit Susanne und hat zwei Kinder. Seine Hobbys sind Tennis spielen und Briefmarken sammeln.
 
-Das ist der Bruder von Hans. Er heißt Martin. Er studiert Informatik in Bremen. Er spricht sehr gut Englisch und schreibt gern Computerprogramme. Martin ist ledig.
+Das ist der Bruder von Hans. Er heißt Martin. Er studiert Informatik in Bremen. [Er studiert in Bremen Informatik.] Er spricht sehr gut Englisch und schreibt gern Computerprogramme. Martin ist ledig.
 
 Das ist Marta, die Schwester von Hans. Sie ist geschieden. Sie arbeitet als Mathematiklehrerin. Sie spielt sehr gut Gitarre und hört gern Popmusik.
 
@@ -366,6 +423,55 @@ Das ist Susanne. Sie ist die Frau von Hans und die Mutter von Maximilian und Mar
 Das ist Maximilian, der Sohn von Hans und Susanne, der Bruder von Marie. Er ist vier Jahre alt und spielt gern Fußball.
 
 Das ist Marie, die Tochter von Hans und Susanne, die Schwester von Maximilian. Sie ist acht Jahre alt und singt im Chor.
+
+A35
+Maximilian
+Alter: 4
+Hobbys: Fußball spielen
+Hans
+Familienstand: verheiratet
+Beruf: Chemiker
+Hobbys: Tennis spielen und Briefmarken sammeln
+Marta
+Familienstand: geschieden
+Beruf: Mathematikerin
+Hobbys: Gitarre spielen und Popmusik hören
+Marie
+Alter: 8
+Hobbys: im Chor singen
+Susanne
+Familienstand: verheiratet
+Beruf: Managerin
+Hobbys: Kriminalromane lesen
+Martin
+Familienstand: ledig
+Beruf: Student
+Hobbys: Computerprogramme schreiben
+
+A36
+Geschwister: Hans (der Bruder) + Marta (die Schwester) + Martin (der Bruder)
+Ehepartner: Hans (der Mann) + Susanne (die Frau)
+Eltern: Hans (der Vater) + Susanne (die Mutter)
+Kinder: Maximilian (der Sohn) + Marie (die Tochter)
+
+A37
+Maximilian spielt gern Fußball.
+Marta hört gern Musik.
+Marta spielt gut Gitarre.
+Hans sammelt gern Briefmarken.
+Hans spielt gern Tennis.
+Susanne liest gern Kriminalromane.
+Martin schreibt gern Computerprogramme.
+Marie singt gern im Chor.
+
+A38 p.20
+ich singe/spiele/lese
+du singst/spielst/liest
+er singt/spielt/liest
+wir singen/spielen/lesen
+ihr singt/spielt/lest
+
+
 
 B1
 Eine Milliarde zweihunderteinundachtzig Millionen
