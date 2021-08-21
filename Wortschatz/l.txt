@@ -597,6 +597,9 @@ Leiter, der: ladder, conductor
   Kupfer ist ein guter Leiter.
   Copper is a good conductor.
 
+Leitfaden, der, -s|..: introduction, primer
+  kurz gefasste Darstellung zur Einführung in ein Wissensgebiet
+
 Leitung, die: management, pipe, cable, wire, line
   eine Tätigkeit als Leiter einer Firma usw; Rohre, durch die Flüssigkeiten oder Gase strömen; Kabel oder Drähte, die elektrischen Strom leiten; Möglichkeit für telefonische Verbindungen im Festnetz
 

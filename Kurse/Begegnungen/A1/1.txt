@@ -464,25 +464,78 @@ Susanne liest gern Kriminalromane.
 Martin schreibt gern Computerprogramme.
 Marie singt gern im Chor.
 
-A38 p.20
+A38
 ich singe/spiele/lese
 du singst/spielst/liest
 er singt/spielt/liest
 wir singen/spielen/lesen
 ihr singt/spielt/lest
 
+A39
+a)
+1. Spielt ihr gern Fußball?
+   Nein, wir spielen nicht gern Fußball.
+   Wir spielen lieber Tischtennis.
+2. Spielst du gern Tennis?
+   Ja, ich spiele gern Tennis.
+3. Spielt ihr gern Basketball?
+   Ja, wir spielen gern Basketball.
+4. Spielt ir gern Hockey?
+   Nein, wir spielen nicht gern Hockey.
+   Wir spielen lieber Fußball.
+5. Spielst du gern Gitarre?
+   Nein, ich spiele nicht gern Gitarre.
+   Ich spiele lieber Piano.
+6. Spielt ihr gern Bowling?
+   Ja, wir spielen gern Bowling.
+7. Spielst du gern Trompete?
+   Ja, ich spiele gern Trompete.
+8. Spielt ihr gern Tennis?
+   Nein, wir spielen nicht gern Tennis.
+   Wir schwimmen lieber.
+b)
+1. Lest ihr gern Geschichtromane?
+   Ja, wir lesen gerne Geschichtromane.
+2. Liest du gern Lebesromane?
+   Nein, ich lese lieber Abenteurromane.
+3. Lest ihr gern Kriminalromane?
+   Nein, wir lesen lieber Gedichte.
+4. Liest du gerne Kochbücher?
+   Ja, ich lese gerne Kochbücher.
+5. Lest ihr gerne Biographien?
+   Ja, wir lesen gerne Biographien.
 
+A42
+Das ist Franz. Er ist Student. Er studiert in Berlin Journalistik. Seine Muttersprache ist Deutsch. Er spricht auch Französisch und ein bisschen Englisch. Er spielt sehr gut Tennis. Er liest auch gern Romane.
 
+Teil B – Wissenswertes
 B1
 Eine Milliarde zweihunderteinundachtzig Millionen
 
+B2 Das WIE-VIELE-Quiz
+1. Wie viele Bundesländer hat Deutschland?
+   Deutschland hat 16 Bundesländer: Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, 	Sachsen-Anhalt, Schleswig-Holstein und Thüringen.
+2. Wie viele Sprachen spricht man in der Welt?
+   Man spricht in der Welt ca. 6500 Sprachen.
+3. Wie viele Menschen wohnen in Österreich?
+   In Österreich wohnen 8,9 Millionen.
+4. Wie viele Amtssprachen hat die Schweiz?
+   Die Schweiz hat 4 Amtssprachen.
+5. Wie viele Menschen wohnen in Berlin?
+   In Berlin wohnen 3,5 Millionen Menschen.
+6. Wie viele Buchstaben hat das deutsche Alphabet (ohne besondere Buchstaben)?
+   Das deutsche Alphabet hat 26 Buchstaben.
+7. Wie viele Millionenstädte hat Deutschland?
+   Deutschland hat 4 Millionenstädte.
+
 B3
-Deutschland hat 82,4 Millionen Einwohner und 16 Bundesländer. Die Hauptstadt ist Berlin. In Deutschland gibt es nur eine Amtssprache: Deutsch. Die drei größten Städte sind Berlin, Hamburg und München. Seit 1871 ist Deutschland ein Nationalstaat. Sehr wichtig für Deutschland ist die deutsche Wiedervereinigung 1990.
+Deutschland hat 82,4 (83,7 in 2020) Millionen Einwohner und 16 Bundesländer. Die Hauptstadt ist Berlin. In Deutschland gibt es nur eine Amtssprache: Deutsch. Die drei größten Städte sind Berlin, Hamburg und München. Seit 1871 ist Deutschland ein Nationalstaat. Sehr wichtig für Deutschland ist die deutsche Wiedervereinigung 1990.
 
-Österreich hat 8,2 Millionen Einwohner und neun Bundesländer. Die Hauptstadt ist Wien. In Wien wohnen 1,5 Millionen Menschen. Österreich hat eine Amtssprache: Deutsch und drei Regionalsprachen: Kroatisch, Slowenisch und Ungarisch. Seit 1918 ist Österreich eine Republik.
+Österreich hat 8,2 Millionen (9,0 in 2021) Einwohner und neun Bundesländer. Die Hauptstadt ist Wien. In Wien wohnen 1,5 Millionen Menschen. Österreich hat eine Amtssprache: Deutsch und drei Regionalsprachen: Kroatisch, Slowenisch und Ungarisch. Seit 1918 ist Österreich eine Republik.
 
-Die Schweiz ist über 800 Jahre alt. Sie hat 26 kleine Kantone (= Bundesländer) und 7,5 Millionen Einwohner. Die Hauptstadt ist Bern. Die Schweiz hat vier Amtssprachen: etwa 70 Prozent der Einwohner sprechen Deutsch, etwa 20 % Französisch, etwa 10 % Italienisch und 1 % spricht Rätoromanisch.
+Die Schweiz ist über 800 Jahre alt. Sie hat 26 kleine Kantone (= Bundesländer) und 7,5 Millionen (8,6 in 2020) Einwohner. Die Hauptstadt ist Bern. Die Schweiz hat vier Amtssprachen: etwa 70 Prozent der Einwohner sprechen Deutsch, etwa 20 % Französisch, etwa 10 % Italienisch und 1 % spricht Rätoromanisch.
 
+Teil C – Übungen zu Grammatik und Wortschatz p.26
 C6
 1. Sandra kommt aus Schweden. Sie wohnt jetzt in Hamburg und studiert dort Medizin. Sie ist ledig. Sie spielt gern Volleyball, liest gern Kriminalromane.
 2. Paolo kommt aus Spanien. Er wohnt jetzt in München. Dort arbeitet er als Ingenieur bei Siemens. Paolo spielt gern Fußball.
