@@ -344,6 +344,7 @@ Schätzung /ˈʃɛʦʊŋ/, die, -en: estimate
   ≈ Berechnung
 
 schaudern /ˈʃaudɐn/: to shiver
+  für einen kurzen Augenblick einen Schauder (1), ein heftiges Kältegefühl haben; frösteln
   Sie schauderte in ihrem nassen T-Shirt.
   She shivered in her wet t-shirt.
   Mich / Mir schaudert (es) bei dem Gedanken, dass manche Völker Insekten essen.
@@ -1437,6 +1438,7 @@ sehnen /ˈzeːnən/, sich: to long for sb/sth
   She longed for love and security.
 
 Sehnsucht /ˈzeːnzʊxt/, die, ..e: longing, yearning
+  inniges, schmerzliches Verlangen nach jemandem, etwas
   Sehnsucht nach Liebe haben: to yearn for love
 
 sehnsüchtig /ˈzeːnzyçtɪç/
@@ -1951,6 +1953,7 @@ Sozialismus /zoʦjaˈlɪsmʊs/, der, ~|uncountable: socialism
   der Sozialismus in der DDR: socialism in the GDR
 
 spähen /ˈʃpɛːən/: to peer 端詳
+  vorsichtig, aber genau schauen
   Er spähte über den Zaun/aus dem Fenster.
   He peered over the fence/out of the window.
 
@@ -2882,6 +2885,9 @@ stressig
 streuen /ˈʃtrɔyən/: to scatter, to spread
 
 strich /ʃtrɪç/ → streichen
+
+Strick, der: rope
+  dicke Schnur
 
 Strohhalm /ˈʃtroːhalm/: straw
   Plastikstrohhalme

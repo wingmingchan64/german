@@ -230,7 +230,8 @@ verdienen /fɛɐˈdiːnən/: to earn, to make, to deserve
   Dieses Buch verdient unser aller Interesse.
   This book deserves everybody's interest.
 
-verdrängen /fɛɐˈdrɛŋən/: to drive out
+verdrängen /fɛɐˈdrɛŋən/: to drive out, to suppress
+  jdn von einem Ort vertreiben, um selbst dort zu bleiben; aus dem bewussten Gedächtnis entfernen
   Jemand hat sie von ihrem Platz verdrängt.
   Somebody has ousted her from her place.
 
@@ -1092,6 +1093,8 @@ verstreichen: to pass by, to elapse
   die Farbe gleichmäßig verstreichen: to apply the paint evenly
 
 verstricken /fɛɐˈʃtrɪkən/: to be caught up with, to involve sb in sth
+  → Strick
+  beim Stricken einen Fehler machen; beim Stricken verbrauchen
   in einen Skandal verstrickt werden: to become involved in a scandal
   Die Verdächtige hat sich in Lügen / Widersprüche verstrickt.
   The suspect has become caught up in a web of lies/contradictions.
