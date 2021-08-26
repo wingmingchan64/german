@@ -1870,6 +1870,9 @@ Bilderbuch, das
   Buch für Kinder mit vielen Bildern
   eine Landschaft wie im Bilderbuch
 
+Bildschirm, der
+  Teil des Computers oder des Fernsehers, auf dem das Bild erscheint
+
 Bildung /ˈbɪldʊŋ/, die: education, forming
   eine gute Bildung erhalten: to receive a good education
   eine Partei mit der Regierungsbildung beauftragen

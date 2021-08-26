@@ -1261,9 +1261,10 @@ Anführer /ˈanfyːrɐ/, der, -s|~: leader
 anfügen: to append
 
 Angabe /ˈanɡaːbə/, die, ~|-n: information, statement
-  Informationen, die man jdm gibt
+  Informationen, die man jdm gibt; Aussage, Auskunft, Information
   Er hat der Polizei gegenüber falsche Angaben gemacht.
   Angaben zur Person: personal data
+  Preisangaben
 
 angeben: to state, to give, to indicate, to brag
   nennen; anzeigen; übertrieben stolz über etw. sprechen, um bewundert zu werden
@@ -2303,6 +2304,7 @@ aufführen /ˈauffyːrən/: to perform, to list, to act, to behave
 Aufführung, die: performance (play), release (film)
 
 Aufgabe /ˈaufɡaːbə/, die, -n: task, duty, goal, purpose, function
+  etw., was man tun soll; etw., was man regelmäßig tun muss
 
 Aufgang /ˈaufɡaŋ/, der, -(e)s|..e: rise, rising
   → aufgehen

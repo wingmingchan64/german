@@ -1143,6 +1143,7 @@ gesondert: seperate
 gesperrt: blocked, closed
 
 Gespräch /ɡəˈʃprɛːç/, das, -e: conversation
+  mündlicher Gedankenaustausch in Rede und Gegenrede über ein bestimmtes Thema
   mit jdm ein Gespräch über private Dinge führen
   to have a conversation with sb about private matters
   Ich möchte ein R-Gespräch.

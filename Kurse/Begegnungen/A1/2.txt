@@ -1,6 +1,8 @@
-Kapitel 2: Erste Kontakte
+Kapitel 2: Erste Kontakte p.35
 
-A1 Rund um die Arbeit: Im Büro
+Teil A - Themen und Aufgaben
+Rund um die Arbeit: Im Büro
+A1
 Frau Herzberg: Guten Tag. Suchen Sie etwas?
 Herr Heinemann: Ja, mein Büro. Ich bin neu hier.
 Frau Herzberg: Sind Sie Herr Heinemann?
@@ -15,10 +17,65 @@ Frau Herzberg: Meine Telefonnummer ist die 44 22. Ganz einfach!
 Herr Heinemann: Danke. Bis später.
 Frau Herzberg: Bis später.
 
-A3
+A2
+das Telefondas
+das Regal
+die Lampe
+der Drucker
+der Stuhl
+der Schreibtisch
+der Computer
+die Maus
+das Wörterbuch
+das Buch
+die Brille
+der Terminkalender
+der Bleistift
+der Kugelschreiber
+die Kaffeemaschine
+
+A3 Wo sind diese Sachen?
 Das ist mein Büro. Tja, ein chaotisches Büro. Hier sind mein Kugelschreiber und mein Bleistift. Dort stehen mein Computer und mein Drucker. Im Regal sind meine Fotos und Dokumente. Eine Lampe habe ich auch, aber die ist kaputt, und eine Kaffeemaschine, die funktioniert sehr gut. Ich trinke sehr viel Kaffee. Ein Telefon und ein Faxgerät habe ich natürlich auch. Das Telefon ist sehr wichtig. Ich mache Reportagen und schreibe Artikel für Zeitungen.
 
 Also, das ist mein Büro hier. Moment, wo ist meine Brille? Ah hier. Ich habe circa zweihundertfünfzig Bücher im Regal und ein russisch-deutsches Wörterbuch, es ist meine kleine Bibliothek. Ich lese gern russische Autoren. Hier sind mein Computer, mein Drucker und meine Lampe. Ein Telefon habe ich auch. Ich telefoniere sehr viel. Sehr wichtig ist mein Terminkalender. Ich arbeite an der Universität und habe viele Studenten.
+
+A4 Was sind die Leute von Beruf?
+Was meinen Sie?
+Ich denke, Peter Lindau ist Journalist von Beruf.
+Ich denke, Rita Kalt ist Lehrerin von Beruf.
+
+A5
+ein Computer, ein Kugelschreiber, ein Bleistift, ein Drucker, ein Regal, Fotos und Dokumente, eine Lampe, eine Kaffeemaschine, ein Telefon, ein Faxgerät
+kein Terminkalender, keine Brille, kein Wörterbuch
+
+Bücher, eine Brille, ein Regal, ein russisch-deutsches Wörterbuch, ein Computer, ein Drucker, eine Lampe, ein Telefon, ein Terminkalender
+kein Faxgerät, keine Fotos
+
+A6 Was kostet …?
+Was kostet der Bürostuhl?
+Der Bürostuhl kostet 30 Euro.
+30 Euro? Das ist billig!
+Ja, er ist billig und modern!
+
+Was kostet der Bürostuhl?
+Der Bürostuhl kostet 500 Euro.
+500 Euro? Das ist teuer!
+Ja, aber er ist sehr schön!
+
+Der Drucker kostet 289 Euro.
+Der Computer kostet 599 Euro.
+Der Bildschirm kostet 299 Euro.
+Die Bürolampe kostet 34,99 Euro.
+Das Kopiergerät kostet 691 Euro.
+Der Laptop kostet 1299 Euro.
+Der Schreibtisch kostet 75 Euro.
+Das Regal kostet 99 Euro.
+Der Computertisch kostet 29,95 Euro.
+Die Kaffeemaschine kost 49,98 Euro.
+Der Papierkorb kostet 2,99 Euro.
+Der Aktenschrank kostet 149 Euro.
+Der Taschenrechner kostet 9,85 Euro.
+Der Terminkalender kostet 149,59 Euro.
 
 A8 Probleme im Büro
 Frau Herzberg: Na, Herr Heinemann, wie geht es?
@@ -30,6 +87,8 @@ Herr Heinemann: Die Lampe funktioniert gut.
 Frau Herzberg: Also nur der Drucker …
 Herr Heinemann: Ja.
 Frau Herzberg: Ich komme gleich wieder. Ich frage mal Paul …
+
+A9 Was ist das Problem?
 
 A12
 neu, neuer, neue, neues, neuen
