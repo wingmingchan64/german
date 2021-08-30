@@ -18,7 +18,7 @@ Herr Heinemann: Danke. Bis später.
 Frau Herzberg: Bis später.
 
 A2
-das Telefondas
+das Telefon
 das Regal
 die Lampe
 der Drucker
@@ -89,6 +89,21 @@ Herr Heinemann: Ja.
 Frau Herzberg: Ich komme gleich wieder. Ich frage mal Paul …
 
 A9 Was ist das Problem?
+Mein Drucker ist kaputt. Ich kann nicht drucken.
+1. Mein Telefon ist kaputt. Ich kann nicht telefonieren.
+2. Mein Kugelschreiber ist kaputt. Ich kann nicht schreiben.
+3. Mein Computer funktioniert nicht. Ich kann nicht arbeiten.
+4. Mein Stuhl ist unbequem. Ich kann nicht sitzen.
+5. Meine Brille ist kaputt. Ich kann nicht sehen.
+6. Mein Auto geht nicht. Ich kann nicht fahren.
+7. Mein Laptop funktioniert nicht. Ich kann nicht arbeiten.
+8. Mein Fußball ist kaputt. Ich kann nicht Fußball spielen.
+
+A10 Wie heißt der bestimmte Artikel?
+Lesen und analysieren Sie die Sätze. Unterstreichen Sie die Adjektivendungen.
+Das ist ein neuer Drucker. Der Drucker ist neu. Ich habe ein neuer Drucker. der neue Drucker, den neuen Drucker, dem neuen Drucker
+Es ist eine alte Lampe. Die Lampe ist alt. Ich habe eine neue Lampe. die neue Lampe, der neuen Lampe
+Das ist ein kleines Problem. Das Problem ist klein. Ich habe ein kleines Problem. 
 
 A12
 neu, neuer, neue, neues, neuen

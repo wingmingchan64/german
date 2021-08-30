@@ -937,6 +937,7 @@ allgegenwärtig /ˈalɡeːɡənˈvɛrtɪç/: omnipresent
 
 allgemein /ˈalɡəˈmain/: general, universal, generally, broadly
   auf allgemeinen Wunsch: by general request
+  im Allgemeinen: in den meisten Fällen, Punkten o. Ä
 
 allmählich /alˈmɛːlɪç/: gradual, gradually
 ​ eine allmähliche Stabilisierung des Arbeitsmarktes
@@ -2084,6 +2085,7 @@ Artikel /arˈtɪkəl/, der, -s|~: article
   to write/read an article about sth
   Artikel 5 des Grundgesetzes
   section 5 of the Basic Law for the Federal Republic of Germany
+  der bestimmte Artikel: the definite article
   Die unbestimmten Artikel im Deutschen sind „ein‟ und „eine‟.
   The indefinite articles in German are “ein” and “eine”.
 
@@ -2832,6 +2834,8 @@ ausfallen /ˈausfalən/: to be cancelled, to fail, to malfunction, to fall out
   Growth has been higher/lower than expected.
   Dem Vogel fallen die Federn aus.
   The bird is losing its feathers.
+
+ausfällen: to precipitate
 
 Ausflug /ˈausfluːk/, der, -(e)s|..e/~|..en: trip, excursion
   Wanderung oder Fahrt zum Vergnügen

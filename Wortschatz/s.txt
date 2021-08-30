@@ -448,6 +448,12 @@ scheitern /ˈʃaitɐn/: to fail, to fall through, to collapse, to break down, to
   to already have two failed attempts behind you
   Unser Projekt ist gescheitert.
 
+schellen: to ring
+  klingeln
+  Es hat geschellt.
+  The bell has gone.
+  bei jdm or an jds Tür (dative) schellen
+
 Schenkel, der: thigh
   Teil des Beins über dem Knie
 
@@ -653,6 +659,7 @@ Schleim /ʃlaim/, der, -(e)s|-e: mucus, phlegm, slime, mush, oatmeal, rice puddi
 schlenzen: to flick 輕拂
 
 schleppen /ˈʃlɛpən/: to drag
+  langsam hinter sich herziehen
   einen Wagen in die Werkstatt schleppen: to tow a car to the shop
   Kisten in den zweiten Stock schleppen: to lug boxes up to the third floor
   Meine Eltern haben mich gestern ins Museum geschleppt.
