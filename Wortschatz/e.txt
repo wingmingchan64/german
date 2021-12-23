@@ -622,6 +622,8 @@ einnehmbar: capable of being taken (captured)
 einnehmen: to take, to earn, to occupy
   durch Geschäfte, Verkäufe bekommen; schlucken; beanspruchen, füllen
 
+einordnen: to (put in) order, to classify
+
 einpacken /ˈainpakən/: to wrap (up), to pack
   Weihnachtsgeschenke einpacken: to wrap up Christmas presents
 
