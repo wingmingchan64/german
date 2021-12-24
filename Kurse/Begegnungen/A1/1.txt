@@ -394,14 +394,14 @@ sechsundfünfzig – zwölf – dreiundvierzig
 
 A27 Sind die Zahlen richtig?
 1. 75 fünfundsiebzig
-2. 865 achthundartfünfundsechzig
-3. 1453 eintausendvierhundartdreiundfünfzig
+2. 865 achthundertfünfundsechzig
+3. 1453 eintausendvierhundertdreiundfünfzig
 4. 23 dreiundzwanzig
-5. 2837 zweitausendachthundartsiebenunddreißig
-6. 6945 sechstausendneunhundartfünfundvierzig
-7. 767 siebenhundartsiebenundsechzig
-8. 10765 zehntausendsiebenhundartfünfundsechzig
-9. 30986 dreißigtausendneunhundartsechsundachtzig
+5. 2837 zweitausendachthundertsiebenunddreißig
+6. 6945 sechstausendneunhundertfünfundvierzig
+7. 767 siebenhundertsiebenundsechzig
+8. 10765 zehntausendsiebenhundertfünfundsechzig
+9. 30986 dreißigtausendneunhundertsechsundachtzig
 
 A28 Wie viel ist …? Kleine Mathematikstunde. Rechnen Sie.
 1. sieben plus drei ist zehn
@@ -431,7 +431,7 @@ A29 Woher kommt das Auto?
 11. N – MA 770: Nürnberg
 12. D – GL 5454: Düsseldorf
 
-A30
+A30 Markieren Sie die Verben.
 Sind Sie Herr Meier?
 Nein. Mein Name ist Conrad Müller.
 Woher kommen Sie?
@@ -457,7 +457,7 @@ Sprechen Sie Englisch?
 Wohnst du in Berlin?
 Studiert er Medizin?
 
-A32
+A32 Bilden Sie Sätze.
 1. Er wohnt in Madrid.
 2. Bist du verheiratet?
 3. Ich spreche Spanisch.
@@ -465,12 +465,13 @@ A32
 5. Was sind Sie von Beruf?
 6. Jean studiert in London Informatik.
 
-A33
-1. Wie alt sind Sie/bist du?
-2. Woher kommen Sie/kommst du?
-3. Wo wohnen Sie/wohnst du?
-4. Was sind Sie/bist du von Beruf?
-5. Sprechen Sie/Spricht du Spanisch?
+A33 Wie heißt die Frage?
+Wie heißen Sie?/ Wie heißt du? Max Becker.
+1. Wie alt sind Sie/bist du? Ich bin 26 Jahre alt.
+2. Woher kommen Sie/kommst du? Ich komme aus Deutschland.
+3. Wo wohnen Sie/wohnst du? In Hamburg.
+4. Was sind Sie/bist du von Beruf? Elektronikingenieur.
+5. Sprechen Sie/Sprichst du Spanisch? Ja, ich spreche ein bisschen Spanisch.
 
 A34 Personen und Hobbys
 Das ist Hans Behrens. Er arbeitet als Chemiker bei BASF in Ludwigshafen. Er ist verheiratet mit Susanne und hat zwei Kinder. Seine Hobbys sind Tennis spielen und Briefmarken sammeln.
@@ -485,7 +486,7 @@ Das ist Maximilian, der Sohn von Hans und Susanne, der Bruder von Marie. Er ist 
 
 Das ist Marie, die Tochter von Hans und Susanne, die Schwester von Maximilian. Sie ist acht Jahre alt und singt im Chor.
 
-A35
+A35 Ergänzen Sie die Informationen.
 Maximilian
 Alter: 4
 Hobbys: Fußball spielen
@@ -509,13 +510,13 @@ Familienstand: ledig
 Beruf: Student
 Hobbys: Computerprogramme schreiben
 
-A36
+A36 Ergänzen Sie.
 Geschwister: Hans (der Bruder) + Marta (die Schwester) + Martin (der Bruder)
 Ehepartner: Hans (der Mann) + Susanne (die Frau)
 Eltern: Hans (der Vater) + Susanne (die Mutter)
 Kinder: Maximilian (der Sohn) + Marie (die Tochter)
 
-A37
+A37 Kombinieren Sie.
 Maximilian spielt gern Fußball.
 Marta hört gern Musik.
 Marta spielt gut Gitarre.
@@ -525,14 +526,14 @@ Susanne liest gern Kriminalromane.
 Martin schreibt gern Computerprogramme.
 Marie singt gern im Chor.
 
-A38
+A38 Finden Sie die Endungen.
 ich singe/spiele/lese
 du singst/spielst/liest
 er singt/spielt/liest
 wir singen/spielen/lesen
 ihr singt/spielt/lest
 
-A39
+A39 Antworten und fragen Sie.
 a)
 1. Spielt ihr gern Fußball?
    Nein, wir spielen nicht gern Fußball.
@@ -541,7 +542,7 @@ a)
    Ja, ich spiele gern Tennis.
 3. Spielt ihr gern Basketball?
    Ja, wir spielen gern Basketball.
-4. Spielt ir gern Hockey?
+4. Spielt ihr gern Hockey?
    Nein, wir spielen nicht gern Hockey.
    Wir spielen lieber Fußball.
 5. Spielst du gern Gitarre?
@@ -566,7 +567,7 @@ b)
 5. Lest ihr gerne Biographien?
    Ja, wir lesen gerne Biographien.
 
-A42
+A42 Schreiben Sie Sätze.
 Das ist Franz. Er ist Student. Er studiert in Berlin Journalistik. Seine Muttersprache ist Deutsch. Er spricht auch Französisch und ein bisschen Englisch. Er spielt sehr gut Tennis. Er liest auch gern Romane.
 
 Teil B – Wissenswertes
@@ -575,7 +576,7 @@ Eine Milliarde zweihunderteinundachtzig Millionen
 
 B2 Das WIE-VIELE-Quiz
 1. Wie viele Bundesländer hat Deutschland?
-   Deutschland hat 16 Bundesländer: Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, 	Sachsen-Anhalt, Schleswig-Holstein und Thüringen.
+   Deutschland hat 16 Bundesländer: Baden-Württemberg, Bayern, Berlin, Brandenburg, Bremen, Hamburg, Hessen, Mecklenburg-Vorpommern, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Sachsen, Sachsen-Anhalt, Schleswig-Holstein und Thüringen.
 2. Wie viele Sprachen spricht man in der Welt?
    Man spricht in der Welt ca. 6500 Sprachen.
 3. Wie viele Menschen wohnen in Österreich?
@@ -589,22 +590,23 @@ B2 Das WIE-VIELE-Quiz
 7. Wie viele Millionenstädte hat Deutschland?
    Deutschland hat 4 Millionenstädte.
 
-B3
+B3 Lesen und hören Sie den Text.
 Deutschland hat 82,4 (83,7 in 2020) Millionen Einwohner und 16 Bundesländer. Die Hauptstadt ist Berlin. In Deutschland gibt es nur eine Amtssprache: Deutsch. Die drei größten Städte sind Berlin, Hamburg und München. Seit 1871 ist Deutschland ein Nationalstaat. Sehr wichtig für Deutschland ist die deutsche Wiedervereinigung 1990.
 
-Österreich hat 8,2 Millionen (9,0 in 2021) Einwohner und neun Bundesländer. Die Hauptstadt ist Wien. In Wien wohnen 1,5 Millionen Menschen. Österreich hat eine Amtssprache: Deutsch und drei Regionalsprachen: Kroatisch, Slowenisch und Ungarisch. Seit 1918 ist Österreich eine Republik.
+Österreich hat 8,2 Millionen (9,0 in 2021) Einwohner und neun Bundesländer. Die Hauptstadt ist Wien. In Wien wohnen 1,5 Millionen (1,9 Millionen in 2021) Menschen. Österreich hat eine Amtssprache: Deutsch und drei Regionalsprachen: Kroatisch, Slowenisch und Ungarisch. Seit 1918 ist Österreich eine Republik.
 
 Die Schweiz ist über 800 Jahre alt. Sie hat 26 kleine Kantone (= Bundesländer) und 7,5 Millionen (8,6 in 2020) Einwohner. Die Hauptstadt ist Bern. Die Schweiz hat vier Amtssprachen: etwa 70 Prozent der Einwohner sprechen Deutsch, etwa 20 % Französisch, etwa 10 % Italienisch und 1 % spricht Rätoromanisch.
 
 Teil C – Übungen zu Grammatik und Wortschatz
-C1
+Personalpronomen und Verben im Präsens
+C1 Was passt?
 1. Er studiert Betriebswirtschaft.
 2. Wo wohnt Sarah?
 3. Was bist du von Beruf?
 4. Woher kommen Sie?
 5. Frau Binder ist Lehrein.
 
-C2
+C2 Was passt hier?
 1. Mein Nachbar kommt aus Italien.
 2. Ich wohne in Berlin.
 3. Meine heißt Nachbarin Serena.
@@ -624,7 +626,7 @@ Ja, ich studiere Chemie.
 Sie sprechen sehr gut Deutsch.
 Ich spreche auch Englisch und Französisch.
 
-C4
+C4 Ergänzen Sie die Verben.
 Susanne arbeitet als Sekretärin bei BASF.
 1. Marta spielt gut Gitarre.
 2. Marie singt im Chor.
@@ -635,19 +637,19 @@ Susanne arbeitet als Sekretärin bei BASF.
 7. Susanne liest gern Kriminalromane.
 8. Maximilian spielt gern Fußball.
 
-C5
+C5 Ergänzen Sie die Verben.
 ich spreche, du sprichst, er spricht
 ich arbeite, du arbeitest, er arbeitet
 ich lese, du liest, er liest
 ich bin, du bist, er ist
 
-C6
+C6 Hören Sie. Ergänzen Sie die Sätze.
 1. Sandra kommt aus Schweden. Sie wohnt jetzt in Hamburg und studiert dort Medizin. Sie ist ledig. Sie spielt gern Volleyball, liest gern Kriminalromane.
 2. Paolo kommt aus Spanien. Er wohnt jetzt in München. Dort arbeitet er als Ingenieur bei Siemens. Paolo spielt gern Fußball.
 3. Klaus wohnt in Berlin. Er ist Journalist. Klaus ist verheiratet und hat drei Kinder. Er schreibt Gedichte.
 4. Franziska wohnt in Wien. Sie ist Lehrerin. Sie ist geschieden. Sie hört gern Musik und singt im Chor.
 
-C7
+C7 Bilden Sie Sätze.
 1. Kommt Miguel aus Spanien?
 2. Kerstin spricht Französisch und Englisch.
 3. Ich lerne jetzt Deutsch.
@@ -664,12 +666,12 @@ C7
 14. Spielt ihr gern Tischtennis? 
 15. Wir studieren in München Medizin.
 
-C8
+C8 Schreiben Sie kurze Texte.
 a) Anna Tatzikowa kommt aus Moskau. Sie wohnt jetzt in München und studiert dort Medizin. Sie spricht Russisch und auch sehr gut Englisch. Sie ist ledig. Sie spielt gern Tennis und hört gern Musik.
 b) Paul Ehrlicher wohnt in Leipzig. Er arbeitet als Kriminalkommissar. Er ist geschieden und hat zwei Kinder. Er spricht ein bisschen Englisch. Er spielt sehr gut Gitarre. Er singe auch gern.
 c) Petra Sommer wohnt in Frankfurt. Sie ist Lehrerin. Sie ist verheiratet. Ihre Muttersprache ist Deutsch und sie spricht auch Englisch und Spanisch. Sie lernt jetzt Italien. Sie schreibt Gedichte.
 
-C9
+C9 Wie heißen die Fragewörter?
 1. Woher kommen Sie?
 2. Wo wohnst du?
 3. Was sind Sie von Beruf?
@@ -683,7 +685,9 @@ C9
 11. Wie heißt du?
 12. Wo arbeitet Hans Behrens?
 
-C10
+Die Nomengruppe
+
+C10 Ergänzen Sie.
 Ist das deine Schwester?
 dein/Ihr/mein/sein Bruder
 dein/Ihr/mein/sein Vater
@@ -693,64 +697,67 @@ dein/Ihr/mein/sein Sohn
 dein/Ihr/mein/ihr Mann
 deine/Ihre/meine/seine Frau
 
-C11
+C11 Ergänzen Sie.
 Mein Name ist Anne.
-1. Sie Wie ist Name? Name: maskulin
-2. Wie ist deine E-Mail-Adresse?
-3. Sind das deine Kinder?
-4. Meine Nachbarin spricht Ungarisch.
-5. Welche Sprachen spricht dein Nachbar?
-6. Was ist seine Heimatstadt?
-7. Was sind ihre Hobbys?
-8. Mein Bruder ist Arzt.
-9. Sind das Ihre Briefmarken?
-10. Was ist seine Muttersprache?
-11. Wohnt Ihr Sohn in Paris?
-12. Das sind ihre Freunde?
-13. Nein, das sind meine Freunde.
-14. Wie ist deine Telefonnummer?
+1. Sie: Wie ist Ihr Name? Name: maskulin
+2. du: Wie ist deine E-Mail-Adresse?
+3. du: Sind das deine Kinder?
+4. ich: Meine Nachbarin spricht Ungarisch.
+5. du: Welche Sprachen spricht dein Nachbar?
+6. er: Was ist seine Heimatstadt?
+7. sie: Was sind ihre Hobbys?
+8. ich: Mein Bruder ist Arzt.
+9. Sie: Sind das Ihre Briefmarken?
+10. er: Was ist seine Muttersprache?
+11. Sie: Wohnt Ihr Sohn in Paris?
+12. sie: Das sind ihre Freunde?
+13. ich: Nein, das sind meine Freunde.
+14. du: Wie ist deine Telefonnummer?
 
 C12
-47
-1. 23
-2. 45
-3. 99
-4. 52
-5. 36
-6. 81
-7. 68
-8. 33
+siebenundvierzig 47
+1. dreiundzwanzig 23
+2. fünfundvierzig 45
+3. neunundneunzig 99
+4. zweiundfünfzig 52
+5. sechsunddreißig 36
+6. einundachtzig 81
+7. achtundsiebzig 78
+8. dreiundreißig 33
 
+C13 Schreiben Sie die Zahlen in Worten.
 1 eins
-1. vier
-2. sieben
-3. acht
-4. elf
-5. zehn
-6. fünfzehn
-7. fünf
-8. drei
-9. sechs
-10. dreizehn
-11. sechzehn
-12. siebenundzwanzig
-13. vierzehn
+1. 4 vier
+2. 7 sieben
+3. 8 acht
+4. 11 elf
+5. 10 zehn
+6. 15 fünfzehn
+7. 5 fünf
+8. 3 drei
+9. 6 sechs
+10. 13 dreizehn
+11. 16 sechzehn
+12. 27 siebenundzwanzig
+13. 14 vierzehn
 
-1. fünf
-2. einundachtzig
-3. dreiundvierzig
-4. zwölf
-5. vierhundert
-6. achtunddreißig
-7. einhundertzwei
-8. sechsundsiebzig
-9. elf
-10. zweitausend
-11. neunzig
-12. zwanzig
-13. sechsundsechzig
-14. zweiundfünfzig
-15. siebzig
+C14 Ergänzen Sie die fehlende Zahl.
+zwei – drei – vier
+1. vier - fünf - sechs
+2. achtzig - einundachtzig - zweiundachtzig
+3. zweiundvierzig - dreiundvierzig - vierundvierzig
+4. elf - zwölf - dreizehn
+5. dreihundert - vierhundert - fünfhundert
+6. siebenunddreißig - achtunddreißig - neununddreißig
+7. einhunderteins - einhundertzwei - einhundertdrei
+8. fünfundsiebzig - sechsundsiebzig - siebenundsiebzig
+9. zehn - elf - zwölf
+10. eintausend - zweitausend - dreitausend
+11. achtzig - neunzig - hundert
+12. neunzehn - zwanzig - einundzwanzig
+13. fünfundsechzig - sechsundsechzig - siebenundsechzig
+14. einundfünfzig - zweiundfünfzig - dreiundfünfzig
+15. sechzig - siebzig - achtzig
 
 D1 Wichtige Redemittel
 Fragen und Antworten zur Person
