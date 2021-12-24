@@ -404,6 +404,7 @@ netto: net
 neu
   ein neuer Computer, eine neue Lampe, ein neues Telefon, neue Bücher, keine neuen Bücher
   mit einem neuen Computer/Telefon, mit einer neuen Lampe
+  Ich habe einige neue Computers/Bücher/Lampen
 
 Neu-Delhi /nɔyˈdeːli/
 

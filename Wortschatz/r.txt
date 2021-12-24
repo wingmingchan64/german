@@ -299,6 +299,13 @@ recht: right, real
   When his mother told him to be quiet, he screamed all the more.
   ein rechter Feigling sein
 
+rechts
+  von rechts
+  rechts vom Nomen
+  weiter rechts
+  sich rechts einordnen: to move into or take the right-hand lane
+  sich rechts halten: to keep (to the) right
+
 Rechtsanwalt, Rechtsanwältin: lawyer
 
 Rechtschreibung, die: spelling
@@ -844,8 +851,9 @@ röhren /ˈrøːrən/: to bell(ow)
 
 Rollbahn, die: runway
 
-Rolle /ˈrɔlə/, die, -n: roll
+Rolle /ˈrɔlə/, die, -n: roll, role, part
   eine Rolle Klopapier: a roll of toilet paper
+  ein Stück mit verteilten Rollen lesen: to read a play with the parts cast
 
 rollen /ˈrɔlən/: to roll
 
@@ -1060,6 +1068,8 @@ Rumpf /rʊmpf/, der, -(e)s|..e: torso, fuselage, hull
 rund /rʊnt/: round, circular, rounded, around
   Wir saßen rund um das Feuer.
   We were sitting around the fire.
+  rund um: right (a)round
+  rund um die Uhr: right (a)round the clock
 
 Rundfunkgebühr, die: radio licence fee
 

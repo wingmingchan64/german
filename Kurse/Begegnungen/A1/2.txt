@@ -17,7 +17,7 @@ Frau Herzberg: Meine Telefonnummer ist die 44 22. Ganz einfach!
 Herr Heinemann: Danke. Bis später.
 Frau Herzberg: Bis später.
 
-A2
+A2 Ordnen Sie zu.
 das Telefon
 das Regal
 die Lampe
@@ -41,17 +41,21 @@ Also, das ist mein Büro hier. Moment, wo ist meine Brille? Ah hier. Ich habe ci
 
 A4 Was sind die Leute von Beruf?
 Was meinen Sie?
-Ich denke, Peter Lindau ist Journalist von Beruf.
-Ich denke, Rita Kalt ist Lehrerin von Beruf.
+Ich denke, Peter Lindau ist Journalist.
+Ich denke, Rita Kalt ist Lehrerin an einer Universität.
 
-A5
+A5 Berichten Sie.
+Im Büro von Peter Lindau ist/sind
 ein Computer, ein Kugelschreiber, ein Bleistift, ein Drucker, ein Regal, Fotos und Dokumente, eine Lampe, eine Kaffeemaschine, ein Telefon, ein Faxgerät
 kein Terminkalender, keine Brille, kein Wörterbuch
 
+Im Büro von Rita Kalt ist/sind
 Bücher, eine Brille, ein Regal, ein russisch-deutsches Wörterbuch, ein Computer, ein Drucker, eine Lampe, ein Telefon, ein Terminkalender
 kein Faxgerät, keine Fotos
 
 A6 Was kostet …?
+Spielen Sie Dialoge.
+Verwenden Sie dabei: teuer, preiswert, billig, schön, modern, praktisch
 Was kostet der Bürostuhl?
 Der Bürostuhl kostet 30 Euro.
 30 Euro? Das ist billig!
@@ -66,16 +70,30 @@ Der Drucker kostet 289 Euro.
 Der Computer kostet 599 Euro.
 Der Bildschirm kostet 299 Euro.
 Die Bürolampe kostet 34,99 Euro.
-Das Kopiergerät kostet 691 Euro.
-Der Laptop kostet 1299 Euro.
-Der Schreibtisch kostet 75 Euro.
-Das Regal kostet 99 Euro.
+Das Kopiergerät kostet 691 Euro. Es ist sehr nützlich.
+Der Laptop kostet 1299 Euro. Er ist sehr teuer und modern.
+Der Schreibtisch kostet 75 Euro. Er ist billig.
+Das Regal kostet 99 Euro. Es ist praktisch.
 Der Computertisch kostet 29,95 Euro.
-Die Kaffeemaschine kost 49,98 Euro.
+Die Kaffeemaschine kost 49,98 Euro. Sie ist sehr modern.
 Der Papierkorb kostet 2,99 Euro.
 Der Aktenschrank kostet 149 Euro.
 Der Taschenrechner kostet 9,85 Euro.
 Der Terminkalender kostet 149,59 Euro.
+
+A7 Was kostet das in Ihrem Land? Berichten Sie.
+ein Bürostuhl, $150
+ein Drucker, $200
+ein Computer, $1,000
+ein Bildschirm, $200
+eine Bürolampe, $50
+ein Kopiergerät, $2,000
+ein Laptop, $1,000
+ein Schreibtisch, $150
+ein Regal, $150
+ein Computertisch, $150
+ein Faxgerät, ?
+eine Kaffeemaschine, $50
 
 A8 Probleme im Büro
 Frau Herzberg: Na, Herr Heinemann, wie geht es?
@@ -88,7 +106,7 @@ Frau Herzberg: Also nur der Drucker …
 Herr Heinemann: Ja.
 Frau Herzberg: Ich komme gleich wieder. Ich frage mal Paul …
 
-A9 Was ist das Problem?
+A9 Was ist das Problem? Ergänzen Sie.
 Mein Drucker ist kaputt. Ich kann nicht drucken.
 1. Mein Telefon ist kaputt. Ich kann nicht telefonieren.
 2. Mein Kugelschreiber ist kaputt. Ich kann nicht schreiben.
@@ -105,7 +123,19 @@ Das ist ein neuer Drucker. Der Drucker ist neu. Ich habe ein neuer Drucker. der 
 Es ist eine alte Lampe. Die Lampe ist alt. Ich habe eine neue Lampe. die neue Lampe, der neuen Lampe
 Das ist ein kleines Problem. Das Problem ist klein. Ich habe ein kleines Problem. 
 
-A12
+A11 Spielen Sie Dialoge.
+der Drucker, das Telefon, das Faxgerät, der Stuhl, das Auto, der Computer, der Kugelschreiber
+etwas funktioniert nicht, geht nicht, ist kaputt
+Funktioniert Ihr/dein Drucker?
+Geht Ihr/dein Drucker?
+Nein, mein Drucker funktioniert nicht/geht nicht.
+Nein, mein Drucker ist kaputt.
+Ich kann nicht drucken.
+Ist es ein alter Drucker?
+Ja, das ist ein (sehr) alter Drucker.
+Nein, das ist ein neuer Drucker.
+
+A12 Hören und verbinden Sie die Antonyme.
 neu, neuer, neue, neues, neuen
 schön, schöner, schöne, schönes, schönen
 modern, moderner, moderne, modernes, modernen
@@ -119,7 +149,37 @@ dunkel, dunkler, dunkle, dunkles, dunklen
 billig, billiger, billige, billiges, billigen
 hässlich, hässlicher, hässliche, hässliches, hässlich
 
-A14
+A13 Bilden Sie Sätze mit den Adjektiven aus Übung A12.
+Die Kaffeemaschine ist nicht alt. Es ist eine neue Kaffeemaschine.
+1. Der Computer ist nicht neu. Es ist ein alter Computer.
+2. Die Uhr ist nicht schön. Es ist eine hässliche Uhr.
+3. Das Bild ist nicht bellig. Es ist ein teues Bild.
+4. Das Buch ist nicht interessant. Es ist ein langweiliges Buch.
+5. Das Auto ist nicht hell. Es ist ein dunkles Auto.
+6. Das Büro ist nicht modern. Es ist ein unmodernes Büro.
+7. Der Schreibtisch ist nicht teuer. Es ist ein billiger Schreibtisch.
+8. Das Faxgerät ist nicht praktisch. Es ist ein praktisches Faxgerät.
+9. Die Lampe ist nicht groß. Es ist eine kleine Lampe.
+10. Das Regal ist nicht hässlich. Es ist ein schönes Regal.
+11. Der Drucker ist nicht alt. Es ist ein neuer Drucker.
+12. Das Telefon ist nicht neu. Es ist ein altes Telefon.
+13. Die Brille ist nicht billig. Es ist eine teure Brille.
+14. Der Stuhl ist nicht bequem. Es ist ein unbequemer Stuhl.
+15. Die Maus ist nicht teure. Es ist eine billige Maus.
+16. Der Bleistift ist nicht hässlich. Es ist ein schöner Bleistift.
+
+Rund um die Arbeit: An der Universität
+A14 Abteilungen
+a) Lesen Sie.
+1. die Verwaltung
+2. die Kantine
+3. die Mensa
+4. die Cafeteria
+5. die Bibliothek
+6. das Sekretariat
+7. die Sporthalle
+
+b) Hören Sie den Text und verbinden Sie.
 (1) das Sekretariat: Informationen bekommen
 (2) die Verwaltung: Rechnungen bezahlen
 (3) die Bibliothek: Zeitungen und Bücher lesen
@@ -127,12 +187,112 @@ A14
 (5) die Kantine: etwas essen (Mitarbeiter)
 (6) die Mensa: etwas essen (Studenten)
 (7) die Sporthalle: Volleyball oder Fußball spielen
-(8) die Cafeteria: Kaff ee trinken
+(8) die Cafeteria: Kaffee trinken
 
-A17
+Dialog:
+Peter: Ist das die Verwaltung?
+Lisa: Nein, das ist nicht die Verwaltung, das ist das Sekretariat. Hier arbeitet unsere Chefsekretärin. Im Sekretariat können Sie viele Informationen bekommen, z. B. Wo kann man Zeitung lesen? Wo kann man Sprachen lernen? … Und gleich hier arbeite ich. 
+Peter: Ein sehr großes Büro haben Sie! 
+Lisa: Ja … Hier ist die Verwaltung. Der Verwaltungsleiter heißt Paul Fischer, er ist sehr nett … In der Verwaltung bezahlt man Rechnungen. Und das ist unsere Bibliothek. Hier können Sie Bücher und Zeitungen lesen …
+Peter: Sehr gemütlich! Eine schöne Bibliothek. 
+Lisa: Das hier ist unser Sprachenzentrum. Hier können die Studenten Sprachkurse besuchen. Es ist sehr modern.
+Peter: Wo kann man hier etwas essen?
+Lisa: Das ist die Kantine. Dort essen die Mitarbeiter. Das Essen ist sehr gut. Hier ist die Mensa für die Studenten. Das Essen ist dort, glaube ich, nicht so gut.
+Peter: Dann esse ich in der Kantine.
+Lisa: Natürlich. Sie sind ja unser neuer Mitarbeiter. Wir haben auch eine neue Sporthalle. Man kann hier Volleyball oder Fußball spielen. Kommen Sie, wir trinken einen Kaffee in der Cafeteria. 
+Peter: Nein, danke. Ich habe Hunger. Ich esse etwas in der Kantine.
+
+A15 Berichten Sie.
+Das ist die Bibliothek. Hier kann man Bücher lesen.
+1. Das ist die Cafeteria. Hier kann man Kaffee trinken.
+2. Das ist die Sporthalle. Hier kann man Volleyball oder Fußball spielen.
+3. Das ist das Sekretariat. Hier kann man Informationen bekommen.
+4. Das ist die Verwaltung. Hier kann man Rechnungen bezahlen.
+5. Das ist das Sprachenzentrum. Hier kann man Sprachen besuchen/lernen.
+6. Das ist die Mensa. Hier können die Studenten etwas essen.
+7. Das ist die Kantine. Hier können die Mitarbeiter etwas essen.
+
+A16 Position der Verben.
+1. Hier können Studenten etwas essen.
+2. Im Sekretariat kann mann Informationen bekommen.
+3. Ich kann sehr gut schwimmen.
+4. Hier kann man Zeitung lesen.
+5. Wir können im Sprachenzentrum Englisch lernen.
+
+Fragen im Sprachkurs:
+Können Sie das bitte wiederholen?
+Können Sie das bitte noch einmal erklären?
+Was bedeutet das?
+ 
+A17 Was kann man …? Was passt zusammen? Ordnen Sie zu.
+Fußball spielen
+Rechnungen bezahlen
+Bücher lesen
+Sprachen lernen
+Informationen bekommen
+Zeitung lesen
 Sprachkurse besuchen
+Kaffee trinken
+Englisch lernen
+Briefmarken sammeln
+Computerprogramme schreiben
+
+A18 Phonetik: Der Wortakzent
+Grundregel:
+Der Akzent ist links.
+Abend – Bücher – Lampe – Name – Drucker – Zimmer – Zeitung
+sehen – arbeiten – fahren – schreiben – hören
+Komposita:
+Der Akzent ist links. 
+Fußball – Briefmarken – Bücherregal – Faxgerät – Wörterbuch –
+Schreibtisch – Kugelschreiber – Bleistift
+Fremdwörter:
+Der Akzent ist oft rechts.
+Kaffee – Büro – Student – Dokument – Termin – Universität –
+Bibliothek – Kaffeemaschine – Bürostuhl – Terminkalender
+
+Freizeit
+A19  Die Deutschen und ihre Lieblingshobbys
+a) Ordnen Sie zu.
+Freunde besuchen
+Auto fahren
+Fremdsprachen lernen
+wandern
+kochen
+im Internet surfen
+lesen
+Bier trinken
+Musik hören
+Fußball spielen
+fotografieren
+Euromünzen sammeln
+
+b) Was sind die Lieblingshobbys in Ihrem Land?
+In … kocht man gern …
+Die Leute kochen gern …
+
+A20 Fragen Sie Ihre Nachbarin/Ihren Nachbarn.
+Fährst du gern Auto?
+Ja, ich fahre gern Auto.
+Kochen Sie gern?
+Nein, ich koche nicht gern.
+Meine Nachbarin …
+Mein Nachbar …
+
+A21 Was machen Sie gern? Spielen Sie Dialoge.
+Fahren Sie gern Auto? Nein, ich spiele lieber Fußball.
+1. Lernen Sie gern Fremdsprachen? Nein, ich fotografiere lieber schöne Landschaften.
+2. Spielst du gern Volleyball? Nein, ich spiele lieber ein Instrument.
+3. Sammelt ihr gern Euromünzen? Nein, wir sammeln lieber Briefmarken.
+4. Wandert Ihr Sohn gern? Nein, er fährt lieber Auto.
+5. Treiben deine Eltern gern Sport? Nein, sie lesen lieber Romane.
+6. Hören Sie gern Musik? Nein, ich surfe lieber im Internet.
+7. Kocht dein Vater gern? Nein, er trinkt lieber Bier.
+8. Reisen Sie gern? Nein, ich arbeite lieber.
+9. Besucht ihr gern Freunde? Nein, wir lernen lieber Fremdsprachen.
 
 A22 In der Cafeteria
+a) Hören Sie zuerst den Dialog. Markieren Sie:
 Frau Herzberg: Was trinken Sie, Herr Heinemann?
 Herr Heinemann: Kaffee bitte. 
 Frau Herzberg: Bitte sehr.
@@ -156,9 +316,22 @@ Herr Heinemann: Frau Herzberg, Sie spielen Fußball und Sie rauchen?
 Frau Herzberg: Ja. Aber nur 5 bis 6 Zigaretten pro Tag. Und Sie? Rauchen Sie?
 Herr Heinemann: Nein, ich bin Nichtraucher.
 
+b) Lesen Sie nun den Dialog mit verteilten Rollen.
+
+A23
+1. Spielen Sie gut Gitarre? Nein, leider nicht.
+2. Singen Sie vielleicht? Ja, ich singe.
+3. Welche Sprache sprechen Sie zu Hause? Ich spreche zu Hause Chinesisch.
+4. Können Sie gut Fußball spielen? Nein, ich kann nicht Fußball spielen.
+5. Rauchen Sie? Nein, ich bin Nichtraucher.
+6. Lernen Sie gern Deutsch? Ja, sehr gern.
+
 A24
+spielst du
 1. findest du
 2. fahrt ihr
 3. kannst du
 4. sprecht ihr
 5. lernt ihr
+
+A25 
