@@ -249,7 +249,7 @@ Ja, ich spreche gut Russisch.
 Sprechen Sie Griechisch?
 Ja, ich spreche sehr gut Griechisch.
 Sprichst du Deutsch?
-Ja, ich spreche ein bissen Deutsch.
+Ja, ich spreche ein bisschen Deutsch.
 Sprechen Klaus und Marie Arabisch?
 Nein, leider nicht. Sie sprechen kein Arabisch.
 
