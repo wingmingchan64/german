@@ -463,6 +463,11 @@ Heimat /ˈhaimaːt/, die: home (country)
 Heimatland, das: native country, homeland
 
 Heimatstadt, die: home town
+  Nominative      die Heimatstadt    die Heimatstädte
+  Accusative      die Heimatstadt    die Heimatstädte
+  Genitive        der Heimatstadt    der Heimatstädte
+  Dative          der Heimatstadt    den Heimatstädte
+  Buchstabieren Sie Ihre Heimatstadt.
 
 heimlich /ˈhaimlɪç/: secret
   eine heimliche Schwäche für jdn / etw. haben

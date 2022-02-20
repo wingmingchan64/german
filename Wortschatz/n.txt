@@ -222,6 +222,11 @@ Naht /naːt/, die: seam
   Wie ist Ihr Name?
   What is your name?
   Auf den Namen Schmidt
+  Nominative      der Name/Namen  die Namen
+  Accusative      den Namen       die Namen
+  Genitive        des Namens      der Namen
+  Dative          dem Namen       den Namen
+  Buchstabieren Sie Ihren Namen.
 
 Namengebung, Namensgebung, die: naming
   das Benennen einer Person oder Sache mit einem Namen

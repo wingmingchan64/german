@@ -319,19 +319,27 @@ Herr Heinemann: Nein, ich bin Nichtraucher.
 b) Lesen Sie nun den Dialog mit verteilten Rollen.
 
 A23
-1. Spielen Sie gut Gitarre? Nein, leider nicht.
+1. Spielen Sie gut Gitarre? Nein, ich spiele nicht gut Gitarre./
 2. Singen Sie vielleicht? Ja, ich singe.
 3. Welche Sprache sprechen Sie zu Hause? Ich spreche zu Hause Chinesisch.
-4. Können Sie gut Fußball spielen? Nein, ich kann nicht Fußball spielen.
+4. Können Sie gut Fußball spielen? Nein, ich kann nicht gut Fußball spielen.
 5. Rauchen Sie? Nein, ich bin Nichtraucher.
 6. Lernen Sie gern Deutsch? Ja, sehr gern.
 
 A24
-spielst du
-1. findest du
-2. fahrt ihr
-3. kannst du
-4. sprecht ihr
-5. lernt ihr
+Welches Instrument spielst du?
+1. Wie findest du Marburg?
+2. Fahrt ihr nach München?
+3. Kannst du gut singen?
+4. Welche Sprachen sprecht ihr zu Hause?
+5. Lernt ihr auch Deutsch?
 
-A25 
+A25 Sortieren Sie die Wörter.
+Das kann man spielen: Violine, Volleyball, Gitarre, Trompete, Klavier, Schach, Fußball, Tennis, Pingpong, Karten, Saxofon, Golf
+Das kann man machen: Yoga, Rockmusik, Gymnastik, Musik, klassische Musik
+Das kann man lesen: Romane, Gedichte, Literatur, Zeitung, Karten
+Das kann man lernen: Latein, Portugiesisch, Mathematik, Deutsch
+Das kann man hören: Jazz, HipHop, Rockmusik, Musik, klassische Musik
+Das kann man tanzen: Walzer, Salsa, Tango
+Das kann man fahren: Auto, Fahrrad, Motorrad, Ski
+Das kann man sammeln: Briefmarken, Karten, Euromünzen
