@@ -128,6 +128,7 @@ Land /lant/, das, -(e)s|..er: land, state, country, countryside
   Die Passagiere gehen an Land.
   The passengers are going ashore.
   In welchem Land ist Ihre Heimatstadt?
+  In welchen Ländern spricht man Spanisch?
   Nominative      das Land            die Länder
   Accusative      das Land            die Länder
   Genitive        des Lands/Landes    der Länder

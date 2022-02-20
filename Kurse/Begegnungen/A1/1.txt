@@ -245,7 +245,7 @@ Nein, leider nicht. Ich spreche kein Französisch.
 Spricht Frau Müller Polnisch?
 Nein, sie spricht kein Polnisch.
 Sprichst du Russisch?
-Ja,ich spreche gut Russisch.
+Ja, ich spreche gut Russisch.
 Sprechen Sie Griechisch?
 Ja, ich spreche sehr gut Griechisch.
 Sprichst du Deutsch?
