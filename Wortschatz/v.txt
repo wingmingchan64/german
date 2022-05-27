@@ -121,7 +121,8 @@ verbergen /fɛɐˈbɛrɡən/: to hide
 Verbeugung: bow
   eine tiefe Verbeugung machen
 
-verbieten /fɛɐˈbiːtən/: to forbid
+verbieten /fɛɐˈbiːtən/: to forbid, to ban
+  nicht tun lassen
   ↔ erlauben
   Meine Eltern haben mir verboten, mit dir zu spielen.
   My parents have forbidden me from playing with you.
@@ -1273,6 +1274,11 @@ verwechseln /fɛɐˈvɛksəln/: to mix up, to mistake, to confuse
 
 Verwechslung /fɛɐˈvɛkslʊŋ/, die: mix-up, mistake, confusion
   Die Polizei ist sicher, dass eine Verwechslung (des Täters) völlig ausgeschlossen ist.
+
+verweigern: to deny , to refuse
+  jdm etw. nicht erlauben, etw. nicht zulassen
+  Ihm wurde an der Grenze die Einreise verweigert.
+  He was refused entry at the border.
 
 verweilen /fɛɐˈvailən/: to stay (a while), to linger
   Ich würde gern noch ein bisschen verweilen.
