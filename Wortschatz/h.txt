@@ -61,6 +61,12 @@ haften /ˈhaftən/: to be liable (for), to be legally responsible (for), to clin
 
 Haftetikett, das, -e: adhesive label
 
+Häftling, der: prisoner , inmate
+  jd, der wegen einer Straftat eine Haftstrafe verbüßt
+
+Haftstrafe, die: prison sentence
+  lebenslängliche Haftstrafe
+
 Hagel /ˈhaːɡəl/, der: hail
 
 hager: gaunt
@@ -1324,6 +1330,9 @@ Huhn /huːn/, das, Hühner: chicken, hen
 Hülle /ˈhʏlə/, die: cover, case, holder
   etw., worin etw. zum Schutz aufbewahrt wird
   Klarsichthülle: clear plastic folder
+
+humanistisch /humaˈnɪstɪʃ/: classical, humanist(ic)
+  die klassischen Sprachen Latein und Griechisch betreffend
 
 Hummer /ˈhʊmɐ/, der, -: lobster
 

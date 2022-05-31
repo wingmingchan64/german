@@ -2790,6 +2790,10 @@ strafen: to punish
   She gave him reproachful looks.
   mit jdm / etw. gestraft sein: to suffer with sb/sth
 
+Straftat, die: (criminal) offense
+  Handlung, die in einem Staat bestraft wird
+  eine Straftat begehen: to commit a criminal offense
+
 Straftäter /ˈʃtraːftɛːtɐ/: offender, criminal
   jugendliche Straftäter: young offender
 

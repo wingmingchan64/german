@@ -300,6 +300,7 @@ gedacht: intended, imagined
 gedacht → denken
 
 Gedächtnis /ɡəˈdɛçtnɪs/, das: memory
+  Fähigkeit, sich an Vergangenes oder Gelerntes zu erinnern
   Mein Gedächtnis lässt mich manchmal im Stich.
   My memory sometimes lets me down.
 

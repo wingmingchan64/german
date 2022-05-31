@@ -209,6 +209,8 @@ Eigennutz, der, -es|uncountable: self-interest
 Eigenschaft, die: feature, quality, characteristic
   eines von vielen Dingen, deren Kombination eine Person / Sache von anderen unterscheidet
   ≈ Merkmal
+  Welche Eigenschaft schätzt du an ihr besonders?
+  What quality do you particularly admire in her?
 
 eigentlich /ˈaiɡəntlɪç/: actually, really
   Eigentlich heißt er Johannes, Hansi ist nur sein Spitzname.
@@ -1828,7 +1830,7 @@ erregen /ɛɐˈreːɡən/: to annoy, to infuriate, to upset, to arouse
   Er war vor Wut ganz erregt.
   freudig erregt: excited
   
-Erregung, die
+Erregung, die: agitation , annoyance , arousal
   Zustand des Erregtseins / der Aufregung
   freudiger Erregung
 
@@ -2074,6 +2076,7 @@ erwünscht /ɛɐˈvʏnʃt/: desired, welcome
 *Erz /eːɐts/, das: ore
 
 erzählen /ɛɐˈʦɛːlən/: to tell, to narrate, to recount, to relate
+  auf unterhaltsame Art mündlich / schriftlich mitteilen; Informationen weitergeben
   Er kann gut erzählen.
   He's a good storyteller.
   Er erzählte kurz, was passiert war.

@@ -497,6 +497,7 @@ begehen /bəˈɡeːən/: to commit, to make, to celebrate, to walk on, to use
   to celebrate your birthday with friends
   Privatweg: Begehen auf eigene Gefahr!
   Private footpath: use at your own risk.
+  jdn hat Republikflucht begangen
 
 begehrt /bəˈɡeːɐt/: coveted, sought-after, in demand, popular
   Der Oscar ist der begehrteste Filmpreis der Welt.
@@ -1208,6 +1209,7 @@ Beschränkung /bəˈʃrɛŋkʊŋ/, die, -en: restriction
   jdm / sich Beschränkungen auferlegen: to impose restrictions on sb/yourself
 
 beschreiben: to describe
+  die Eigenschaften einer Person oder Sache mit Worten so darstellen, dass andere sie sich vorstellen können
 
 Beschreibung /bəˈʃraibʊŋ/, die, ~|-en: description
 
@@ -1487,6 +1489,8 @@ betreffen /bəˈtrɛfən/: to concern, to affect
   Die neue Prüfungsordnung betrifft uns nicht mehr.
   Was mich betrifft, können wir gerne noch bleiben.
   For my part we can gladly stay here.
+
+betreffend: concerning
 
 betreiben /bəˈtraibən/: to operate, to conduct, to engage in
   Wir sollten jetzt Ursachenforschung betreiben.

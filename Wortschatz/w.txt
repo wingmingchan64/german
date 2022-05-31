@@ -518,6 +518,7 @@ Wende /ˈvɛndə/, die, -n: change, turning point
   die Wende: the fall of the Berlin Wall / the fall of communism in Eastern Europe
 
 wenden /ˈvɛndən/: to turn, to turn over, to turn around, to toss
+  in eine bestimmte Richtung drehen; auf die andere Seite drehen
   Bitte wenden! Please turn over.
   das Steak wenden und auf der zweiten Seite anbraten
   to turn the steak over and brown it on the other side
@@ -802,6 +803,9 @@ wiedererkennen /ˈviːdɐ|ɛɐkɛnən/: to recognize
   
 Wiedererkennung /ˈviːdɐ|ɛɐkɛnʊŋ/, die, |uncountable: recognition
   der Wiedererkennungswert einer Marke: how well a brand is recognized
+
+Wiedergabe, die: account, report, rendering, translation
+  Seine Wiedergabe der Ereignisse deckt sich nicht ganz mit meiner Erinnerung.
 
 wiedergutmachen: to compensate for, to rectify
 

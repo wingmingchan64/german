@@ -798,6 +798,9 @@ unsinnig /ˈʊnzɪnɪç/: foolish, absurd
   She is terribly worried about the exam.
 
 unten /ˈʊntən/: down, at the bottom, underneath
+  nach unten: downwards
+  Die Säule wird nach unten hin breiter.
+  The column broadens out toward(s) the base or bottom.
 
 unter: under, among, amid, within (accussative/dative)
   Der Hund liegt unter dem Tisch.
@@ -968,7 +971,7 @@ untersuchen /ʊntɐˈzuːxən/: to examine
   Mir gehts nicht gut. Ich glaube, ich sollte mich mal untersuchen lassen.
   I don't feel well. I think I should get someone to take a look at me.
 
-Untersuchung /ʊntɐˈzuːxʊŋ/, die: examination
+Untersuchung /ʊntɐˈzuːxʊŋ/, die: checkup, examination, investigation, study
 
 Untersuchungshaft /ʊntɐˈzuːxʊŋshaft/, die: pretrial detention
 

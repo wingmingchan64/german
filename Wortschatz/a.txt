@@ -641,6 +641,8 @@ Abwechslung /ˈapvɛkslʊŋ/, die: diversion
 
 abwechslungsreich /ˈapvɛkslʊŋsraiç/: varied
   voller Abwechslungen
+  den Unterricht abwechslungsreich gestalten 
+  to teach the class in an interesting and varied fashion
 
 abwehren /ˈapveːrən/: to block, to ward off, to refuse
   verhindern, dass er zum Ziel führt; verhindern, dass Schlimmes geschieht oder Schaden entsteht; zurückweisen
@@ -1513,6 +1515,8 @@ Anmeldung /ˈanmɛldʊŋ/, die: enrollment, registration, application, registrat
 Anmerkung /ˈanmɛrkʊŋ/, die: comment, remark
   eine Anmerkung zu etw. machen: to make a comment on sth
 
+Annahme, die: acceptance, assumption
+
 annehmbar /ˈanneːmbaːɐ/: acceptable, reasonable, passable
   Für mich ist dieses Angebot nicht annehmbar.
   For me this offer is not acceptable.
@@ -1552,6 +1556,7 @@ Anrede /ˈanreːdə/, die: (form of) address
   What is the correct form of address for a countess?
 
 anreden /ˈanreːdən/: to address
+  zu jdm sprechen und ein Gespräch mit ihm / ihr beginnen; jdn mit einer bestimmten Anrede ansprechen
   Er wurde in der Straßenbahn von eine älteren Dame angeredet.
   An elderly lady spoke to her in the tram.
   Er hat mich gleich mit Du angeredet.
@@ -2694,6 +2699,9 @@ aufwärts: up, upwards
 aufwecken /ˈaufvɛkən/: to wake up
   Kannst du mich morgen bitte um 7 Uhr aufwecken?
   Can you wake me up at 7 o'clock tomorrow, please?
+
+aufweisen: to show, to exhibit
+  haben, erkennen lassen
 
 Aufzucht /ˈaufʦʊxt/, die: rearing, breeding
 
