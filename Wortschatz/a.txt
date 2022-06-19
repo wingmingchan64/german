@@ -90,6 +90,10 @@ abdrucken /ˈapdrʊkən/: to print
   Ihr Leserbrief wurde in der Zeitung abgedruckt.
   Her letter to the editor was printed in the newspaper.
 
+Abdruck, der, -es|-s|..e: mark , indentation
+  Spur, die etw. durch Schmutz oder sein Gewicht irgendwo hinterlässt
+  Finger-, Fuß-, Hand-, Reifen-
+
 Abend /ˈaːbənt/, der, -s|-e/~|-en: evening
   am Abend
   zu Abend essen
@@ -1958,6 +1962,8 @@ arbeiten /ˈarbaitən/: to work
   Er arbeitet in / bei einer Bank.
   Sie arbeitet als Leherein.
 
+Arbeitsplatte, die: countertop, worktop
+
 arbeitsam
   eifrig und viel arbeitend, fleißig
 
@@ -2065,6 +2071,9 @@ Armut /ˈarmuːt/, die: poverty
   in bitterster Armut leben: to be desperately poor
 
 Armutsgrenze, die: poverty line
+
+arrogant /aroˈɡant/
+  deutlich zeigend, dass man sich für gut oder besser hält
 
 Arroganz /aroˈɡanʦ/, die, |uncountable
 
@@ -2709,6 +2718,7 @@ Aufzug /ˈaufʦuːk/, der, Aufzüge: elevator, (theatre) act
   Kasten, in dem man in einem Gebäude senkrecht nach oben oder unten fahren kann
 
 *Auge /ˈauɡə/, das, -s|-n: eye
+  Sinnesorgan, mit dem Menschen oder Tiere sehen
   blaue/gute Augen haben
   to have blue eyes/good eyesight
   Auge in Auge: face to face

@@ -1209,6 +1209,7 @@ Beschränkung /bəˈʃrɛŋkʊŋ/, die, -en: restriction
   jdm / sich Beschränkungen auferlegen: to impose restrictions on sb/yourself
 
 beschreiben: to describe
+  ≈ schildern
   die Eigenschaften einer Person oder Sache mit Worten so darstellen, dass andere sie sich vorstellen können
 
 Beschreibung /bəˈʃraibʊŋ/, die, ~|-en: description
@@ -2371,6 +2372,7 @@ Briefumschlag /ˈbriːf|ʊmʃlaːk/, der, ..e: envelope
 briet → braten
 
 Brille /ˈbrɪlə/, die, ~|-n: glasses
+  Gestell mit zwei Gläsern, die man vor den Augen trägt, um besser zu sehen
   eine Brille tragen: to wear glasses
   Brillenglas: spectacle glass
 

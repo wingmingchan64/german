@@ -1,4 +1,4 @@
-﻿========================================================
+﻿ ========================================================
 S /ɛs/ S wie Siegfried, ß /ɛsˈʦɛt/
 ========================================================
 
@@ -549,6 +549,7 @@ Schild, der, -e: shield
   etwas im Schilde führen: to be plotting sth (against sb/sth)
 
 schildern /ˈʃɪldɐn/: to describe
+  ≈ beschreiben
   jdm die Situation schildern: to describe the situation to sb
 
 Schildkröte /ˈʃɪltkrøːtə/, die, ~|-n: tortoise, turtle
@@ -2200,6 +2201,8 @@ sprühen /ˈʃpryːən/: to spray
 
 Sprung, der
 
+spulen: to spool, to reel
+
 Spüle /ˈʃpuːlə/, die, ~|-n: sink unit
   eine Spüle mit zwei Spülbecken und Abtropffläche
   a sink unit with two sinks and a drainboard
@@ -2235,6 +2238,10 @@ Staatsanwalt /ˈʃtaːʦ|anvalt/: DA, presecutor
 Staatsbesuch, der: state visit
 
 Staatsgründung: founding of a state
+
+Stab, der, -es|-s|..e: bar , rod
+  Stange, bes. aus Metall
+  ≈ Stange
 
 Stäbchen /ˈʃtɛːpçən/, das, -: chopstick
 
@@ -2293,6 +2300,9 @@ ständig /ˈʃtɛndɪç/: permanent, constantly
 
 Stange /ˈʃtaŋə/, die: pole, bar, stick
   langer, dünner Gegenstand aus Holz, Metall
+  ≈ Stab
+  Der Vogel saß auf seiner Stange im Käfig.
+  The bird was sitting on its perch in the cage.
 
 stark /ʃtark/, stärker, am stärksten: strong
 

@@ -1831,6 +1831,9 @@ Vorsprung /ˈfoːɐʃprʊŋ/, der (M): lead, projection
   Er gewann mit drei Punkten Vorsprung.
   He won by three points.
 
+vorspulen: to fast-forward
+  ↔ zurückspulen
+
 vorstellen /ˈfoːɐʃtɛlən/: to imagine, to understand sth by sth, to introduce, to come/go for an interview, to present, to put forward(s)
   Das kann ich mir vorstellen. (reflexive + dative)
   Unter gutem Unterricht stelle ich mir aber etwas anderes vor!

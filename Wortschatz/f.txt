@@ -291,7 +291,8 @@ Faulheit /ˈfaulhait/, die, |uncountable: laziness, idleness, sloth
   The reason for his bad grades is quite simply laziness.
 
 Faust /faust/, die, ~|..e: fist
-  mit der Faust auf den Tisch hauen: to bang your fist on the table 
+  Hand, die mit den Fingern nach innen geschlossen ist
+  mit der Faust auf den Tisch hauen: to bang your fist on the table
 
 Fax, das
   Gerät, das über die Telefonleitung verschickte Dokumente beim Empfänger ausdruckt
@@ -1299,6 +1300,7 @@ furchtbar /ˈfʊrçtbaːɐ/: awful, dreadful, terrible
 
 fürchten /ˈfʏrçtən/: to be afraid of, to fear
   ein gefürchteter Gegnera: formidable opponent
+  sich (vor jdm/etw.) fürchten
 
 fürchterlich /ˈfʏrçtɐlɪç/: furchtbar
 
@@ -1306,6 +1308,8 @@ Fürst /fʏrst/, Fürstin, Fürsten: prince
   Fürst Rainier von Monaco: Prince Rainier of Monaco
 
 Fuß /fuːs/, der, -es|..e: foot
+
+Fußabdrücke, die: footprints
 
 Fußball, der
   Wir sehen uns nächste Woche beim Fußball.

@@ -217,6 +217,9 @@ Gebiet /ɡəˈbiːt/, das: region, area
 
 gebieterisch: imperious, domineering, despotic, peremptory, authoritative
 
+*Gebilde, das, -es|e: structure , shape , object
+  ein Gegenstand mit einer bestimmten Gestalt
+
 Gebirge /ɡəˈbɪrɡə/, das, -: mountains
   Am Wochenende fahren wir ins Gebirge.
   We're going to the mountains on the weekend.
@@ -475,6 +478,7 @@ Gegenwart /ˈɡeːɡənvart/, die: present, presence
   Our presence was apparently undesired.
 
 Gegner /ˈɡeːɡnɐ/, Gegnerin: opponent
+  jd, gegen den man vorgeht, mit dem man streitet
   ↔ Anhänger
 
 gegnerische: opposing
@@ -1187,6 +1191,11 @@ gestehen /ɡəˈʃteːən/: to confess (to), to admit (to)
   Sie gestand ihm ihre Liebe.
   She confessed her love to him.
 
+Gestell, das, -es|-s|-e: shelf , rack , frame
+  Konstruktion aus Stangen, Brettern o. Ä. zum Lagern von Dingen
+  Auf der Arbeitsplatte stand ein Gestell mit Holztellern.
+On the countertop there was a rack with wooden plates.
+
 gestern /ˈɡɛstɐn/: yesterday
 
 gestohlen → stehlen
@@ -1384,7 +1393,8 @@ Gischt /ɡɪʃt/, die, ~|uncountable: spray 水花；飛沫
 Gitarre, die
   Musikinstrument mit sechs Saiten zum Zupfen
 
-Gitter, das: bars, grid, grate
+Gitter, das, -s|~: bars, grid, grate
+  Konstruktion aus Stäben als Begrenzung von Käfigen, zum Verschließen von Öffnungen
   Der Affe streckte eine Pfote durchs Gitter.
   The monkey stuck its paw through the bars.
 

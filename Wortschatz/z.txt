@@ -45,6 +45,7 @@ zähmen: to tame
   ein wildes Tier zähmen
 
 Zahn /ʦaːn/, -es|..e /ˈʦɛːnə/, der: tooth
+  weiße, harte Gebilde im Mund, die zum Beißen dienen
 
 Zahnbürste, die: toothbrush
   kleine Bürste zur Zahnreinigung
@@ -689,6 +690,8 @@ zurückschlagen /ʦuˈrʏkʃlaːɡən/: to hit back, to strike back
 
 zurücksetzen: to put back, to move back
   jdn / etw. / sich wieder an den früheren Platz setzen; nach hinten versetzen
+
+zurückspulen: to rewind
 
 zurückweisen /ʦuˈrʏkvaizən/: nicht akzeptieren
   ≈ ablehnen
