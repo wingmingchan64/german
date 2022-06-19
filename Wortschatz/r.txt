@@ -56,6 +56,7 @@ Rampe, die: ramp, apron
 ran: up, close, go on
 
 Rand /rant/, der, -(e)s|..er: edge
+  Stelle oder Linie, wo eine Fläche, ein Gebiet endet
   am Stadtrand 近郊
   jdn an den Rand drängen: to drive sb to the brink
   Sie war am Rande der Verzweiflung.

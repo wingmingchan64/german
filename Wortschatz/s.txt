@@ -841,6 +841,10 @@ schmieden /ˈʃmiːdən/: to forge, to hatch
 schmieren: to spread, to smear, to rub
   jdm Sonnencreme auf den Rücken schmieren: to rub sun cream on sb's back
 
+schminken: to make up
+  sich die Lippen / Augen schminken
+  to put on some lipstick/eyeshadow
+
 schmökern /ˈʃmøːkɐn/: to bury yourself in a book, to browse
   Sie schmökert gern in alten Romanen.
   She likes to bury herself in old novels.
@@ -1868,6 +1872,8 @@ Sonne /ˈzɔnə/, die: sun, sunlight
   Die Sonne scheint.
 
 Sonnenaufgang, der: sunrise
+
+Sonnenbrille, die
 
 Sonnenstrahl, der: sun beam
 
