@@ -710,7 +710,9 @@ vermitteln: to impart, to communicate
 
 Vermittler/-in: mediator, intermediary, arbitrator
 
-Vermögen, das: fortune, property, asset
+Vermögen, das: fortune, property, asset, ability, powers
+  Sie bemüht sich nach Vermögen um Gelassenheit.
+  She is trying her hardest to stay calm.
 
 vermögen: to be able to do sth
 

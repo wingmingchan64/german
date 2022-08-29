@@ -879,13 +879,6 @@ Förderband, das: conveyor belt
 Förderbetrag, der: grant
   → Betrag: ammount, sum
 
-fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
-  fordere, forderst, fordert, habe gefordert
-  von seinem Chef eine Gehaltserhöhung fordern
-  to demand a raise from your boss
-  Die Schwachen sollen in der Schule gefördert und die Starken gefordert werden.
-  At school, the weak students should be encouraged and the strong ones challenged.
-
 fördern /ˈfœrdɐn/: to promote, to support
   jdn / etw. durch Geld oder andere Hilfe unterstützen; sich positiv auf etw. auswirken
   die Kultur fördern: to promote culture
@@ -894,7 +887,25 @@ fördern /ˈfœrdɐn/: to promote, to support
   Scharfe Gewürze fördern die Verdauung.
   Hot spices are good for the digestion.
 
+fordern /ˈfɔrdɐn/: to demand, to press for, to claim lives
+  fordere, forderst, fordert, habe gefordert
+  von seinem Chef eine Gehaltserhöhung fordern
+  to demand a raise from your boss
+  Die Schwachen sollen in der Schule gefördert und die Starken gefordert werden.
+  At school, the weak students should be encouraged and the strong ones challenged.
+
 Förderschule: special needs school
+
+Förderung: support, extraction, production
+  die Förderung des Pflanzenwachstums durch Dünger
+  using fertilizer to promote the growth of plants
+  die Förderung von Kohle: coal mining
+
+Forderung: demand, claim
+  Forderungen an jdn stellen
+  to make demands on sb
+  jds Geldforderungen begleichen
+  to settle debts you have with sb
 
 Forelle /foˈrɛlə/, die, -n: trout
 

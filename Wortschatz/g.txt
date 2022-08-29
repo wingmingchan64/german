@@ -145,6 +145,9 @@ Gatt, das: stern, hole
 
 Gatte/Gattin: spouse
 
+Gattung， die:
+  Gruppe von Dingen oder Formen mit übereinstimmenden Eigenschaften
+
 Gaul, der: nag, horse
 
 Gaumen, der: palate

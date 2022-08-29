@@ -741,7 +741,7 @@ Rhythmus /ˈrʏtmʊs/, der, ~|Rhythmen: rhythm, beat
   Ihr Herzrhythmus beschleunigte sich.
   Her heartbeat quickened up.
 
-richten /ˈrɪçtən/: to direct, to point, to turn
+richten /ˈrɪçtən/: to direct, to point, to turn， to aim, to address, to prepare, to sort out, to repair, to pass judgement, to execute
   in eine bestimmte Richtung zielen; jdn als Ziel haben
   sich irgendwohin richten: to be directed somewhere
   Alle Augen richteten sich auf mich.
@@ -752,6 +752,13 @@ richten /ˈrɪçtən/: to direct, to point, to turn
   sich richten auf: to focus on
   An wen richtet sich der Aufruf?
   Who is the appeal being aimed at?
+  jd richtet sich nach jdm / etw. jd orientiert sich an jds Wünschen / etw
+  Ich muss mich da nach meinem Chef / den Vorschriften richten.
+  I have to do what my boss wants me to / comply with the rules.
+  Mir ist das egal, ich richte mich da ganz nach dir.
+  etw. richtet sich nach etw. etw. hängt von etw. ab
+  Der Preis richtet sich nach dem Verbrauch.
+  The price depends on consumption.
 
 richtig /ˈrɪçtɪç/: right, correct, really
   ↔ falsch

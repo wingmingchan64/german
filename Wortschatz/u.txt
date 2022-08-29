@@ -55,6 +55,8 @@ U-Bahnstation, die
   aus Überdruss seinen Beruf aufgeben
   to give up your job because you are fed up with it
 
+übereinstimmend: concurrent
+
 überfallen /yːbɐˈfalən/: to attack, to raid, to assault, to hijack, to mug
   Sie wurde auf dem Heimweg überfallen.
   She was attacked on her way home.
@@ -242,6 +244,14 @@ U-Bahnstation, die
   The book presents a good overview of the subject.
 
 übersichtlich /ˈyːbɐzɪçtlɪç/: clear
+
+übersteigen: to exceed
+  größer als etw. sein; über etw. klettern, steigen
+  Das Angebot übersteigt derzeit die Nachfrage.
+  Supply currently exceeds demand.
+  Diese Aufgabe übersteigt meine Kräfte.
+  Die Eindringlinge hatten den hohen Drahtzaun überstiegen.
+  The intruders had climbed over the tall wire fence.
 
 übertragen /yːbɐˈtraːɡən/: to broadcast, to transmit, to be communicated, to give, to entrust, to apply
   übertrage, überträgst, überträgt, übertragt, habe übertragen

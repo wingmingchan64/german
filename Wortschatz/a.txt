@@ -282,7 +282,7 @@ ablegen /ˈapleːɡən/: to put down, to take off, to take, to pass, to file, to
   The ship set sail.
 
 ablehnen /ˈapleːnən/: to refuse, to reject
-  ≈ zurückweisen
+  ≈ zurückweisen， abweisen
   Ich muss Ihre Einladung leider ablehnen.
   I'm afraid I have to decline your invitation.
   Sie lehnt jede Form von Gewalt ab.
@@ -650,6 +650,13 @@ abwechslungsreich /ˈapvɛkslʊŋsraiç/: varied
 
 abwehren /ˈapveːrən/: to block, to ward off, to refuse
   verhindern, dass er zum Ziel führt; verhindern, dass Schlimmes geschieht oder Schaden entsteht; zurückweisen
+  
+abweisen: to reject, to turn away, to dismiss
+  ablehnen; wegschicken
+  Die Firma wies meine Forderungen ab.
+  The company rejected my claims.
+  Dieses Mal lasse ich mich aber nicht an der Haustür abweisen!
+  But this time I’m not going to allow myself to be turned back at the front door.
 
 abwenden: to avert, to turn away
   Ich konnte den Blick nicht von ihr abwenden.

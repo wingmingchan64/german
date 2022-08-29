@@ -206,7 +206,7 @@ Eigennutz, der, -es|uncountable: self-interest
   egoistische Einstellung, Ziele
   Nachträglich wurde mir klar, dass er mir nur aus Eigennutz geholfen hatte.
 
-Eigenschaft, die: feature, quality, characteristic
+Eigenschaft, die, -en: feature, quality, characteristic
   eines von vielen Dingen, deren Kombination eine Person / Sache von anderen unterscheidet
   ≈ Merkmal
   Welche Eigenschaft schätzt du an ihr besonders?
@@ -308,6 +308,9 @@ eindeutig /ˈaindɔytɪç/: clear
   The evidence against her is conclusive.
   So ist das eindeutig besser!
   That's much better.
+
+Eindringling, der: intruder
+  jd, der etw. ohne Erlaubnis betritt
 
 Eindruck /ˈaindrʊk/, der, ..e: impression
   Ich habe den Eindruck, dass es ihm nicht gut geht.
@@ -1635,6 +1638,8 @@ erkennen /ɛɐˈkɛnən/: to discern, to recognize
   Er starb an inneren Blutungen, die zu spät erkannt wurden.
   He died of internal bleeding that wasn't diagnosed till it was too late.
 
+Erkenntnis, die, -se: neu erworbenes Wissen
+
 erklären /ɛɐˈklɛːrən/: to declare, to explain
   Kannst du mir erklären, wie die Kaffeemaschine funktioniert?
   Can you explain to me how the coffee machine works?
@@ -2037,6 +2042,8 @@ erwecken /ɛɐˈvɛkən/: to arouse, to inspire, to bring back
   The sight inspired her pity.
   (bei jdm) den Eindruck erwecken, als ob …: to give (sb) the impression that …
 
+erwerben: to acquire, to purchase
+
 erweisen /ɛɐˈvaizən/: to prove, to turn out
   Es ist noch nicht erwiesen, dass er der Täter ist.
   It's not yet proven that he's the perpetrator.
@@ -2067,6 +2074,9 @@ erwirtschaften /ɛɐˈvɪrtʃaftən/: to earn, to make
 
 erwischen /ɛɐˈvɪʃən/: to catch
   Wenn du dich beeilst, erwischst du den 5-Uhr-Bus noch.
+
+erworben: acquired
+  → erwerben
 
 erwünscht /ɛɐˈvʏnʃt/: desired, welcome
   den erwünschten Erfolg erzielen: to have the desired success
