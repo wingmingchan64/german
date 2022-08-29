@@ -1,0 +1,78 @@
+Infinitive
+sein
+Past Participle
+gewesen
+Gerund
+seiend
+
+Indicative
+Present
+ich bin
+du bist
+er/sie/es ist
+wir sind
+ihr seid
+sie/Sie sind
+Preterite
+ich war
+du warst
+er/sie/es war
+wir waren
+ihr wart
+sie/Sie waren
+Future
+ich werde sein
+du wirst sein
+er/sie/es wird sein
+wir werden sein
+ihr werdet sein
+sie/Sie werden sein
+Conditional
+ich würde sein
+du würdest sein
+er/sie/es würde sein
+wir würden sein
+ihr würdet sein
+sie/Sie würden sein
+Present Perfect
+ich bin gewesen
+du bist gewesen
+er/sie/es ist gewesen
+wir sind gewesen
+ihr seid gewesen
+sie/Sie sind gewesen
+Future Perfect
+ich werde gewesen sein
+du wirst gewesen sein
+er/sie/es wird gewesen sein
+wir werden gewesen sein
+ihr werdet gewesen sein
+sie/Sie werden gewesen sein
+
+Subjunctive
+Present
+ich sei
+du seiest
+er/sie/es sei
+wir seien
+ihr seiet
+sie/Sie seien
+Imperfect
+ich wäre
+du wärest
+er/sie/es wäre
+wir wären
+ihr wäret
+sie/Sie wären
+Pluperfect
+ich wäre gewesen
+du wärest gewesen
+er/sie/es wäre gewesen
+wir wären gewesen
+ihr wäret gewesen
+sie/Sie wären gewesen
+
+Imperative
+sei (du)
+seid (ihr)
+seien Sie
